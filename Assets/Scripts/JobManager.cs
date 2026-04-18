@@ -7,6 +7,7 @@ public class JobManager : MonoBehaviour
 {
     public ResourceManager resourceManager;
     public UpgradeManager upgradeManager;
+    public CombatManager combatManager;
 
     public List<Job> jobs = new List<Job>();
     public int activeJobIndex = 0;
@@ -23,6 +24,16 @@ public class JobManager : MonoBehaviour
     public Button upgradeJobButton;
 
     public GameObject jobPanel; // parent object containing job buttons (if needed for multiple buttons)
+
+    void OnEnable()
+    {
+        CombatManager.OnEnemyKilled += OnBaseEnemyKilled;
+    }
+
+    void OnDisable()
+    {
+        CombatManager.OnEnemyKilled -= OnBaseEnemyKilled;
+    }
 
     void Start()
     {
@@ -83,6 +94,8 @@ public class JobManager : MonoBehaviour
     public void OnBaseEnemyKilled()
     {
         baseEnemyKills++;
+
+        Debug.Log("Kills: " + baseEnemyKills);
 
         // Update active job UI to refresh kills remaining and button
         UpdateActiveJobUI();

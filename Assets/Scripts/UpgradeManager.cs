@@ -112,35 +112,45 @@ public class UpgradeManager : MonoBehaviour
 
     public bool TryPurchaseUpgrade(int index, out string message)
     {
-        if (index < 0 || index >= upgrades.Count)
+        try
         {
-            message = "Invalid upgrade.";
-            return false;
+            if (index < 0 || index >= upgrades.Count)
+            {
+                message = "Invalid upgrade.";
+                return false;
+            }
+
+            Upgrade upgrade = upgrades[index];
+
+            if (upgrade.IsMaxLevel())
+            {
+                message = "Upgrade is already maxed.";
+                return false;
+            }
+
+            float cost = upgrade.GetCost();
+
+            // Use your existing system
+            if (!resourceManager.SpendResource(ResourceType.Beli, cost))
+            {
+                message = "Not enough Beli.";
+                return false;
+            }
+
+            // Purchase success
+            upgrade.LevelUp();
+            ApplyUpgradeEffect(upgrade);
+
+            message = upgrade.name + " upgraded to level " + upgrade.level + "!";
+            return true;
         }
-
-        Upgrade upgrade = upgrades[index];
-
-        if (upgrade.IsMaxLevel())
+        catch (System.Exception e)
         {
-            message = "Upgrade is already maxed.";
+            message = "Error purchasing Upgrade.";
+            Debug.LogError(e);
             return false;
-        }
-
-        float cost = upgrade.GetCost();
-
-        // Use your existing system
-        if (!resourceManager.SpendResource(ResourceType.Beli, cost))
-        {
-            message = "Not enough Beli.";
-            return false;
-        }
-
-        // Purchase success
-        upgrade.LevelUp();
-        ApplyUpgradeEffect(upgrade);
-
-        message = upgrade.name + " upgraded to level " + upgrade.level + "!";
-        return true;
+        }     
+        
     }
 
     /*public void PurchaseUpgrade(int index)

@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using TMPro;
+using System;
 
 public class CombatManager : MonoBehaviour
 {
@@ -8,6 +9,8 @@ public class CombatManager : MonoBehaviour
     public UpgradeManager upgradeManager;
     public TMP_Text enemyHPText; // assign in inspector
     public JobManager jobManager; // assign in inspector
+
+    public static event Action OnEnemyKilled;
 
     public float playerDamage = 2f;
 
@@ -33,11 +36,12 @@ public class CombatManager : MonoBehaviour
             resourceManager.AddResource(ResourceType.XP, totalXP);
             resourceManager.AddResource(ResourceType.Bounty, totalBounty);
 
-            // Notify JobManager
+            /* Notify JobManager
             if (jobManager != null)
             {
                 jobManager.OnBaseEnemyKilled();
-            }
+            }*/
+            OnEnemyKilled?.Invoke();
 
             // Spawn reward popup
             RewardPopupManager.Instance.ShowRewards(totalBeli, totalXP, totalBounty);
