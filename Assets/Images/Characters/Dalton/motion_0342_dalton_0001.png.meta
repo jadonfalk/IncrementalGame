@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 436246f8ce654654999f65f2e38c1005
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -618969122915296675
+    second: motion_0342_dalton_0001_0
+  - first:
+      213: -1502716540573248297
+    second: motion_0342_dalton_0001_1
+  - first:
+      213: 7892487061570663210
+    second: motion_0342_dalton_0001_2
+  - first:
+      213: 5314432524129338824
+    second: motion_0342_dalton_0001_3
+  - first:
+      213: -5460824964870940777
+    second: motion_0342_dalton_0001_4
+  - first:
+      213: -5460862402756082652
+    second: motion_0342_dalton_0001_5
+  - first:
+      213: -6410406569623273572
+    second: motion_0342_dalton_0001_6
+  - first:
+      213: -1930934543406346566
+    second: motion_0342_dalton_0001_7
+  - first:
+      213: -4488866035876529089
+    second: motion_0342_dalton_0001_8
+  - first:
+      213: 2932053865152995660
+    second: motion_0342_dalton_0001_9
+  - first:
+      213: 2746128112046465461
+    second: motion_0342_dalton_0001_10
+  - first:
+      213: -2991413846183258673
+    second: motion_0342_dalton_0001_11
+  - first:
+      213: 2838733759311014387
+    second: motion_0342_dalton_0001_12
+  - first:
+      213: -6947396138864741969
+    second: motion_0342_dalton_0001_13
+  - first:
+      213: 4769228549137560321
+    second: motion_0342_dalton_0001_14
+  - first:
+      213: -5474774413145720765
+    second: motion_0342_dalton_0001_15
+  - first:
+      213: 2770566974150951926
+    second: motion_0342_dalton_0001_16
+  - first:
+      213: -7201645026437273562
+    second: motion_0342_dalton_0001_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_0342_dalton_0001_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 819
+        width: 130
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ad2b5bcdaf867f0800000000000000
+      internalID: -618969122915296675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0342_dalton_0001_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 819
+        width: 135
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d41701a447452be0800000000000000
+      internalID: -1502716540573248297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0342_dalton_0001_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 819
+        width: 138
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2339439a2fb78d60800000000000000
+      internalID: 7892487061570663210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0342_dalton_0001_3
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 970
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5038f3938a0c940800000000000000
+      internalID: 5314432524129338824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0342_dalton_0001_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 607
+        width: 157
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797584c80a04734b0800000000000000
+      internalID: -5460824964870940777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0342_dalton_0001_5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 600
+        width: 198
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424007cd39e1734b0800000000000000
+      internalID: -5460862402756082652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0342_dalton_0001_6
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 593
+        width: 130
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f36cf4039a907a0800000000000000
+      internalID: -6410406569623273572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0342_dalton_0001_7
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 593
+        width: 131
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abecbb76341f335e0800000000000000
+      internalID: -1930934543406346566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0342_dalton_0001_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 302
+        width: 138
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c73479f1854b1c0800000000000000
+      internalID: -4488866035876529089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0342_dalton_0001_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 301
+        width: 253
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4161c6a47fb0b820800000000000000
+      internalID: 2932053865152995660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0342_dalton_0001_10
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 450
+        width: 86
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b16e32e7f43c1620800000000000000
+      internalID: 2746128112046465461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0342_dalton_0001_11
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 277
+        width: 168
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5df02c4fc5c76d0800000000000000
+      internalID: -2991413846183258673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0342_dalton_0001_12
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 273
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f964a75055356720800000000000000
+      internalID: 2838733759311014387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0342_dalton_0001_13
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 265
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1fb054504e59f90800000000000000
+      internalID: -6947396138864741969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0342_dalton_0001_14
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 273
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103fef3d814bf2240800000000000000
+      internalID: 4769228549137560321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0342_dalton_0001_15
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 40
+        width: 168
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3483d078da1b504b0800000000000000
+      internalID: -5474774413145720765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0342_dalton_0001_16
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 10
+        width: 205
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f342b0ebf7037620800000000000000
+      internalID: 2770566974150951926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0342_dalton_0001_17
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 9
+        width: 174
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6286fb0210e9e0c90800000000000000
+      internalID: -7201645026437273562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_0342_dalton_0001_0: -618969122915296675
+      motion_0342_dalton_0001_1: -1502716540573248297
+      motion_0342_dalton_0001_10: 2746128112046465461
+      motion_0342_dalton_0001_11: -2991413846183258673
+      motion_0342_dalton_0001_12: 2838733759311014387
+      motion_0342_dalton_0001_13: -6947396138864741969
+      motion_0342_dalton_0001_14: 4769228549137560321
+      motion_0342_dalton_0001_15: -5474774413145720765
+      motion_0342_dalton_0001_16: 2770566974150951926
+      motion_0342_dalton_0001_17: -7201645026437273562
+      motion_0342_dalton_0001_2: 7892487061570663210
+      motion_0342_dalton_0001_3: 5314432524129338824
+      motion_0342_dalton_0001_4: -5460824964870940777
+      motion_0342_dalton_0001_5: -5460862402756082652
+      motion_0342_dalton_0001_6: -6410406569623273572
+      motion_0342_dalton_0001_7: -1930934543406346566
+      motion_0342_dalton_0001_8: -4488866035876529089
+      motion_0342_dalton_0001_9: 2932053865152995660
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

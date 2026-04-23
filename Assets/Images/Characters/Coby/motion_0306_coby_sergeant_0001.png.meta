@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: f88dcb58d62ca784e81a9d60adc9a3a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -947654280113885083
+    second: motion_0306_coby_sergeant_0001_0
+  - first:
+      213: 366543824751612556
+    second: motion_0306_coby_sergeant_0001_1
+  - first:
+      213: 9111789758534429033
+    second: motion_0306_coby_sergeant_0001_2
+  - first:
+      213: 4760649343969577033
+    second: motion_0306_coby_sergeant_0001_3
+  - first:
+      213: 7535044305356863011
+    second: motion_0306_coby_sergeant_0001_4
+  - first:
+      213: 2939626291699923405
+    second: motion_0306_coby_sergeant_0001_5
+  - first:
+      213: 5077717096146699681
+    second: motion_0306_coby_sergeant_0001_6
+  - first:
+      213: 6160223829586778163
+    second: motion_0306_coby_sergeant_0001_7
+  - first:
+      213: -1625901148217075994
+    second: motion_0306_coby_sergeant_0001_8
+  - first:
+      213: -4867561564739176052
+    second: motion_0306_coby_sergeant_0001_9
+  - first:
+      213: -6282510741345017800
+    second: motion_0306_coby_sergeant_0001_10
+  - first:
+      213: 4009681899613234064
+    second: motion_0306_coby_sergeant_0001_11
+  - first:
+      213: -2880559128974662397
+    second: motion_0306_coby_sergeant_0001_12
+  - first:
+      213: -5127244659257807968
+    second: motion_0306_coby_sergeant_0001_13
+  - first:
+      213: 5027800696749099745
+    second: motion_0306_coby_sergeant_0001_14
+  - first:
+      213: 2245220110351521732
+    second: motion_0306_coby_sergeant_0001_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_0306_coby_sergeant_0001_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 814
+        width: 94
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560feeff37149d2f0800000000000000
+      internalID: -947654280113885083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0306_coby_sergeant_0001_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 814
+        width: 90
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82dee4aaa9361500800000000000000
+      internalID: 366543824751612556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0306_coby_sergeant_0001_2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 814
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969ac715284937e70800000000000000
+      internalID: 9111789758534429033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0306_coby_sergeant_0001_3
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 814
+        width: 90
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948c087fa59311240800000000000000
+      internalID: 4760649343969577033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0306_coby_sergeant_0001_4
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 970
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32630a39fdad19860800000000000000
+      internalID: 7535044305356863011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0306_coby_sergeant_0001_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 575
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc93c299986abc820800000000000000
+      internalID: 2939626291699923405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0306_coby_sergeant_0001_6
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 589
+        width: 41
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a580c9cbcca77640800000000000000
+      internalID: 5077717096146699681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0306_coby_sergeant_0001_7
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 710
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3389a6b4fe28d7550800000000000000
+      internalID: 6160223829586778163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0306_coby_sergeant_0001_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 338
+        width: 82
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e61f942583af69e0800000000000000
+      internalID: -1625901148217075994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0306_coby_sergeant_0001_9
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 338
+        width: 79
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89706bdb82f27cb0800000000000000
+      internalID: -4867561564739176052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0306_coby_sergeant_0001_10
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 336
+        width: 115
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830ed8454c900d8a0800000000000000
+      internalID: -6282510741345017800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0306_coby_sergeant_0001_11
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 234
+        width: 244
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093a2c8817045a730800000000000000
+      internalID: 4009681899613234064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0306_coby_sergeant_0001_12
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 303
+        width: 52
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305e4faebb23608d0800000000000000
+      internalID: -2880559128974662397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0306_coby_sergeant_0001_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 31
+        width: 103
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab6b60d52e58d8b0800000000000000
+      internalID: -5127244659257807968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0306_coby_sergeant_0001_14
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 31
+        width: 99
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea0133681656c540800000000000000
+      internalID: 5027800696749099745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0306_coby_sergeant_0001_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 31
+        width: 121
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7d0107bcf982f10800000000000000
+      internalID: 2245220110351521732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_0306_coby_sergeant_0001_0: -947654280113885083
+      motion_0306_coby_sergeant_0001_1: 366543824751612556
+      motion_0306_coby_sergeant_0001_10: -6282510741345017800
+      motion_0306_coby_sergeant_0001_11: 4009681899613234064
+      motion_0306_coby_sergeant_0001_12: -2880559128974662397
+      motion_0306_coby_sergeant_0001_13: -5127244659257807968
+      motion_0306_coby_sergeant_0001_14: 5027800696749099745
+      motion_0306_coby_sergeant_0001_15: 2245220110351521732
+      motion_0306_coby_sergeant_0001_2: 9111789758534429033
+      motion_0306_coby_sergeant_0001_3: 4760649343969577033
+      motion_0306_coby_sergeant_0001_4: 7535044305356863011
+      motion_0306_coby_sergeant_0001_5: 2939626291699923405
+      motion_0306_coby_sergeant_0001_6: 5077717096146699681
+      motion_0306_coby_sergeant_0001_7: 6160223829586778163
+      motion_0306_coby_sergeant_0001_8: -1625901148217075994
+      motion_0306_coby_sergeant_0001_9: -4867561564739176052
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

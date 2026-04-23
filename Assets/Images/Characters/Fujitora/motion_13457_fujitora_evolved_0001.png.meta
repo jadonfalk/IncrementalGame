@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 3cd94484d180f9147aee8f1ff1a2120f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2467721929101296147
+    second: motion_13457_fujitora_evolved_0001_0
+  - first:
+      213: -3466226425298144122
+    second: motion_13457_fujitora_evolved_0001_1
+  - first:
+      213: -5914573095422326241
+    second: motion_13457_fujitora_evolved_0001_2
+  - first:
+      213: -8575877257323781406
+    second: motion_13457_fujitora_evolved_0001_3
+  - first:
+      213: 9033845776612478057
+    second: motion_13457_fujitora_evolved_0001_4
+  - first:
+      213: -784346639243964066
+    second: motion_13457_fujitora_evolved_0001_5
+  - first:
+      213: -4365256912545009436
+    second: motion_13457_fujitora_evolved_0001_6
+  - first:
+      213: -1884239116391894716
+    second: motion_13457_fujitora_evolved_0001_7
+  - first:
+      213: 8293107739561315185
+    second: motion_13457_fujitora_evolved_0001_8
+  - first:
+      213: 1878149619845437394
+    second: motion_13457_fujitora_evolved_0001_9
+  - first:
+      213: -5568456193703863447
+    second: motion_13457_fujitora_evolved_0001_10
+  - first:
+      213: 2232380381289923130
+    second: motion_13457_fujitora_evolved_0001_11
+  - first:
+      213: -8071105632676864389
+    second: motion_13457_fujitora_evolved_0001_12
+  - first:
+      213: -7443205675337988832
+    second: motion_13457_fujitora_evolved_0001_13
+  - first:
+      213: 1960994748630082410
+    second: motion_13457_fujitora_evolved_0001_14
+  - first:
+      213: -4977375950945848405
+    second: motion_13457_fujitora_evolved_0001_15
+  - first:
+      213: -4450997602076219030
+    second: motion_13457_fujitora_evolved_0001_16
+  - first:
+      213: -1683026402239673052
+    second: motion_13457_fujitora_evolved_0001_17
+  - first:
+      213: -3249087217041812490
+    second: motion_13457_fujitora_evolved_0001_18
+  - first:
+      213: 8984091914438404748
+    second: motion_13457_fujitora_evolved_0001_19
+  - first:
+      213: -154195543557887601
+    second: motion_13457_fujitora_evolved_0001_20
+  - first:
+      213: -1923867230092215079
+    second: motion_13457_fujitora_evolved_0001_21
+  - first:
+      213: 7172046662265484722
+    second: motion_13457_fujitora_evolved_0001_22
+  - first:
+      213: 2190292079127729984
+    second: motion_13457_fujitora_evolved_0001_23
+  - first:
+      213: -2226355159408347439
+    second: motion_13457_fujitora_evolved_0001_24
+  - first:
+      213: -7351653831661541348
+    second: motion_13457_fujitora_evolved_0001_25
+  - first:
+      213: -8269007743310259276
+    second: motion_13457_fujitora_evolved_0001_26
+  - first:
+      213: 3842045947762518799
+    second: motion_13457_fujitora_evolved_0001_27
+  - first:
+      213: 5145128352373659395
+    second: motion_13457_fujitora_evolved_0001_28
+  - first:
+      213: -3003820054954309587
+    second: motion_13457_fujitora_evolved_0001_29
+  - first:
+      213: 5152206742178237549
+    second: motion_13457_fujitora_evolved_0001_30
+  - first:
+      213: -8665692368392735234
+    second: motion_13457_fujitora_evolved_0001_31
+  - first:
+      213: -1105018262272714476
+    second: motion_13457_fujitora_evolved_0001_32
+  - first:
+      213: 7005643827921235019
+    second: motion_13457_fujitora_evolved_0001_33
+  - first:
+      213: -1146308283664528398
+    second: motion_13457_fujitora_evolved_0001_34
+  - first:
+      213: 2936949179564707886
+    second: motion_13457_fujitora_evolved_0001_35
+  - first:
+      213: 3218445017744144257
+    second: motion_13457_fujitora_evolved_0001_36
+  - first:
+      213: -5567420520165850183
+    second: motion_13457_fujitora_evolved_0001_37
+  - first:
+      213: -2478050647442474426
+    second: motion_13457_fujitora_evolved_0001_38
+  - first:
+      213: -3869834323401343150
+    second: motion_13457_fujitora_evolved_0001_39
+  - first:
+      213: 6614595049075158302
+    second: motion_13457_fujitora_evolved_0001_40
+  - first:
+      213: 1412118180369897733
+    second: motion_13457_fujitora_evolved_0001_41
+  - first:
+      213: -4700603857942116834
+    second: motion_13457_fujitora_evolved_0001_42
+  - first:
+      213: 5053734507194502899
+    second: motion_13457_fujitora_evolved_0001_43
+  - first:
+      213: 4285052338122728864
+    second: motion_13457_fujitora_evolved_0001_44
+  - first:
+      213: 7023000645068590105
+    second: motion_13457_fujitora_evolved_0001_45
+  - first:
+      213: 2407344697753881491
+    second: motion_13457_fujitora_evolved_0001_46
+  - first:
+      213: 4377483645052986754
+    second: motion_13457_fujitora_evolved_0001_47
+  - first:
+      213: 5528062616471449054
+    second: motion_13457_fujitora_evolved_0001_48
+  - first:
+      213: -6280622380910688034
+    second: motion_13457_fujitora_evolved_0001_49
+  - first:
+      213: 37295737278218161
+    second: motion_13457_fujitora_evolved_0001_50
+  - first:
+      213: 3530735353043653864
+    second: motion_13457_fujitora_evolved_0001_51
+  - first:
+      213: -8111071043580128307
+    second: motion_13457_fujitora_evolved_0001_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 801
+        width: 283
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedb973eaf3e0cdd0800000000000000
+      internalID: -2467721929101296147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 847
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68438095e6d75efc0800000000000000
+      internalID: -3466226425298144122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 822
+        width: 235
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a05414b173beda0800000000000000
+      internalID: -5914573095422326241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_3
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 825
+        width: 248
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e26dd7421d5cf880800000000000000
+      internalID: -8575877257323781406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_4
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 830
+        width: 233
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c46a6dedaae5d70800000000000000
+      internalID: 9033845776612478057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 612
+        width: 233
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51971323e07d15f0800000000000000
+      internalID: -784346639243964066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 744
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0bf6657fd7b63c0800000000000000
+      internalID: -4365256912545009436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 696
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441b09bb186d9d5e0800000000000000
+      internalID: -1884239116391894716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_8
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 636
+        width: 237
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b4894ec89071370800000000000000
+      internalID: 8293107739561315185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_9
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 630
+        width: 250
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d71cedd027801a10800000000000000
+      internalID: 1878149619845437394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_10
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 636
+        width: 232
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b15f2489ed8b2b0800000000000000
+      internalID: -5568456193703863447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_11
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 652
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32465e01220bfe10800000000000000
+      internalID: 2232380381289923130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 412
+        width: 206
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e14ab803cadff80800000000000000
+      internalID: -8071105632676864389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 449
+        width: 231
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025ce43cfdb64b890800000000000000
+      internalID: -7443205675337988832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_14
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 429
+        width: 206
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63a086855ad63b10800000000000000
+      internalID: 1960994748630082410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_15
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 444
+        width: 58
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3fc42a1fecceab0800000000000000
+      internalID: -4977375950945848405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_16
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 565
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69a1286341ea32c0800000000000000
+      internalID: -4450997602076219030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_17
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 435
+        width: 205
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d86ea7760b4a8e0800000000000000
+      internalID: -1683026402239673052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 186
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3d5f7f36ce8e2d0800000000000000
+      internalID: -3249087217041812490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 249
+        width: 206
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a6f851ff7edac70800000000000000
+      internalID: 8984091914438404748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_20
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 228
+        width: 202
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89a84858ff2cddf0800000000000000
+      internalID: -154195543557887601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_21
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 234
+        width: 205
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcb65382fc0d45e0800000000000000
+      internalID: -1923867230092215079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_22
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 336
+        width: 117
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b53cd0b07a388360800000000000000
+      internalID: 7172046662265484722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_23
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 150
+        width: 58
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04792c29a0b756e10800000000000000
+      internalID: 2190292079127729984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_24
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 228
+        width: 66
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d67b9b37c56a11e0800000000000000
+      internalID: -2226355159408347439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 185
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18ac247acda9f990800000000000000
+      internalID: -7351653831661541348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_26
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 217
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb990fb4459e3d80800000000000000
+      internalID: -8269007743310259276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_27
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 180
+        width: 152
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b2d17fe60b15530800000000000000
+      internalID: 3842045947762518799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_28
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 166
+        width: 161
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307d507f9fa276740800000000000000
+      internalID: 5145128352373659395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_29
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 133
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28014f23994056d0800000000000000
+      internalID: -3003820054954309587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_30
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 149
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c08e40cb0508740800000000000000
+      internalID: 5152206742178237549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_31
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 217
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5332924b64db780800000000000000
+      internalID: -8665692368392735234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_32
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 167
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4195aeebebf2aa0f0800000000000000
+      internalID: -1105018262272714476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_33
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 161
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c272aa1fb093160800000000000000
+      internalID: 7005643827921235019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_34
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 215
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb861d70be7710f0800000000000000
+      internalID: -1146308283664528398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 146
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20545bd7b322c820800000000000000
+      internalID: 2936949179564707886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_36
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 173
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187f3cb01b63aac20800000000000000
+      internalID: 3218445017744144257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_37
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 180
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b34b4cc88c8cb2b0800000000000000
+      internalID: -5567420520165850183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_38
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 185
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ab3cfb0123c9dd0800000000000000
+      internalID: -2478050647442474426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 118
+        width: 150
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f7c06af269b4ac0800000000000000
+      internalID: -3869834323401343150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_40
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 79
+        width: 105
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dae29c623cbcb50800000000000000
+      internalID: 6614595049075158302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_41
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 106
+        width: 147
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50991d9d00ad89310800000000000000
+      internalID: 1412118180369897733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_42
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 157
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16878132b914ceb0800000000000000
+      internalID: -4700603857942116834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_43
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe467a22c8722640800000000000000
+      internalID: 5053734507194502899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 128
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a523c9f560977b30800000000000000
+      internalID: 4285052338122728864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_45
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 143
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c07a290e5b67160800000000000000
+      internalID: 7023000645068590105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_46
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 138
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b4a897f3b986120800000000000000
+      internalID: 2407344697753881491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_47
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 105
+        width: 134
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2852779ae22ffbc30800000000000000
+      internalID: 4377483645052986754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_48
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 103
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edda5e629af97bc40800000000000000
+      internalID: 5528062616471449054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_49
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 102
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed84371883fb6d8a0800000000000000
+      internalID: -6280622380910688034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_50
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 104
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfba148640848000800000000000000
+      internalID: 37295737278218161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_51
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 80
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e49412d811bff030800000000000000
+      internalID: 3530735353043653864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13457_fujitora_evolved_0001_52
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 111
+        width: 102
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc313733cdfaf6f80800000000000000
+      internalID: -8111071043580128307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_13457_fujitora_evolved_0001_0: -2467721929101296147
+      motion_13457_fujitora_evolved_0001_1: -3466226425298144122
+      motion_13457_fujitora_evolved_0001_10: -5568456193703863447
+      motion_13457_fujitora_evolved_0001_11: 2232380381289923130
+      motion_13457_fujitora_evolved_0001_12: -8071105632676864389
+      motion_13457_fujitora_evolved_0001_13: -7443205675337988832
+      motion_13457_fujitora_evolved_0001_14: 1960994748630082410
+      motion_13457_fujitora_evolved_0001_15: -4977375950945848405
+      motion_13457_fujitora_evolved_0001_16: -4450997602076219030
+      motion_13457_fujitora_evolved_0001_17: -1683026402239673052
+      motion_13457_fujitora_evolved_0001_18: -3249087217041812490
+      motion_13457_fujitora_evolved_0001_19: 8984091914438404748
+      motion_13457_fujitora_evolved_0001_2: -5914573095422326241
+      motion_13457_fujitora_evolved_0001_20: -154195543557887601
+      motion_13457_fujitora_evolved_0001_21: -1923867230092215079
+      motion_13457_fujitora_evolved_0001_22: 7172046662265484722
+      motion_13457_fujitora_evolved_0001_23: 2190292079127729984
+      motion_13457_fujitora_evolved_0001_24: -2226355159408347439
+      motion_13457_fujitora_evolved_0001_25: -7351653831661541348
+      motion_13457_fujitora_evolved_0001_26: -8269007743310259276
+      motion_13457_fujitora_evolved_0001_27: 3842045947762518799
+      motion_13457_fujitora_evolved_0001_28: 5145128352373659395
+      motion_13457_fujitora_evolved_0001_29: -3003820054954309587
+      motion_13457_fujitora_evolved_0001_3: -8575877257323781406
+      motion_13457_fujitora_evolved_0001_30: 5152206742178237549
+      motion_13457_fujitora_evolved_0001_31: -8665692368392735234
+      motion_13457_fujitora_evolved_0001_32: -1105018262272714476
+      motion_13457_fujitora_evolved_0001_33: 7005643827921235019
+      motion_13457_fujitora_evolved_0001_34: -1146308283664528398
+      motion_13457_fujitora_evolved_0001_35: 2936949179564707886
+      motion_13457_fujitora_evolved_0001_36: 3218445017744144257
+      motion_13457_fujitora_evolved_0001_37: -5567420520165850183
+      motion_13457_fujitora_evolved_0001_38: -2478050647442474426
+      motion_13457_fujitora_evolved_0001_39: -3869834323401343150
+      motion_13457_fujitora_evolved_0001_4: 9033845776612478057
+      motion_13457_fujitora_evolved_0001_40: 6614595049075158302
+      motion_13457_fujitora_evolved_0001_41: 1412118180369897733
+      motion_13457_fujitora_evolved_0001_42: -4700603857942116834
+      motion_13457_fujitora_evolved_0001_43: 5053734507194502899
+      motion_13457_fujitora_evolved_0001_44: 4285052338122728864
+      motion_13457_fujitora_evolved_0001_45: 7023000645068590105
+      motion_13457_fujitora_evolved_0001_46: 2407344697753881491
+      motion_13457_fujitora_evolved_0001_47: 4377483645052986754
+      motion_13457_fujitora_evolved_0001_48: 5528062616471449054
+      motion_13457_fujitora_evolved_0001_49: -6280622380910688034
+      motion_13457_fujitora_evolved_0001_5: -784346639243964066
+      motion_13457_fujitora_evolved_0001_50: 37295737278218161
+      motion_13457_fujitora_evolved_0001_51: 3530735353043653864
+      motion_13457_fujitora_evolved_0001_52: -8111071043580128307
+      motion_13457_fujitora_evolved_0001_6: -4365256912545009436
+      motion_13457_fujitora_evolved_0001_7: -1884239116391894716
+      motion_13457_fujitora_evolved_0001_8: 8293107739561315185
+      motion_13457_fujitora_evolved_0001_9: 1878149619845437394
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 852956f788e159c4380b7804c1a52573
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1028067518016808574
+    second: motion_0037_morgan_reverse_0001_0
+  - first:
+      213: 1396137077423078720
+    second: motion_0037_morgan_reverse_0001_1
+  - first:
+      213: 3359118509064065363
+    second: motion_0037_morgan_reverse_0001_2
+  - first:
+      213: 460870835898538498
+    second: motion_0037_morgan_reverse_0001_3
+  - first:
+      213: -909702125622577267
+    second: motion_0037_morgan_reverse_0001_4
+  - first:
+      213: 851704784821126582
+    second: motion_0037_morgan_reverse_0001_5
+  - first:
+      213: -5673037391614138665
+    second: motion_0037_morgan_reverse_0001_6
+  - first:
+      213: -9080284436749157970
+    second: motion_0037_morgan_reverse_0001_7
+  - first:
+      213: 6606917651725980431
+    second: motion_0037_morgan_reverse_0001_8
+  - first:
+      213: -7591291854763232614
+    second: motion_0037_morgan_reverse_0001_9
+  - first:
+      213: -707906176431044767
+    second: motion_0037_morgan_reverse_0001_10
+  - first:
+      213: 655881279663155521
+    second: motion_0037_morgan_reverse_0001_11
+  - first:
+      213: -7185353520460665389
+    second: motion_0037_morgan_reverse_0001_12
+  - first:
+      213: 3116440976020631385
+    second: motion_0037_morgan_reverse_0001_13
+  - first:
+      213: -4087511545358851256
+    second: motion_0037_morgan_reverse_0001_14
+  - first:
+      213: -4497235708523504927
+    second: motion_0037_morgan_reverse_0001_15
+  - first:
+      213: -4555979479851042176
+    second: motion_0037_morgan_reverse_0001_16
+  - first:
+      213: 5242068192276914892
+    second: motion_0037_morgan_reverse_0001_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_0037_morgan_reverse_0001_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 818
+        width: 133
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e766280f5fd644e00800000000000000
+      internalID: 1028067518016808574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0037_morgan_reverse_0001_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 818
+        width: 144
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dfd8d5643106310800000000000000
+      internalID: 1396137077423078720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0037_morgan_reverse_0001_2
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 818
+        width: 145
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35114339c7cfd9e20800000000000000
+      internalID: 3359118509064065363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0037_morgan_reverse_0001_3
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 970
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ad11d5597556600800000000000000
+      internalID: 460870835898538498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0037_morgan_reverse_0001_4
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 741
+        width: 89
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8739de8cb61063f0800000000000000
+      internalID: -909702125622577267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0037_morgan_reverse_0001_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 574
+        width: 180
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b583c04dfcd1db00800000000000000
+      internalID: 851704784821126582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0037_morgan_reverse_0001_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 560
+        width: 180
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6a453ac825541b0800000000000000
+      internalID: -5673037391614138665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0037_morgan_reverse_0001_7
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 569
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9fe080a695cf180800000000000000
+      internalID: -9080284436749157970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0037_morgan_reverse_0001_8
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 562
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03926b699c70bb50800000000000000
+      internalID: 6606917651725980431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0037_morgan_reverse_0001_9
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 567
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92758a474056a690800000000000000
+      internalID: -7591291854763232614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0037_morgan_reverse_0001_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 340
+        width: 123
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167c58b45130d26f0800000000000000
+      internalID: -707906176431044767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0037_morgan_reverse_0001_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 340
+        width: 127
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149a6218c882a1900800000000000000
+      internalID: 655881279663155521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0037_morgan_reverse_0001_12
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 307
+        width: 223
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dde653fa0f784c90800000000000000
+      internalID: -7185353520460665389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0037_morgan_reverse_0001_13
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 306
+        width: 187
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f6e2b5e82df3b20800000000000000
+      internalID: 3116440976020631385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0037_morgan_reverse_0001_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 21
+        width: 133
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843e393f7ed3647c0800000000000000
+      internalID: -4087511545358851256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0037_morgan_reverse_0001_15
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 20
+        width: 183
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea114253fb9691c0800000000000000
+      internalID: -4497235708523504927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0037_morgan_reverse_0001_16
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 20
+        width: 196
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a728b3dc8e5c0c0800000000000000
+      internalID: -4555979479851042176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0037_morgan_reverse_0001_17
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 21
+        width: 126
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc22a094f319fb840800000000000000
+      internalID: 5242068192276914892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_0037_morgan_reverse_0001_0: 1028067518016808574
+      motion_0037_morgan_reverse_0001_1: 1396137077423078720
+      motion_0037_morgan_reverse_0001_10: -707906176431044767
+      motion_0037_morgan_reverse_0001_11: 655881279663155521
+      motion_0037_morgan_reverse_0001_12: -7185353520460665389
+      motion_0037_morgan_reverse_0001_13: 3116440976020631385
+      motion_0037_morgan_reverse_0001_14: -4087511545358851256
+      motion_0037_morgan_reverse_0001_15: -4497235708523504927
+      motion_0037_morgan_reverse_0001_16: -4555979479851042176
+      motion_0037_morgan_reverse_0001_17: 5242068192276914892
+      motion_0037_morgan_reverse_0001_2: 3359118509064065363
+      motion_0037_morgan_reverse_0001_3: 460870835898538498
+      motion_0037_morgan_reverse_0001_4: -909702125622577267
+      motion_0037_morgan_reverse_0001_5: 851704784821126582
+      motion_0037_morgan_reverse_0001_6: -5673037391614138665
+      motion_0037_morgan_reverse_0001_7: -9080284436749157970
+      motion_0037_morgan_reverse_0001_8: 6606917651725980431
+      motion_0037_morgan_reverse_0001_9: -7591291854763232614
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

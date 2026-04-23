@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 40453a39d55701f4abf158c7108a39b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5294869052603782961
+    second: motion_0238_miss_allsunday_0001_0
+  - first:
+      213: 3846908873253169494
+    second: motion_0238_miss_allsunday_0001_1
+  - first:
+      213: -2138162140482644487
+    second: motion_0238_miss_allsunday_0001_2
+  - first:
+      213: 8389882020440071689
+    second: motion_0238_miss_allsunday_0001_3
+  - first:
+      213: 2054619495563247347
+    second: motion_0238_miss_allsunday_0001_4
+  - first:
+      213: -308488444246649779
+    second: motion_0238_miss_allsunday_0001_5
+  - first:
+      213: -7398235081797467990
+    second: motion_0238_miss_allsunday_0001_6
+  - first:
+      213: 7399039900848110702
+    second: motion_0238_miss_allsunday_0001_7
+  - first:
+      213: -1442409491649983285
+    second: motion_0238_miss_allsunday_0001_8
+  - first:
+      213: 6582017614618926296
+    second: motion_0238_miss_allsunday_0001_9
+  - first:
+      213: -8260783019909874107
+    second: motion_0238_miss_allsunday_0001_10
+  - first:
+      213: -8015739648132637864
+    second: motion_0238_miss_allsunday_0001_11
+  - first:
+      213: 885459462775449649
+    second: motion_0238_miss_allsunday_0001_12
+  - first:
+      213: -5591513663626265234
+    second: motion_0238_miss_allsunday_0001_13
+  - first:
+      213: 7805121791093342960
+    second: motion_0238_miss_allsunday_0001_14
+  - first:
+      213: 2936676248909332962
+    second: motion_0238_miss_allsunday_0001_15
+  - first:
+      213: -6540155693223280552
+    second: motion_0238_miss_allsunday_0001_16
+  - first:
+      213: -1827927571344436269
+    second: motion_0238_miss_allsunday_0001_17
+  - first:
+      213: 5489694026328327879
+    second: motion_0238_miss_allsunday_0001_18
+  - first:
+      213: -4278145441192146844
+    second: motion_0238_miss_allsunday_0001_19
+  - first:
+      213: 9021498538502754356
+    second: motion_0238_miss_allsunday_0001_20
+  - first:
+      213: -1646676794092484032
+    second: motion_0238_miss_allsunday_0001_21
+  - first:
+      213: 2629962670361692175
+    second: motion_0238_miss_allsunday_0001_22
+  - first:
+      213: 4702613647153358461
+    second: motion_0238_miss_allsunday_0001_23
+  - first:
+      213: -2242980969008096077
+    second: motion_0238_miss_allsunday_0001_24
+  - first:
+      213: -1028884394016373682
+    second: motion_0238_miss_allsunday_0001_25
+  - first:
+      213: -4596192241623484581
+    second: motion_0238_miss_allsunday_0001_26
+  - first:
+      213: 7686195690472203742
+    second: motion_0238_miss_allsunday_0001_27
+  - first:
+      213: -9021692342606688169
+    second: motion_0238_miss_allsunday_0001_28
+  - first:
+      213: -7251641127073435190
+    second: motion_0238_miss_allsunday_0001_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 819
+        width: 93
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8a75b66a8d486b0800000000000000
+      internalID: -5294869052603782961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 819
+        width: 94
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659ad890d37f26530800000000000000
+      internalID: 3846908873253169494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 819
+        width: 94
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5d7589cd8b352e0800000000000000
+      internalID: -2138162140482644487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_3
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 819
+        width: 94
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e54cffe39de6470800000000000000
+      internalID: 8389882020440071689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_4
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 969
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3feb3ad9b89738c10800000000000000
+      internalID: 2054619495563247347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_5
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 970
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d449d57f46708bbf0800000000000000
+      internalID: -308488444246649779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_6
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 692
+        width: 93
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa001a00460345990800000000000000
+      internalID: -7398235081797467990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_7
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 786
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c3ef8869baea660800000000000000
+      internalID: 7399039900848110702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_8
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 777
+        width: 58
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc0d85a5388bfbe0800000000000000
+      internalID: -1442409491649983285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 560
+        width: 166
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc99b0c526085b50800000000000000
+      internalID: 6582017614618926296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 571
+        width: 132
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e71b36c9dcb5d80800000000000000
+      internalID: -8260783019909874107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_11
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 554
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b1a0d524f52c090800000000000000
+      internalID: -8015739648132637864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_12
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 468
+        width: 95
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1382db5a0b8c94c00800000000000000
+      internalID: 885459462775449649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_13
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 561
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d30d2b2f3f662b0800000000000000
+      internalID: -5591513663626265234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_14
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 595
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f287ca6aec515c60800000000000000
+      internalID: 7805121791093342960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_15
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 552
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1419c3d7b21c820800000000000000
+      internalID: 2936676248909332962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 307
+        width: 132
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8508da95c03bc35a0800000000000000
+      internalID: -6540155693223280552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_17
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 307
+        width: 132
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d35fd20f85e1a6e0800000000000000
+      internalID: -1827927571344436269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_18
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 406
+        width: 37
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c642ec91af4f2c40800000000000000
+      internalID: 5489694026328327879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_19
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 244
+        width: 93
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46809484369f0a4c0800000000000000
+      internalID: -4278145441192146844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_20
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 370
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43099217f1dc23d70800000000000000
+      internalID: 9021498538502754356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_21
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 279
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a0d342e24d529e0800000000000000
+      internalID: -1646676794092484032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_22
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 336
+        width: 65
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0842735d118f7420800000000000000
+      internalID: 2629962670361692175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_23
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 325
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76ea72523a034140800000000000000
+      internalID: 4702613647153358461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_24
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 140
+        width: 58
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc9f4841b45fd0e0800000000000000
+      internalID: -2242980969008096077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_25
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 20
+        width: 93
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4406bb481ba8b1f0800000000000000
+      internalID: -1028884394016373682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_26
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 112
+        width: 65
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5730a6028b0730c0800000000000000
+      internalID: -4596192241623484581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_27
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 148
+        width: 77
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5ebbcd14adaaa60800000000000000
+      internalID: 7686195690472203742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_28
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 101
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75011160d928cc280800000000000000
+      internalID: -9021692342606688169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0238_miss_allsunday_0001_29
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 45
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1bc26d0defc5b90800000000000000
+      internalID: -7251641127073435190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_0238_miss_allsunday_0001_0: -5294869052603782961
+      motion_0238_miss_allsunday_0001_1: 3846908873253169494
+      motion_0238_miss_allsunday_0001_10: -8260783019909874107
+      motion_0238_miss_allsunday_0001_11: -8015739648132637864
+      motion_0238_miss_allsunday_0001_12: 885459462775449649
+      motion_0238_miss_allsunday_0001_13: -5591513663626265234
+      motion_0238_miss_allsunday_0001_14: 7805121791093342960
+      motion_0238_miss_allsunday_0001_15: 2936676248909332962
+      motion_0238_miss_allsunday_0001_16: -6540155693223280552
+      motion_0238_miss_allsunday_0001_17: -1827927571344436269
+      motion_0238_miss_allsunday_0001_18: 5489694026328327879
+      motion_0238_miss_allsunday_0001_19: -4278145441192146844
+      motion_0238_miss_allsunday_0001_2: -2138162140482644487
+      motion_0238_miss_allsunday_0001_20: 9021498538502754356
+      motion_0238_miss_allsunday_0001_21: -1646676794092484032
+      motion_0238_miss_allsunday_0001_22: 2629962670361692175
+      motion_0238_miss_allsunday_0001_23: 4702613647153358461
+      motion_0238_miss_allsunday_0001_24: -2242980969008096077
+      motion_0238_miss_allsunday_0001_25: -1028884394016373682
+      motion_0238_miss_allsunday_0001_26: -4596192241623484581
+      motion_0238_miss_allsunday_0001_27: 7686195690472203742
+      motion_0238_miss_allsunday_0001_28: -9021692342606688169
+      motion_0238_miss_allsunday_0001_29: -7251641127073435190
+      motion_0238_miss_allsunday_0001_3: 8389882020440071689
+      motion_0238_miss_allsunday_0001_4: 2054619495563247347
+      motion_0238_miss_allsunday_0001_5: -308488444246649779
+      motion_0238_miss_allsunday_0001_6: -7398235081797467990
+      motion_0238_miss_allsunday_0001_7: 7399039900848110702
+      motion_0238_miss_allsunday_0001_8: -1442409491649983285
+      motion_0238_miss_allsunday_0001_9: 6582017614618926296
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: dedc06519ad2a104ead1c6b0e979b060
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1403809208148832278
+    second: motion_0318_marco_reverse_0001_0
+  - first:
+      213: -7204614701590330222
+    second: motion_0318_marco_reverse_0001_1
+  - first:
+      213: -5517662160870475775
+    second: motion_0318_marco_reverse_0001_2
+  - first:
+      213: -2556144431709815519
+    second: motion_0318_marco_reverse_0001_3
+  - first:
+      213: -7016886696530812919
+    second: motion_0318_marco_reverse_0001_4
+  - first:
+      213: -3969425102807568109
+    second: motion_0318_marco_reverse_0001_5
+  - first:
+      213: 3300639488930104894
+    second: motion_0318_marco_reverse_0001_6
+  - first:
+      213: -804690107754658167
+    second: motion_0318_marco_reverse_0001_7
+  - first:
+      213: -6105720013807286800
+    second: motion_0318_marco_reverse_0001_8
+  - first:
+      213: 4765570619127411041
+    second: motion_0318_marco_reverse_0001_9
+  - first:
+      213: -1393763859527536645
+    second: motion_0318_marco_reverse_0001_10
+  - first:
+      213: -457372447437659486
+    second: motion_0318_marco_reverse_0001_11
+  - first:
+      213: -1559228063286168409
+    second: motion_0318_marco_reverse_0001_12
+  - first:
+      213: -4178180758659758914
+    second: motion_0318_marco_reverse_0001_13
+  - first:
+      213: 5097903379344826175
+    second: motion_0318_marco_reverse_0001_14
+  - first:
+      213: -4766121041835429565
+    second: motion_0318_marco_reverse_0001_15
+  - first:
+      213: -8143966069007656814
+    second: motion_0318_marco_reverse_0001_16
+  - first:
+      213: -6985958666202977728
+    second: motion_0318_marco_reverse_0001_17
+  - first:
+      213: 7564587608977103462
+    second: motion_0318_marco_reverse_0001_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_0318_marco_reverse_0001_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 788
+        width: 99
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefcddf76faa48ce0800000000000000
+      internalID: -1403809208148832278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0318_marco_reverse_0001_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 788
+        width: 92
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294c620c911140c90800000000000000
+      internalID: -7204614701590330222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0318_marco_reverse_0001_2
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 788
+        width: 90
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10873be9f735d63b0800000000000000
+      internalID: -5517662160870475775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0318_marco_reverse_0001_3
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 788
+        width: 97
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12df751be20c68cd0800000000000000
+      internalID: -2556144431709815519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0318_marco_reverse_0001_4
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 969
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900ed100ab20f9e90800000000000000
+      internalID: -7016886696530812919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0318_marco_reverse_0001_5
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 723
+        width: 130
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311f2a066e4c9e8c0800000000000000
+      internalID: -3969425102807568109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0318_marco_reverse_0001_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 575
+        width: 172
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e364e4da02a3ecd20800000000000000
+      internalID: 3300639488930104894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0318_marco_reverse_0001_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 498
+        width: 137
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98643054c9a25d4f0800000000000000
+      internalID: -804690107754658167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0318_marco_reverse_0001_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 280
+        width: 83
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f506073fff144ba0800000000000000
+      internalID: -6105720013807286800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0318_marco_reverse_0001_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 280
+        width: 86
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161b021aa35b22240800000000000000
+      internalID: 4765570619127411041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0318_marco_reverse_0001_10
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 269
+        width: 49
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff651c772b58ace0800000000000000
+      internalID: -1393763859527536645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0318_marco_reverse_0001_11
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 274
+        width: 49
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a26d6cae2617a9f0800000000000000
+      internalID: -457372447437659486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0318_marco_reverse_0001_12
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 242
+        width: 49
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4f10c66528c5ae0800000000000000
+      internalID: -1559228063286168409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0318_marco_reverse_0001_13
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 263
+        width: 48
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb486b8acbe1406c0800000000000000
+      internalID: -4178180758659758914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0318_marco_reverse_0001_14
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 421
+        width: 50
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f9c191d146fb640800000000000000
+      internalID: 5097903379344826175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0318_marco_reverse_0001_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 31
+        width: 97
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34172e81a265bddb0800000000000000
+      internalID: -4766121041835429565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0318_marco_reverse_0001_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 31
+        width: 95
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298d6f14202dafe80800000000000000
+      internalID: -8143966069007656814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0318_marco_reverse_0001_17
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 31
+        width: 175
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ae8653b93ec0f90800000000000000
+      internalID: -6985958666202977728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0318_marco_reverse_0001_18
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 31
+        width: 175
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ad669f950daf860800000000000000
+      internalID: 7564587608977103462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_0318_marco_reverse_0001_0: -1403809208148832278
+      motion_0318_marco_reverse_0001_1: -7204614701590330222
+      motion_0318_marco_reverse_0001_10: -1393763859527536645
+      motion_0318_marco_reverse_0001_11: -457372447437659486
+      motion_0318_marco_reverse_0001_12: -1559228063286168409
+      motion_0318_marco_reverse_0001_13: -4178180758659758914
+      motion_0318_marco_reverse_0001_14: 5097903379344826175
+      motion_0318_marco_reverse_0001_15: -4766121041835429565
+      motion_0318_marco_reverse_0001_16: -8143966069007656814
+      motion_0318_marco_reverse_0001_17: -6985958666202977728
+      motion_0318_marco_reverse_0001_18: 7564587608977103462
+      motion_0318_marco_reverse_0001_2: -5517662160870475775
+      motion_0318_marco_reverse_0001_3: -2556144431709815519
+      motion_0318_marco_reverse_0001_4: -7016886696530812919
+      motion_0318_marco_reverse_0001_5: -3969425102807568109
+      motion_0318_marco_reverse_0001_6: 3300639488930104894
+      motion_0318_marco_reverse_0001_7: -804690107754658167
+      motion_0318_marco_reverse_0001_8: -6105720013807286800
+      motion_0318_marco_reverse_0001_9: 4765570619127411041
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

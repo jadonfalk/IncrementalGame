@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 995d3d8e16bc2a341b37f2f36d1f2165
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7531917340491724919
+    second: motion_0324_izo_0001_0
+  - first:
+      213: -7872611916964210926
+    second: motion_0324_izo_0001_1
+  - first:
+      213: -2467408082966768232
+    second: motion_0324_izo_0001_2
+  - first:
+      213: 2633691799853289520
+    second: motion_0324_izo_0001_3
+  - first:
+      213: -3521196019090157402
+    second: motion_0324_izo_0001_4
+  - first:
+      213: -3194418075534352893
+    second: motion_0324_izo_0001_5
+  - first:
+      213: 8975164864844548503
+    second: motion_0324_izo_0001_6
+  - first:
+      213: 7495207546888122190
+    second: motion_0324_izo_0001_7
+  - first:
+      213: -8754066351960293584
+    second: motion_0324_izo_0001_8
+  - first:
+      213: -3496802250428729680
+    second: motion_0324_izo_0001_9
+  - first:
+      213: -1473282455078812947
+    second: motion_0324_izo_0001_10
+  - first:
+      213: -5282919773490807775
+    second: motion_0324_izo_0001_11
+  - first:
+      213: -2268858972728018622
+    second: motion_0324_izo_0001_12
+  - first:
+      213: -9099144304892220727
+    second: motion_0324_izo_0001_13
+  - first:
+      213: 5406001054786061973
+    second: motion_0324_izo_0001_14
+  - first:
+      213: 1007493217434183713
+    second: motion_0324_izo_0001_15
+  - first:
+      213: 8336514894072992798
+    second: motion_0324_izo_0001_16
+  - first:
+      213: -6124358704240366187
+    second: motion_0324_izo_0001_17
+  - first:
+      213: 6268009080012699755
+    second: motion_0324_izo_0001_18
+  - first:
+      213: -2669298932260633147
+    second: motion_0324_izo_0001_19
+  - first:
+      213: 2234557070968838642
+    second: motion_0324_izo_0001_20
+  - first:
+      213: -7975949963657663505
+    second: motion_0324_izo_0001_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_0324_izo_0001_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 818
+        width: 107
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7783d955aeeb68860800000000000000
+      internalID: 7531917340491724919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0324_izo_0001_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 818
+        width: 107
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21757d22c2ddeb290800000000000000
+      internalID: -7872611916964210926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0324_izo_0001_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 818
+        width: 107
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89596d2eb6102cdd0800000000000000
+      internalID: -2467408082966768232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0324_izo_0001_3
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 818
+        width: 107
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0305d12fcb0cc8420800000000000000
+      internalID: 2633691799853289520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0324_izo_0001_4
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 818
+        width: 107
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a09c9170e2322fc0800000000000000
+      internalID: -3521196019090157402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0324_izo_0001_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 594
+        width: 107
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e10bf5fa52ba3d0800000000000000
+      internalID: -3194418075534352893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0324_izo_0001_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 594
+        width: 107
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79940a164e03e8c70800000000000000
+      internalID: 8975164864844548503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0324_izo_0001_7
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 593
+        width: 107
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fe7167d83540860800000000000000
+      internalID: 7495207546888122190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0324_izo_0001_8
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 594
+        width: 107
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ff43fa80f438680800000000000000
+      internalID: -8754066351960293584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0324_izo_0001_9
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 593
+        width: 107
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6b86d41ecd87fc0800000000000000
+      internalID: -3496802250428729680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0324_izo_0001_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 370
+        width: 107
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de24633b969dd8be0800000000000000
+      internalID: -1473282455078812947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0324_izo_0001_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 370
+        width: 107
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c7134c47c4fa6b0800000000000000
+      internalID: -5282919773490807775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0324_izo_0001_12
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 383
+        width: 180
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249b61509c46380e0800000000000000
+      internalID: -2268858972728018622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0324_izo_0001_13
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 368
+        width: 118
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca61eac67859b180800000000000000
+      internalID: -9099144304892220727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0324_izo_0001_14
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 522
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59609ed2159f50b40800000000000000
+      internalID: 5406001054786061973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0324_izo_0001_15
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 432
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128a7ca4eb55bfd00800000000000000
+      internalID: 1007493217434183713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0324_izo_0001_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 180
+        width: 133
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1459fd902041b370800000000000000
+      internalID: 8336514894072992798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0324_izo_0001_17
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 180
+        width: 133
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d6eace438e10ba0800000000000000
+      internalID: -6124358704240366187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0324_izo_0001_18
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 262
+        width: 86
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6874178c017cf650800000000000000
+      internalID: 6268009080012699755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0324_izo_0001_19
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 17
+        width: 130
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5864f73ceb4fad0800000000000000
+      internalID: -2669298932260633147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0324_izo_0001_20
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 12
+        width: 203
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f95f6d11ddb20f10800000000000000
+      internalID: 2234557070968838642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0324_izo_0001_21
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 12
+        width: 148
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb25e534cbbf4190800000000000000
+      internalID: -7975949963657663505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_0324_izo_0001_0: 7531917340491724919
+      motion_0324_izo_0001_1: -7872611916964210926
+      motion_0324_izo_0001_10: -1473282455078812947
+      motion_0324_izo_0001_11: -5282919773490807775
+      motion_0324_izo_0001_12: -2268858972728018622
+      motion_0324_izo_0001_13: -9099144304892220727
+      motion_0324_izo_0001_14: 5406001054786061973
+      motion_0324_izo_0001_15: 1007493217434183713
+      motion_0324_izo_0001_16: 8336514894072992798
+      motion_0324_izo_0001_17: -6124358704240366187
+      motion_0324_izo_0001_18: 6268009080012699755
+      motion_0324_izo_0001_19: -2669298932260633147
+      motion_0324_izo_0001_2: -2467408082966768232
+      motion_0324_izo_0001_20: 2234557070968838642
+      motion_0324_izo_0001_21: -7975949963657663505
+      motion_0324_izo_0001_3: 2633691799853289520
+      motion_0324_izo_0001_4: -3521196019090157402
+      motion_0324_izo_0001_5: -3194418075534352893
+      motion_0324_izo_0001_6: 8975164864844548503
+      motion_0324_izo_0001_7: 7495207546888122190
+      motion_0324_izo_0001_8: -8754066351960293584
+      motion_0324_izo_0001_9: -3496802250428729680
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

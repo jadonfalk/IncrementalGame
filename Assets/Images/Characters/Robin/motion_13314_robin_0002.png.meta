@@ -1,0 +1,5928 @@
+fileFormatVersion: 2
+guid: 6197c5e3953a7f84b97c8419e822613d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7433178118409127039
+    second: motion_13314_robin_0002_0
+  - first:
+      213: 2583255895968966472
+    second: motion_13314_robin_0002_1
+  - first:
+      213: 7192158638939171282
+    second: motion_13314_robin_0002_2
+  - first:
+      213: -3840815664334638259
+    second: motion_13314_robin_0002_3
+  - first:
+      213: -8732743604507948467
+    second: motion_13314_robin_0002_4
+  - first:
+      213: -4240844745668061908
+    second: motion_13314_robin_0002_5
+  - first:
+      213: -6806571409268443664
+    second: motion_13314_robin_0002_6
+  - first:
+      213: -7901437225773544196
+    second: motion_13314_robin_0002_7
+  - first:
+      213: -5328439965271972871
+    second: motion_13314_robin_0002_8
+  - first:
+      213: 6807268777720110786
+    second: motion_13314_robin_0002_9
+  - first:
+      213: 6858678205264643905
+    second: motion_13314_robin_0002_10
+  - first:
+      213: 2356766631373440819
+    second: motion_13314_robin_0002_11
+  - first:
+      213: 2607303809568526603
+    second: motion_13314_robin_0002_12
+  - first:
+      213: -4361108687969449302
+    second: motion_13314_robin_0002_13
+  - first:
+      213: 7192818358739439449
+    second: motion_13314_robin_0002_14
+  - first:
+      213: -5961875349148848304
+    second: motion_13314_robin_0002_15
+  - first:
+      213: -7857223829369601905
+    second: motion_13314_robin_0002_16
+  - first:
+      213: 8932922653431553393
+    second: motion_13314_robin_0002_17
+  - first:
+      213: 6665645199089596378
+    second: motion_13314_robin_0002_18
+  - first:
+      213: 5927606323093579648
+    second: motion_13314_robin_0002_19
+  - first:
+      213: -5423918594143304725
+    second: motion_13314_robin_0002_20
+  - first:
+      213: -8069854844752638466
+    second: motion_13314_robin_0002_21
+  - first:
+      213: 835357175615126313
+    second: motion_13314_robin_0002_22
+  - first:
+      213: -2088827075338302847
+    second: motion_13314_robin_0002_23
+  - first:
+      213: 5716064359752272101
+    second: motion_13314_robin_0002_24
+  - first:
+      213: 8000618370108489176
+    second: motion_13314_robin_0002_25
+  - first:
+      213: 3380639206577236060
+    second: motion_13314_robin_0002_26
+  - first:
+      213: -7893711495996902857
+    second: motion_13314_robin_0002_27
+  - first:
+      213: 5063346275449525157
+    second: motion_13314_robin_0002_28
+  - first:
+      213: -7513810844711789259
+    second: motion_13314_robin_0002_29
+  - first:
+      213: 1326604670905817840
+    second: motion_13314_robin_0002_30
+  - first:
+      213: -102518044450643591
+    second: motion_13314_robin_0002_31
+  - first:
+      213: 7231088879155575727
+    second: motion_13314_robin_0002_32
+  - first:
+      213: -7034671817960323152
+    second: motion_13314_robin_0002_33
+  - first:
+      213: -5501760891691801535
+    second: motion_13314_robin_0002_34
+  - first:
+      213: -7800749492054062062
+    second: motion_13314_robin_0002_35
+  - first:
+      213: -3408381374334578679
+    second: motion_13314_robin_0002_36
+  - first:
+      213: -6903244260259569183
+    second: motion_13314_robin_0002_37
+  - first:
+      213: 3706660742531771545
+    second: motion_13314_robin_0002_38
+  - first:
+      213: 1071878600508563160
+    second: motion_13314_robin_0002_39
+  - first:
+      213: 7603637576556536859
+    second: motion_13314_robin_0002_40
+  - first:
+      213: 7857300520785109935
+    second: motion_13314_robin_0002_41
+  - first:
+      213: 827445807146358567
+    second: motion_13314_robin_0002_42
+  - first:
+      213: 4574589650374818640
+    second: motion_13314_robin_0002_43
+  - first:
+      213: -2929245596567110061
+    second: motion_13314_robin_0002_44
+  - first:
+      213: -1213305305859778960
+    second: motion_13314_robin_0002_45
+  - first:
+      213: 4168029373759322070
+    second: motion_13314_robin_0002_46
+  - first:
+      213: 2708493656227542875
+    second: motion_13314_robin_0002_47
+  - first:
+      213: -2019099708239339743
+    second: motion_13314_robin_0002_48
+  - first:
+      213: 9005531800441266300
+    second: motion_13314_robin_0002_49
+  - first:
+      213: 256922011702249480
+    second: motion_13314_robin_0002_50
+  - first:
+      213: -3657479809098840690
+    second: motion_13314_robin_0002_51
+  - first:
+      213: -3612355181719240368
+    second: motion_13314_robin_0002_52
+  - first:
+      213: 3540891977019808659
+    second: motion_13314_robin_0002_53
+  - first:
+      213: 2018621482819819122
+    second: motion_13314_robin_0002_54
+  - first:
+      213: 6489493989528130625
+    second: motion_13314_robin_0002_55
+  - first:
+      213: 4424195718744765125
+    second: motion_13314_robin_0002_56
+  - first:
+      213: -7498843344526315674
+    second: motion_13314_robin_0002_57
+  - first:
+      213: -8396069624680764871
+    second: motion_13314_robin_0002_58
+  - first:
+      213: -646936254451027870
+    second: motion_13314_robin_0002_59
+  - first:
+      213: 2289551263741650092
+    second: motion_13314_robin_0002_60
+  - first:
+      213: 373417186629306337
+    second: motion_13314_robin_0002_61
+  - first:
+      213: 8114348181762330909
+    second: motion_13314_robin_0002_62
+  - first:
+      213: -2075364159503940449
+    second: motion_13314_robin_0002_63
+  - first:
+      213: -1540457924234218875
+    second: motion_13314_robin_0002_64
+  - first:
+      213: -3575577720395488712
+    second: motion_13314_robin_0002_65
+  - first:
+      213: 877422734393641528
+    second: motion_13314_robin_0002_66
+  - first:
+      213: 2367533581113747212
+    second: motion_13314_robin_0002_67
+  - first:
+      213: -2361027543088416953
+    second: motion_13314_robin_0002_68
+  - first:
+      213: 647529523501887363
+    second: motion_13314_robin_0002_69
+  - first:
+      213: -2584884927702926719
+    second: motion_13314_robin_0002_70
+  - first:
+      213: -822593048838811859
+    second: motion_13314_robin_0002_71
+  - first:
+      213: 7863627124227336363
+    second: motion_13314_robin_0002_72
+  - first:
+      213: 6594997217959735515
+    second: motion_13314_robin_0002_73
+  - first:
+      213: -7097466777236463839
+    second: motion_13314_robin_0002_74
+  - first:
+      213: -5622779359257984489
+    second: motion_13314_robin_0002_75
+  - first:
+      213: -3689688832994850235
+    second: motion_13314_robin_0002_76
+  - first:
+      213: -4137126540043779135
+    second: motion_13314_robin_0002_77
+  - first:
+      213: -7487685330534333318
+    second: motion_13314_robin_0002_78
+  - first:
+      213: -4596162897098461325
+    second: motion_13314_robin_0002_79
+  - first:
+      213: -7033923096707226056
+    second: motion_13314_robin_0002_80
+  - first:
+      213: 1230502870129011993
+    second: motion_13314_robin_0002_81
+  - first:
+      213: 1477090332932755977
+    second: motion_13314_robin_0002_82
+  - first:
+      213: -5803025122593541140
+    second: motion_13314_robin_0002_83
+  - first:
+      213: 5875622468581798340
+    second: motion_13314_robin_0002_84
+  - first:
+      213: 713006813661326504
+    second: motion_13314_robin_0002_85
+  - first:
+      213: 7323177658159692875
+    second: motion_13314_robin_0002_86
+  - first:
+      213: -5925638104450755139
+    second: motion_13314_robin_0002_87
+  - first:
+      213: -4319743864672359589
+    second: motion_13314_robin_0002_88
+  - first:
+      213: -5043430670734997730
+    second: motion_13314_robin_0002_89
+  - first:
+      213: 7392983077637823185
+    second: motion_13314_robin_0002_90
+  - first:
+      213: -4187079085357166557
+    second: motion_13314_robin_0002_91
+  - first:
+      213: -2339264517052620314
+    second: motion_13314_robin_0002_92
+  - first:
+      213: 4418724063889220090
+    second: motion_13314_robin_0002_93
+  - first:
+      213: 1102824168761236107
+    second: motion_13314_robin_0002_94
+  - first:
+      213: -9076762462049692062
+    second: motion_13314_robin_0002_95
+  - first:
+      213: 269414118886427877
+    second: motion_13314_robin_0002_96
+  - first:
+      213: -825846901963504147
+    second: motion_13314_robin_0002_97
+  - first:
+      213: 4867635510608681202
+    second: motion_13314_robin_0002_98
+  - first:
+      213: 1886233625109247926
+    second: motion_13314_robin_0002_99
+  - first:
+      213: -8403972648160522192
+    second: motion_13314_robin_0002_100
+  - first:
+      213: 2307694405748722387
+    second: motion_13314_robin_0002_101
+  - first:
+      213: -5566758180202240451
+    second: motion_13314_robin_0002_102
+  - first:
+      213: 4725645505923260001
+    second: motion_13314_robin_0002_103
+  - first:
+      213: 8657097217212907732
+    second: motion_13314_robin_0002_104
+  - first:
+      213: -8030451937191038974
+    second: motion_13314_robin_0002_105
+  - first:
+      213: -786637968138297535
+    second: motion_13314_robin_0002_106
+  - first:
+      213: -2388980117084702345
+    second: motion_13314_robin_0002_107
+  - first:
+      213: 1302720418875404231
+    second: motion_13314_robin_0002_108
+  - first:
+      213: -1943780364153941579
+    second: motion_13314_robin_0002_109
+  - first:
+      213: 7155956979589021798
+    second: motion_13314_robin_0002_110
+  - first:
+      213: -547631675711682522
+    second: motion_13314_robin_0002_111
+  - first:
+      213: 3249692664893693190
+    second: motion_13314_robin_0002_112
+  - first:
+      213: -2553554819994733686
+    second: motion_13314_robin_0002_113
+  - first:
+      213: -7524300190885931072
+    second: motion_13314_robin_0002_114
+  - first:
+      213: 173537797294577048
+    second: motion_13314_robin_0002_115
+  - first:
+      213: 7992912259746736741
+    second: motion_13314_robin_0002_116
+  - first:
+      213: -7246411556298584676
+    second: motion_13314_robin_0002_117
+  - first:
+      213: 2602034106436397669
+    second: motion_13314_robin_0002_118
+  - first:
+      213: -5605154594058604003
+    second: motion_13314_robin_0002_119
+  - first:
+      213: 5409930971385832052
+    second: motion_13314_robin_0002_120
+  - first:
+      213: -2462974236285666520
+    second: motion_13314_robin_0002_121
+  - first:
+      213: -2883777741895637104
+    second: motion_13314_robin_0002_122
+  - first:
+      213: -4260650145630504668
+    second: motion_13314_robin_0002_123
+  - first:
+      213: -1668188114720638511
+    second: motion_13314_robin_0002_124
+  - first:
+      213: 33620255593680801
+    second: motion_13314_robin_0002_125
+  - first:
+      213: -5319750253896626858
+    second: motion_13314_robin_0002_126
+  - first:
+      213: 1364149447018376294
+    second: motion_13314_robin_0002_127
+  - first:
+      213: 3557264769601441761
+    second: motion_13314_robin_0002_128
+  - first:
+      213: -5280042873391428915
+    second: motion_13314_robin_0002_129
+  - first:
+      213: 1827097651212115344
+    second: motion_13314_robin_0002_130
+  - first:
+      213: -8618786421375395683
+    second: motion_13314_robin_0002_131
+  - first:
+      213: -6872267599348437875
+    second: motion_13314_robin_0002_132
+  - first:
+      213: -215061543581917199
+    second: motion_13314_robin_0002_133
+  - first:
+      213: -7168337104297639788
+    second: motion_13314_robin_0002_134
+  - first:
+      213: -8684792459750404413
+    second: motion_13314_robin_0002_135
+  - first:
+      213: 2489276741934603856
+    second: motion_13314_robin_0002_136
+  - first:
+      213: -9194934386399581566
+    second: motion_13314_robin_0002_137
+  - first:
+      213: 4954286041240047786
+    second: motion_13314_robin_0002_138
+  - first:
+      213: -9026433326931458496
+    second: motion_13314_robin_0002_139
+  - first:
+      213: -1450866274078498267
+    second: motion_13314_robin_0002_140
+  - first:
+      213: -78681109243128413
+    second: motion_13314_robin_0002_141
+  - first:
+      213: 1509793266854068312
+    second: motion_13314_robin_0002_142
+  - first:
+      213: 3616892741845618774
+    second: motion_13314_robin_0002_143
+  - first:
+      213: 8057452233847539582
+    second: motion_13314_robin_0002_144
+  - first:
+      213: 9110066003437422457
+    second: motion_13314_robin_0002_145
+  - first:
+      213: -4871137598670928757
+    second: motion_13314_robin_0002_146
+  - first:
+      213: -3354726512009151737
+    second: motion_13314_robin_0002_147
+  - first:
+      213: -3228837083826092381
+    second: motion_13314_robin_0002_148
+  - first:
+      213: -8945998731485681760
+    second: motion_13314_robin_0002_149
+  - first:
+      213: -8668072248773087479
+    second: motion_13314_robin_0002_150
+  - first:
+      213: 228798522778183038
+    second: motion_13314_robin_0002_151
+  - first:
+      213: 4681673859631945959
+    second: motion_13314_robin_0002_152
+  - first:
+      213: -5650841438434180510
+    second: motion_13314_robin_0002_153
+  - first:
+      213: 7718770934029112098
+    second: motion_13314_robin_0002_154
+  - first:
+      213: 7961301642786053605
+    second: motion_13314_robin_0002_155
+  - first:
+      213: 2373538637944312494
+    second: motion_13314_robin_0002_156
+  - first:
+      213: 1693525131736226158
+    second: motion_13314_robin_0002_157
+  - first:
+      213: 8026083757548729911
+    second: motion_13314_robin_0002_158
+  - first:
+      213: -3089667848313152793
+    second: motion_13314_robin_0002_159
+  - first:
+      213: 8657061290951590631
+    second: motion_13314_robin_0002_160
+  - first:
+      213: 5723767247236249531
+    second: motion_13314_robin_0002_161
+  - first:
+      213: 5274291195578590345
+    second: motion_13314_robin_0002_162
+  - first:
+      213: -8086885923999696224
+    second: motion_13314_robin_0002_163
+  - first:
+      213: 778777812483647310
+    second: motion_13314_robin_0002_164
+  - first:
+      213: 7028116465432965862
+    second: motion_13314_robin_0002_165
+  - first:
+      213: 7399730834831707083
+    second: motion_13314_robin_0002_166
+  - first:
+      213: -7564511859537634829
+    second: motion_13314_robin_0002_167
+  - first:
+      213: 1471514452236072365
+    second: motion_13314_robin_0002_168
+  - first:
+      213: 5567458840256104592
+    second: motion_13314_robin_0002_169
+  - first:
+      213: 2974179234611114793
+    second: motion_13314_robin_0002_170
+  - first:
+      213: -7899219874812317996
+    second: motion_13314_robin_0002_171
+  - first:
+      213: 2783530079710286488
+    second: motion_13314_robin_0002_172
+  - first:
+      213: -3344102661576428325
+    second: motion_13314_robin_0002_173
+  - first:
+      213: -329525536213639770
+    second: motion_13314_robin_0002_174
+  - first:
+      213: 6244073562361529176
+    second: motion_13314_robin_0002_175
+  - first:
+      213: -8121725429835201896
+    second: motion_13314_robin_0002_176
+  - first:
+      213: -8516092792960309520
+    second: motion_13314_robin_0002_177
+  - first:
+      213: -7834802028309705042
+    second: motion_13314_robin_0002_178
+  - first:
+      213: 5095228787599203621
+    second: motion_13314_robin_0002_179
+  - first:
+      213: 778592354458455588
+    second: motion_13314_robin_0002_180
+  - first:
+      213: 6515251495694781736
+    second: motion_13314_robin_0002_181
+  - first:
+      213: 2219798568904261961
+    second: motion_13314_robin_0002_182
+  - first:
+      213: 8322788694597125292
+    second: motion_13314_robin_0002_183
+  - first:
+      213: -6767700610325933169
+    second: motion_13314_robin_0002_184
+  - first:
+      213: -3681149843060566169
+    second: motion_13314_robin_0002_185
+  - first:
+      213: -2338739621719279579
+    second: motion_13314_robin_0002_186
+  - first:
+      213: 410710101549042066
+    second: motion_13314_robin_0002_187
+  - first:
+      213: -1199442583028803557
+    second: motion_13314_robin_0002_188
+  - first:
+      213: -2943430820674827051
+    second: motion_13314_robin_0002_189
+  - first:
+      213: -5898056547612373203
+    second: motion_13314_robin_0002_190
+  - first:
+      213: -2574134509839682795
+    second: motion_13314_robin_0002_191
+  - first:
+      213: 4598753351720900812
+    second: motion_13314_robin_0002_192
+  - first:
+      213: -1560150674209958325
+    second: motion_13314_robin_0002_193
+  - first:
+      213: 1933644968535985649
+    second: motion_13314_robin_0002_194
+  - first:
+      213: -5947653761795966777
+    second: motion_13314_robin_0002_195
+  - first:
+      213: 2994441161273289800
+    second: motion_13314_robin_0002_196
+  - first:
+      213: 8667148455201510409
+    second: motion_13314_robin_0002_197
+  - first:
+      213: -4619421113803153323
+    second: motion_13314_robin_0002_198
+  - first:
+      213: 4325789409135656545
+    second: motion_13314_robin_0002_199
+  - first:
+      213: -8609188854000239401
+    second: motion_13314_robin_0002_200
+  - first:
+      213: -6215470099314187686
+    second: motion_13314_robin_0002_201
+  - first:
+      213: -9149215229796559072
+    second: motion_13314_robin_0002_202
+  - first:
+      213: 2856933670821224804
+    second: motion_13314_robin_0002_203
+  - first:
+      213: -8145072260733030631
+    second: motion_13314_robin_0002_204
+  - first:
+      213: 1632476100567338965
+    second: motion_13314_robin_0002_205
+  - first:
+      213: -4028871800740191277
+    second: motion_13314_robin_0002_206
+  - first:
+      213: 5617337433846816718
+    second: motion_13314_robin_0002_207
+  - first:
+      213: 7752174710415099086
+    second: motion_13314_robin_0002_208
+  - first:
+      213: -5895155144112261914
+    second: motion_13314_robin_0002_209
+  - first:
+      213: -3309609765705441190
+    second: motion_13314_robin_0002_210
+  - first:
+      213: -4606545164968010294
+    second: motion_13314_robin_0002_211
+  - first:
+      213: 1955494985262900078
+    second: motion_13314_robin_0002_212
+  - first:
+      213: -3577334295909112159
+    second: motion_13314_robin_0002_213
+  - first:
+      213: -8253166779550650979
+    second: motion_13314_robin_0002_214
+  - first:
+      213: 8083788195743398221
+    second: motion_13314_robin_0002_215
+  - first:
+      213: -5511495693978678454
+    second: motion_13314_robin_0002_216
+  - first:
+      213: -3538523951054573848
+    second: motion_13314_robin_0002_217
+  - first:
+      213: 304721619338376428
+    second: motion_13314_robin_0002_218
+  - first:
+      213: -5947217003524723384
+    second: motion_13314_robin_0002_219
+  - first:
+      213: 6025974326742506568
+    second: motion_13314_robin_0002_220
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 963
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f748bf3bd14f72760800000000000000
+      internalID: 7433178118409127039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 968
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847e92bfc8199d320800000000000000
+      internalID: 2583255895968966472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 972
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9e93a2d2eafc360800000000000000
+      internalID: 7192158638939171282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 973
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43f397b08ea2bac0800000000000000
+      internalID: -3840815664334638259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 975
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a4db2b5ff0fc680800000000000000
+      internalID: -8732743604507948467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 974
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c259fda3c2e7525c0800000000000000
+      internalID: -4240844745668061908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 971
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f57934bd533a81a0800000000000000
+      internalID: -6806571409268443664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 963
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc48bee4b4785290800000000000000
+      internalID: -7901437225773544196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 817
+        width: 214
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f328f635149d06b0800000000000000
+      internalID: -5328439965271972871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_9
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 831
+        width: 196
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce5d9a03e6487e50800000000000000
+      internalID: 6807268777720110786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_10
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 833
+        width: 185
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14743852d7bee2f50800000000000000
+      internalID: 6858678205264643905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_11
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 860
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3370289b3cae4b020800000000000000
+      internalID: 2356766631373440819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_12
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1005
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01dade20010f2420800000000000000
+      internalID: 2607303809568526603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 946
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa06b221ca3a73c0800000000000000
+      internalID: -4361108687969449302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 953
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f8296203602d360800000000000000
+      internalID: 7192818358739439449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 960
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f23d215f9234da0800000000000000
+      internalID: -5961875349148848304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 959
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80c0b97e8885f290800000000000000
+      internalID: -7857223829369601905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 950
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dd3db13dd18fb70800000000000000
+      internalID: 8932922653431553393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_18
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 940
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7f5821ef0218c50800000000000000
+      internalID: 6665645199089596378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_19
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 974
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0872a588b86134250800000000000000
+      internalID: 5927606323093579648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_20
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 960
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3c37996ce5ab4b0800000000000000
+      internalID: -5423918594143304725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 919
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdcd8d46cd120090800000000000000
+      internalID: -8069854844752638466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 928
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bfc11ece8c79b00800000000000000
+      internalID: 835357175615126313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 932
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a0e3197def203e0800000000000000
+      internalID: -2088827075338302847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_24
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 927
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e80e4c004a835f40800000000000000
+      internalID: 5716064359752272101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_25
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 918
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddf7cdb408e70f60800000000000000
+      internalID: 8000618370108489176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_26
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 937
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c586bcd62717aee20800000000000000
+      internalID: 3380639206577236060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_27
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 923
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732ffa19737e37290800000000000000
+      internalID: -7893711495996902857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 901
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a357fa5c9e944640800000000000000
+      internalID: 5063346275449525157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_29
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 914
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dd97bb8d499b790800000000000000
+      internalID: -7513810844711789259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_30
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 909
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa17b66beb096210800000000000000
+      internalID: 1326604670905817840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 904
+        width: 45
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971a379b168c39ef0800000000000000
+      internalID: -102518044450643591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_32
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 890
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab785d060df95460800000000000000
+      internalID: 7231088879155575727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_33
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 895
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7060bb043df5e90800000000000000
+      internalID: -7034671817960323152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_34
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 895
+        width: 44
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144e29b5e91d5a3b0800000000000000
+      internalID: -5501760891691801535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 890
+        width: 41
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c0f48caab2eb390800000000000000
+      internalID: -7800749492054062062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_36
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 881
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900dabbc23ff2b0d0800000000000000
+      internalID: -3408381374334578679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_37
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 872
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e169759befb230a0800000000000000
+      internalID: -6903244260259569183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_38
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 838
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ced7d7e44b07330800000000000000
+      internalID: 3706660742531771545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_39
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 851
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ded7a978e310ee00800000000000000
+      internalID: 1071878600508563160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_40
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 858
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14e67f071c858960800000000000000
+      internalID: 7603637576556536859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_41
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 865
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa363e2a13dba0d60800000000000000
+      internalID: 7857300520785109935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_42
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 861
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72758ddd39dab7b00800000000000000
+      internalID: 827445807146358567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_43
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 833
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bf4cfbc053c7f30800000000000000
+      internalID: 4574589650374818640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_44
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 817
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e7db456aa3957d0800000000000000
+      internalID: -2929245596567110061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_45
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 812
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0769120b049792fe0800000000000000
+      internalID: -1213305305859778960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_46
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 815
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7715cd1a0d7d930800000000000000
+      internalID: 4168029373759322070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_47
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 831
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5777df41a0869520800000000000000
+      internalID: 2708493656227542875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_48
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 837
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f9c445387baf3e0800000000000000
+      internalID: -2019099708239339743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_49
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 839
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7029ca85731afc70800000000000000
+      internalID: 9005531800441266300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_50
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 846
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808cd7a5535c09300800000000000000
+      internalID: 256922011702249480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_51
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 674
+        width: 136
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e850085ed750e3dc0800000000000000
+      internalID: -3657479809098840690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_52
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 713
+        width: 38
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051451fe9165eddc0800000000000000
+      internalID: -3612355181719240368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_53
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 805
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bdb4e1e76c32130800000000000000
+      internalID: 3540891977019808659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_54
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 795
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27692732b85930c10800000000000000
+      internalID: 2018621482819819122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_55
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 798
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1445bd196605f0a50800000000000000
+      internalID: 6489493989528130625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_56
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 787
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2f598d096e56d30800000000000000
+      internalID: 4424195718744765125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_57
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 784
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fe43f65b1cee790800000000000000
+      internalID: -7498843344526315674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_58
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 783
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93aa47f192b2b7b80800000000000000
+      internalID: -8396069624680764871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_59
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 779
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260ff1977ee9507f0800000000000000
+      internalID: -646936254451027870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_60
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 778
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca42e5a6ebe16cf10800000000000000
+      internalID: 2289551263741650092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_61
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 782
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7c01ae3f4ae2500800000000000000
+      internalID: 373417186629306337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 787
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11d7cdfda4fb9070800000000000000
+      internalID: 8114348181762330909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_63
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 802
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94c03dea43d233e0800000000000000
+      internalID: -2075364159503940449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_64
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 632
+        width: 134
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582759afda13f9ae0800000000000000
+      internalID: -1540457924234218875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_65
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 655
+        width: 64
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832a60de10ff06ec0800000000000000
+      internalID: -3575577720395488712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_66
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 806
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a8261045b3d2c00800000000000000
+      internalID: 877422734393641528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_67
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 646
+        width: 135
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07e7109f3b2bd020800000000000000
+      internalID: 2367533581113747212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_68
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 742
+        width: 39
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7473d4575f1fb3fd0800000000000000
+      internalID: -2361027543088416953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_69
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 817
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f68edbbac7cf800800000000000000
+      internalID: 647529523501887363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_70
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 648
+        width: 136
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a71038ad4a02cd0800000000000000
+      internalID: -2584884927702926719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_71
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 738
+        width: 37
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fc149faff8594f0800000000000000
+      internalID: -822593048838811859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_72
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 794
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba862b9c437312d60800000000000000
+      internalID: 7863627124227336363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_73
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 783
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0fd272703268b50800000000000000
+      internalID: 6594997217959735515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_74
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 793
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f1fa1f19bb08d90800000000000000
+      internalID: -7097466777236463839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 590
+        width: 134
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7128709a6ffd7f1b0800000000000000
+      internalID: -5622779359257984489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_76
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 583
+        width: 90
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54acd912e879bccc0800000000000000
+      internalID: -3689688832994850235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_77
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 762
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c389ddc459f596c0800000000000000
+      internalID: -4137126540043779135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_78
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 771
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7409930dd5661890800000000000000
+      internalID: -7487685330534333318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_79
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 775
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fad9452362730c0800000000000000
+      internalID: -4596162897098461325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_80
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 765
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836a95bf53c726e90800000000000000
+      internalID: -7033923096707226056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_81
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 738
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d632547df931110800000000000000
+      internalID: 1230502870129011993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_82
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 675
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902de93f4ddaf7410800000000000000
+      internalID: 1477090332932755977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_83
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 742
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3f4219563877fa0800000000000000
+      internalID: -5803025122593541140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_84
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 728
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c13f1a31876a8150800000000000000
+      internalID: 5875622468581798340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_85
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 680
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac67ba5beb15e900800000000000000
+      internalID: 713006813661326504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_86
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 702
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c7fadb74721a560800000000000000
+      internalID: 7323177658159692875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_87
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 712
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db591b41a87e3cda0800000000000000
+      internalID: -5925638104450755139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_88
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 673
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5be78197df2d04c0800000000000000
+      internalID: -4319743864672359589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_89
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 666
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17c785b682220ab0800000000000000
+      internalID: -5043430670734997730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_90
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 686
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da931d70f6299660800000000000000
+      internalID: 7392983077637823185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_91
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 652
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32091d681c184e5c0800000000000000
+      internalID: -4187079085357166557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_92
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 639
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e12761d053498fd0800000000000000
+      internalID: -2339264517052620314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_93
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 652
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1669cef16725d30800000000000000
+      internalID: 4418724063889220090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_94
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 577
+        width: 218
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a9abc0db40e4f00800000000000000
+      internalID: 1102824168761236107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_95
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 439
+        width: 89
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2669deaa1acd80280800000000000000
+      internalID: -9076762462049692062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_96
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 514
+        width: 59
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec43b5b6b62db300800000000000000
+      internalID: 269414118886427877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_97
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 453
+        width: 89
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5cb914e900a84f0800000000000000
+      internalID: -825846901963504147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_98
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 453
+        width: 89
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f858e105b05d8340800000000000000
+      internalID: 4867635510608681202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_99
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 596
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7b8040d7f3d2a10800000000000000
+      internalID: 1886233625109247926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_100
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 472
+        width: 114
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0301b4417671f5b80800000000000000
+      internalID: -8403972648160522192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_101
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 457
+        width: 76
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da0fc8d5d3960020800000000000000
+      internalID: 2307694405748722387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_102
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 400
+        width: 79
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36ab86dde6eeb2b0800000000000000
+      internalID: -5566758180202240451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_103
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 390
+        width: 77
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e1af2dc8dd49140800000000000000
+      internalID: 4725645505923260001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_104
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 474
+        width: 59
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d08ff14d00342870800000000000000
+      internalID: 8657097217212907732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_105
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 547
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20071e1a28a1e8090800000000000000
+      internalID: -8030451937191038974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_106
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 539
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f184e8fec4515f0800000000000000
+      internalID: -786637968138297535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_107
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 388
+        width: 77
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779f1b9ad33a8ded0800000000000000
+      internalID: -2388980117084702345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_108
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 394
+        width: 72
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf67b0a151341210800000000000000
+      internalID: 1302720418875404231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_109
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 396
+        width: 72
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b19931be0e4605e0800000000000000
+      internalID: -1943780364153941579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_110
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 519
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660816485f01f4360800000000000000
+      internalID: 7155956979589021798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_111
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 451
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628047574eb6668f0800000000000000
+      internalID: -547631675711682522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_112
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 504
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d5e28d24a391d20800000000000000
+      internalID: 3249692664893693190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_113
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 438
+        width: 67
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a833ab7ab63ff8cd0800000000000000
+      internalID: -2553554819994733686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_114
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 471
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c717d287d0549790800000000000000
+      internalID: -7524300190885931072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_115
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 354
+        width: 32
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895d8da05b7886200800000000000000
+      internalID: 173537797294577048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_116
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 459
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56aa11b1a578cee60800000000000000
+      internalID: 7992912259746736741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_117
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 458
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d898a25139f6b90800000000000000
+      internalID: -7246411556298584676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_118
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 403
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56aa79fcb384c1420800000000000000
+      internalID: 2602034106436397669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_119
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 418
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12fcf5189d7632b0800000000000000
+      internalID: -5605154594058604003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_120
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 329
+        width: 30
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47226d03e8fe31b40800000000000000
+      internalID: 5409930971385832052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_121
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 371
+        width: 128
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bf0434bf1c1ddd0800000000000000
+      internalID: -2462974236285666520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_122
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 444
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097e1233c63caf7d0800000000000000
+      internalID: -2883777741895637104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_123
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 287
+        width: 69
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4293a7534412fd4c0800000000000000
+      internalID: -4260650145630504668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_124
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 396
+        width: 81
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d93c838fb769d8e0800000000000000
+      internalID: -1668188114720638511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_125
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 400
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af4befb171777000800000000000000
+      internalID: 33620255593680801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_126
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 396
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d82be44537c26b0800000000000000
+      internalID: -5319750253896626858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_127
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 397
+        width: 92
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c631ac1be6ee210800000000000000
+      internalID: 1364149447018376294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_128
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 407
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef0b14f571fd5130800000000000000
+      internalID: 3557264769601441761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 74
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcacba44bf489b6b0800000000000000
+      internalID: -5280042873391428915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_130
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 307
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dd27622a72b5910800000000000000
+      internalID: 1827097651212115344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_131
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 342
+        width: 195
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9895fef96be36880800000000000000
+      internalID: -8618786421375395683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_132
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 314
+        width: 87
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ce86b770dc0a0a0800000000000000
+      internalID: -6872267599348437875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_133
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 380
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffd3f16aa2f30df0800000000000000
+      internalID: -215061543581917199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_134
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 377
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49046141263f48c90800000000000000
+      internalID: -7168337104297639788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_135
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 334
+        width: 198
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce0698954b697780800000000000000
+      internalID: -8684792459750404413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_136
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 348
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e57ae0200bb8220800000000000000
+      internalID: 2489276741934603856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_137
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 344
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ae0a574e7056080800000000000000
+      internalID: -9194934386399581566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_138
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 341
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa01ac3d7e821c440800000000000000
+      internalID: 4954286041240047786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_139
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 336
+        width: 101
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046c08796baabb280800000000000000
+      internalID: -9026433326931458496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_140
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 335
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522e4fc8fcc7ddbe0800000000000000
+      internalID: -1450866274078498267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_141
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 333
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a59701b2f778eef0800000000000000
+      internalID: -78681109243128413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_142
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 288
+        width: 198
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8500d1b1afcd3f410800000000000000
+      internalID: 1509793266854068312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_143
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 309
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650956c19c8c13230800000000000000
+      internalID: 3616892741845618774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_144
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 304
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e770921dd12d1df60800000000000000
+      internalID: 8057452233847539582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_145
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 291
+        width: 107
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977004f43c47d6e70800000000000000
+      internalID: 9110066003437422457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_146
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 291
+        width: 129
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b848b23992e366cb0800000000000000
+      internalID: -4871137598670928757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_147
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 292
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bfb1de20e9171d0800000000000000
+      internalID: -3354726512009151737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_148
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 242
+        width: 74
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a600f487cdd033d0800000000000000
+      internalID: -3228837083826092381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_149
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 231
+        width: 61
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a763b83d8d69d380800000000000000
+      internalID: -8945998731485681760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_150
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 275
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f65741732d4b780800000000000000
+      internalID: -8668072248773087479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_151
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 312
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75e3535b0bdc2300800000000000000
+      internalID: 228798522778183038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 102
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8189d1295a8f040800000000000000
+      internalID: 4681673859631945959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_153
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 289
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262c214b6ad2491b0800000000000000
+      internalID: -5650841438434180510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_154
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 295
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2235a69c4459e1b60800000000000000
+      internalID: 7718770934029112098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_155
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 289
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed1fffc9a93c7e60800000000000000
+      internalID: 7961301642786053605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_156
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 250
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2d55fc0d080f020800000000000000
+      internalID: 2373538637944312494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_157
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 269
+        width: 95
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e699557722c908710800000000000000
+      internalID: 1693525131736226158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_158
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 236
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736793a47a0626f60800000000000000
+      internalID: 8026083757548729911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_159
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 216
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea5953367b4f15d0800000000000000
+      internalID: -3089667848313152793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_160
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 226
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e244f5806f042870800000000000000
+      internalID: 8657061290951590631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_161
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 263
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7388c4cf7ee6f40800000000000000
+      internalID: 5723767247236249531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_162
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 248
+        width: 92
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984ae62e5eb023940800000000000000
+      internalID: 5274291195578590345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_163
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 258
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa34e8291c95cf80800000000000000
+      internalID: -8086885923999696224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_164
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 250
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e472b085b46ceca00800000000000000
+      internalID: 778777812483647310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_165
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 252
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2b43250b2e88160800000000000000
+      internalID: 7028116465432965862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_166
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 258
+        width: 91
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb06a32dff11b660800000000000000
+      internalID: 7399730834831707083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_167
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 264
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f99701da84750790800000000000000
+      internalID: -7564511859537634829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_168
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 259
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5726f099edb6410800000000000000
+      internalID: 1471514452236072365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_169
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 257
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098c21b4156934d40800000000000000
+      internalID: 5567458840256104592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_170
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 244
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923b6598148664920800000000000000
+      internalID: 2974179234611114793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_171
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 198
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de2b1f2065506290800000000000000
+      internalID: -7899219874812317996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_172
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 236
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8921fb61cd511a620800000000000000
+      internalID: 2783530079710286488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_173
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 199
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd47c4cd85c5791d0800000000000000
+      internalID: -3344102661576428325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_174
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 233
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6add09d454a4d6bf0800000000000000
+      internalID: -329525536213639770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_175
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 190
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85387fb82d767a650800000000000000
+      internalID: 6244073562361529176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_176
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 195
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8928a6790c5d94f80800000000000000
+      internalID: -8121725429835201896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_177
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 237
+        width: 79
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6265999b2c0d980800000000000000
+      internalID: -8516092792960309520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_178
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 242
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae0719d011354390800000000000000
+      internalID: -7834802028309705042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_179
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 236
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dd13e2693e5b640800000000000000
+      internalID: 5095228787599203621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_180
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 204
+        width: 71
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ec4580f9d1eca00800000000000000
+      internalID: 778592354458455588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_181
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 212
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d483f47b2da6a50800000000000000
+      internalID: 6515251495694781736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_182
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 206
+        width: 103
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9418574990f4ece10800000000000000
+      internalID: 2219798568904261961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_183
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 181
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca44912c83c708370800000000000000
+      internalID: 8322788694597125292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_184
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 196
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f831457d62c4412a0800000000000000
+      internalID: -6767700610325933169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_185
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 201
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767d367a8bde9ecc0800000000000000
+      internalID: -3681149843060566169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_186
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 214
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5287a4984b02b8fd0800000000000000
+      internalID: -2338739621719279579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_187
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 194
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299ce7c49a223b500800000000000000
+      internalID: 410710101549042066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_188
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 192
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18571e5359ba5fe0800000000000000
+      internalID: -1199442583028803557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_189
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 203
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc8db87345d627d0800000000000000
+      internalID: -2943430820674827051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_190
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 212
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fc566b1d4e52ea0800000000000000
+      internalID: -5898056547612373203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_191
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 207
+        width: 77
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5137ee83d46d64cd0800000000000000
+      internalID: -2574134509839682795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_192
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 207
+        width: 90
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc816f2eecd02df30800000000000000
+      internalID: 4598753351720900812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_193
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 181
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4611a35a3b395ae0800000000000000
+      internalID: -1560150674209958325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_194
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 194
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd0f4f9adfa5da10800000000000000
+      internalID: 1933644968535985649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_195
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 190
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8b2296a60b57da0800000000000000
+      internalID: -5947653761795966777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_196
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 177
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ca086fe546e8920800000000000000
+      internalID: 2994441161273289800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_197
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 181
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9049cd77995e74870800000000000000
+      internalID: 8667148455201510409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_198
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550e2d3c8f484efb0800000000000000
+      internalID: -4619421113803153323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_199
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 187
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e7da07c8a480c30800000000000000
+      internalID: 4325789409135656545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_200
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 190
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc3019c954068880800000000000000
+      internalID: -8609188854000239401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_201
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 190
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52e05a20e63eb9a0800000000000000
+      internalID: -6215470099314187686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_202
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 181
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027d16e1935770180800000000000000
+      internalID: -9149215229796559072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_203
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 180
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461e624790ed5a720800000000000000
+      internalID: 2856933670821224804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_204
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 194
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fae1deee3e6fe80800000000000000
+      internalID: -8145072260733030631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_205
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 191
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df81ae3d58b7a610800000000000000
+      internalID: 1632476100567338965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_206
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 182
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3ea4f61729618c0800000000000000
+      internalID: -4028871800740191277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_207
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 185
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf91f752aac4fd40800000000000000
+      internalID: 5617337433846816718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_208
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 189
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec40f0b83d1459b60800000000000000
+      internalID: 7752174710415099086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_209
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 177
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e43f5b51a3303ea0800000000000000
+      internalID: -5895155144112261914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_210
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 179
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50a6f10477e112d0800000000000000
+      internalID: -3309609765705441190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_211
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 174
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdd94834934210c0800000000000000
+      internalID: -4606545164968010294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_212
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 181
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6327a41450532b10800000000000000
+      internalID: 1955494985262900078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_213
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 183
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6e3815961ca5ec0800000000000000
+      internalID: -3577334295909112159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_214
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 180
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d24d88a8cd67d80800000000000000
+      internalID: -8253166779550650979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_215
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 173
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49f7c6c8826f2070800000000000000
+      internalID: 8083788195743398221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_216
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 178
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b4e431edb3383b0800000000000000
+      internalID: -5511495693978678454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_217
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 173
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee2e24e633a4eec0800000000000000
+      internalID: -3538523951054573848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_218
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 174
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4bb04c2b69a3400800000000000000
+      internalID: 304721619338376428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_219
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 177
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84deebe15ad377da0800000000000000
+      internalID: -5947217003524723384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13314_robin_0002_220
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 180
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c5c1329bf80a350800000000000000
+      internalID: 6025974326742506568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_13314_robin_0002_0: 7433178118409127039
+      motion_13314_robin_0002_1: 2583255895968966472
+      motion_13314_robin_0002_10: 6858678205264643905
+      motion_13314_robin_0002_100: -8403972648160522192
+      motion_13314_robin_0002_101: 2307694405748722387
+      motion_13314_robin_0002_102: -5566758180202240451
+      motion_13314_robin_0002_103: 4725645505923260001
+      motion_13314_robin_0002_104: 8657097217212907732
+      motion_13314_robin_0002_105: -8030451937191038974
+      motion_13314_robin_0002_106: -786637968138297535
+      motion_13314_robin_0002_107: -2388980117084702345
+      motion_13314_robin_0002_108: 1302720418875404231
+      motion_13314_robin_0002_109: -1943780364153941579
+      motion_13314_robin_0002_11: 2356766631373440819
+      motion_13314_robin_0002_110: 7155956979589021798
+      motion_13314_robin_0002_111: -547631675711682522
+      motion_13314_robin_0002_112: 3249692664893693190
+      motion_13314_robin_0002_113: -2553554819994733686
+      motion_13314_robin_0002_114: -7524300190885931072
+      motion_13314_robin_0002_115: 173537797294577048
+      motion_13314_robin_0002_116: 7992912259746736741
+      motion_13314_robin_0002_117: -7246411556298584676
+      motion_13314_robin_0002_118: 2602034106436397669
+      motion_13314_robin_0002_119: -5605154594058604003
+      motion_13314_robin_0002_12: 2607303809568526603
+      motion_13314_robin_0002_120: 5409930971385832052
+      motion_13314_robin_0002_121: -2462974236285666520
+      motion_13314_robin_0002_122: -2883777741895637104
+      motion_13314_robin_0002_123: -4260650145630504668
+      motion_13314_robin_0002_124: -1668188114720638511
+      motion_13314_robin_0002_125: 33620255593680801
+      motion_13314_robin_0002_126: -5319750253896626858
+      motion_13314_robin_0002_127: 1364149447018376294
+      motion_13314_robin_0002_128: 3557264769601441761
+      motion_13314_robin_0002_129: -5280042873391428915
+      motion_13314_robin_0002_13: -4361108687969449302
+      motion_13314_robin_0002_130: 1827097651212115344
+      motion_13314_robin_0002_131: -8618786421375395683
+      motion_13314_robin_0002_132: -6872267599348437875
+      motion_13314_robin_0002_133: -215061543581917199
+      motion_13314_robin_0002_134: -7168337104297639788
+      motion_13314_robin_0002_135: -8684792459750404413
+      motion_13314_robin_0002_136: 2489276741934603856
+      motion_13314_robin_0002_137: -9194934386399581566
+      motion_13314_robin_0002_138: 4954286041240047786
+      motion_13314_robin_0002_139: -9026433326931458496
+      motion_13314_robin_0002_14: 7192818358739439449
+      motion_13314_robin_0002_140: -1450866274078498267
+      motion_13314_robin_0002_141: -78681109243128413
+      motion_13314_robin_0002_142: 1509793266854068312
+      motion_13314_robin_0002_143: 3616892741845618774
+      motion_13314_robin_0002_144: 8057452233847539582
+      motion_13314_robin_0002_145: 9110066003437422457
+      motion_13314_robin_0002_146: -4871137598670928757
+      motion_13314_robin_0002_147: -3354726512009151737
+      motion_13314_robin_0002_148: -3228837083826092381
+      motion_13314_robin_0002_149: -8945998731485681760
+      motion_13314_robin_0002_15: -5961875349148848304
+      motion_13314_robin_0002_150: -8668072248773087479
+      motion_13314_robin_0002_151: 228798522778183038
+      motion_13314_robin_0002_152: 4681673859631945959
+      motion_13314_robin_0002_153: -5650841438434180510
+      motion_13314_robin_0002_154: 7718770934029112098
+      motion_13314_robin_0002_155: 7961301642786053605
+      motion_13314_robin_0002_156: 2373538637944312494
+      motion_13314_robin_0002_157: 1693525131736226158
+      motion_13314_robin_0002_158: 8026083757548729911
+      motion_13314_robin_0002_159: -3089667848313152793
+      motion_13314_robin_0002_16: -7857223829369601905
+      motion_13314_robin_0002_160: 8657061290951590631
+      motion_13314_robin_0002_161: 5723767247236249531
+      motion_13314_robin_0002_162: 5274291195578590345
+      motion_13314_robin_0002_163: -8086885923999696224
+      motion_13314_robin_0002_164: 778777812483647310
+      motion_13314_robin_0002_165: 7028116465432965862
+      motion_13314_robin_0002_166: 7399730834831707083
+      motion_13314_robin_0002_167: -7564511859537634829
+      motion_13314_robin_0002_168: 1471514452236072365
+      motion_13314_robin_0002_169: 5567458840256104592
+      motion_13314_robin_0002_17: 8932922653431553393
+      motion_13314_robin_0002_170: 2974179234611114793
+      motion_13314_robin_0002_171: -7899219874812317996
+      motion_13314_robin_0002_172: 2783530079710286488
+      motion_13314_robin_0002_173: -3344102661576428325
+      motion_13314_robin_0002_174: -329525536213639770
+      motion_13314_robin_0002_175: 6244073562361529176
+      motion_13314_robin_0002_176: -8121725429835201896
+      motion_13314_robin_0002_177: -8516092792960309520
+      motion_13314_robin_0002_178: -7834802028309705042
+      motion_13314_robin_0002_179: 5095228787599203621
+      motion_13314_robin_0002_18: 6665645199089596378
+      motion_13314_robin_0002_180: 778592354458455588
+      motion_13314_robin_0002_181: 6515251495694781736
+      motion_13314_robin_0002_182: 2219798568904261961
+      motion_13314_robin_0002_183: 8322788694597125292
+      motion_13314_robin_0002_184: -6767700610325933169
+      motion_13314_robin_0002_185: -3681149843060566169
+      motion_13314_robin_0002_186: -2338739621719279579
+      motion_13314_robin_0002_187: 410710101549042066
+      motion_13314_robin_0002_188: -1199442583028803557
+      motion_13314_robin_0002_189: -2943430820674827051
+      motion_13314_robin_0002_19: 5927606323093579648
+      motion_13314_robin_0002_190: -5898056547612373203
+      motion_13314_robin_0002_191: -2574134509839682795
+      motion_13314_robin_0002_192: 4598753351720900812
+      motion_13314_robin_0002_193: -1560150674209958325
+      motion_13314_robin_0002_194: 1933644968535985649
+      motion_13314_robin_0002_195: -5947653761795966777
+      motion_13314_robin_0002_196: 2994441161273289800
+      motion_13314_robin_0002_197: 8667148455201510409
+      motion_13314_robin_0002_198: -4619421113803153323
+      motion_13314_robin_0002_199: 4325789409135656545
+      motion_13314_robin_0002_2: 7192158638939171282
+      motion_13314_robin_0002_20: -5423918594143304725
+      motion_13314_robin_0002_200: -8609188854000239401
+      motion_13314_robin_0002_201: -6215470099314187686
+      motion_13314_robin_0002_202: -9149215229796559072
+      motion_13314_robin_0002_203: 2856933670821224804
+      motion_13314_robin_0002_204: -8145072260733030631
+      motion_13314_robin_0002_205: 1632476100567338965
+      motion_13314_robin_0002_206: -4028871800740191277
+      motion_13314_robin_0002_207: 5617337433846816718
+      motion_13314_robin_0002_208: 7752174710415099086
+      motion_13314_robin_0002_209: -5895155144112261914
+      motion_13314_robin_0002_21: -8069854844752638466
+      motion_13314_robin_0002_210: -3309609765705441190
+      motion_13314_robin_0002_211: -4606545164968010294
+      motion_13314_robin_0002_212: 1955494985262900078
+      motion_13314_robin_0002_213: -3577334295909112159
+      motion_13314_robin_0002_214: -8253166779550650979
+      motion_13314_robin_0002_215: 8083788195743398221
+      motion_13314_robin_0002_216: -5511495693978678454
+      motion_13314_robin_0002_217: -3538523951054573848
+      motion_13314_robin_0002_218: 304721619338376428
+      motion_13314_robin_0002_219: -5947217003524723384
+      motion_13314_robin_0002_22: 835357175615126313
+      motion_13314_robin_0002_220: 6025974326742506568
+      motion_13314_robin_0002_23: -2088827075338302847
+      motion_13314_robin_0002_24: 5716064359752272101
+      motion_13314_robin_0002_25: 8000618370108489176
+      motion_13314_robin_0002_26: 3380639206577236060
+      motion_13314_robin_0002_27: -7893711495996902857
+      motion_13314_robin_0002_28: 5063346275449525157
+      motion_13314_robin_0002_29: -7513810844711789259
+      motion_13314_robin_0002_3: -3840815664334638259
+      motion_13314_robin_0002_30: 1326604670905817840
+      motion_13314_robin_0002_31: -102518044450643591
+      motion_13314_robin_0002_32: 7231088879155575727
+      motion_13314_robin_0002_33: -7034671817960323152
+      motion_13314_robin_0002_34: -5501760891691801535
+      motion_13314_robin_0002_35: -7800749492054062062
+      motion_13314_robin_0002_36: -3408381374334578679
+      motion_13314_robin_0002_37: -6903244260259569183
+      motion_13314_robin_0002_38: 3706660742531771545
+      motion_13314_robin_0002_39: 1071878600508563160
+      motion_13314_robin_0002_4: -8732743604507948467
+      motion_13314_robin_0002_40: 7603637576556536859
+      motion_13314_robin_0002_41: 7857300520785109935
+      motion_13314_robin_0002_42: 827445807146358567
+      motion_13314_robin_0002_43: 4574589650374818640
+      motion_13314_robin_0002_44: -2929245596567110061
+      motion_13314_robin_0002_45: -1213305305859778960
+      motion_13314_robin_0002_46: 4168029373759322070
+      motion_13314_robin_0002_47: 2708493656227542875
+      motion_13314_robin_0002_48: -2019099708239339743
+      motion_13314_robin_0002_49: 9005531800441266300
+      motion_13314_robin_0002_5: -4240844745668061908
+      motion_13314_robin_0002_50: 256922011702249480
+      motion_13314_robin_0002_51: -3657479809098840690
+      motion_13314_robin_0002_52: -3612355181719240368
+      motion_13314_robin_0002_53: 3540891977019808659
+      motion_13314_robin_0002_54: 2018621482819819122
+      motion_13314_robin_0002_55: 6489493989528130625
+      motion_13314_robin_0002_56: 4424195718744765125
+      motion_13314_robin_0002_57: -7498843344526315674
+      motion_13314_robin_0002_58: -8396069624680764871
+      motion_13314_robin_0002_59: -646936254451027870
+      motion_13314_robin_0002_6: -6806571409268443664
+      motion_13314_robin_0002_60: 2289551263741650092
+      motion_13314_robin_0002_61: 373417186629306337
+      motion_13314_robin_0002_62: 8114348181762330909
+      motion_13314_robin_0002_63: -2075364159503940449
+      motion_13314_robin_0002_64: -1540457924234218875
+      motion_13314_robin_0002_65: -3575577720395488712
+      motion_13314_robin_0002_66: 877422734393641528
+      motion_13314_robin_0002_67: 2367533581113747212
+      motion_13314_robin_0002_68: -2361027543088416953
+      motion_13314_robin_0002_69: 647529523501887363
+      motion_13314_robin_0002_7: -7901437225773544196
+      motion_13314_robin_0002_70: -2584884927702926719
+      motion_13314_robin_0002_71: -822593048838811859
+      motion_13314_robin_0002_72: 7863627124227336363
+      motion_13314_robin_0002_73: 6594997217959735515
+      motion_13314_robin_0002_74: -7097466777236463839
+      motion_13314_robin_0002_75: -5622779359257984489
+      motion_13314_robin_0002_76: -3689688832994850235
+      motion_13314_robin_0002_77: -4137126540043779135
+      motion_13314_robin_0002_78: -7487685330534333318
+      motion_13314_robin_0002_79: -4596162897098461325
+      motion_13314_robin_0002_8: -5328439965271972871
+      motion_13314_robin_0002_80: -7033923096707226056
+      motion_13314_robin_0002_81: 1230502870129011993
+      motion_13314_robin_0002_82: 1477090332932755977
+      motion_13314_robin_0002_83: -5803025122593541140
+      motion_13314_robin_0002_84: 5875622468581798340
+      motion_13314_robin_0002_85: 713006813661326504
+      motion_13314_robin_0002_86: 7323177658159692875
+      motion_13314_robin_0002_87: -5925638104450755139
+      motion_13314_robin_0002_88: -4319743864672359589
+      motion_13314_robin_0002_89: -5043430670734997730
+      motion_13314_robin_0002_9: 6807268777720110786
+      motion_13314_robin_0002_90: 7392983077637823185
+      motion_13314_robin_0002_91: -4187079085357166557
+      motion_13314_robin_0002_92: -2339264517052620314
+      motion_13314_robin_0002_93: 4418724063889220090
+      motion_13314_robin_0002_94: 1102824168761236107
+      motion_13314_robin_0002_95: -9076762462049692062
+      motion_13314_robin_0002_96: 269414118886427877
+      motion_13314_robin_0002_97: -825846901963504147
+      motion_13314_robin_0002_98: 4867635510608681202
+      motion_13314_robin_0002_99: 1886233625109247926
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

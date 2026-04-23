@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: c679a77315acdff44b734df42d5df82e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1446792561371454033
+    second: motion_0332_hawkins_0001_reverse_0
+  - first:
+      213: -2078122817811425935
+    second: motion_0332_hawkins_0001_reverse_1
+  - first:
+      213: 6029406266437102881
+    second: motion_0332_hawkins_0001_reverse_2
+  - first:
+      213: 5037493496853615678
+    second: motion_0332_hawkins_0001_reverse_3
+  - first:
+      213: 7688523826895411950
+    second: motion_0332_hawkins_0001_reverse_4
+  - first:
+      213: -7425655375246232805
+    second: motion_0332_hawkins_0001_reverse_5
+  - first:
+      213: -4942494211614978617
+    second: motion_0332_hawkins_0001_reverse_6
+  - first:
+      213: -4489867247333197897
+    second: motion_0332_hawkins_0001_reverse_7
+  - first:
+      213: -4921050453073102677
+    second: motion_0332_hawkins_0001_reverse_8
+  - first:
+      213: 6765715341757247868
+    second: motion_0332_hawkins_0001_reverse_9
+  - first:
+      213: -2918152212964543276
+    second: motion_0332_hawkins_0001_reverse_10
+  - first:
+      213: -4475572203846739059
+    second: motion_0332_hawkins_0001_reverse_11
+  - first:
+      213: -3177965427438986884
+    second: motion_0332_hawkins_0001_reverse_12
+  - first:
+      213: -2949274442740169691
+    second: motion_0332_hawkins_0001_reverse_13
+  - first:
+      213: -8987787894741202579
+    second: motion_0332_hawkins_0001_reverse_14
+  - first:
+      213: -4646136597381301772
+    second: motion_0332_hawkins_0001_reverse_15
+  - first:
+      213: -7695291261895237596
+    second: motion_0332_hawkins_0001_reverse_16
+  - first:
+      213: -8644497453176426962
+    second: motion_0332_hawkins_0001_reverse_17
+  - first:
+      213: -5670914314830972548
+    second: motion_0332_hawkins_0001_reverse_18
+  - first:
+      213: -391225137787438650
+    second: motion_0332_hawkins_0001_reverse_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_0332_hawkins_0001_reverse_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 790
+        width: 122
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a193c4b2a041410800000000000000
+      internalID: 1446792561371454033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0332_hawkins_0001_reverse_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 790
+        width: 126
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17557bcbe460923e0800000000000000
+      internalID: -2078122817811425935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0332_hawkins_0001_reverse_2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 790
+        width: 125
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d6f7ddd01cca350800000000000000
+      internalID: 6029406266437102881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0332_hawkins_0001_reverse_3
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 790
+        width: 117
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34dc4645a5c8e540800000000000000
+      internalID: 5037493496853615678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0332_hawkins_0001_reverse_4
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 790
+        width: 117
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea5a3d5faf13ba60800000000000000
+      internalID: 7688523826895411950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0332_hawkins_0001_reverse_5
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 786
+        width: 138
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b137afd67c5c2f890800000000000000
+      internalID: -7425655375246232805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0332_hawkins_0001_reverse_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 567
+        width: 178
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdc34473bbb86bb0800000000000000
+      internalID: -4942494211614978617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0332_hawkins_0001_reverse_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 566
+        width: 121
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b73b02e689c0b1c0800000000000000
+      internalID: -4489867247333197897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0332_hawkins_0001_reverse_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 565
+        width: 98
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba87dce8faae4bbb0800000000000000
+      internalID: -4921050453073102677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0332_hawkins_0001_reverse_9
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 565
+        width: 109
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71f9dcc146a4ed50800000000000000
+      internalID: 6765715341757247868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0332_hawkins_0001_reverse_10
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 568
+        width: 246
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d47ab9f504a087d0800000000000000
+      internalID: -2918152212964543276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0332_hawkins_0001_reverse_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 376
+        width: 152
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b5a1f0bc293e1c0800000000000000
+      internalID: -4475572203846739059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0332_hawkins_0001_reverse_12
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 265
+        width: 165
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79d605084995e3d0800000000000000
+      internalID: -3177965427438986884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0332_hawkins_0001_reverse_13
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 342
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524855f25821217d0800000000000000
+      internalID: -2949274442740169691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0332_hawkins_0001_reverse_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 73
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6905617786f44380800000000000000
+      internalID: -8987787894741202579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0332_hawkins_0001_reverse_15
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 10
+        width: 205
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f93527816b958fb0800000000000000
+      internalID: -4646136597381301772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0332_hawkins_0001_reverse_16
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 9
+        width: 173
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42021936e55d43590800000000000000
+      internalID: -7695291261895237596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0332_hawkins_0001_reverse_17
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2
+        width: 83
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e66a9ed53980880800000000000000
+      internalID: -8644497453176426962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0332_hawkins_0001_reverse_18
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 52
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7972d8f97ddc41b0800000000000000
+      internalID: -5670914314830972548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0332_hawkins_0001_reverse_19
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 50
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9f9fa5fc6129af0800000000000000
+      internalID: -391225137787438650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_0332_hawkins_0001_reverse_0: 1446792561371454033
+      motion_0332_hawkins_0001_reverse_1: -2078122817811425935
+      motion_0332_hawkins_0001_reverse_10: -2918152212964543276
+      motion_0332_hawkins_0001_reverse_11: -4475572203846739059
+      motion_0332_hawkins_0001_reverse_12: -3177965427438986884
+      motion_0332_hawkins_0001_reverse_13: -2949274442740169691
+      motion_0332_hawkins_0001_reverse_14: -8987787894741202579
+      motion_0332_hawkins_0001_reverse_15: -4646136597381301772
+      motion_0332_hawkins_0001_reverse_16: -7695291261895237596
+      motion_0332_hawkins_0001_reverse_17: -8644497453176426962
+      motion_0332_hawkins_0001_reverse_18: -5670914314830972548
+      motion_0332_hawkins_0001_reverse_19: -391225137787438650
+      motion_0332_hawkins_0001_reverse_2: 6029406266437102881
+      motion_0332_hawkins_0001_reverse_3: 5037493496853615678
+      motion_0332_hawkins_0001_reverse_4: 7688523826895411950
+      motion_0332_hawkins_0001_reverse_5: -7425655375246232805
+      motion_0332_hawkins_0001_reverse_6: -4942494211614978617
+      motion_0332_hawkins_0001_reverse_7: -4489867247333197897
+      motion_0332_hawkins_0001_reverse_8: -4921050453073102677
+      motion_0332_hawkins_0001_reverse_9: 6765715341757247868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 7634e4d9e7a3e1140b6cc54bee42f39b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7592262412684454677
+    second: motion_0330_law_0001_0
+  - first:
+      213: 6911995088645776584
+    second: motion_0330_law_0001_1
+  - first:
+      213: -7839445903362009260
+    second: motion_0330_law_0001_2
+  - first:
+      213: -3622878519505070883
+    second: motion_0330_law_0001_3
+  - first:
+      213: 3048854555446181219
+    second: motion_0330_law_0001_4
+  - first:
+      213: -5176877250564741945
+    second: motion_0330_law_0001_5
+  - first:
+      213: -8537265483959549177
+    second: motion_0330_law_0001_6
+  - first:
+      213: 8914672878406855314
+    second: motion_0330_law_0001_7
+  - first:
+      213: 7509380989892058308
+    second: motion_0330_law_0001_8
+  - first:
+      213: -1814767825404994883
+    second: motion_0330_law_0001_9
+  - first:
+      213: -8101928761909855141
+    second: motion_0330_law_0001_10
+  - first:
+      213: 184869298536427391
+    second: motion_0330_law_0001_11
+  - first:
+      213: -7471949796214049834
+    second: motion_0330_law_0001_12
+  - first:
+      213: -8889158324660614127
+    second: motion_0330_law_0001_13
+  - first:
+      213: -3795120928803825570
+    second: motion_0330_law_0001_14
+  - first:
+      213: 8825293108250302986
+    second: motion_0330_law_0001_15
+  - first:
+      213: 4023723213029975845
+    second: motion_0330_law_0001_16
+  - first:
+      213: -107763642670091674
+    second: motion_0330_law_0001_17
+  - first:
+      213: 1182310496137591922
+    second: motion_0330_law_0001_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_0330_law_0001_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 820
+        width: 178
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4946aaf8dd2a690800000000000000
+      internalID: -7592262412684454677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0330_law_0001_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 820
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4e9fb69e65cef50800000000000000
+      internalID: 6911995088645776584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0330_law_0001_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 820
+        width: 173
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457573e6c71b43390800000000000000
+      internalID: -7839445903362009260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0330_law_0001_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 820
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4d18c6e23f8bdc0800000000000000
+      internalID: -3622878519505070883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0330_law_0001_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 630
+        width: 188
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d733d8015bf4a20800000000000000
+      internalID: 3048854555446181219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0330_law_0001_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 631
+        width: 188
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4a942a1990828b0800000000000000
+      internalID: -5176877250564741945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0330_law_0001_6
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 610
+        width: 187
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7034363564a858980800000000000000
+      internalID: -8537265483959549177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0330_law_0001_7
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 589
+        width: 111
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29aef3e30c747bb70800000000000000
+      internalID: 8914672878406855314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0330_law_0001_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 377
+        width: 162
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc5691593ea63860800000000000000
+      internalID: 7509380989892058308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0330_law_0001_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 377
+        width: 187
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba5de02746a0d6e0800000000000000
+      internalID: -1814767825404994883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0330_law_0001_10
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 373
+        width: 205
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cb7d687ba209f80800000000000000
+      internalID: -8101928761909855141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0330_law_0001_11
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 265
+        width: 166
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fa325c5a9c09200800000000000000
+      internalID: 184869298536427391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0330_law_0001_12
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 342
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3fb199f3d4e4890800000000000000
+      internalID: -7471949796214049834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0330_law_0001_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 128
+        width: 220
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cc56ab99d53a480800000000000000
+      internalID: -8889158324660614127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0330_law_0001_14
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 9
+        width: 137
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e585ff66f95055bc0800000000000000
+      internalID: -3795120928803825570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0330_law_0001_15
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 10
+        width: 205
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a56f3d25db97a70800000000000000
+      internalID: 8825293108250302986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0330_law_0001_16
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 9
+        width: 173
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527252391f227d730800000000000000
+      internalID: 4023723213029975845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0330_law_0001_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 10
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66272f6b985218ef0800000000000000
+      internalID: -107763642670091674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0330_law_0001_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2
+        width: 83
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c3f70d129686010800000000000000
+      internalID: 1182310496137591922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_0330_law_0001_0: -7592262412684454677
+      motion_0330_law_0001_1: 6911995088645776584
+      motion_0330_law_0001_10: -8101928761909855141
+      motion_0330_law_0001_11: 184869298536427391
+      motion_0330_law_0001_12: -7471949796214049834
+      motion_0330_law_0001_13: -8889158324660614127
+      motion_0330_law_0001_14: -3795120928803825570
+      motion_0330_law_0001_15: 8825293108250302986
+      motion_0330_law_0001_16: 4023723213029975845
+      motion_0330_law_0001_17: -107763642670091674
+      motion_0330_law_0001_18: 1182310496137591922
+      motion_0330_law_0001_2: -7839445903362009260
+      motion_0330_law_0001_3: -3622878519505070883
+      motion_0330_law_0001_4: 3048854555446181219
+      motion_0330_law_0001_5: -5176877250564741945
+      motion_0330_law_0001_6: -8537265483959549177
+      motion_0330_law_0001_7: 8914672878406855314
+      motion_0330_law_0001_8: 7509380989892058308
+      motion_0330_law_0001_9: -1814767825404994883
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

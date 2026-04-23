@@ -1,0 +1,5564 @@
+fileFormatVersion: 2
+guid: 69a09874d0269a0448c986d5cf9b6677
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8845637692536721178
+    second: motion_13405_law_kid_reverse_0001_0
+  - first:
+      213: -6432702030329418869
+    second: motion_13405_law_kid_reverse_0001_1
+  - first:
+      213: -1734838334289211650
+    second: motion_13405_law_kid_reverse_0001_2
+  - first:
+      213: 2912192780914184960
+    second: motion_13405_law_kid_reverse_0001_3
+  - first:
+      213: 5216351802960466701
+    second: motion_13405_law_kid_reverse_0001_4
+  - first:
+      213: -3335433697011877294
+    second: motion_13405_law_kid_reverse_0001_5
+  - first:
+      213: 3002366566541205524
+    second: motion_13405_law_kid_reverse_0001_6
+  - first:
+      213: 378975760207409799
+    second: motion_13405_law_kid_reverse_0001_7
+  - first:
+      213: -492372528471258832
+    second: motion_13405_law_kid_reverse_0001_8
+  - first:
+      213: -2167056378395177096
+    second: motion_13405_law_kid_reverse_0001_9
+  - first:
+      213: 8059138230937867521
+    second: motion_13405_law_kid_reverse_0001_10
+  - first:
+      213: 7644636911393439217
+    second: motion_13405_law_kid_reverse_0001_11
+  - first:
+      213: 515428869781782002
+    second: motion_13405_law_kid_reverse_0001_12
+  - first:
+      213: 6782551414244425802
+    second: motion_13405_law_kid_reverse_0001_13
+  - first:
+      213: 4584398617847848385
+    second: motion_13405_law_kid_reverse_0001_14
+  - first:
+      213: 1454735090342464883
+    second: motion_13405_law_kid_reverse_0001_15
+  - first:
+      213: -7257546545560198825
+    second: motion_13405_law_kid_reverse_0001_16
+  - first:
+      213: 3427516889900874850
+    second: motion_13405_law_kid_reverse_0001_17
+  - first:
+      213: 4253245456249132431
+    second: motion_13405_law_kid_reverse_0001_18
+  - first:
+      213: 1231507158416598444
+    second: motion_13405_law_kid_reverse_0001_19
+  - first:
+      213: 2899573054067061167
+    second: motion_13405_law_kid_reverse_0001_20
+  - first:
+      213: -1993155640777744707
+    second: motion_13405_law_kid_reverse_0001_21
+  - first:
+      213: 7713364227540415231
+    second: motion_13405_law_kid_reverse_0001_22
+  - first:
+      213: -7661819066635466687
+    second: motion_13405_law_kid_reverse_0001_23
+  - first:
+      213: 951026854378266283
+    second: motion_13405_law_kid_reverse_0001_24
+  - first:
+      213: -8721277068135507916
+    second: motion_13405_law_kid_reverse_0001_25
+  - first:
+      213: -7477468318505802400
+    second: motion_13405_law_kid_reverse_0001_26
+  - first:
+      213: 2562539629288706459
+    second: motion_13405_law_kid_reverse_0001_27
+  - first:
+      213: 6997401145238629176
+    second: motion_13405_law_kid_reverse_0001_28
+  - first:
+      213: 7061819991464359315
+    second: motion_13405_law_kid_reverse_0001_29
+  - first:
+      213: 5828674158624649979
+    second: motion_13405_law_kid_reverse_0001_30
+  - first:
+      213: 234994742341892400
+    second: motion_13405_law_kid_reverse_0001_31
+  - first:
+      213: -7847625164876490530
+    second: motion_13405_law_kid_reverse_0001_32
+  - first:
+      213: 7923335454130366228
+    second: motion_13405_law_kid_reverse_0001_33
+  - first:
+      213: -3775541218939831482
+    second: motion_13405_law_kid_reverse_0001_34
+  - first:
+      213: 370215577441033859
+    second: motion_13405_law_kid_reverse_0001_35
+  - first:
+      213: -2149082097639125761
+    second: motion_13405_law_kid_reverse_0001_36
+  - first:
+      213: -1163621660549876219
+    second: motion_13405_law_kid_reverse_0001_37
+  - first:
+      213: -4734553665343476398
+    second: motion_13405_law_kid_reverse_0001_38
+  - first:
+      213: 7795770434313346133
+    second: motion_13405_law_kid_reverse_0001_39
+  - first:
+      213: 2333703665410484701
+    second: motion_13405_law_kid_reverse_0001_40
+  - first:
+      213: 5756145596515350521
+    second: motion_13405_law_kid_reverse_0001_41
+  - first:
+      213: 7253352751583413306
+    second: motion_13405_law_kid_reverse_0001_42
+  - first:
+      213: -6539657113064569063
+    second: motion_13405_law_kid_reverse_0001_43
+  - first:
+      213: 5795120757351398263
+    second: motion_13405_law_kid_reverse_0001_44
+  - first:
+      213: -2115658301250765633
+    second: motion_13405_law_kid_reverse_0001_45
+  - first:
+      213: 6544600888891236192
+    second: motion_13405_law_kid_reverse_0001_46
+  - first:
+      213: -5612562031727574196
+    second: motion_13405_law_kid_reverse_0001_47
+  - first:
+      213: 6529046343314123744
+    second: motion_13405_law_kid_reverse_0001_48
+  - first:
+      213: 6974119843650605148
+    second: motion_13405_law_kid_reverse_0001_49
+  - first:
+      213: -3288594993975370571
+    second: motion_13405_law_kid_reverse_0001_50
+  - first:
+      213: 6657397440322597348
+    second: motion_13405_law_kid_reverse_0001_51
+  - first:
+      213: 7705262174076582014
+    second: motion_13405_law_kid_reverse_0001_52
+  - first:
+      213: -8506212126573112287
+    second: motion_13405_law_kid_reverse_0001_53
+  - first:
+      213: 2620566431084217898
+    second: motion_13405_law_kid_reverse_0001_54
+  - first:
+      213: -8651094448226330024
+    second: motion_13405_law_kid_reverse_0001_55
+  - first:
+      213: -2829445643673333922
+    second: motion_13405_law_kid_reverse_0001_56
+  - first:
+      213: 1517519511485265925
+    second: motion_13405_law_kid_reverse_0001_57
+  - first:
+      213: 5865267003598542149
+    second: motion_13405_law_kid_reverse_0001_58
+  - first:
+      213: -1251707348643178032
+    second: motion_13405_law_kid_reverse_0001_59
+  - first:
+      213: -5744920847549651352
+    second: motion_13405_law_kid_reverse_0001_60
+  - first:
+      213: 4667515328229617076
+    second: motion_13405_law_kid_reverse_0001_61
+  - first:
+      213: -735163963485541874
+    second: motion_13405_law_kid_reverse_0001_62
+  - first:
+      213: 3177520223530172951
+    second: motion_13405_law_kid_reverse_0001_63
+  - first:
+      213: -9168436850480728402
+    second: motion_13405_law_kid_reverse_0001_64
+  - first:
+      213: 3722832911614254840
+    second: motion_13405_law_kid_reverse_0001_65
+  - first:
+      213: -88093291489127454
+    second: motion_13405_law_kid_reverse_0001_66
+  - first:
+      213: -5976587006402457949
+    second: motion_13405_law_kid_reverse_0001_67
+  - first:
+      213: -4237408252130422217
+    second: motion_13405_law_kid_reverse_0001_68
+  - first:
+      213: 2771745092413938888
+    second: motion_13405_law_kid_reverse_0001_69
+  - first:
+      213: -4251078415000021272
+    second: motion_13405_law_kid_reverse_0001_70
+  - first:
+      213: -377730032703521279
+    second: motion_13405_law_kid_reverse_0001_71
+  - first:
+      213: 75050798383748839
+    second: motion_13405_law_kid_reverse_0001_72
+  - first:
+      213: -8340393668351432844
+    second: motion_13405_law_kid_reverse_0001_73
+  - first:
+      213: 2047655352003351848
+    second: motion_13405_law_kid_reverse_0001_74
+  - first:
+      213: -8202325078825506778
+    second: motion_13405_law_kid_reverse_0001_75
+  - first:
+      213: -7048769265570654810
+    second: motion_13405_law_kid_reverse_0001_76
+  - first:
+      213: -5650298643072431507
+    second: motion_13405_law_kid_reverse_0001_77
+  - first:
+      213: 2967057222989525650
+    second: motion_13405_law_kid_reverse_0001_78
+  - first:
+      213: 2591834474734195614
+    second: motion_13405_law_kid_reverse_0001_79
+  - first:
+      213: -8121096928605776942
+    second: motion_13405_law_kid_reverse_0001_80
+  - first:
+      213: 5961647346340642381
+    second: motion_13405_law_kid_reverse_0001_81
+  - first:
+      213: 3444613073925385396
+    second: motion_13405_law_kid_reverse_0001_82
+  - first:
+      213: 7526098779696435909
+    second: motion_13405_law_kid_reverse_0001_83
+  - first:
+      213: -4227460984775696141
+    second: motion_13405_law_kid_reverse_0001_84
+  - first:
+      213: -3244225362022091227
+    second: motion_13405_law_kid_reverse_0001_85
+  - first:
+      213: 3491234417043545014
+    second: motion_13405_law_kid_reverse_0001_86
+  - first:
+      213: -2289283260645488587
+    second: motion_13405_law_kid_reverse_0001_87
+  - first:
+      213: -4021121000439655348
+    second: motion_13405_law_kid_reverse_0001_88
+  - first:
+      213: -9065408510213576198
+    second: motion_13405_law_kid_reverse_0001_89
+  - first:
+      213: 183719184280325097
+    second: motion_13405_law_kid_reverse_0001_90
+  - first:
+      213: 5350359783054983701
+    second: motion_13405_law_kid_reverse_0001_91
+  - first:
+      213: 8033642140802833869
+    second: motion_13405_law_kid_reverse_0001_92
+  - first:
+      213: -1858550367759141604
+    second: motion_13405_law_kid_reverse_0001_93
+  - first:
+      213: -1371811644286504119
+    second: motion_13405_law_kid_reverse_0001_94
+  - first:
+      213: 1261363600851878582
+    second: motion_13405_law_kid_reverse_0001_95
+  - first:
+      213: 8698993444130525597
+    second: motion_13405_law_kid_reverse_0001_96
+  - first:
+      213: 5393024449695008098
+    second: motion_13405_law_kid_reverse_0001_97
+  - first:
+      213: 3946721859573132182
+    second: motion_13405_law_kid_reverse_0001_98
+  - first:
+      213: 6219492917796315358
+    second: motion_13405_law_kid_reverse_0001_99
+  - first:
+      213: 1997478993881197178
+    second: motion_13405_law_kid_reverse_0001_100
+  - first:
+      213: 7011439766968344123
+    second: motion_13405_law_kid_reverse_0001_101
+  - first:
+      213: 5135837988219092959
+    second: motion_13405_law_kid_reverse_0001_102
+  - first:
+      213: -6062991275142098996
+    second: motion_13405_law_kid_reverse_0001_103
+  - first:
+      213: -2231301713889640218
+    second: motion_13405_law_kid_reverse_0001_104
+  - first:
+      213: -3131182659737322558
+    second: motion_13405_law_kid_reverse_0001_105
+  - first:
+      213: -1857432369304758052
+    second: motion_13405_law_kid_reverse_0001_106
+  - first:
+      213: -3127687095483405887
+    second: motion_13405_law_kid_reverse_0001_107
+  - first:
+      213: -7221341585819665373
+    second: motion_13405_law_kid_reverse_0001_108
+  - first:
+      213: -8826047421377168554
+    second: motion_13405_law_kid_reverse_0001_109
+  - first:
+      213: -136169100464479201
+    second: motion_13405_law_kid_reverse_0001_110
+  - first:
+      213: -4671881418966807496
+    second: motion_13405_law_kid_reverse_0001_111
+  - first:
+      213: -7572062576991113468
+    second: motion_13405_law_kid_reverse_0001_112
+  - first:
+      213: -3410469210562543845
+    second: motion_13405_law_kid_reverse_0001_113
+  - first:
+      213: 5265033495103683249
+    second: motion_13405_law_kid_reverse_0001_114
+  - first:
+      213: -4473080127441289878
+    second: motion_13405_law_kid_reverse_0001_115
+  - first:
+      213: 1500115564406280824
+    second: motion_13405_law_kid_reverse_0001_116
+  - first:
+      213: -24642441824695086
+    second: motion_13405_law_kid_reverse_0001_117
+  - first:
+      213: 5019126073786251406
+    second: motion_13405_law_kid_reverse_0001_118
+  - first:
+      213: 1578306439021783122
+    second: motion_13405_law_kid_reverse_0001_119
+  - first:
+      213: 4714059244205493754
+    second: motion_13405_law_kid_reverse_0001_120
+  - first:
+      213: -1272101399300608643
+    second: motion_13405_law_kid_reverse_0001_121
+  - first:
+      213: -5732192943948154509
+    second: motion_13405_law_kid_reverse_0001_122
+  - first:
+      213: 1325551923206297393
+    second: motion_13405_law_kid_reverse_0001_123
+  - first:
+      213: -8378263236159032119
+    second: motion_13405_law_kid_reverse_0001_124
+  - first:
+      213: 5108630115361449953
+    second: motion_13405_law_kid_reverse_0001_125
+  - first:
+      213: -982307722274347877
+    second: motion_13405_law_kid_reverse_0001_126
+  - first:
+      213: 7773873038330322119
+    second: motion_13405_law_kid_reverse_0001_127
+  - first:
+      213: -1476150618580066904
+    second: motion_13405_law_kid_reverse_0001_128
+  - first:
+      213: 2363596451512114494
+    second: motion_13405_law_kid_reverse_0001_129
+  - first:
+      213: 7463563171768195329
+    second: motion_13405_law_kid_reverse_0001_130
+  - first:
+      213: -3836072157433245282
+    second: motion_13405_law_kid_reverse_0001_131
+  - first:
+      213: -5168410271848442509
+    second: motion_13405_law_kid_reverse_0001_132
+  - first:
+      213: 6032565073626439027
+    second: motion_13405_law_kid_reverse_0001_133
+  - first:
+      213: -2524116846334780595
+    second: motion_13405_law_kid_reverse_0001_134
+  - first:
+      213: -4873573936773922075
+    second: motion_13405_law_kid_reverse_0001_135
+  - first:
+      213: -7771031983743273265
+    second: motion_13405_law_kid_reverse_0001_136
+  - first:
+      213: -6685447731785646862
+    second: motion_13405_law_kid_reverse_0001_137
+  - first:
+      213: -6884769454774973182
+    second: motion_13405_law_kid_reverse_0001_138
+  - first:
+      213: 5381517256132707131
+    second: motion_13405_law_kid_reverse_0001_139
+  - first:
+      213: 6492717219922229478
+    second: motion_13405_law_kid_reverse_0001_140
+  - first:
+      213: 6044843183472309337
+    second: motion_13405_law_kid_reverse_0001_141
+  - first:
+      213: 4773746993902034110
+    second: motion_13405_law_kid_reverse_0001_142
+  - first:
+      213: -454900211203165619
+    second: motion_13405_law_kid_reverse_0001_143
+  - first:
+      213: 2894945025891105413
+    second: motion_13405_law_kid_reverse_0001_144
+  - first:
+      213: 5144314027615506323
+    second: motion_13405_law_kid_reverse_0001_145
+  - first:
+      213: -983612173250438765
+    second: motion_13405_law_kid_reverse_0001_146
+  - first:
+      213: -376393577757907841
+    second: motion_13405_law_kid_reverse_0001_147
+  - first:
+      213: -1532651177374429897
+    second: motion_13405_law_kid_reverse_0001_148
+  - first:
+      213: -1047713336118546196
+    second: motion_13405_law_kid_reverse_0001_149
+  - first:
+      213: -4538757977425015483
+    second: motion_13405_law_kid_reverse_0001_150
+  - first:
+      213: -8480988066383442404
+    second: motion_13405_law_kid_reverse_0001_151
+  - first:
+      213: -5925821257439476684
+    second: motion_13405_law_kid_reverse_0001_152
+  - first:
+      213: 2642965817024166095
+    second: motion_13405_law_kid_reverse_0001_153
+  - first:
+      213: -7988216958547640839
+    second: motion_13405_law_kid_reverse_0001_154
+  - first:
+      213: -3683905544907200944
+    second: motion_13405_law_kid_reverse_0001_155
+  - first:
+      213: 1302019779491786137
+    second: motion_13405_law_kid_reverse_0001_156
+  - first:
+      213: 868118990353482361
+    second: motion_13405_law_kid_reverse_0001_157
+  - first:
+      213: -9142966705027745723
+    second: motion_13405_law_kid_reverse_0001_158
+  - first:
+      213: 2786341350758460372
+    second: motion_13405_law_kid_reverse_0001_159
+  - first:
+      213: -4115946917876709576
+    second: motion_13405_law_kid_reverse_0001_160
+  - first:
+      213: -7672658567667021541
+    second: motion_13405_law_kid_reverse_0001_161
+  - first:
+      213: 2634393789350404273
+    second: motion_13405_law_kid_reverse_0001_162
+  - first:
+      213: 2197637607840917725
+    second: motion_13405_law_kid_reverse_0001_163
+  - first:
+      213: 4643550652779593120
+    second: motion_13405_law_kid_reverse_0001_164
+  - first:
+      213: 9103539206077152846
+    second: motion_13405_law_kid_reverse_0001_165
+  - first:
+      213: -4404100185600642614
+    second: motion_13405_law_kid_reverse_0001_166
+  - first:
+      213: 1234686950684199189
+    second: motion_13405_law_kid_reverse_0001_167
+  - first:
+      213: 5298308185084990050
+    second: motion_13405_law_kid_reverse_0001_168
+  - first:
+      213: 3262071076944301931
+    second: motion_13405_law_kid_reverse_0001_169
+  - first:
+      213: -230672004374298571
+    second: motion_13405_law_kid_reverse_0001_170
+  - first:
+      213: -5580513589869647839
+    second: motion_13405_law_kid_reverse_0001_171
+  - first:
+      213: -9144368479902031725
+    second: motion_13405_law_kid_reverse_0001_172
+  - first:
+      213: 6981010419773766914
+    second: motion_13405_law_kid_reverse_0001_173
+  - first:
+      213: 1249582385819508848
+    second: motion_13405_law_kid_reverse_0001_174
+  - first:
+      213: 1763049337473588089
+    second: motion_13405_law_kid_reverse_0001_175
+  - first:
+      213: -6160318531878952761
+    second: motion_13405_law_kid_reverse_0001_176
+  - first:
+      213: 7950727906254596039
+    second: motion_13405_law_kid_reverse_0001_177
+  - first:
+      213: -6219930814085571071
+    second: motion_13405_law_kid_reverse_0001_178
+  - first:
+      213: -548797423243420595
+    second: motion_13405_law_kid_reverse_0001_179
+  - first:
+      213: 7418184716164167168
+    second: motion_13405_law_kid_reverse_0001_180
+  - first:
+      213: -6289995309769205293
+    second: motion_13405_law_kid_reverse_0001_181
+  - first:
+      213: -514267610060675600
+    second: motion_13405_law_kid_reverse_0001_182
+  - first:
+      213: -9216875399969650924
+    second: motion_13405_law_kid_reverse_0001_183
+  - first:
+      213: 4323491239743867834
+    second: motion_13405_law_kid_reverse_0001_184
+  - first:
+      213: -6753316275001729158
+    second: motion_13405_law_kid_reverse_0001_185
+  - first:
+      213: -2370135088600094630
+    second: motion_13405_law_kid_reverse_0001_186
+  - first:
+      213: 822270576861234983
+    second: motion_13405_law_kid_reverse_0001_187
+  - first:
+      213: -5558893324670854905
+    second: motion_13405_law_kid_reverse_0001_188
+  - first:
+      213: -2104412603123775727
+    second: motion_13405_law_kid_reverse_0001_189
+  - first:
+      213: -7612726662095100841
+    second: motion_13405_law_kid_reverse_0001_190
+  - first:
+      213: 7666600211416803992
+    second: motion_13405_law_kid_reverse_0001_191
+  - first:
+      213: -548497812947989869
+    second: motion_13405_law_kid_reverse_0001_192
+  - first:
+      213: -1570200594726721798
+    second: motion_13405_law_kid_reverse_0001_193
+  - first:
+      213: 3372049559775570260
+    second: motion_13405_law_kid_reverse_0001_194
+  - first:
+      213: 1492343389367814340
+    second: motion_13405_law_kid_reverse_0001_195
+  - first:
+      213: 7508646753949454152
+    second: motion_13405_law_kid_reverse_0001_196
+  - first:
+      213: 38730618604933228
+    second: motion_13405_law_kid_reverse_0001_197
+  - first:
+      213: -4812502534611351976
+    second: motion_13405_law_kid_reverse_0001_198
+  - first:
+      213: -6984286109802383525
+    second: motion_13405_law_kid_reverse_0001_199
+  - first:
+      213: -8210001813213555504
+    second: motion_13405_law_kid_reverse_0001_200
+  - first:
+      213: 5984090776630108405
+    second: motion_13405_law_kid_reverse_0001_201
+  - first:
+      213: 8311437858487165421
+    second: motion_13405_law_kid_reverse_0001_202
+  - first:
+      213: -2017144549825499670
+    second: motion_13405_law_kid_reverse_0001_203
+  - first:
+      213: 4158129797088851790
+    second: motion_13405_law_kid_reverse_0001_204
+  - first:
+      213: 2602593925572967260
+    second: motion_13405_law_kid_reverse_0001_205
+  - first:
+      213: -5554739617086758393
+    second: motion_13405_law_kid_reverse_0001_206
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 785
+        width: 263
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0fa84826bfd3580800000000000000
+      internalID: -8845637692536721178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 786
+        width: 269
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8be748d5937ab6a0800000000000000
+      internalID: -6432702030329418869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_2
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 831
+        width: 301
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe06fdf9bd9ce7e0800000000000000
+      internalID: -1734838334289211650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_3
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 839
+        width: 165
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003d8df97ef2a6820800000000000000
+      internalID: 2912192780914184960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_4
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1010
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d035deec354346840800000000000000
+      internalID: 5216351802960466701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_5
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 998
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a3db579b826b1d0800000000000000
+      internalID: -3335433697011877294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_6
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 989
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410a23c2c7c8aa920800000000000000
+      internalID: 3002366566541205524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_7
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 977
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78275ad2274624500800000000000000
+      internalID: 378975760207409799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_8
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 967
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0394f474bcdba29f0800000000000000
+      internalID: -492372528471258832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_9
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 959
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fc28594b11de1e0800000000000000
+      internalID: -2167056378395177096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_10
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 951
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10552da958fc7df60800000000000000
+      internalID: 8059138230937867521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_11
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 942
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdf17494c4371a60800000000000000
+      internalID: 7644636911393439217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_12
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 935
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdf25283db272700800000000000000
+      internalID: 515428869781782002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_13
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 927
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40ccd46396702e50800000000000000
+      internalID: 6782551414244425802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 854
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cddc95f04e0f9f30800000000000000
+      internalID: 4584398617847848385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_15
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 829
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d882e6bd1403410800000000000000
+      internalID: 1454735090342464883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_16
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 636
+        width: 296
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75165037ed3084b90800000000000000
+      internalID: -7257546545560198825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_17
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 651
+        width: 163
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c713c937cf09f20800000000000000
+      internalID: 3427516889900874850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_18
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 823
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8516423530960b30800000000000000
+      internalID: 4253245456249132431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_19
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 808
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5a5cb5c31371110800000000000000
+      internalID: 1231507158416598444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_20
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 798
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa136ff745a5d3820800000000000000
+      internalID: 2899573054067061167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_21
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 787
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe50614183e654e0800000000000000
+      internalID: -1993155640777744707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 568
+        width: 247
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff270c5d5ef5b0b60800000000000000
+      internalID: 7713364227540415231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_23
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 775
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148c0e72720cba590800000000000000
+      internalID: -7661819066635466687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 575
+        width: 262
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baed213a2e9b23d00800000000000000
+      internalID: 951026854378266283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_25
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 779
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438d50eb6bcc7f680800000000000000
+      internalID: -8721277068135507916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_26
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 776
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06569308e22ba3890800000000000000
+      internalID: -7477468318505802400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_27
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 760
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b915d964738ff8320800000000000000
+      internalID: 2562539629288706459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_28
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 758
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b2cdc8443cb1160800000000000000
+      internalID: 6997401145238629176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_29
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 766
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3953cfafddf900260800000000000000
+      internalID: 7061819991464359315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_30
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 748
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf23250044c93e050800000000000000
+      internalID: 5828674158624649979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_31
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 745
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0397f5d197ed24300800000000000000
+      internalID: 234994742341892400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_32
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 757
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8de15bd72a71390800000000000000
+      internalID: -7847625164876490530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_33
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 748
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417e2bbad9755fd60800000000000000
+      internalID: 7923335454130366228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 731
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bfe3ad3459a9bc0800000000000000
+      internalID: -3775541218939831482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_35
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 731
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e50bf2b15432500800000000000000
+      internalID: 370215577441033859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_36
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 740
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc8111f73dec22e0800000000000000
+      internalID: -2149082097639125761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_37
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 731
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50679fdc34cf9dfe0800000000000000
+      internalID: -1163621660549876219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_38
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 724
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dad2fa68c7b4eb0800000000000000
+      internalID: -4734553665343476398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 718
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c5dbff7e3203c60800000000000000
+      internalID: 7795770434313346133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_40
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 717
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9a1d38e1bf26020800000000000000
+      internalID: 2333703665410484701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_41
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 716
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7f9b33cefe1ef40800000000000000
+      internalID: 5756145596515350521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_42
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 707
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a344bbcc5e519a460800000000000000
+      internalID: 7253352751583413306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_43
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 704
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9170ee611887e35a0800000000000000
+      internalID: -6539657113064569063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_44
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 707
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b3c6cff976c6050800000000000000
+      internalID: 5795120757351398263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_45
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 701
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc77d7fbfba3a2e0800000000000000
+      internalID: -2115658301250765633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_46
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 682
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f511b65d713da50800000000000000
+      internalID: 6544600888891236192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_47
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 695
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43880b919c2c12b0800000000000000
+      internalID: -5612562031727574196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_48
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 693
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb2d4f8e05db9a50800000000000000
+      internalID: 6529046343314123744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_49
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 685
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c501ccd1c0d09c060800000000000000
+      internalID: 6974119843650605148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_50
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 674
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc58f5d6409c52d0800000000000000
+      internalID: -3288594993975370571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_51
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 676
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1f50713b3d36c50800000000000000
+      internalID: 6657397440322597348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_52
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 642
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78b6138f179eea60800000000000000
+      internalID: 7705262174076582014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 661
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1245d73832dd3f980800000000000000
+      internalID: -8506212126573112287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_54
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 634
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a268613e84f1e5420800000000000000
+      internalID: 2620566431084217898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_55
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 636
+        width: 52
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a9d1f4f6321f780800000000000000
+      internalID: -8651094448226330024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_56
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 636
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f03999d2acbb8d0800000000000000
+      internalID: -2829445643673333922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_57
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 635
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508bdcd94ff4f0510800000000000000
+      internalID: 1517519511485265925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_58
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 635
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5459f46a34d956150800000000000000
+      internalID: 5865267003598542149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_59
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 639
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d990695cca01aee0800000000000000
+      internalID: -1251707348643178032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_60
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 639
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86621135de0f540b0800000000000000
+      internalID: -5744920847549651352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_61
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 616
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd21d2267856c040800000000000000
+      internalID: 4667515328229617076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_62
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 615
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aa6c0354c2cc5f0800000000000000
+      internalID: -735163963485541874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_63
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 434
+        width: 266
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712c22edec1d81c20800000000000000
+      internalID: 3177520223530172951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_64
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 470
+        width: 197
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6be7dc24b23c080800000000000000
+      internalID: -9168436850480728402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_65
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 589
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe96e60fc82aa330800000000000000
+      internalID: 3722832911614254840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_66
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 589
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e312bd3e9707cef0800000000000000
+      internalID: -88093291489127454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_67
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 578
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae8a2278c5ee0da0800000000000000
+      internalID: -5976587006402457949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_68
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 560
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732157b35a3b135c0800000000000000
+      internalID: -4237408252130422217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_69
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 394
+        width: 235
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccd349e977377620800000000000000
+      internalID: 2771745092413938888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_70
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 372
+        width: 259
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6d79964b22105c0800000000000000
+      internalID: -4251078415000021272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_71
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 563
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10eb5bb598802caf0800000000000000
+      internalID: -377730032703521279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_72
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 545
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6d5c1bd42aa0100800000000000000
+      internalID: 75050798383748839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_73
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 544
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477eefed528f04c80800000000000000
+      internalID: -8340393668351432844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_74
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 533
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825569691bbba6c10800000000000000
+      internalID: 2047655352003351848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_75
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 532
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628e3507ccc7b2e80800000000000000
+      internalID: -8202325078825506778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_76
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 514
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a558fde2bdbd2e90800000000000000
+      internalID: -7048769265570654810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_77
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6acbc8125b1691b0800000000000000
+      internalID: -5650298643072431507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_78
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 527
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2923c8cf2da1d2920800000000000000
+      internalID: 2967057222989525650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_79
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 502
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93942ff8bb08f320800000000000000
+      internalID: 2591834474734195614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_80
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 484
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3dfefee511c4f80800000000000000
+      internalID: -8121096928605776942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_81
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 493
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4eb8c2eca60cb250800000000000000
+      internalID: 5961647346340642381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_82
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 473
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc2df32759bdcf20800000000000000
+      internalID: 3444613073925385396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_83
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 472
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c29e4417f2127860800000000000000
+      internalID: 7526098779696435909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_84
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 481
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f02f94e1aa0555c0800000000000000
+      internalID: -4227460984775696141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_85
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 457
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5263c5dc8323af2d0800000000000000
+      internalID: -3244225362022091227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_86
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 460
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb9f77743b537030800000000000000
+      internalID: 3491234417043545014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_87
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 283
+        width: 156
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5384afae005da30e0800000000000000
+      internalID: -2289283260645488587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_88
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 425
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c445ee141cb1238c0800000000000000
+      internalID: -4021121000439655348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_89
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 436
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9aae49df2313280800000000000000
+      internalID: -9065408510213576198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_90
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 261
+        width: 235
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb047def93bc8200800000000000000
+      internalID: 183719184280325097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_91
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 425
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512478110eb404a40800000000000000
+      internalID: 5350359783054983701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_92
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 410
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd592786fa3d7f60800000000000000
+      internalID: 8033642140802833869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_93
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 417
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c157b8c994a1536e0800000000000000
+      internalID: -1858550367759141604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_94
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 398
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943fe83e39856fce0800000000000000
+      internalID: -1371811644286504119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_95
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 394
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b242611383418110800000000000000
+      internalID: 1261363600851878582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_96
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 383
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d911adcb27809b870800000000000000
+      internalID: 8698993444130525597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_97
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 391
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265411dd92fd7da40800000000000000
+      internalID: 5393024449695008098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_98
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 206
+        width: 157
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b2023ee9295c630800000000000000
+      internalID: 3946721859573132182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_99
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 373
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0ae404bd3105650800000000000000
+      internalID: 6219492917796315358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_100
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 383
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ae794df8878bb10800000000000000
+      internalID: 1997478993881197178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_101
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 378
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e1232e153ad4160800000000000000
+      internalID: 7011439766968344123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_102
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 377
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf71cf7079264740800000000000000
+      internalID: 5135837988219092959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_103
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 381
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfccd0fe8debdba0800000000000000
+      internalID: -6062991275142098996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_104
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 271
+        width: 251
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e043e4c9e2d801e0800000000000000
+      internalID: -2231301713889640218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_105
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 334
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb7e7fe5fdcb84d0800000000000000
+      internalID: -3131182659737322558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_106
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 368
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd81749e9131936e0800000000000000
+      internalID: -1857432369304758052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_107
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 336
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9632968293894d0800000000000000
+      internalID: -3127687095483405887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_108
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 363
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c76778614a8cb90800000000000000
+      internalID: -7221341585819665373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_109
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 312
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bbf06f1a4938580800000000000000
+      internalID: -8826047421377168554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_110
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 350
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f142e61bcea3c1ef0800000000000000
+      internalID: -136169100464479201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_111
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 351
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c4cb52a942a2fb0800000000000000
+      internalID: -4671881418966807496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_112
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 345
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f6a696431aae690800000000000000
+      internalID: -7572062576991113468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_113
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 348
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f330b82549ba0d0800000000000000
+      internalID: -3410469210562543845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_114
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 345
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba30368118211940800000000000000
+      internalID: 5265033495103683249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_115
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 340
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6db000d25d6ce1c0800000000000000
+      internalID: -4473080127441289878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_116
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 331
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872987a682b71d410800000000000000
+      internalID: 1500115564406280824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_117
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 322
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc04a864d378aff0800000000000000
+      internalID: -24642441824695086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_118
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 328
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e883ee6529487a540800000000000000
+      internalID: 5019126073786251406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_119
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 313
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258ea94185547e510800000000000000
+      internalID: 1578306439021783122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_120
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 291
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdc30d08e3bb6140800000000000000
+      internalID: 4714059244205493754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_121
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 278
+        width: 98
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7de8686486985ee0800000000000000
+      internalID: -1272101399300608643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_122
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 294
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37938ff43e82370b0800000000000000
+      internalID: -5732192943948154509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_123
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 283
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1371c0a737e456210800000000000000
+      internalID: 1325551923206297393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_124
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 204
+        width: 216
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4b6060afd6abb80800000000000000
+      internalID: -8378263236159032119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_125
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 251
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e76bf2f50085e640800000000000000
+      internalID: 5108630115361449953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_126
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 279
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94e6b1c4542e52f0800000000000000
+      internalID: -982307722274347877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_127
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 270
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc5aa2375852eb60800000000000000
+      internalID: 7773873038330322119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_128
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 271
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8addf8855d8a38be0800000000000000
+      internalID: -1476150618580066904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_129
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 270
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dd0c4237e2dc020800000000000000
+      internalID: 2363596451512114494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_130
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 268
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1095eeb3927e39760800000000000000
+      internalID: 7463563171768195329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_131
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 265
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91dc6b72b883cac0800000000000000
+      internalID: -3836072157433245282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_132
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 179
+        width: 151
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3755efcbd3e1648b0800000000000000
+      internalID: -5168410271848442509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_133
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 171
+        width: 139
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d9ee9f8f9f7b350800000000000000
+      internalID: 6032565073626439027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_134
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 202
+        width: 219
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bd2a20a1988fcd0800000000000000
+      internalID: -2524116846334780595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_135
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 217
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e20df763569d5cb0800000000000000
+      internalID: -4873573936773922075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_136
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 254
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc678ce559fb72490800000000000000
+      internalID: -7771031983743273265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_137
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 234
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcb97e75b48833a0800000000000000
+      internalID: -6685447731785646862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_138
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 240
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d8daf68a26470a0800000000000000
+      internalID: -6884769454774973182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_139
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 224
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33cc649e6dfeaa40800000000000000
+      internalID: 5381517256132707131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_140
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 229
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8b68069e3ca1a50800000000000000
+      internalID: 6492717219922229478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_141
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 224
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954fec139d893e350800000000000000
+      internalID: 6044843183472309337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_142
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 223
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc9e1b3991cf3240800000000000000
+      internalID: 4773746993902034110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_143
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 205
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d423cf60baedfa9f0800000000000000
+      internalID: -454900211203165619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_144
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 218
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58af588b929ec2820800000000000000
+      internalID: 2894945025891105413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_145
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 208
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fc4153a56446740800000000000000
+      internalID: 5144314027615506323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_146
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 190
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39958a890f18952f0800000000000000
+      internalID: -983612173250438765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_147
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 202
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7460060908c6caf0800000000000000
+      internalID: -376393577757907841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_148
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 197
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d4300efddeabae0800000000000000
+      internalID: -1532651177374429897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_149
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 183
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0f6369546c571f0800000000000000
+      internalID: -1047713336118546196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_150
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 194
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d8c1abaa71301c0800000000000000
+      internalID: -4538757977425015483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_151
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 199
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e43eea94a7d4a80800000000000000
+      internalID: -8480988066383442404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_152
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 160
+        width: 103
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4348cd376f043cda0800000000000000
+      internalID: -5925821257439476684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_153
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 167
+        width: 70
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8b9355863bda420800000000000000
+      internalID: 2642965817024166095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_154
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 193
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd3405eff6242190800000000000000
+      internalID: -7988216958547640839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_155
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 183
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056e6b1dc6320ecc0800000000000000
+      internalID: -3683905544907200944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_156
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 165
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99de32f4714b11210800000000000000
+      internalID: 1302019779491786137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_157
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 189
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9724aca4f9d2c0c00800000000000000
+      internalID: 868118990353482361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_158
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 152
+        width: 105
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548f8992938ad1180800000000000000
+      internalID: -9142966705027745723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_159
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 141
+        width: 177
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dba0f222b21ba620800000000000000
+      internalID: 2786341350758460372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_160
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 184
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837489dd51831e6c0800000000000000
+      internalID: -4115946917876709576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_161
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 153
+        width: 107
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1989572fad358590800000000000000
+      internalID: -7672658567667021541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_162
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 169
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0e9bc913f3f8420800000000000000
+      internalID: 2634393789350404273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_163
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 122
+        width: 187
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8a560c2c39f7e10800000000000000
+      internalID: 2197637607840917725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_164
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 134
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adf57357b4317040800000000000000
+      internalID: 4643550652779593120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_165
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 127
+        width: 137
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ef111eca4465e70800000000000000
+      internalID: 9103539206077152846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_166
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 163
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1ba02173e71e2c0800000000000000
+      internalID: -4404100185600642614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_167
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 158
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51987507d3d722110800000000000000
+      internalID: 1234686950684199189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_168
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 164
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2621982093f578940800000000000000
+      internalID: 5298308185084990050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_169
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 168
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f475d7c54354d20800000000000000
+      internalID: 3262071076944301931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_170
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 154
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53084afb80d7cccf0800000000000000
+      internalID: -230672004374298571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_171
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 124
+        width: 116
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1286493f4780e82b0800000000000000
+      internalID: -5580513589869647839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_172
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 111
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3902924015da81180800000000000000
+      internalID: -9144368479902031725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_173
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 106
+        width: 181
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d7ae36df781e060800000000000000
+      internalID: 6981010419773766914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_174
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 132
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0706b503f88675110800000000000000
+      internalID: 1249582385819508848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_175
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 108
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bd999080c977810800000000000000
+      internalID: 1763049337473588089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_176
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 128
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0691c1fe6228aa0800000000000000
+      internalID: -6160318531878952761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_177
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 97
+        width: 88
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7271ee7e8a65e60800000000000000
+      internalID: 7950727906254596039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_178
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 94
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e5ce211ed5ea9a0800000000000000
+      internalID: -6219930814085571071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_179
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c1de5b6a74268f0800000000000000
+      internalID: -548797423243420595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_180
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 115
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006723532bfa2f660800000000000000
+      internalID: 7418184716164167168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_181
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 112
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d95552779275b8a0800000000000000
+      internalID: -6289995309769205293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_182
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 106
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f528d65554fcd8f0800000000000000
+      internalID: -514267610060675600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_183
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 97
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417c5c528a4171080800000000000000
+      internalID: -9216875399969650924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_184
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 97
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb427e2060200c30800000000000000
+      internalID: 4323491239743867834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_185
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 99
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f58a4e0a66742a0800000000000000
+      internalID: -6753316275001729158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_186
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 79
+        width: 86
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a586d46c1b69b1fd0800000000000000
+      internalID: -2370135088600094630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_187
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 81
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727c11babba496b00800000000000000
+      internalID: 822270576861234983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_188
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 112
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70914b639f7dad2b0800000000000000
+      internalID: -5558893324670854905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_189
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 110
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117c3f913ef9bc2e0800000000000000
+      internalID: -2104412603123775727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_190
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 98
+        width: 91
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7542dad4f692a5690800000000000000
+      internalID: -7612726662095100841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_191
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 111
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89aee6cd54c356a60800000000000000
+      internalID: 7666600211416803992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_192
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 79
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a082b25285368f0800000000000000
+      internalID: -548497812947989869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_193
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 79
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6e43dd0e6853ae0800000000000000
+      internalID: -1570200594726721798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_194
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4596f6f653debce20800000000000000
+      internalID: 3372049559775570260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_195
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 92
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8cb26e76ed5b410800000000000000
+      internalID: 1492343389367814340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_196
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 89
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f0c01b072143860800000000000000
+      internalID: 7508646753949454152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_197
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 80
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60d0ebda49998000800000000000000
+      internalID: 38730618604933228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_198
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 87
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856c2d7417e863db0800000000000000
+      internalID: -4812502534611351976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_199
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 95
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57b88799c4d21f90800000000000000
+      internalID: -6984286109802383525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_200
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 81
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4d71e69d6301e80800000000000000
+      internalID: -8210001813213555504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_201
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 87
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0aab43bd2cb0350800000000000000
+      internalID: 5984090776630108405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_202
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 87
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de16cd742b8285370800000000000000
+      internalID: 8311437858487165421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_203
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 82
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed290f18b9a104e0800000000000000
+      internalID: -2017144549825499670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_204
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 70
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47b27d0505a4b930800000000000000
+      internalID: 4158129797088851790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_205
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 83
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bbd5cd2654e1420800000000000000
+      internalID: 2602593925572967260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13405_law_kid_reverse_0001_206
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 81
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70221cf9fb999e2b0800000000000000
+      internalID: -5554739617086758393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_13405_law_kid_reverse_0001_0: -8845637692536721178
+      motion_13405_law_kid_reverse_0001_1: -6432702030329418869
+      motion_13405_law_kid_reverse_0001_10: 8059138230937867521
+      motion_13405_law_kid_reverse_0001_100: 1997478993881197178
+      motion_13405_law_kid_reverse_0001_101: 7011439766968344123
+      motion_13405_law_kid_reverse_0001_102: 5135837988219092959
+      motion_13405_law_kid_reverse_0001_103: -6062991275142098996
+      motion_13405_law_kid_reverse_0001_104: -2231301713889640218
+      motion_13405_law_kid_reverse_0001_105: -3131182659737322558
+      motion_13405_law_kid_reverse_0001_106: -1857432369304758052
+      motion_13405_law_kid_reverse_0001_107: -3127687095483405887
+      motion_13405_law_kid_reverse_0001_108: -7221341585819665373
+      motion_13405_law_kid_reverse_0001_109: -8826047421377168554
+      motion_13405_law_kid_reverse_0001_11: 7644636911393439217
+      motion_13405_law_kid_reverse_0001_110: -136169100464479201
+      motion_13405_law_kid_reverse_0001_111: -4671881418966807496
+      motion_13405_law_kid_reverse_0001_112: -7572062576991113468
+      motion_13405_law_kid_reverse_0001_113: -3410469210562543845
+      motion_13405_law_kid_reverse_0001_114: 5265033495103683249
+      motion_13405_law_kid_reverse_0001_115: -4473080127441289878
+      motion_13405_law_kid_reverse_0001_116: 1500115564406280824
+      motion_13405_law_kid_reverse_0001_117: -24642441824695086
+      motion_13405_law_kid_reverse_0001_118: 5019126073786251406
+      motion_13405_law_kid_reverse_0001_119: 1578306439021783122
+      motion_13405_law_kid_reverse_0001_12: 515428869781782002
+      motion_13405_law_kid_reverse_0001_120: 4714059244205493754
+      motion_13405_law_kid_reverse_0001_121: -1272101399300608643
+      motion_13405_law_kid_reverse_0001_122: -5732192943948154509
+      motion_13405_law_kid_reverse_0001_123: 1325551923206297393
+      motion_13405_law_kid_reverse_0001_124: -8378263236159032119
+      motion_13405_law_kid_reverse_0001_125: 5108630115361449953
+      motion_13405_law_kid_reverse_0001_126: -982307722274347877
+      motion_13405_law_kid_reverse_0001_127: 7773873038330322119
+      motion_13405_law_kid_reverse_0001_128: -1476150618580066904
+      motion_13405_law_kid_reverse_0001_129: 2363596451512114494
+      motion_13405_law_kid_reverse_0001_13: 6782551414244425802
+      motion_13405_law_kid_reverse_0001_130: 7463563171768195329
+      motion_13405_law_kid_reverse_0001_131: -3836072157433245282
+      motion_13405_law_kid_reverse_0001_132: -5168410271848442509
+      motion_13405_law_kid_reverse_0001_133: 6032565073626439027
+      motion_13405_law_kid_reverse_0001_134: -2524116846334780595
+      motion_13405_law_kid_reverse_0001_135: -4873573936773922075
+      motion_13405_law_kid_reverse_0001_136: -7771031983743273265
+      motion_13405_law_kid_reverse_0001_137: -6685447731785646862
+      motion_13405_law_kid_reverse_0001_138: -6884769454774973182
+      motion_13405_law_kid_reverse_0001_139: 5381517256132707131
+      motion_13405_law_kid_reverse_0001_14: 4584398617847848385
+      motion_13405_law_kid_reverse_0001_140: 6492717219922229478
+      motion_13405_law_kid_reverse_0001_141: 6044843183472309337
+      motion_13405_law_kid_reverse_0001_142: 4773746993902034110
+      motion_13405_law_kid_reverse_0001_143: -454900211203165619
+      motion_13405_law_kid_reverse_0001_144: 2894945025891105413
+      motion_13405_law_kid_reverse_0001_145: 5144314027615506323
+      motion_13405_law_kid_reverse_0001_146: -983612173250438765
+      motion_13405_law_kid_reverse_0001_147: -376393577757907841
+      motion_13405_law_kid_reverse_0001_148: -1532651177374429897
+      motion_13405_law_kid_reverse_0001_149: -1047713336118546196
+      motion_13405_law_kid_reverse_0001_15: 1454735090342464883
+      motion_13405_law_kid_reverse_0001_150: -4538757977425015483
+      motion_13405_law_kid_reverse_0001_151: -8480988066383442404
+      motion_13405_law_kid_reverse_0001_152: -5925821257439476684
+      motion_13405_law_kid_reverse_0001_153: 2642965817024166095
+      motion_13405_law_kid_reverse_0001_154: -7988216958547640839
+      motion_13405_law_kid_reverse_0001_155: -3683905544907200944
+      motion_13405_law_kid_reverse_0001_156: 1302019779491786137
+      motion_13405_law_kid_reverse_0001_157: 868118990353482361
+      motion_13405_law_kid_reverse_0001_158: -9142966705027745723
+      motion_13405_law_kid_reverse_0001_159: 2786341350758460372
+      motion_13405_law_kid_reverse_0001_16: -7257546545560198825
+      motion_13405_law_kid_reverse_0001_160: -4115946917876709576
+      motion_13405_law_kid_reverse_0001_161: -7672658567667021541
+      motion_13405_law_kid_reverse_0001_162: 2634393789350404273
+      motion_13405_law_kid_reverse_0001_163: 2197637607840917725
+      motion_13405_law_kid_reverse_0001_164: 4643550652779593120
+      motion_13405_law_kid_reverse_0001_165: 9103539206077152846
+      motion_13405_law_kid_reverse_0001_166: -4404100185600642614
+      motion_13405_law_kid_reverse_0001_167: 1234686950684199189
+      motion_13405_law_kid_reverse_0001_168: 5298308185084990050
+      motion_13405_law_kid_reverse_0001_169: 3262071076944301931
+      motion_13405_law_kid_reverse_0001_17: 3427516889900874850
+      motion_13405_law_kid_reverse_0001_170: -230672004374298571
+      motion_13405_law_kid_reverse_0001_171: -5580513589869647839
+      motion_13405_law_kid_reverse_0001_172: -9144368479902031725
+      motion_13405_law_kid_reverse_0001_173: 6981010419773766914
+      motion_13405_law_kid_reverse_0001_174: 1249582385819508848
+      motion_13405_law_kid_reverse_0001_175: 1763049337473588089
+      motion_13405_law_kid_reverse_0001_176: -6160318531878952761
+      motion_13405_law_kid_reverse_0001_177: 7950727906254596039
+      motion_13405_law_kid_reverse_0001_178: -6219930814085571071
+      motion_13405_law_kid_reverse_0001_179: -548797423243420595
+      motion_13405_law_kid_reverse_0001_18: 4253245456249132431
+      motion_13405_law_kid_reverse_0001_180: 7418184716164167168
+      motion_13405_law_kid_reverse_0001_181: -6289995309769205293
+      motion_13405_law_kid_reverse_0001_182: -514267610060675600
+      motion_13405_law_kid_reverse_0001_183: -9216875399969650924
+      motion_13405_law_kid_reverse_0001_184: 4323491239743867834
+      motion_13405_law_kid_reverse_0001_185: -6753316275001729158
+      motion_13405_law_kid_reverse_0001_186: -2370135088600094630
+      motion_13405_law_kid_reverse_0001_187: 822270576861234983
+      motion_13405_law_kid_reverse_0001_188: -5558893324670854905
+      motion_13405_law_kid_reverse_0001_189: -2104412603123775727
+      motion_13405_law_kid_reverse_0001_19: 1231507158416598444
+      motion_13405_law_kid_reverse_0001_190: -7612726662095100841
+      motion_13405_law_kid_reverse_0001_191: 7666600211416803992
+      motion_13405_law_kid_reverse_0001_192: -548497812947989869
+      motion_13405_law_kid_reverse_0001_193: -1570200594726721798
+      motion_13405_law_kid_reverse_0001_194: 3372049559775570260
+      motion_13405_law_kid_reverse_0001_195: 1492343389367814340
+      motion_13405_law_kid_reverse_0001_196: 7508646753949454152
+      motion_13405_law_kid_reverse_0001_197: 38730618604933228
+      motion_13405_law_kid_reverse_0001_198: -4812502534611351976
+      motion_13405_law_kid_reverse_0001_199: -6984286109802383525
+      motion_13405_law_kid_reverse_0001_2: -1734838334289211650
+      motion_13405_law_kid_reverse_0001_20: 2899573054067061167
+      motion_13405_law_kid_reverse_0001_200: -8210001813213555504
+      motion_13405_law_kid_reverse_0001_201: 5984090776630108405
+      motion_13405_law_kid_reverse_0001_202: 8311437858487165421
+      motion_13405_law_kid_reverse_0001_203: -2017144549825499670
+      motion_13405_law_kid_reverse_0001_204: 4158129797088851790
+      motion_13405_law_kid_reverse_0001_205: 2602593925572967260
+      motion_13405_law_kid_reverse_0001_206: -5554739617086758393
+      motion_13405_law_kid_reverse_0001_21: -1993155640777744707
+      motion_13405_law_kid_reverse_0001_22: 7713364227540415231
+      motion_13405_law_kid_reverse_0001_23: -7661819066635466687
+      motion_13405_law_kid_reverse_0001_24: 951026854378266283
+      motion_13405_law_kid_reverse_0001_25: -8721277068135507916
+      motion_13405_law_kid_reverse_0001_26: -7477468318505802400
+      motion_13405_law_kid_reverse_0001_27: 2562539629288706459
+      motion_13405_law_kid_reverse_0001_28: 6997401145238629176
+      motion_13405_law_kid_reverse_0001_29: 7061819991464359315
+      motion_13405_law_kid_reverse_0001_3: 2912192780914184960
+      motion_13405_law_kid_reverse_0001_30: 5828674158624649979
+      motion_13405_law_kid_reverse_0001_31: 234994742341892400
+      motion_13405_law_kid_reverse_0001_32: -7847625164876490530
+      motion_13405_law_kid_reverse_0001_33: 7923335454130366228
+      motion_13405_law_kid_reverse_0001_34: -3775541218939831482
+      motion_13405_law_kid_reverse_0001_35: 370215577441033859
+      motion_13405_law_kid_reverse_0001_36: -2149082097639125761
+      motion_13405_law_kid_reverse_0001_37: -1163621660549876219
+      motion_13405_law_kid_reverse_0001_38: -4734553665343476398
+      motion_13405_law_kid_reverse_0001_39: 7795770434313346133
+      motion_13405_law_kid_reverse_0001_4: 5216351802960466701
+      motion_13405_law_kid_reverse_0001_40: 2333703665410484701
+      motion_13405_law_kid_reverse_0001_41: 5756145596515350521
+      motion_13405_law_kid_reverse_0001_42: 7253352751583413306
+      motion_13405_law_kid_reverse_0001_43: -6539657113064569063
+      motion_13405_law_kid_reverse_0001_44: 5795120757351398263
+      motion_13405_law_kid_reverse_0001_45: -2115658301250765633
+      motion_13405_law_kid_reverse_0001_46: 6544600888891236192
+      motion_13405_law_kid_reverse_0001_47: -5612562031727574196
+      motion_13405_law_kid_reverse_0001_48: 6529046343314123744
+      motion_13405_law_kid_reverse_0001_49: 6974119843650605148
+      motion_13405_law_kid_reverse_0001_5: -3335433697011877294
+      motion_13405_law_kid_reverse_0001_50: -3288594993975370571
+      motion_13405_law_kid_reverse_0001_51: 6657397440322597348
+      motion_13405_law_kid_reverse_0001_52: 7705262174076582014
+      motion_13405_law_kid_reverse_0001_53: -8506212126573112287
+      motion_13405_law_kid_reverse_0001_54: 2620566431084217898
+      motion_13405_law_kid_reverse_0001_55: -8651094448226330024
+      motion_13405_law_kid_reverse_0001_56: -2829445643673333922
+      motion_13405_law_kid_reverse_0001_57: 1517519511485265925
+      motion_13405_law_kid_reverse_0001_58: 5865267003598542149
+      motion_13405_law_kid_reverse_0001_59: -1251707348643178032
+      motion_13405_law_kid_reverse_0001_6: 3002366566541205524
+      motion_13405_law_kid_reverse_0001_60: -5744920847549651352
+      motion_13405_law_kid_reverse_0001_61: 4667515328229617076
+      motion_13405_law_kid_reverse_0001_62: -735163963485541874
+      motion_13405_law_kid_reverse_0001_63: 3177520223530172951
+      motion_13405_law_kid_reverse_0001_64: -9168436850480728402
+      motion_13405_law_kid_reverse_0001_65: 3722832911614254840
+      motion_13405_law_kid_reverse_0001_66: -88093291489127454
+      motion_13405_law_kid_reverse_0001_67: -5976587006402457949
+      motion_13405_law_kid_reverse_0001_68: -4237408252130422217
+      motion_13405_law_kid_reverse_0001_69: 2771745092413938888
+      motion_13405_law_kid_reverse_0001_7: 378975760207409799
+      motion_13405_law_kid_reverse_0001_70: -4251078415000021272
+      motion_13405_law_kid_reverse_0001_71: -377730032703521279
+      motion_13405_law_kid_reverse_0001_72: 75050798383748839
+      motion_13405_law_kid_reverse_0001_73: -8340393668351432844
+      motion_13405_law_kid_reverse_0001_74: 2047655352003351848
+      motion_13405_law_kid_reverse_0001_75: -8202325078825506778
+      motion_13405_law_kid_reverse_0001_76: -7048769265570654810
+      motion_13405_law_kid_reverse_0001_77: -5650298643072431507
+      motion_13405_law_kid_reverse_0001_78: 2967057222989525650
+      motion_13405_law_kid_reverse_0001_79: 2591834474734195614
+      motion_13405_law_kid_reverse_0001_8: -492372528471258832
+      motion_13405_law_kid_reverse_0001_80: -8121096928605776942
+      motion_13405_law_kid_reverse_0001_81: 5961647346340642381
+      motion_13405_law_kid_reverse_0001_82: 3444613073925385396
+      motion_13405_law_kid_reverse_0001_83: 7526098779696435909
+      motion_13405_law_kid_reverse_0001_84: -4227460984775696141
+      motion_13405_law_kid_reverse_0001_85: -3244225362022091227
+      motion_13405_law_kid_reverse_0001_86: 3491234417043545014
+      motion_13405_law_kid_reverse_0001_87: -2289283260645488587
+      motion_13405_law_kid_reverse_0001_88: -4021121000439655348
+      motion_13405_law_kid_reverse_0001_89: -9065408510213576198
+      motion_13405_law_kid_reverse_0001_9: -2167056378395177096
+      motion_13405_law_kid_reverse_0001_90: 183719184280325097
+      motion_13405_law_kid_reverse_0001_91: 5350359783054983701
+      motion_13405_law_kid_reverse_0001_92: 8033642140802833869
+      motion_13405_law_kid_reverse_0001_93: -1858550367759141604
+      motion_13405_law_kid_reverse_0001_94: -1371811644286504119
+      motion_13405_law_kid_reverse_0001_95: 1261363600851878582
+      motion_13405_law_kid_reverse_0001_96: 8698993444130525597
+      motion_13405_law_kid_reverse_0001_97: 5393024449695008098
+      motion_13405_law_kid_reverse_0001_98: 3946721859573132182
+      motion_13405_law_kid_reverse_0001_99: 6219492917796315358
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

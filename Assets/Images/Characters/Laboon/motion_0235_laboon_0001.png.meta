@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: e8ccd89d2921fc64fa1c780b852589a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 768030503790303213
+    second: motion_0235_laboon_0001_0
+  - first:
+      213: 4759358247837477878
+    second: motion_0235_laboon_0001_1
+  - first:
+      213: -7989537246586134466
+    second: motion_0235_laboon_0001_2
+  - first:
+      213: -3183588884561511485
+    second: motion_0235_laboon_0001_3
+  - first:
+      213: -4112889105832105012
+    second: motion_0235_laboon_0001_4
+  - first:
+      213: 5581360493548924463
+    second: motion_0235_laboon_0001_5
+  - first:
+      213: 6297825170461212042
+    second: motion_0235_laboon_0001_6
+  - first:
+      213: 3515295957744300027
+    second: motion_0235_laboon_0001_7
+  - first:
+      213: -2491236616804692342
+    second: motion_0235_laboon_0001_8
+  - first:
+      213: -4485199753154667734
+    second: motion_0235_laboon_0001_9
+  - first:
+      213: -1568106136194526771
+    second: motion_0235_laboon_0001_10
+  - first:
+      213: -8338039973313241202
+    second: motion_0235_laboon_0001_11
+  - first:
+      213: 606039453352056381
+    second: motion_0235_laboon_0001_12
+  - first:
+      213: -2686025795245278961
+    second: motion_0235_laboon_0001_13
+  - first:
+      213: -7664981150554649264
+    second: motion_0235_laboon_0001_14
+  - first:
+      213: 745420531782104722
+    second: motion_0235_laboon_0001_15
+  - first:
+      213: -525140664374356916
+    second: motion_0235_laboon_0001_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_0235_laboon_0001_0
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 970
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7d51b8ca798aa00800000000000000
+      internalID: 768030503790303213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0235_laboon_0001_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 768
+        width: 219
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbad293c13ac0240800000000000000
+      internalID: 4759358247837477878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0235_laboon_0001_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 816
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e302b7164367f1190800000000000000
+      internalID: -7989537246586134466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0235_laboon_0001_3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 768
+        width: 224
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb34d0e6ce91d3d0800000000000000
+      internalID: -3183588884561511485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0235_laboon_0001_4
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 823
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbad4636251ce6c0800000000000000
+      internalID: -4112889105832105012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0235_laboon_0001_5
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 803
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ee16d2cc9f47d40800000000000000
+      internalID: 5581360493548924463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0235_laboon_0001_6
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 768
+        width: 216
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dbade00ae566750800000000000000
+      internalID: 6297825170461212042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0235_laboon_0001_7
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 794
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff27b97c07d8c030800000000000000
+      internalID: 3515295957744300027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0235_laboon_0001_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 776
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e09e30f795d6dd0800000000000000
+      internalID: -2491236616804692342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0235_laboon_0001_9
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 777
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bdb8e869e51c1c0800000000000000
+      internalID: -4485199753154667734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0235_laboon_0001_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 522
+        width: 251
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1d30ef6c7fc3ae0800000000000000
+      internalID: -1568106136194526771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0235_laboon_0001_11
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 517
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f18a332d4594c80800000000000000
+      internalID: -8338039973313241202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0235_laboon_0001_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 294
+        width: 257
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36dbe00ca5196800800000000000000
+      internalID: 606039453352056381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0235_laboon_0001_13
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 295
+        width: 249
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f097ed835c159bad0800000000000000
+      internalID: -2686025795245278961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0235_laboon_0001_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 15
+        width: 237
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d002f114480a590800000000000000
+      internalID: -7664981150554649264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0235_laboon_0001_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1
+        width: 290
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296b7253604485a00800000000000000
+      internalID: 745420531782104722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0235_laboon_0001_16
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 12
+        width: 262
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c449ada195356b8f0800000000000000
+      internalID: -525140664374356916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_0235_laboon_0001_0: 768030503790303213
+      motion_0235_laboon_0001_1: 4759358247837477878
+      motion_0235_laboon_0001_10: -1568106136194526771
+      motion_0235_laboon_0001_11: -8338039973313241202
+      motion_0235_laboon_0001_12: 606039453352056381
+      motion_0235_laboon_0001_13: -2686025795245278961
+      motion_0235_laboon_0001_14: -7664981150554649264
+      motion_0235_laboon_0001_15: 745420531782104722
+      motion_0235_laboon_0001_16: -525140664374356916
+      motion_0235_laboon_0001_2: -7989537246586134466
+      motion_0235_laboon_0001_3: -3183588884561511485
+      motion_0235_laboon_0001_4: -4112889105832105012
+      motion_0235_laboon_0001_5: 5581360493548924463
+      motion_0235_laboon_0001_6: 6297825170461212042
+      motion_0235_laboon_0001_7: 3515295957744300027
+      motion_0235_laboon_0001_8: -2491236616804692342
+      motion_0235_laboon_0001_9: -4485199753154667734
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

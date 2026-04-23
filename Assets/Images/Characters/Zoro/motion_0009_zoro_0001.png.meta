@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: d89caae200f3f224b9de90f2531b6c51
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5081483361085127251
+    second: motion_0009_zoro_0001_0
+  - first:
+      213: -1397082429060848459
+    second: motion_0009_zoro_0001_1
+  - first:
+      213: 4381974517194768688
+    second: motion_0009_zoro_0001_2
+  - first:
+      213: 212749955409168034
+    second: motion_0009_zoro_0001_3
+  - first:
+      213: -515379569216096225
+    second: motion_0009_zoro_0001_4
+  - first:
+      213: 5328678210774483583
+    second: motion_0009_zoro_0001_5
+  - first:
+      213: -1976093089633292775
+    second: motion_0009_zoro_0001_6
+  - first:
+      213: -3367784754224082526
+    second: motion_0009_zoro_0001_7
+  - first:
+      213: -4105286446392548837
+    second: motion_0009_zoro_0001_8
+  - first:
+      213: 4376916367875054781
+    second: motion_0009_zoro_0001_9
+  - first:
+      213: 5767681128379734105
+    second: motion_0009_zoro_0001_10
+  - first:
+      213: -6647966458711992225
+    second: motion_0009_zoro_0001_11
+  - first:
+      213: 5446372884012629904
+    second: motion_0009_zoro_0001_12
+  - first:
+      213: -4101352759314151955
+    second: motion_0009_zoro_0001_13
+  - first:
+      213: 60111284071032639
+    second: motion_0009_zoro_0001_14
+  - first:
+      213: 8839295287100027670
+    second: motion_0009_zoro_0001_15
+  - first:
+      213: 3628244402481675854
+    second: motion_0009_zoro_0001_16
+  - first:
+      213: 4903785774459677937
+    second: motion_0009_zoro_0001_17
+  - first:
+      213: 3942233902731828158
+    second: motion_0009_zoro_0001_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_0009_zoro_0001_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 810
+        width: 239
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da586725ec1fa79b0800000000000000
+      internalID: -5081483361085127251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0009_zoro_0001_1
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 809
+        width: 235
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b463edcee09c9ce0800000000000000
+      internalID: -1397082429060848459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0009_zoro_0001_2
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 810
+        width: 233
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03145305b96efcc30800000000000000
+      internalID: 4381974517194768688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0009_zoro_0001_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 582
+        width: 191
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6c42e05f6d3f200800000000000000
+      internalID: 212749955409168034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0009_zoro_0001_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 583
+        width: 170
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18716c230109d8f0800000000000000
+      internalID: -515379569216096225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0009_zoro_0001_5
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 746
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72c393a99443f940800000000000000
+      internalID: 5328678210774483583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0009_zoro_0001_6
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 584
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ead450ec18394e0800000000000000
+      internalID: -1976093089633292775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0009_zoro_0001_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 396
+        width: 112
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a15f7cfb993341d0800000000000000
+      internalID: -3367784754224082526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0009_zoro_0001_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 391
+        width: 142
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12eb8d4ab71707c0800000000000000
+      internalID: -4105286446392548837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0009_zoro_0001_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 395
+        width: 112
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc19c62f3eedbc30800000000000000
+      internalID: 4376916367875054781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0009_zoro_0001_10
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 390
+        width: 142
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9585cc28d6bea0050800000000000000
+      internalID: 5767681128379734105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0009_zoro_0001_11
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 429
+        width: 158
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5892cd6abdadb3a0800000000000000
+      internalID: -6647966458711992225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0009_zoro_0001_12
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 237
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f74e92847659b40800000000000000
+      internalID: 5446372884012629904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0009_zoro_0001_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 31
+        width: 176
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5038235611517c0800000000000000
+      internalID: -4101352759314151955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0009_zoro_0001_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 32
+        width: 223
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37eb06f4ee85d000800000000000000
+      internalID: 60111284071032639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0009_zoro_0001_15
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 13
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613b1642b3c7baa70800000000000000
+      internalID: 8839295287100027670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0009_zoro_0001_16
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 131
+        width: 128
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e38309f0d1a5230800000000000000
+      internalID: 3628244402481675854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0009_zoro_0001_17
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 82
+        width: 110
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc68453e2fbd0440800000000000000
+      internalID: 4903785774459677937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0009_zoro_0001_18
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 18
+        width: 111
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb15d109d0a5b630800000000000000
+      internalID: 3942233902731828158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_0009_zoro_0001_0: -5081483361085127251
+      motion_0009_zoro_0001_1: -1397082429060848459
+      motion_0009_zoro_0001_10: 5767681128379734105
+      motion_0009_zoro_0001_11: -6647966458711992225
+      motion_0009_zoro_0001_12: 5446372884012629904
+      motion_0009_zoro_0001_13: -4101352759314151955
+      motion_0009_zoro_0001_14: 60111284071032639
+      motion_0009_zoro_0001_15: 8839295287100027670
+      motion_0009_zoro_0001_16: 3628244402481675854
+      motion_0009_zoro_0001_17: 4903785774459677937
+      motion_0009_zoro_0001_18: 3942233902731828158
+      motion_0009_zoro_0001_2: 4381974517194768688
+      motion_0009_zoro_0001_3: 212749955409168034
+      motion_0009_zoro_0001_4: -515379569216096225
+      motion_0009_zoro_0001_5: 5328678210774483583
+      motion_0009_zoro_0001_6: -1976093089633292775
+      motion_0009_zoro_0001_7: -3367784754224082526
+      motion_0009_zoro_0001_8: -4105286446392548837
+      motion_0009_zoro_0001_9: 4376916367875054781
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

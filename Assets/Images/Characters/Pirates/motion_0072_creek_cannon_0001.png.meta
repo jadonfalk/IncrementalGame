@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: d5a6ef59eed1e964fae61a5715a80461
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -334065074554748956
+    second: motion_0072_creek_cannon_0001_0
+  - first:
+      213: 7803685959230728702
+    second: motion_0072_creek_cannon_0001_1
+  - first:
+      213: -8559009681257529418
+    second: motion_0072_creek_cannon_0001_2
+  - first:
+      213: -7518599290208852640
+    second: motion_0072_creek_cannon_0001_3
+  - first:
+      213: 5743089705603015120
+    second: motion_0072_creek_cannon_0001_4
+  - first:
+      213: 6730105581882044894
+    second: motion_0072_creek_cannon_0001_5
+  - first:
+      213: 6246525207252427811
+    second: motion_0072_creek_cannon_0001_6
+  - first:
+      213: -4045576524044518488
+    second: motion_0072_creek_cannon_0001_7
+  - first:
+      213: -7379802083602785936
+    second: motion_0072_creek_cannon_0001_8
+  - first:
+      213: -4669722968401334984
+    second: motion_0072_creek_cannon_0001_9
+  - first:
+      213: 5280728379009803345
+    second: motion_0072_creek_cannon_0001_10
+  - first:
+      213: 3149176956580455980
+    second: motion_0072_creek_cannon_0001_11
+  - first:
+      213: -7222780456975773231
+    second: motion_0072_creek_cannon_0001_12
+  - first:
+      213: -7452736899987886182
+    second: motion_0072_creek_cannon_0001_13
+  - first:
+      213: -8669196985113056793
+    second: motion_0072_creek_cannon_0001_14
+  - first:
+      213: -4308520003622480121
+    second: motion_0072_creek_cannon_0001_15
+  - first:
+      213: -1679109816265165950
+    second: motion_0072_creek_cannon_0001_16
+  - first:
+      213: 8141718903509856315
+    second: motion_0072_creek_cannon_0001_17
+  - first:
+      213: 2061079799260315126
+    second: motion_0072_creek_cannon_0001_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_0072_creek_cannon_0001_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 819
+        width: 115
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efbc4ba5992d5bf0800000000000000
+      internalID: -334065074554748956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0072_creek_cannon_0001_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 819
+        width: 117
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9a6a2c8034c4c60800000000000000
+      internalID: 7803685959230728702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0072_creek_cannon_0001_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 819
+        width: 120
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bff38fda0a483980800000000000000
+      internalID: -8559009681257529418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0072_creek_cannon_0001_3
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 970
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065e892e7c198a790800000000000000
+      internalID: -7518599290208852640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0072_creek_cannon_0001_4
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 653
+        width: 50
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1aba7b8ad83bf40800000000000000
+      internalID: 5743089705603015120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0072_creek_cannon_0001_5
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 655
+        width: 50
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1f3fc7e53266d50800000000000000
+      internalID: 6730105581882044894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0072_creek_cannon_0001_6
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 626
+        width: 50
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324edca949d10b650800000000000000
+      internalID: 6246525207252427811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0072_creek_cannon_0001_7
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 648
+        width: 49
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abbaa4f5993bd7c0800000000000000
+      internalID: -4045576524044518488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0072_creek_cannon_0001_8
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 804
+        width: 51
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0791b26da1da59990800000000000000
+      internalID: -7379802083602785936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0072_creek_cannon_0001_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 564
+        width: 137
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83da4f493bfc13fb0800000000000000
+      internalID: -4669722968401334984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0072_creek_cannon_0001_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 338
+        width: 129
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15424327b7ae84940800000000000000
+      internalID: 5280728379009803345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0072_creek_cannon_0001_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 338
+        width: 129
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26e2d7c1cf14bb20800000000000000
+      internalID: 3149176956580455980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0072_creek_cannon_0001_12
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 324
+        width: 131
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1535b317783cb90800000000000000
+      internalID: -7222780456975773231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0072_creek_cannon_0001_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 20
+        width: 115
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fa6c7964f829890800000000000000
+      internalID: -7452736899987886182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0072_creek_cannon_0001_14
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 20
+        width: 136
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9e27ef543d0b780800000000000000
+      internalID: -8669196985113056793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0072_creek_cannon_0001_15
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 20
+        width: 129
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707da6c52ef0534c0800000000000000
+      internalID: -4308520003622480121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0072_creek_cannon_0001_16
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 20
+        width: 128
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283b4a6b48a92b8e0800000000000000
+      internalID: -1679109816265165950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0072_creek_cannon_0001_17
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 20
+        width: 113
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30b9c0c4323df070800000000000000
+      internalID: 8141718903509856315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0072_creek_cannon_0001_18
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 97
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdf4a8482d6a9c10800000000000000
+      internalID: 2061079799260315126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_0072_creek_cannon_0001_0: -334065074554748956
+      motion_0072_creek_cannon_0001_1: 7803685959230728702
+      motion_0072_creek_cannon_0001_10: 5280728379009803345
+      motion_0072_creek_cannon_0001_11: 3149176956580455980
+      motion_0072_creek_cannon_0001_12: -7222780456975773231
+      motion_0072_creek_cannon_0001_13: -7452736899987886182
+      motion_0072_creek_cannon_0001_14: -8669196985113056793
+      motion_0072_creek_cannon_0001_15: -4308520003622480121
+      motion_0072_creek_cannon_0001_16: -1679109816265165950
+      motion_0072_creek_cannon_0001_17: 8141718903509856315
+      motion_0072_creek_cannon_0001_18: 2061079799260315126
+      motion_0072_creek_cannon_0001_2: -8559009681257529418
+      motion_0072_creek_cannon_0001_3: -7518599290208852640
+      motion_0072_creek_cannon_0001_4: 5743089705603015120
+      motion_0072_creek_cannon_0001_5: 6730105581882044894
+      motion_0072_creek_cannon_0001_6: 6246525207252427811
+      motion_0072_creek_cannon_0001_7: -4045576524044518488
+      motion_0072_creek_cannon_0001_8: -7379802083602785936
+      motion_0072_creek_cannon_0001_9: -4669722968401334984
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

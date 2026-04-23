@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: f494b00fe5335654baed7b1a5157266c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6724216082873051953
+    second: motion_0024_sanji__0
+  - first:
+      213: -1618141928851161830
+    second: motion_0024_sanji__1
+  - first:
+      213: -5810052684535346454
+    second: motion_0024_sanji__2
+  - first:
+      213: -1259518004885583309
+    second: motion_0024_sanji__3
+  - first:
+      213: -7396173927325984888
+    second: motion_0024_sanji__4
+  - first:
+      213: -6013430299002021823
+    second: motion_0024_sanji__5
+  - first:
+      213: -6863706193622525268
+    second: motion_0024_sanji__6
+  - first:
+      213: 3795515054478900509
+    second: motion_0024_sanji__7
+  - first:
+      213: 5745718915148708358
+    second: motion_0024_sanji__8
+  - first:
+      213: -6885217396499630730
+    second: motion_0024_sanji__9
+  - first:
+      213: 1106214863556284753
+    second: motion_0024_sanji__10
+  - first:
+      213: 6676044247176151559
+    second: motion_0024_sanji__11
+  - first:
+      213: -7941415800294344521
+    second: motion_0024_sanji__12
+  - first:
+      213: 5524122491276875355
+    second: motion_0024_sanji__13
+  - first:
+      213: -1272515245179782892
+    second: motion_0024_sanji__14
+  - first:
+      213: -2994663142189046756
+    second: motion_0024_sanji__15
+  - first:
+      213: -4349300043370526504
+    second: motion_0024_sanji__16
+  - first:
+      213: -5798115931355575963
+    second: motion_0024_sanji__17
+  - first:
+      213: -3337182963487630751
+    second: motion_0024_sanji__18
+  - first:
+      213: 1356116527693287495
+    second: motion_0024_sanji__19
+  - first:
+      213: 4079450679240174132
+    second: motion_0024_sanji__20
+  - first:
+      213: -8715170491556981863
+    second: motion_0024_sanji__21
+  - first:
+      213: -1492008696605499243
+    second: motion_0024_sanji__22
+  - first:
+      213: 3013611831075258245
+    second: motion_0024_sanji__23
+  - first:
+      213: -3164023414042896259
+    second: motion_0024_sanji__24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_0024_sanji__0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 817
+        width: 109
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4126b5919cea2a0800000000000000
+      internalID: -6724216082873051953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 817
+        width: 104
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d39ae2d743b89e0800000000000000
+      internalID: -1618141928851161830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 817
+        width: 108
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea47fbcddb8e5fa0800000000000000
+      internalID: -5810052684535346454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__3
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 812
+        width: 94
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a069a3c0b458ee0800000000000000
+      internalID: -1259518004885583309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__4
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 970
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8879abceff28b5990800000000000000
+      internalID: -7396173927325984888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 599
+        width: 167
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148d96ae0010c8ca0800000000000000
+      internalID: -6013430299002021823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__6
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 741
+        width: 89
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa1b7615973fb0a0800000000000000
+      internalID: -6863706193622525268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__7
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 562
+        width: 159
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dbcd125d06ca430800000000000000
+      internalID: 3795515054478900509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__8
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 743
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a7ea449e4ecbf40800000000000000
+      internalID: 5745718915148708358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__9
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 599
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675bc40e14bc270a0800000000000000
+      internalID: -6885217396499630730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__10
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 627
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1519783be801a5f00800000000000000
+      internalID: 1106214863556284753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 594
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70289b12fd216ac50800000000000000
+      internalID: 6676044247176151559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__12
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 569
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8f7c1b76c6ac190800000000000000
+      internalID: -7941415800294344521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__13
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 562
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56dd444320a9ac40800000000000000
+      internalID: 5524122491276875355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__14
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 307
+        width: 216
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4193ac7602e175ee0800000000000000
+      internalID: -1272515245179782892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__15
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 518
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14edd31db1d076d0800000000000000
+      internalID: -2994663142189046756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__16
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 469
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d80f4577ae24a3c0800000000000000
+      internalID: -4349300043370526504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 303
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5698409b744f88fa0800000000000000
+      internalID: -5798115931355575963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__18
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 303
+        width: 102
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a95de96c1ffa1d0800000000000000
+      internalID: -3337182963487630751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__19
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 306
+        width: 187
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740d1330cc4e1d210800000000000000
+      internalID: 1356116527693287495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__20
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 24
+        width: 105
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a26d667ce1d9830800000000000000
+      internalID: 4079450679240174132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 137
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99397c5ec9e7d0780800000000000000
+      internalID: -8715170491556981863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__22
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 30
+        width: 169
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5902905def15b4be0800000000000000
+      internalID: -1492008696605499243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__23
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 50
+        width: 140
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fb72a5eff72d920800000000000000
+      internalID: 3013611831075258245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0024_sanji__24
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 61
+        width: 74
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7854f8f7712714d0800000000000000
+      internalID: -3164023414042896259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_0024_sanji__0: -6724216082873051953
+      motion_0024_sanji__1: -1618141928851161830
+      motion_0024_sanji__10: 1106214863556284753
+      motion_0024_sanji__11: 6676044247176151559
+      motion_0024_sanji__12: -7941415800294344521
+      motion_0024_sanji__13: 5524122491276875355
+      motion_0024_sanji__14: -1272515245179782892
+      motion_0024_sanji__15: -2994663142189046756
+      motion_0024_sanji__16: -4349300043370526504
+      motion_0024_sanji__17: -5798115931355575963
+      motion_0024_sanji__18: -3337182963487630751
+      motion_0024_sanji__19: 1356116527693287495
+      motion_0024_sanji__2: -5810052684535346454
+      motion_0024_sanji__20: 4079450679240174132
+      motion_0024_sanji__21: -8715170491556981863
+      motion_0024_sanji__22: -1492008696605499243
+      motion_0024_sanji__23: 3013611831075258245
+      motion_0024_sanji__24: -3164023414042896259
+      motion_0024_sanji__3: -1259518004885583309
+      motion_0024_sanji__4: -7396173927325984888
+      motion_0024_sanji__5: -6013430299002021823
+      motion_0024_sanji__6: -6863706193622525268
+      motion_0024_sanji__7: 3795515054478900509
+      motion_0024_sanji__8: 5745718915148708358
+      motion_0024_sanji__9: -6885217396499630730
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

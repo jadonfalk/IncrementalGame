@@ -1,0 +1,2964 @@
+fileFormatVersion: 2
+guid: 839959b4b77f9dd48989183acba5ab8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8746784791360678453
+    second: motion_11394_buggy_0002_0
+  - first:
+      213: 8859827214164257394
+    second: motion_11394_buggy_0002_1
+  - first:
+      213: -7063708045078281006
+    second: motion_11394_buggy_0002_2
+  - first:
+      213: -1613602757077147490
+    second: motion_11394_buggy_0002_3
+  - first:
+      213: -8695669855892362063
+    second: motion_11394_buggy_0002_4
+  - first:
+      213: -7263986906317043259
+    second: motion_11394_buggy_0002_5
+  - first:
+      213: -5708710397176122502
+    second: motion_11394_buggy_0002_6
+  - first:
+      213: -5604711236276752544
+    second: motion_11394_buggy_0002_7
+  - first:
+      213: -1607674172471057024
+    second: motion_11394_buggy_0002_8
+  - first:
+      213: -4771345386537276815
+    second: motion_11394_buggy_0002_9
+  - first:
+      213: -5632289534746721267
+    second: motion_11394_buggy_0002_10
+  - first:
+      213: 6687834266569669192
+    second: motion_11394_buggy_0002_11
+  - first:
+      213: 4311026959427747922
+    second: motion_11394_buggy_0002_12
+  - first:
+      213: -8924458639081697304
+    second: motion_11394_buggy_0002_13
+  - first:
+      213: -3073699095825565820
+    second: motion_11394_buggy_0002_14
+  - first:
+      213: -1239786730131809916
+    second: motion_11394_buggy_0002_15
+  - first:
+      213: -7719662912237166227
+    second: motion_11394_buggy_0002_16
+  - first:
+      213: -1438388925835038464
+    second: motion_11394_buggy_0002_17
+  - first:
+      213: -6847381652315328573
+    second: motion_11394_buggy_0002_18
+  - first:
+      213: 2566248166017226102
+    second: motion_11394_buggy_0002_19
+  - first:
+      213: 7495109278911921900
+    second: motion_11394_buggy_0002_20
+  - first:
+      213: 3593546786219446107
+    second: motion_11394_buggy_0002_21
+  - first:
+      213: -3425697616756536393
+    second: motion_11394_buggy_0002_22
+  - first:
+      213: -3245640665658241760
+    second: motion_11394_buggy_0002_23
+  - first:
+      213: 1078133887523996963
+    second: motion_11394_buggy_0002_24
+  - first:
+      213: -3652614934328001612
+    second: motion_11394_buggy_0002_25
+  - first:
+      213: -9004287876708103699
+    second: motion_11394_buggy_0002_26
+  - first:
+      213: -5225043169589278822
+    second: motion_11394_buggy_0002_27
+  - first:
+      213: -463014087037855363
+    second: motion_11394_buggy_0002_28
+  - first:
+      213: -4251051115713551466
+    second: motion_11394_buggy_0002_29
+  - first:
+      213: 1517165731882507367
+    second: motion_11394_buggy_0002_30
+  - first:
+      213: -4706515190901844038
+    second: motion_11394_buggy_0002_31
+  - first:
+      213: -7464835516372609846
+    second: motion_11394_buggy_0002_32
+  - first:
+      213: -7306937011090934573
+    second: motion_11394_buggy_0002_33
+  - first:
+      213: -8177785237982107467
+    second: motion_11394_buggy_0002_34
+  - first:
+      213: 11350670751529747
+    second: motion_11394_buggy_0002_35
+  - first:
+      213: 6638991909306958297
+    second: motion_11394_buggy_0002_36
+  - first:
+      213: 2986557039257757307
+    second: motion_11394_buggy_0002_37
+  - first:
+      213: -515914318926038681
+    second: motion_11394_buggy_0002_38
+  - first:
+      213: 4955289628962800811
+    second: motion_11394_buggy_0002_39
+  - first:
+      213: 5490851946216413940
+    second: motion_11394_buggy_0002_40
+  - first:
+      213: 5817220530217849616
+    second: motion_11394_buggy_0002_41
+  - first:
+      213: -4569973631955565371
+    second: motion_11394_buggy_0002_42
+  - first:
+      213: -6780124156733674018
+    second: motion_11394_buggy_0002_43
+  - first:
+      213: 1771143104227374178
+    second: motion_11394_buggy_0002_44
+  - first:
+      213: 256018276334628403
+    second: motion_11394_buggy_0002_45
+  - first:
+      213: 17618374147018861
+    second: motion_11394_buggy_0002_46
+  - first:
+      213: 7306175386210558079
+    second: motion_11394_buggy_0002_47
+  - first:
+      213: -8459071711182941104
+    second: motion_11394_buggy_0002_48
+  - first:
+      213: 2617622598878760515
+    second: motion_11394_buggy_0002_49
+  - first:
+      213: -8163171982477312918
+    second: motion_11394_buggy_0002_50
+  - first:
+      213: -1729828615117653173
+    second: motion_11394_buggy_0002_51
+  - first:
+      213: 5428437509961472916
+    second: motion_11394_buggy_0002_52
+  - first:
+      213: -6982558750243075742
+    second: motion_11394_buggy_0002_53
+  - first:
+      213: 4678182254501261898
+    second: motion_11394_buggy_0002_54
+  - first:
+      213: 4393142785062001991
+    second: motion_11394_buggy_0002_55
+  - first:
+      213: -9120180011995204281
+    second: motion_11394_buggy_0002_56
+  - first:
+      213: 8479297886974770700
+    second: motion_11394_buggy_0002_57
+  - first:
+      213: -434908517819216222
+    second: motion_11394_buggy_0002_58
+  - first:
+      213: 209599958028636341
+    second: motion_11394_buggy_0002_59
+  - first:
+      213: -1607659842331398492
+    second: motion_11394_buggy_0002_60
+  - first:
+      213: -7955612970703507696
+    second: motion_11394_buggy_0002_61
+  - first:
+      213: -2387667395636468697
+    second: motion_11394_buggy_0002_62
+  - first:
+      213: 5295678243458704684
+    second: motion_11394_buggy_0002_63
+  - first:
+      213: -5998949439391446523
+    second: motion_11394_buggy_0002_64
+  - first:
+      213: -8977410652331466245
+    second: motion_11394_buggy_0002_65
+  - first:
+      213: 5082095477012229162
+    second: motion_11394_buggy_0002_66
+  - first:
+      213: 5188954690875669638
+    second: motion_11394_buggy_0002_67
+  - first:
+      213: 4017750029356329778
+    second: motion_11394_buggy_0002_68
+  - first:
+      213: 4139248506576678669
+    second: motion_11394_buggy_0002_69
+  - first:
+      213: 5572943450723992129
+    second: motion_11394_buggy_0002_70
+  - first:
+      213: -1158601163882373519
+    second: motion_11394_buggy_0002_71
+  - first:
+      213: 6248581725852015784
+    second: motion_11394_buggy_0002_72
+  - first:
+      213: 4905301225879857858
+    second: motion_11394_buggy_0002_73
+  - first:
+      213: -6946234974815069062
+    second: motion_11394_buggy_0002_74
+  - first:
+      213: -7268155946946401852
+    second: motion_11394_buggy_0002_75
+  - first:
+      213: 2542691335643897929
+    second: motion_11394_buggy_0002_76
+  - first:
+      213: -3963471503841823363
+    second: motion_11394_buggy_0002_77
+  - first:
+      213: 6487051840957594108
+    second: motion_11394_buggy_0002_78
+  - first:
+      213: -8885186978851400173
+    second: motion_11394_buggy_0002_79
+  - first:
+      213: -4227943252905557045
+    second: motion_11394_buggy_0002_80
+  - first:
+      213: -5310059785767573071
+    second: motion_11394_buggy_0002_81
+  - first:
+      213: -4619690287889589990
+    second: motion_11394_buggy_0002_82
+  - first:
+      213: 6277565641480846683
+    second: motion_11394_buggy_0002_83
+  - first:
+      213: -1125628245536274684
+    second: motion_11394_buggy_0002_84
+  - first:
+      213: 4166740053730210321
+    second: motion_11394_buggy_0002_85
+  - first:
+      213: 9047416835446213935
+    second: motion_11394_buggy_0002_86
+  - first:
+      213: -8196375202146310795
+    second: motion_11394_buggy_0002_87
+  - first:
+      213: -4409141686436235839
+    second: motion_11394_buggy_0002_88
+  - first:
+      213: 3219946088966045278
+    second: motion_11394_buggy_0002_89
+  - first:
+      213: -528267501029974370
+    second: motion_11394_buggy_0002_90
+  - first:
+      213: -6105456659278717541
+    second: motion_11394_buggy_0002_91
+  - first:
+      213: 6937867096633758726
+    second: motion_11394_buggy_0002_92
+  - first:
+      213: 424405482084785750
+    second: motion_11394_buggy_0002_93
+  - first:
+      213: 381754731432931846
+    second: motion_11394_buggy_0002_94
+  - first:
+      213: -8868183531176996298
+    second: motion_11394_buggy_0002_95
+  - first:
+      213: -8028355012837608111
+    second: motion_11394_buggy_0002_96
+  - first:
+      213: 5765772385290365301
+    second: motion_11394_buggy_0002_97
+  - first:
+      213: -6909408249733753907
+    second: motion_11394_buggy_0002_98
+  - first:
+      213: -6788573226105202637
+    second: motion_11394_buggy_0002_99
+  - first:
+      213: -8837004223202391742
+    second: motion_11394_buggy_0002_100
+  - first:
+      213: 793455417153051494
+    second: motion_11394_buggy_0002_101
+  - first:
+      213: -4816404412472273602
+    second: motion_11394_buggy_0002_102
+  - first:
+      213: -5046747609569865309
+    second: motion_11394_buggy_0002_103
+  - first:
+      213: -1050843586625286686
+    second: motion_11394_buggy_0002_104
+  - first:
+      213: 5041672471553903405
+    second: motion_11394_buggy_0002_105
+  - first:
+      213: 6209091369964122937
+    second: motion_11394_buggy_0002_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 840
+        width: 160
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53aa7dfdc62d26970800000000000000
+      internalID: 8746784791360678453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 839
+        width: 162
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a699fe8ed64fa70800000000000000
+      internalID: 8859827214164257394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 840
+        width: 168
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d44a0845faa8fd90800000000000000
+      internalID: -7063708045078281006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_3
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 823
+        width: 219
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9063d777d45b99e0800000000000000
+      internalID: -1613602757077147490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_4
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 825
+        width: 195
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bca6737656c25780800000000000000
+      internalID: -8695669855892362063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_5
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1010
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c942eb1562213b90800000000000000
+      internalID: -7263986906317043259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_6
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1010
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73fcbac32696c0b0800000000000000
+      internalID: -5708710397176122502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_7
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 966
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f651d53d01832b0800000000000000
+      internalID: -5604711236276752544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_8
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 952
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085ea43abd460b9e0800000000000000
+      internalID: -1607674172471057024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_9
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 951
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a2fbe86a6c8cdb0800000000000000
+      internalID: -4771345386537276815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_10
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 947
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d048541628616d1b0800000000000000
+      internalID: -5632289534746721267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_11
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 932
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84af19fe4d5ffcc50800000000000000
+      internalID: 6687834266569669192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_12
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 931
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250c2d5cd28d3db30800000000000000
+      internalID: 4311026959427747922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_13
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 931
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef8edcc624f52480800000000000000
+      internalID: -8924458639081697304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_14
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 905
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487b0ee15f60855d0800000000000000
+      internalID: -3073699095825565820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 638
+        width: 196
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4891041a9846bcee0800000000000000
+      internalID: -1239786730131809916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 149
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61a85a5b7f3ed490800000000000000
+      internalID: -7719662912237166227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 639
+        width: 203
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0013fb294e0d90ce0800000000000000
+      internalID: -1438388925835038464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfa73c8aa639f0a0800000000000000
+      internalID: -6847381652315328573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 458
+        width: 142
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67554f44c152d9320800000000000000
+      internalID: 2566248166017226102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_20
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 460
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee774aad2af30860800000000000000
+      internalID: 7495109278911921900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_21
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 468
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f4b5c33c7ded130800000000000000
+      internalID: 3593546786219446107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_22
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 368
+        width: 160
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb035dea2a7570d0800000000000000
+      internalID: -3425697616756536393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_23
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 460
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dc0eeb20b25f2d0800000000000000
+      internalID: -3245640665658241760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_24
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 420
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325cd2afe0d46fe00800000000000000
+      internalID: 1078133887523996963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_25
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 388
+        width: 175
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbb712d11e4f4dc0800000000000000
+      internalID: -3652614934328001612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_26
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 387
+        width: 132
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9057502e75a0380800000000000000
+      internalID: -9004287876708103699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_27
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 381
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97cc84bbeaec77b0800000000000000
+      internalID: -5225043169589278822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_28
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 240
+        width: 112
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d795b18142b0399f0800000000000000
+      internalID: -463014087037855363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_29
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 230
+        width: 167
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693add5888b3105c0800000000000000
+      internalID: -4251051115713551466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_30
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 375
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c9042e13e0e0510800000000000000
+      internalID: 1517165731882507367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_31
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 231
+        width: 130
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7d05cbe591faeb0800000000000000
+      internalID: -4706515190901844038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_32
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 246
+        width: 99
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac414e3f5a3976890800000000000000
+      internalID: -7464835516372609846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_33
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 280
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d435c1908b889a90800000000000000
+      internalID: -7306937011090934573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_34
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 293
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8a4a067aba28e80800000000000000
+      internalID: -8177785237982107467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_35
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 277
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b7b1aff53582000800000000000000
+      internalID: 11350670751529747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_36
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 253
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d10fe477ff622c50800000000000000
+      internalID: 6638991909306958297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 192
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76a662cdc1627920800000000000000
+      internalID: 2986557039257757307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_38
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 193
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76930ed09aa17d8f0800000000000000
+      internalID: -515914318926038681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_39
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 197
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4418dc9a9b4c440800000000000000
+      internalID: 4955289628962800811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_40
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 195
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fadd78d0cc633c40800000000000000
+      internalID: 5490851946216413940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_41
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 175
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0139eb3504beab050800000000000000
+      internalID: 5817220530217849616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_42
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 215
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4036ac1313490c0800000000000000
+      internalID: -4569973631955565371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_43
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 116
+        width: 114
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd28d8800928e1a0800000000000000
+      internalID: -6780124156733674018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_44
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 212
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264fad5f44d549810800000000000000
+      internalID: 1771143104227374178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_45
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 116
+        width: 105
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33eeee0144f8d8300800000000000000
+      internalID: 256018276334628403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_46
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 143
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d609d8461d79e3000800000000000000
+      internalID: 17618374147018861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_47
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 203
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7068c1ddcfb46560800000000000000
+      internalID: 7306175386210558079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_48
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 211
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0549265c8175b9a80800000000000000
+      internalID: -8459071711182941104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_49
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 196
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e043a82e9a35420800000000000000
+      internalID: 2617622598878760515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_50
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 149
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cb400155696be80800000000000000
+      internalID: -8163171982477312918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_51
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 239
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b3b912a0a6ef7e0800000000000000
+      internalID: -1729828615117653173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_52
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 174
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bd8aa772fa55b40800000000000000
+      internalID: 5428437509961472916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_53
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 183
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2694774dfc7f81f90800000000000000
+      internalID: -6982558750243075742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_54
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 187
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42751279fd3ce040800000000000000
+      internalID: 4678182254501261898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_55
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 178
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74dd03f461497fc30800000000000000
+      internalID: 4393142785062001991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_56
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 190
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7457861999c9e6180800000000000000
+      internalID: -9120180011995204281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_57
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 190
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ef9d1c0848ca570800000000000000
+      internalID: 8479297886974770700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_58
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 176
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae089dd105e6f9f0800000000000000
+      internalID: -434908517819216222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_59
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 140
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0db332d06a8e200800000000000000
+      internalID: 209599958028636341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_60
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 145
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae2d2224e170b9e0800000000000000
+      internalID: -1607659842331398492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_61
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 139
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f2abe572cf79190800000000000000
+      internalID: -7955612970703507696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_62
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 156
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7246e41772d4dded0800000000000000
+      internalID: -2387667395636468697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_63
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 150
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25ee120e470e7940800000000000000
+      internalID: 5295678243458704684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_64
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a4b87c4437fbca0800000000000000
+      internalID: -5998949439391446523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_65
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 122
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1a9f87394d96380800000000000000
+      internalID: -8977410652331466245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_66
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 122
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ceee509ea378640800000000000000
+      internalID: 5082095477012229162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_67
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 132
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cbd319cced20840800000000000000
+      internalID: 5188954690875669638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_68
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b69106d5ae1c730800000000000000
+      internalID: 4017750029356329778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_69
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 106
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fa1970690917930800000000000000
+      internalID: 4139248506576678669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_70
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 132
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1424ebdaa82175d40800000000000000
+      internalID: 5572943450723992129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_71
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 122
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17edf664162dbefe0800000000000000
+      internalID: -1158601163882373519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac186729fb67b650800000000000000
+      internalID: 6248581725852015784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_73
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 29
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca6bdcb971231440800000000000000
+      internalID: 4905301225879857858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_74
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 96
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cd0c7d7140a9f90800000000000000
+      internalID: -6946234974815069062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_75
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 103
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9ed12bca2522b90800000000000000
+      internalID: -7268155946946401852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_76
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 86
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940a48a4c44794320800000000000000
+      internalID: 2542691335643897929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_77
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 86
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75ff18aaabeef8c0800000000000000
+      internalID: -3963471503841823363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_78
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 124
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf932db8743a60a50800000000000000
+      internalID: 6487051840957594108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_79
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 22
+        width: 123
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316d2aab48971b480800000000000000
+      internalID: -8885186978851400173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_80
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 66
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc30e0813045355c0800000000000000
+      internalID: -4227943252905557045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_81
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 86
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9ac3d32c0ee46b0800000000000000
+      internalID: -5310059785767573071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_82
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 26
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19d40ac82093efb0800000000000000
+      internalID: -4619690287889589990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_83
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 82
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5db9a2e0b46e1750800000000000000
+      internalID: 6277565641480846683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_84
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 44
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4070aa31317f060f0800000000000000
+      internalID: -1125628245536274684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_85
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 59
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1123bf5a00c33d930800000000000000
+      internalID: 4166740053730210321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_86
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 73
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d09a33da1ee8d70800000000000000
+      internalID: 9047416835446213935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_87
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 47
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575af3e0e20a04e80800000000000000
+      internalID: -8196375202146310795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_88
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 20
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5f99f2ff49fc2c0800000000000000
+      internalID: -4409141686436235839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_89
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 49
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ebabc68eb8fac20800000000000000
+      internalID: 3219946088966045278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_90
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 48
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e99b6b1873ba8f0800000000000000
+      internalID: -528267501029974370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_91
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 37
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d1628348f054ba0800000000000000
+      internalID: -6105456659278717541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_92
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 17
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604d9b1bd51484060800000000000000
+      internalID: 6937867096633758726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_93
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 38
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e5460998ac3e500800000000000000
+      internalID: 424405482084785750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_94
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 17
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6027266d7e34c4500800000000000000
+      internalID: 381754731432931846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_95
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 22
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632d9356012ede480800000000000000
+      internalID: -8868183531176996298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_96
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 39
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1557611e6ad859090800000000000000
+      internalID: -8028355012837608111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_97
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 18
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5792df0af63240050800000000000000
+      internalID: 5765772385290365301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc35772fdc9dc10a0800000000000000
+      internalID: -6909408249733753907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_99
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33895464e942ac1a0800000000000000
+      internalID: -6788573226105202637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_100
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 18
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249056dba77ac5580800000000000000
+      internalID: -8837004223202391742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_101
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b548c7f7be20b00800000000000000
+      internalID: 793455417153051494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_102
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 16
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3557fb84b1b82db0800000000000000
+      internalID: -4816404412472273602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_103
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a15984b9c956f9b0800000000000000
+      internalID: -5046747609569865309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_104
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 22
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edc3b85357aa61f0800000000000000
+      internalID: -1050843586625286686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_105
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 6
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b06d4a66e97f540800000000000000
+      internalID: 5041672471553903405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11394_buggy_0002_106
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 12
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933b7ac24bf1b2650800000000000000
+      internalID: 6209091369964122937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_11394_buggy_0002_0: 8746784791360678453
+      motion_11394_buggy_0002_1: 8859827214164257394
+      motion_11394_buggy_0002_10: -5632289534746721267
+      motion_11394_buggy_0002_100: -8837004223202391742
+      motion_11394_buggy_0002_101: 793455417153051494
+      motion_11394_buggy_0002_102: -4816404412472273602
+      motion_11394_buggy_0002_103: -5046747609569865309
+      motion_11394_buggy_0002_104: -1050843586625286686
+      motion_11394_buggy_0002_105: 5041672471553903405
+      motion_11394_buggy_0002_106: 6209091369964122937
+      motion_11394_buggy_0002_11: 6687834266569669192
+      motion_11394_buggy_0002_12: 4311026959427747922
+      motion_11394_buggy_0002_13: -8924458639081697304
+      motion_11394_buggy_0002_14: -3073699095825565820
+      motion_11394_buggy_0002_15: -1239786730131809916
+      motion_11394_buggy_0002_16: -7719662912237166227
+      motion_11394_buggy_0002_17: -1438388925835038464
+      motion_11394_buggy_0002_18: -6847381652315328573
+      motion_11394_buggy_0002_19: 2566248166017226102
+      motion_11394_buggy_0002_2: -7063708045078281006
+      motion_11394_buggy_0002_20: 7495109278911921900
+      motion_11394_buggy_0002_21: 3593546786219446107
+      motion_11394_buggy_0002_22: -3425697616756536393
+      motion_11394_buggy_0002_23: -3245640665658241760
+      motion_11394_buggy_0002_24: 1078133887523996963
+      motion_11394_buggy_0002_25: -3652614934328001612
+      motion_11394_buggy_0002_26: -9004287876708103699
+      motion_11394_buggy_0002_27: -5225043169589278822
+      motion_11394_buggy_0002_28: -463014087037855363
+      motion_11394_buggy_0002_29: -4251051115713551466
+      motion_11394_buggy_0002_3: -1613602757077147490
+      motion_11394_buggy_0002_30: 1517165731882507367
+      motion_11394_buggy_0002_31: -4706515190901844038
+      motion_11394_buggy_0002_32: -7464835516372609846
+      motion_11394_buggy_0002_33: -7306937011090934573
+      motion_11394_buggy_0002_34: -8177785237982107467
+      motion_11394_buggy_0002_35: 11350670751529747
+      motion_11394_buggy_0002_36: 6638991909306958297
+      motion_11394_buggy_0002_37: 2986557039257757307
+      motion_11394_buggy_0002_38: -515914318926038681
+      motion_11394_buggy_0002_39: 4955289628962800811
+      motion_11394_buggy_0002_4: -8695669855892362063
+      motion_11394_buggy_0002_40: 5490851946216413940
+      motion_11394_buggy_0002_41: 5817220530217849616
+      motion_11394_buggy_0002_42: -4569973631955565371
+      motion_11394_buggy_0002_43: -6780124156733674018
+      motion_11394_buggy_0002_44: 1771143104227374178
+      motion_11394_buggy_0002_45: 256018276334628403
+      motion_11394_buggy_0002_46: 17618374147018861
+      motion_11394_buggy_0002_47: 7306175386210558079
+      motion_11394_buggy_0002_48: -8459071711182941104
+      motion_11394_buggy_0002_49: 2617622598878760515
+      motion_11394_buggy_0002_5: -7263986906317043259
+      motion_11394_buggy_0002_50: -8163171982477312918
+      motion_11394_buggy_0002_51: -1729828615117653173
+      motion_11394_buggy_0002_52: 5428437509961472916
+      motion_11394_buggy_0002_53: -6982558750243075742
+      motion_11394_buggy_0002_54: 4678182254501261898
+      motion_11394_buggy_0002_55: 4393142785062001991
+      motion_11394_buggy_0002_56: -9120180011995204281
+      motion_11394_buggy_0002_57: 8479297886974770700
+      motion_11394_buggy_0002_58: -434908517819216222
+      motion_11394_buggy_0002_59: 209599958028636341
+      motion_11394_buggy_0002_6: -5708710397176122502
+      motion_11394_buggy_0002_60: -1607659842331398492
+      motion_11394_buggy_0002_61: -7955612970703507696
+      motion_11394_buggy_0002_62: -2387667395636468697
+      motion_11394_buggy_0002_63: 5295678243458704684
+      motion_11394_buggy_0002_64: -5998949439391446523
+      motion_11394_buggy_0002_65: -8977410652331466245
+      motion_11394_buggy_0002_66: 5082095477012229162
+      motion_11394_buggy_0002_67: 5188954690875669638
+      motion_11394_buggy_0002_68: 4017750029356329778
+      motion_11394_buggy_0002_69: 4139248506576678669
+      motion_11394_buggy_0002_7: -5604711236276752544
+      motion_11394_buggy_0002_70: 5572943450723992129
+      motion_11394_buggy_0002_71: -1158601163882373519
+      motion_11394_buggy_0002_72: 6248581725852015784
+      motion_11394_buggy_0002_73: 4905301225879857858
+      motion_11394_buggy_0002_74: -6946234974815069062
+      motion_11394_buggy_0002_75: -7268155946946401852
+      motion_11394_buggy_0002_76: 2542691335643897929
+      motion_11394_buggy_0002_77: -3963471503841823363
+      motion_11394_buggy_0002_78: 6487051840957594108
+      motion_11394_buggy_0002_79: -8885186978851400173
+      motion_11394_buggy_0002_8: -1607674172471057024
+      motion_11394_buggy_0002_80: -4227943252905557045
+      motion_11394_buggy_0002_81: -5310059785767573071
+      motion_11394_buggy_0002_82: -4619690287889589990
+      motion_11394_buggy_0002_83: 6277565641480846683
+      motion_11394_buggy_0002_84: -1125628245536274684
+      motion_11394_buggy_0002_85: 4166740053730210321
+      motion_11394_buggy_0002_86: 9047416835446213935
+      motion_11394_buggy_0002_87: -8196375202146310795
+      motion_11394_buggy_0002_88: -4409141686436235839
+      motion_11394_buggy_0002_89: 3219946088966045278
+      motion_11394_buggy_0002_9: -4771345386537276815
+      motion_11394_buggy_0002_90: -528267501029974370
+      motion_11394_buggy_0002_91: -6105456659278717541
+      motion_11394_buggy_0002_92: 6937867096633758726
+      motion_11394_buggy_0002_93: 424405482084785750
+      motion_11394_buggy_0002_94: 381754731432931846
+      motion_11394_buggy_0002_95: -8868183531176996298
+      motion_11394_buggy_0002_96: -8028355012837608111
+      motion_11394_buggy_0002_97: 5765772385290365301
+      motion_11394_buggy_0002_98: -6909408249733753907
+      motion_11394_buggy_0002_99: -6788573226105202637
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

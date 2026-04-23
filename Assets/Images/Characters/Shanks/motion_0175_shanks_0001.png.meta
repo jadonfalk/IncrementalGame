@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: e48fb33af29eb7043b4ccc0f2ead48de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 431578578514353207
+    second: motion_0175_shanks_0001_0
+  - first:
+      213: -2140362181272512916
+    second: motion_0175_shanks_0001_1
+  - first:
+      213: -5683170546960667887
+    second: motion_0175_shanks_0001_2
+  - first:
+      213: 6312401272251729682
+    second: motion_0175_shanks_0001_3
+  - first:
+      213: 7044271890606620242
+    second: motion_0175_shanks_0001_4
+  - first:
+      213: 8986640337782501162
+    second: motion_0175_shanks_0001_5
+  - first:
+      213: 1083672506359106775
+    second: motion_0175_shanks_0001_6
+  - first:
+      213: 4516985175631208669
+    second: motion_0175_shanks_0001_7
+  - first:
+      213: -7678379921995244944
+    second: motion_0175_shanks_0001_8
+  - first:
+      213: 700543646213602698
+    second: motion_0175_shanks_0001_9
+  - first:
+      213: 7208168870406148709
+    second: motion_0175_shanks_0001_10
+  - first:
+      213: 2897303743366923089
+    second: motion_0175_shanks_0001_11
+  - first:
+      213: 6176701086510364911
+    second: motion_0175_shanks_0001_12
+  - first:
+      213: -7285692089049167108
+    second: motion_0175_shanks_0001_13
+  - first:
+      213: 5045666164729544314
+    second: motion_0175_shanks_0001_14
+  - first:
+      213: 4693657053018924019
+    second: motion_0175_shanks_0001_15
+  - first:
+      213: -5884280579965446945
+    second: motion_0175_shanks_0001_16
+  - first:
+      213: 8284929450677513136
+    second: motion_0175_shanks_0001_17
+  - first:
+      213: -8460777259190544611
+    second: motion_0175_shanks_0001_18
+  - first:
+      213: -6932068805389805816
+    second: motion_0175_shanks_0001_19
+  - first:
+      213: -1770649286601384371
+    second: motion_0175_shanks_0001_20
+  - first:
+      213: 6655453377363699462
+    second: motion_0175_shanks_0001_21
+  - first:
+      213: -3073502955376606629
+    second: motion_0175_shanks_0001_22
+  - first:
+      213: 2544289225465287792
+    second: motion_0175_shanks_0001_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 591
+        width: 167
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c14093e664df500800000000000000
+      internalID: 431578578514353207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 816
+        width: 108
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66529eafe7eb42e0800000000000000
+      internalID: -2140362181272512916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 816
+        width: 108
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b627e8f725121b0800000000000000
+      internalID: -5683170546960667887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 596
+        width: 128
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217c94833872a9750800000000000000
+      internalID: 6312401272251729682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 816
+        width: 108
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e70ec56f742c160800000000000000
+      internalID: 7044271890606620242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 596
+        width: 118
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fe8b126c5f6bc70800000000000000
+      internalID: 8986640337782501162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_6
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 816
+        width: 115
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc446a276af90f00800000000000000
+      internalID: 1083672506359106775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_7
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 645
+        width: 161
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd02431d51e8fae30800000000000000
+      internalID: 4516985175631208669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_8
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 691
+        width: 108
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a5bfa842ae07590800000000000000
+      internalID: -7678379921995244944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_9
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 791
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8df73e0cb4d8b900800000000000000
+      internalID: 700543646213602698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_10
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 788
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5625699a56f880460800000000000000
+      internalID: 7208168870406148709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_11
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 744
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1538bcd676a453820800000000000000
+      internalID: 2897303743366923089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_12
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 603
+        width: 6
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe83831a9ec08b550800000000000000
+      internalID: 6176701086510364911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_13
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 597
+        width: 94
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfac95175a504ea90800000000000000
+      internalID: -7285692089049167108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_14
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 408
+        width: 200
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e79ebc4aec50640800000000000000
+      internalID: 5045666164729544314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 300
+        width: 124
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f323beb838332140800000000000000
+      internalID: 4693657053018924019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 300
+        width: 124
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd41e602df5d65ea0800000000000000
+      internalID: -5884280579965446945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_17
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 276
+        width: 160
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb2ec0a07bf9f270800000000000000
+      internalID: 8284929450677513136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_18
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 276
+        width: 176
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d179e3ee8e7459a80800000000000000
+      internalID: -8460777259190544611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 19
+        width: 108
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8079c2036285ccf90800000000000000
+      internalID: -6932068805389805816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_20
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 19
+        width: 105
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e535aead36d67e0800000000000000
+      internalID: -1770649286601384371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_21
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 18
+        width: 189
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607efe8a59bec5c50800000000000000
+      internalID: 6655453377363699462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_22
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 18
+        width: 188
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b520aa0a859b855d0800000000000000
+      internalID: -3073502955376606629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0175_shanks_0001_23
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 11
+        width: 161
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07456b102912f4320800000000000000
+      internalID: 2544289225465287792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_0175_shanks_0001_0: 431578578514353207
+      motion_0175_shanks_0001_1: -2140362181272512916
+      motion_0175_shanks_0001_10: 7208168870406148709
+      motion_0175_shanks_0001_11: 2897303743366923089
+      motion_0175_shanks_0001_12: 6176701086510364911
+      motion_0175_shanks_0001_13: -7285692089049167108
+      motion_0175_shanks_0001_14: 5045666164729544314
+      motion_0175_shanks_0001_15: 4693657053018924019
+      motion_0175_shanks_0001_16: -5884280579965446945
+      motion_0175_shanks_0001_17: 8284929450677513136
+      motion_0175_shanks_0001_18: -8460777259190544611
+      motion_0175_shanks_0001_19: -6932068805389805816
+      motion_0175_shanks_0001_2: -5683170546960667887
+      motion_0175_shanks_0001_20: -1770649286601384371
+      motion_0175_shanks_0001_21: 6655453377363699462
+      motion_0175_shanks_0001_22: -3073502955376606629
+      motion_0175_shanks_0001_23: 2544289225465287792
+      motion_0175_shanks_0001_3: 6312401272251729682
+      motion_0175_shanks_0001_4: 7044271890606620242
+      motion_0175_shanks_0001_5: 8986640337782501162
+      motion_0175_shanks_0001_6: 1083672506359106775
+      motion_0175_shanks_0001_7: 4516985175631208669
+      motion_0175_shanks_0001_8: -7678379921995244944
+      motion_0175_shanks_0001_9: 700543646213602698
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

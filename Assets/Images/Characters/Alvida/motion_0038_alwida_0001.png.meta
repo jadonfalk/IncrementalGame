@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 4363cf53bf7b9cb4d93434c13a45462c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7806427427339437374
+    second: motion_0038_alwida_0001_0
+  - first:
+      213: 5137330316817101902
+    second: motion_0038_alwida_0001_1
+  - first:
+      213: -9112041834541261087
+    second: motion_0038_alwida_0001_2
+  - first:
+      213: 1076205127598211154
+    second: motion_0038_alwida_0001_3
+  - first:
+      213: 6687719233770174872
+    second: motion_0038_alwida_0001_4
+  - first:
+      213: 3539725419583093896
+    second: motion_0038_alwida_0001_5
+  - first:
+      213: -392317354905578273
+    second: motion_0038_alwida_0001_6
+  - first:
+      213: 7961360318161988706
+    second: motion_0038_alwida_0001_7
+  - first:
+      213: 3107313856031737521
+    second: motion_0038_alwida_0001_8
+  - first:
+      213: 8636842098968751832
+    second: motion_0038_alwida_0001_9
+  - first:
+      213: -1678670739077028829
+    second: motion_0038_alwida_0001_10
+  - first:
+      213: 4318973787884687284
+    second: motion_0038_alwida_0001_11
+  - first:
+      213: -3238484132016180835
+    second: motion_0038_alwida_0001_12
+  - first:
+      213: -6833317028572517655
+    second: motion_0038_alwida_0001_13
+  - first:
+      213: 3937424866755689934
+    second: motion_0038_alwida_0001_14
+  - first:
+      213: 6853189700391824649
+    second: motion_0038_alwida_0001_15
+  - first:
+      213: 6500536546616518852
+    second: motion_0038_alwida_0001_16
+  - first:
+      213: 2253768425447495067
+    second: motion_0038_alwida_0001_17
+  - first:
+      213: -6140510364689152733
+    second: motion_0038_alwida_0001_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_0038_alwida_0001_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 779
+        width: 165
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2caf0947d9ff9a390800000000000000
+      internalID: -7806427427339437374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0038_alwida_0001_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 779
+        width: 167
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e447ab354b67b4740800000000000000
+      internalID: 5137330316817101902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0038_alwida_0001_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 779
+        width: 167
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee5ba9aa368b8180800000000000000
+      internalID: -9112041834541261087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0038_alwida_0001_3
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 779
+        width: 165
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25002ff8cd27fee00800000000000000
+      internalID: 1076205127598211154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0038_alwida_0001_4
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 970
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8993b66c53d8fcc50800000000000000
+      internalID: 6687719233770174872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0038_alwida_0001_5
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 800
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cbbacc381af1130800000000000000
+      internalID: 3539725419583093896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0038_alwida_0001_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 555
+        width: 169
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4d1adb1753e8af0800000000000000
+      internalID: -392317354905578273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0038_alwida_0001_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 555
+        width: 255
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cafec370f6c7e60800000000000000
+      internalID: 7961360318161988706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0038_alwida_0001_8
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 709
+        width: 90
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6cb622d756f1b20800000000000000
+      internalID: 3107313856031737521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0038_alwida_0001_9
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 534
+        width: 181
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8deeb2a012a3cd770800000000000000
+      internalID: 8636842098968751832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0038_alwida_0001_10
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 571
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324a8765bd924b8e0800000000000000
+      internalID: -1678670739077028829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0038_alwida_0001_11
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 530
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf0715f6c310fb30800000000000000
+      internalID: 4318973787884687284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0038_alwida_0001_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 327
+        width: 172
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91bf6417d79e03d0800000000000000
+      internalID: -3238484132016180835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0038_alwida_0001_13
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 327
+        width: 172
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eaae42fd5e2b21a0800000000000000
+      internalID: -6833317028572517655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0038_alwida_0001_14
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 275
+        width: 222
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd33c01e0b84a630800000000000000
+      internalID: 3937424866755689934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0038_alwida_0001_15
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 274
+        width: 187
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d683609bb6b1f50800000000000000
+      internalID: 6853189700391824649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0038_alwida_0001_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 253
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8a58e3c8b863a50800000000000000
+      internalID: 6500536546616518852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0038_alwida_0001_17
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 19
+        width: 201
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b951ac4217ef64f10800000000000000
+      internalID: 2253768425447495067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0038_alwida_0001_18
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 21
+        width: 260
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325491d6b5688caa0800000000000000
+      internalID: -6140510364689152733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_0038_alwida_0001_0: -7806427427339437374
+      motion_0038_alwida_0001_1: 5137330316817101902
+      motion_0038_alwida_0001_10: -1678670739077028829
+      motion_0038_alwida_0001_11: 4318973787884687284
+      motion_0038_alwida_0001_12: -3238484132016180835
+      motion_0038_alwida_0001_13: -6833317028572517655
+      motion_0038_alwida_0001_14: 3937424866755689934
+      motion_0038_alwida_0001_15: 6853189700391824649
+      motion_0038_alwida_0001_16: 6500536546616518852
+      motion_0038_alwida_0001_17: 2253768425447495067
+      motion_0038_alwida_0001_18: -6140510364689152733
+      motion_0038_alwida_0001_2: -9112041834541261087
+      motion_0038_alwida_0001_3: 1076205127598211154
+      motion_0038_alwida_0001_4: 6687719233770174872
+      motion_0038_alwida_0001_5: 3539725419583093896
+      motion_0038_alwida_0001_6: -392317354905578273
+      motion_0038_alwida_0001_7: 7961360318161988706
+      motion_0038_alwida_0001_8: 3107313856031737521
+      motion_0038_alwida_0001_9: 8636842098968751832
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

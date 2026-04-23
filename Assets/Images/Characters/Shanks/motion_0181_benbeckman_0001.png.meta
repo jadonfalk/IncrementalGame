@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 20dc3d7e32808a94ea4ba44d1a483122
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4401079809007892201
+    second: motion_0181_benbeckman_0001_0
+  - first:
+      213: 7704085654129496094
+    second: motion_0181_benbeckman_0001_1
+  - first:
+      213: -6980232610493662919
+    second: motion_0181_benbeckman_0001_2
+  - first:
+      213: -719231419556391018
+    second: motion_0181_benbeckman_0001_3
+  - first:
+      213: -1355725094722650832
+    second: motion_0181_benbeckman_0001_4
+  - first:
+      213: 2219056625405842109
+    second: motion_0181_benbeckman_0001_5
+  - first:
+      213: -83179126545757078
+    second: motion_0181_benbeckman_0001_6
+  - first:
+      213: 2599130001126988815
+    second: motion_0181_benbeckman_0001_7
+  - first:
+      213: -3772873890442269120
+    second: motion_0181_benbeckman_0001_8
+  - first:
+      213: 2445168864808206428
+    second: motion_0181_benbeckman_0001_9
+  - first:
+      213: -5873934799248748834
+    second: motion_0181_benbeckman_0001_10
+  - first:
+      213: 917361847383710207
+    second: motion_0181_benbeckman_0001_11
+  - first:
+      213: -1441583827111812300
+    second: motion_0181_benbeckman_0001_12
+  - first:
+      213: 7006085564520528577
+    second: motion_0181_benbeckman_0001_13
+  - first:
+      213: -1729588569416538474
+    second: motion_0181_benbeckman_0001_14
+  - first:
+      213: -8489460019640014535
+    second: motion_0181_benbeckman_0001_15
+  - first:
+      213: -4999608489268066137
+    second: motion_0181_benbeckman_0001_16
+  - first:
+      213: -922535006378979151
+    second: motion_0181_benbeckman_0001_17
+  - first:
+      213: -8988886613241198033
+    second: motion_0181_benbeckman_0001_18
+  - first:
+      213: 5822768171608657398
+    second: motion_0181_benbeckman_0001_19
+  - first:
+      213: -7710385904581391089
+    second: motion_0181_benbeckman_0001_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_0181_benbeckman_0001_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 812
+        width: 127
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e63f04b4c6c31d30800000000000000
+      internalID: 4401079809007892201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0181_benbeckman_0001_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 812
+        width: 128
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10529d95196aea60800000000000000
+      internalID: 7704085654129496094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0181_benbeckman_0001_2
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 812
+        width: 124
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9397de17c6b312f90800000000000000
+      internalID: -6980232610493662919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0181_benbeckman_0001_3
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 979
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6979a06a5d6c406f0800000000000000
+      internalID: -719231419556391018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0181_benbeckman_0001_4
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 838
+        width: 281
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d39f3953f7f2de0800000000000000
+      internalID: -1355725094722650832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0181_benbeckman_0001_5
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 970
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2dac56e3cabce10800000000000000
+      internalID: 2219056625405842109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0181_benbeckman_0001_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 563
+        width: 156
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c438d660d78def0800000000000000
+      internalID: -83179126545757078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0181_benbeckman_0001_7
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 565
+        width: 106
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c1c3a17f6f11420800000000000000
+      internalID: 2599130001126988815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0181_benbeckman_0001_8
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 737
+        width: 90
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ea7d9af2f04abc0800000000000000
+      internalID: -3772873890442269120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0181_benbeckman_0001_9
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 564
+        width: 181
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c500db2a02cfee120800000000000000
+      internalID: 2445168864808206428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0181_benbeckman_0001_10
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 566
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede09f8eb679b7ea0800000000000000
+      internalID: -5873934799248748834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0181_benbeckman_0001_11
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 565
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff95dc36dbf1bbc00800000000000000
+      internalID: 917361847383710207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0181_benbeckman_0001_12
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 558
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4336d07a5277efbe0800000000000000
+      internalID: -1441583827111812300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0181_benbeckman_0001_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 308
+        width: 89
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cafc3b73bd9a3160800000000000000
+      internalID: 7006085564520528577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0181_benbeckman_0001_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 308
+        width: 89
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696e9502c544ff7e0800000000000000
+      internalID: -1729588569416538474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0181_benbeckman_0001_15
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 303
+        width: 222
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939e97a57116f2a80800000000000000
+      internalID: -8489460019640014535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0181_benbeckman_0001_16
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 302
+        width: 187
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8462d6192dd9ab0800000000000000
+      internalID: -4999608489268066137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0181_benbeckman_0001_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 11
+        width: 167
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b01bebac4f7233f0800000000000000
+      internalID: -922535006378979151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0181_benbeckman_0001_18
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 29
+        width: 187
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a8e7b104f014380800000000000000
+      internalID: -8988886613241198033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0181_benbeckman_0001_19
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 29
+        width: 140
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd4f2e3dc0aec050800000000000000
+      internalID: 5822768171608657398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0181_benbeckman_0001_20
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 30
+        width: 173
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d4f340fd43ff490800000000000000
+      internalID: -7710385904581391089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_0181_benbeckman_0001_0: 4401079809007892201
+      motion_0181_benbeckman_0001_1: 7704085654129496094
+      motion_0181_benbeckman_0001_10: -5873934799248748834
+      motion_0181_benbeckman_0001_11: 917361847383710207
+      motion_0181_benbeckman_0001_12: -1441583827111812300
+      motion_0181_benbeckman_0001_13: 7006085564520528577
+      motion_0181_benbeckman_0001_14: -1729588569416538474
+      motion_0181_benbeckman_0001_15: -8489460019640014535
+      motion_0181_benbeckman_0001_16: -4999608489268066137
+      motion_0181_benbeckman_0001_17: -922535006378979151
+      motion_0181_benbeckman_0001_18: -8988886613241198033
+      motion_0181_benbeckman_0001_19: 5822768171608657398
+      motion_0181_benbeckman_0001_2: -6980232610493662919
+      motion_0181_benbeckman_0001_20: -7710385904581391089
+      motion_0181_benbeckman_0001_3: -719231419556391018
+      motion_0181_benbeckman_0001_4: -1355725094722650832
+      motion_0181_benbeckman_0001_5: 2219056625405842109
+      motion_0181_benbeckman_0001_6: -83179126545757078
+      motion_0181_benbeckman_0001_7: 2599130001126988815
+      motion_0181_benbeckman_0001_8: -3772873890442269120
+      motion_0181_benbeckman_0001_9: 2445168864808206428
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

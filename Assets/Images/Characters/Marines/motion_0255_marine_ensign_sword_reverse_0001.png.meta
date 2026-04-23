@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 71e33a876875ab54aa916f40574f40e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4466750899149475180
+    second: motion_0255_marine_ensign_sword_reverse_0001_0
+  - first:
+      213: -6582555729781022852
+    second: motion_0255_marine_ensign_sword_reverse_0001_1
+  - first:
+      213: 6173857110651331750
+    second: motion_0255_marine_ensign_sword_reverse_0001_2
+  - first:
+      213: 3608734595327674715
+    second: motion_0255_marine_ensign_sword_reverse_0001_3
+  - first:
+      213: 831433966629184075
+    second: motion_0255_marine_ensign_sword_reverse_0001_4
+  - first:
+      213: -3282709972644541229
+    second: motion_0255_marine_ensign_sword_reverse_0001_5
+  - first:
+      213: 3650198295705011367
+    second: motion_0255_marine_ensign_sword_reverse_0001_6
+  - first:
+      213: 1940169420422977496
+    second: motion_0255_marine_ensign_sword_reverse_0001_7
+  - first:
+      213: 2321645530035995240
+    second: motion_0255_marine_ensign_sword_reverse_0001_8
+  - first:
+      213: 1586825220348285449
+    second: motion_0255_marine_ensign_sword_reverse_0001_9
+  - first:
+      213: -2982423706831087038
+    second: motion_0255_marine_ensign_sword_reverse_0001_10
+  - first:
+      213: 1320020164191363305
+    second: motion_0255_marine_ensign_sword_reverse_0001_11
+  - first:
+      213: -3140201652254996141
+    second: motion_0255_marine_ensign_sword_reverse_0001_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_0255_marine_ensign_sword_reverse_0001_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 817
+        width: 205
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492f90c19b9e202c0800000000000000
+      internalID: -4466750899149475180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0255_marine_ensign_sword_reverse_0001_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 817
+        width: 198
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f903c807016a4a0800000000000000
+      internalID: -6582555729781022852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0255_marine_ensign_sword_reverse_0001_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 817
+        width: 194
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a46466e452fda550800000000000000
+      internalID: 6173857110651331750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0255_marine_ensign_sword_reverse_0001_3
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 817
+        width: 205
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b594b2b9efcc41230800000000000000
+      internalID: 3608734595327674715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0255_marine_ensign_sword_reverse_0001_4
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 746
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42602b99c8d98b00800000000000000
+      internalID: 831433966629184075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0255_marine_ensign_sword_reverse_0001_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 556
+        width: 182
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcc3e32ca87172d0800000000000000
+      internalID: -3282709972644541229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0255_marine_ensign_sword_reverse_0001_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 556
+        width: 196
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4cb37a20c18a230800000000000000
+      internalID: 3650198295705011367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0255_marine_ensign_sword_reverse_0001_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 293
+        width: 205
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d71364fecddcea10800000000000000
+      internalID: 1940169420422977496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0255_marine_ensign_sword_reverse_0001_8
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 292
+        width: 205
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8624b281f44283020800000000000000
+      internalID: 2321645530035995240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0255_marine_ensign_sword_reverse_0001_9
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 310
+        width: 256
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9029d7b6129850610800000000000000
+      internalID: 1586825220348285449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0255_marine_ensign_sword_reverse_0001_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 49
+        width: 152
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a11a0b07d4c96d0800000000000000
+      internalID: -2982423706831087038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0255_marine_ensign_sword_reverse_0001_11
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 49
+        width: 141
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0aaf67857a15210800000000000000
+      internalID: 1320020164191363305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0255_marine_ensign_sword_reverse_0001_12
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 41
+        width: 265
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3590f3a1c33cb64d0800000000000000
+      internalID: -3140201652254996141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_0255_marine_ensign_sword_reverse_0001_0: -4466750899149475180
+      motion_0255_marine_ensign_sword_reverse_0001_1: -6582555729781022852
+      motion_0255_marine_ensign_sword_reverse_0001_10: -2982423706831087038
+      motion_0255_marine_ensign_sword_reverse_0001_11: 1320020164191363305
+      motion_0255_marine_ensign_sword_reverse_0001_12: -3140201652254996141
+      motion_0255_marine_ensign_sword_reverse_0001_2: 6173857110651331750
+      motion_0255_marine_ensign_sword_reverse_0001_3: 3608734595327674715
+      motion_0255_marine_ensign_sword_reverse_0001_4: 831433966629184075
+      motion_0255_marine_ensign_sword_reverse_0001_5: -3282709972644541229
+      motion_0255_marine_ensign_sword_reverse_0001_6: 3650198295705011367
+      motion_0255_marine_ensign_sword_reverse_0001_7: 1940169420422977496
+      motion_0255_marine_ensign_sword_reverse_0001_8: 2321645530035995240
+      motion_0255_marine_ensign_sword_reverse_0001_9: 1586825220348285449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

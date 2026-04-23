@@ -12,19 +12,23 @@ public class UpgradeManager : MonoBehaviour
 
     void Start()
     {
-        multipliers[ResourceType.Beli] = 1f;
-        multipliers[ResourceType.XP] = 1f;
-        multipliers[ResourceType.Bounty] = 1f;
-        multipliers[ResourceType.Damage] = 1f;
-        multipliers[ResourceType.HP] = 1f;
+        multipliers = new Dictionary<ResourceType, float>();
+        flatBonuses = new Dictionary<ResourceType, float>();
 
-        flatBonuses[ResourceType.XP] = 0f;
+        foreach (ResourceType type in System.Enum.GetValues(typeof(ResourceType)))
+        {
+            multipliers[type] = 1f;
+            flatBonuses[type] = 0f;
+        }
 
         InitializeUpgrades();
+        LoadUpgrades();
     }
 
     void InitializeUpgrades()
     {
+        upgrades.Clear();
+
         upgrades.Add(new Upgrade
         {
             name = "Max HP Boost",
@@ -61,7 +65,7 @@ public class UpgradeManager : MonoBehaviour
             costMultiplier = 1.6f,
             effect = new UpgradeEffect
             {
-                value = 0.15f,      // 15% per level
+                value = 0.15f,
                 targetResource = ResourceType.Beli,
                 isMultiplier = true
             }
@@ -83,13 +87,13 @@ public class UpgradeManager : MonoBehaviour
 
         upgrades.Add(new Upgrade
         {
-            name = "Bounty Boost",
+            name = "Bounty Gain Boost",
             maxLevel = 15,
-            baseCost = 50,
+            baseCost = 60,
             costMultiplier = 1.6f,
             effect = new UpgradeEffect
             {
-                value = 0.15f,
+                value = 0.10f,
                 targetResource = ResourceType.Bounty,
                 isMultiplier = true
             }
@@ -103,7 +107,7 @@ public class UpgradeManager : MonoBehaviour
             costMultiplier = 1.5f,
             effect = new UpgradeEffect
             {
-                value = 0.08f,
+                value = 0.10f,
                 targetResource = ResourceType.XP,
                 isMultiplier = true
             }
@@ -112,95 +116,106 @@ public class UpgradeManager : MonoBehaviour
 
     public bool TryPurchaseUpgrade(int index, out string message)
     {
-        try
+        if (index < 0 || index >= upgrades.Count)
         {
-            if (index < 0 || index >= upgrades.Count)
-            {
-                message = "Invalid upgrade.";
-                return false;
-            }
-
-            Upgrade upgrade = upgrades[index];
-
-            if (upgrade.IsMaxLevel())
-            {
-                message = "Upgrade is already maxed.";
-                return false;
-            }
-
-            float cost = upgrade.GetCost();
-
-            // Use your existing system
-            if (!resourceManager.SpendResource(ResourceType.Beli, cost))
-            {
-                message = "Not enough Beli.";
-                return false;
-            }
-
-            // Purchase success
-            upgrade.LevelUp();
-            ApplyUpgradeEffect(upgrade);
-
-            message = upgrade.name + " upgraded to level " + upgrade.level + "!";
-            return true;
-        }
-        catch (System.Exception e)
-        {
-            message = "Error purchasing Upgrade.";
-            Debug.LogError(e);
+            message = "Invalid upgrade.";
             return false;
-        }     
-        
-    }
+        }
 
-    /*public void PurchaseUpgrade(int index)
-    {
         Upgrade upgrade = upgrades[index];
 
         if (upgrade.IsMaxLevel())
-            return;
+        {
+            message = "Upgrade is already maxed.";
+            return false;
+        }
 
         float cost = upgrade.GetCost();
 
-        if (resourceManager.SpendResource(ResourceType.Beli, cost))
+        if (!resourceManager.SpendResource(ResourceType.Beli, cost))
         {
-            upgrade.LevelUp();
-            ApplyUpgradeEffect(upgrade);
-
-            Debug.Log(upgrade.name + " upgraded to level " + upgrade.level);
+            message = "Not enough Beli.";
+            return false;
         }
-    }*/
+
+        upgrade.LevelUp();
+        ApplyUpgradeEffect(upgrade);
+
+        SaveUpgrades();
+
+        message = upgrade.name + " upgraded!";
+        return true;
+    }
 
     void ApplyUpgradeEffect(Upgrade upgrade)
     {
         ResourceType target = upgrade.effect.targetResource;
 
-        if (upgrade.effect.isMultiplier)
-        {
-            multipliers[target] += upgrade.effect.value;
-        }
-        else
-        {
-            if (!flatBonuses.ContainsKey(target))
-                flatBonuses[target] = 0;
+        if (!multipliers.ContainsKey(target))
+            multipliers[target] = 1f;
 
+        if (!flatBonuses.ContainsKey(target))
+            flatBonuses[target] = 0f;
+
+        if (upgrade.effect.isMultiplier)
+            multipliers[target] += upgrade.effect.value;
+        else
             flatBonuses[target] += upgrade.effect.value;
-        }
     }
 
     public float GetMultiplier(ResourceType type)
     {
-        if (multipliers.ContainsKey(type))
-            return multipliers[type];
-
-        return 1f;
+        return multipliers.ContainsKey(type) ? multipliers[type] : 1f;
     }
 
     public float GetFlatBonus(ResourceType type)
     {
-        if (flatBonuses.ContainsKey(type))
-            return flatBonuses[type];
-
-        return 0f;
+        return flatBonuses.ContainsKey(type) ? flatBonuses[type] : 0f;
     }
+
+    void SaveUpgrades()
+    {
+        foreach (Upgrade u in upgrades)
+            PlayerPrefs.SetInt("UPGRADE_" + u.name, u.level);
+
+        PlayerPrefs.Save();
+    }
+
+    void LoadUpgrades()
+    {
+        foreach (Upgrade u in upgrades)
+        {
+            string key = "UPGRADE_" + u.name;
+
+            if (PlayerPrefs.HasKey(key))
+            {
+                u.level = PlayerPrefs.GetInt(key);
+            }
+        }
+
+        // CRITICAL FIX: rebuild runtime effects
+        RecalculateAllUpgrades();
+    }
+
+    void RecalculateAllUpgrades()
+    {
+        // reset first
+        foreach (ResourceType type in System.Enum.GetValues(typeof(ResourceType)))
+        {
+            multipliers[type] = 1f;
+            flatBonuses[type] = 0f;
+        }
+
+        // re-apply every upgrade based on saved levels
+        foreach (Upgrade u in upgrades)
+        {
+            for (int i = 0; i < u.level; i++)
+            {
+                ApplyUpgradeEffect(u);
+            }
+        }
+
+        Debug.Log("Upgrade multipliers recalculated.");
+    }
+
 }

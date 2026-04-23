@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: 09896319dba06a74a9fec52f97569c8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1769380423312288748
+    second: motion_0240_mr5_reverse_0001_0
+  - first:
+      213: -1065896443719015765
+    second: motion_0240_mr5_reverse_0001_1
+  - first:
+      213: -8329191437172554336
+    second: motion_0240_mr5_reverse_0001_2
+  - first:
+      213: -3458447848570937968
+    second: motion_0240_mr5_reverse_0001_3
+  - first:
+      213: -3545492784788658016
+    second: motion_0240_mr5_reverse_0001_4
+  - first:
+      213: 300124856784346954
+    second: motion_0240_mr5_reverse_0001_5
+  - first:
+      213: -5683415568152715401
+    second: motion_0240_mr5_reverse_0001_6
+  - first:
+      213: -2125916163080784825
+    second: motion_0240_mr5_reverse_0001_7
+  - first:
+      213: 977069875852139088
+    second: motion_0240_mr5_reverse_0001_8
+  - first:
+      213: -5775731150158577534
+    second: motion_0240_mr5_reverse_0001_9
+  - first:
+      213: -8337295735638080165
+    second: motion_0240_mr5_reverse_0001_10
+  - first:
+      213: -3343623907957345425
+    second: motion_0240_mr5_reverse_0001_11
+  - first:
+      213: -3434284837470108463
+    second: motion_0240_mr5_reverse_0001_12
+  - first:
+      213: 8580640081235336819
+    second: motion_0240_mr5_reverse_0001_13
+  - first:
+      213: 3231125790155003514
+    second: motion_0240_mr5_reverse_0001_14
+  - first:
+      213: -4950682042406816091
+    second: motion_0240_mr5_reverse_0001_15
+  - first:
+      213: -5281087127519594469
+    second: motion_0240_mr5_reverse_0001_16
+  - first:
+      213: -3572705098852226295
+    second: motion_0240_mr5_reverse_0001_17
+  - first:
+      213: 8913598290100298423
+    second: motion_0240_mr5_reverse_0001_18
+  - first:
+      213: -3919828237327211351
+    second: motion_0240_mr5_reverse_0001_19
+  - first:
+      213: 7134140027540672557
+    second: motion_0240_mr5_reverse_0001_20
+  - first:
+      213: 717381674387193460
+    second: motion_0240_mr5_reverse_0001_21
+  - first:
+      213: 3240366740150421711
+    second: motion_0240_mr5_reverse_0001_22
+  - first:
+      213: 9132499676868046562
+    second: motion_0240_mr5_reverse_0001_23
+  - first:
+      213: 5621371535010136427
+    second: motion_0240_mr5_reverse_0001_24
+  - first:
+      213: -6640206636023484670
+    second: motion_0240_mr5_reverse_0001_25
+  - first:
+      213: 2322195484297653240
+    second: motion_0240_mr5_reverse_0001_26
+  - first:
+      213: -100678756486488636
+    second: motion_0240_mr5_reverse_0001_27
+  - first:
+      213: -735789281938383703
+    second: motion_0240_mr5_reverse_0001_28
+  - first:
+      213: 3742089941242672859
+    second: motion_0240_mr5_reverse_0001_29
+  - first:
+      213: 4091091720905936582
+    second: motion_0240_mr5_reverse_0001_30
+  - first:
+      213: -7563048075980641787
+    second: motion_0240_mr5_reverse_0001_31
+  - first:
+      213: -8961841017737625299
+    second: motion_0240_mr5_reverse_0001_32
+  - first:
+      213: -5143286756740440510
+    second: motion_0240_mr5_reverse_0001_33
+  - first:
+      213: -8567106351535356747
+    second: motion_0240_mr5_reverse_0001_34
+  - first:
+      213: 3242631107888474817
+    second: motion_0240_mr5_reverse_0001_35
+  - first:
+      213: 5806884884346711412
+    second: motion_0240_mr5_reverse_0001_36
+  - first:
+      213: 1219176708033368115
+    second: motion_0240_mr5_reverse_0001_37
+  - first:
+      213: 4235001339610591141
+    second: motion_0240_mr5_reverse_0001_38
+  - first:
+      213: -470056708177984005
+    second: motion_0240_mr5_reverse_0001_39
+  - first:
+      213: -9198099863718519656
+    second: motion_0240_mr5_reverse_0001_40
+  - first:
+      213: 6153565763325028293
+    second: motion_0240_mr5_reverse_0001_41
+  - first:
+      213: 1774598758493738522
+    second: motion_0240_mr5_reverse_0001_42
+  - first:
+      213: 1182968460795962869
+    second: motion_0240_mr5_reverse_0001_43
+  - first:
+      213: 2826500480705761125
+    second: motion_0240_mr5_reverse_0001_44
+  - first:
+      213: -7242653046682022038
+    second: motion_0240_mr5_reverse_0001_45
+  - first:
+      213: -2042850224982742572
+    second: motion_0240_mr5_reverse_0001_46
+  - first:
+      213: -2935988457796227413
+    second: motion_0240_mr5_reverse_0001_47
+  - first:
+      213: 9043427195171040220
+    second: motion_0240_mr5_reverse_0001_48
+  - first:
+      213: 7786783426389282628
+    second: motion_0240_mr5_reverse_0001_49
+  - first:
+      213: -6233023496658449582
+    second: motion_0240_mr5_reverse_0001_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 818
+        width: 82
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb2f04de1a1e8810800000000000000
+      internalID: 1769380423312288748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 818
+        width: 83
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2a6c0f4dc2531f0800000000000000
+      internalID: -1065896443719015765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 818
+        width: 84
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5ca119484c86c80800000000000000
+      internalID: -8329191437172554336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 818
+        width: 84
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d17bf51002100d0800000000000000
+      internalID: -3458447848570937968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_4
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 818
+        width: 84
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a826f8d811ebcec0800000000000000
+      internalID: -3545492784788658016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_5
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 818
+        width: 84
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f55e497f14a2400800000000000000
+      internalID: 300124856784346954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_6
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 818
+        width: 84
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f155d17a37021b0800000000000000
+      internalID: -5683415568152715401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_7
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 818
+        width: 83
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744fe45638a3f72e0800000000000000
+      internalID: -2125916163080784825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 598
+        width: 156
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ad6e610ef3f8d00800000000000000
+      internalID: 977069875852139088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 590
+        width: 129
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280c3acbe1b78dfa0800000000000000
+      internalID: -5775731150158577534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_10
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 746
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55c9e983b9fb4c80800000000000000
+      internalID: -8337295735638080165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_11
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 614
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63f2bf55cf0991d0800000000000000
+      internalID: -3343623907957345425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_12
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 603
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4851dc228f650d0800000000000000
+      internalID: -3434284837470108463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_13
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 600
+        width: 96
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ed28311be841770800000000000000
+      internalID: 8580640081235336819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_14
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 599
+        width: 78
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76dac279c347dc20800000000000000
+      internalID: 3231125790155003514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_15
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 469
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6bf6a89e4ab4bb0800000000000000
+      internalID: -4950682042406816091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_16
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 469
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b187e48ec3fc5b6b0800000000000000
+      internalID: -5281087127519594469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_17
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 469
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bafaf34a33b6ec0800000000000000
+      internalID: -3572705098852226295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_18
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 468
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b225f72b6673bb70800000000000000
+      internalID: 8913598290100298423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 330
+        width: 140
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4e09d7cf8f999c0800000000000000
+      internalID: -3919828237327211351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_20
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 330
+        width: 140
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2015778e8e810360800000000000000
+      internalID: 7134140027540672557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_21
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 337
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e393ef4d6a4f900800000000000000
+      internalID: 717381674387193460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_22
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 336
+        width: 83
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc808a8c16818fc20800000000000000
+      internalID: 3240366740150421711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_23
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 337
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eee61fe1182dbe70800000000000000
+      internalID: 9132499676868046562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_24
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 405
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6185c6b0af130e40800000000000000
+      internalID: 5621371535010136427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_25
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 417
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fe0a0fe3f39d3a0800000000000000
+      internalID: -6640206636023484670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_26
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 417
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbe39c4d781a3020800000000000000
+      internalID: 2322195484297653240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_27
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 390
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdd13354315a9ef0800000000000000
+      internalID: -100678756486488636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_28
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 384
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acd584eb83f9c5f0800000000000000
+      internalID: -735789281938383703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_29
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 397
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6f451a9f29ee330800000000000000
+      internalID: 3742089941242672859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_30
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 384
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cec320ae3a76c830800000000000000
+      internalID: 4091091720905936582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_31
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 347
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ae8fb78d7aa0790800000000000000
+      internalID: -7563048075980641787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_32
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 372
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d214934831521a380800000000000000
+      internalID: -8961841017737625299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_33
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 384
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ed38ee1ff5f98b0800000000000000
+      internalID: -5143286756740440510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_34
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 370
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b40ebbe9268b1980800000000000000
+      internalID: -8567106351535356747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_35
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 220
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cae25bffc3200d20800000000000000
+      internalID: 3242631107888474817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_36
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 273
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d221f3903369050800000000000000
+      internalID: 5806884884346711412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_37
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 277
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33052c8a1c26be010800000000000000
+      internalID: 1219176708033368115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_38
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 274
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afeac6c74fb5ca30800000000000000
+      internalID: 4235001339610591141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_39
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 274
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf503c41ae50a79f0800000000000000
+      internalID: -470056708177984005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_40
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 274
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c1d7658e8c95080800000000000000
+      internalID: -9198099863718519656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_41
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 274
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c76ef0757bd56550800000000000000
+      internalID: 6153565763325028293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_42
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 237
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a165eda2b24a0a810800000000000000
+      internalID: 1774598758493738522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_43
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 276
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5eb362c8fba6010800000000000000
+      internalID: 1182968460795962869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_44
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 194
+        width: 280
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f00f5363fb93720800000000000000
+      internalID: 2826500480705761125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_45
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 216
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f0e116d6dec7b90800000000000000
+      internalID: -7242653046682022038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_46
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 231
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9a39a3b8656a3e0800000000000000
+      internalID: -2042850224982742572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_47
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 27
+        width: 78
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baea86c9d064147d0800000000000000
+      internalID: -2935988457796227413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_48
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 30
+        width: 114
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbe640be15b08d70800000000000000
+      internalID: 9043427195171040220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_49
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 29
+        width: 113
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f05d82546301c60800000000000000
+      internalID: 7786783426389282628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0240_mr5_reverse_0001_50
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 37
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b820d572adf79a0800000000000000
+      internalID: -6233023496658449582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_0240_mr5_reverse_0001_0: 1769380423312288748
+      motion_0240_mr5_reverse_0001_1: -1065896443719015765
+      motion_0240_mr5_reverse_0001_10: -8337295735638080165
+      motion_0240_mr5_reverse_0001_11: -3343623907957345425
+      motion_0240_mr5_reverse_0001_12: -3434284837470108463
+      motion_0240_mr5_reverse_0001_13: 8580640081235336819
+      motion_0240_mr5_reverse_0001_14: 3231125790155003514
+      motion_0240_mr5_reverse_0001_15: -4950682042406816091
+      motion_0240_mr5_reverse_0001_16: -5281087127519594469
+      motion_0240_mr5_reverse_0001_17: -3572705098852226295
+      motion_0240_mr5_reverse_0001_18: 8913598290100298423
+      motion_0240_mr5_reverse_0001_19: -3919828237327211351
+      motion_0240_mr5_reverse_0001_2: -8329191437172554336
+      motion_0240_mr5_reverse_0001_20: 7134140027540672557
+      motion_0240_mr5_reverse_0001_21: 717381674387193460
+      motion_0240_mr5_reverse_0001_22: 3240366740150421711
+      motion_0240_mr5_reverse_0001_23: 9132499676868046562
+      motion_0240_mr5_reverse_0001_24: 5621371535010136427
+      motion_0240_mr5_reverse_0001_25: -6640206636023484670
+      motion_0240_mr5_reverse_0001_26: 2322195484297653240
+      motion_0240_mr5_reverse_0001_27: -100678756486488636
+      motion_0240_mr5_reverse_0001_28: -735789281938383703
+      motion_0240_mr5_reverse_0001_29: 3742089941242672859
+      motion_0240_mr5_reverse_0001_3: -3458447848570937968
+      motion_0240_mr5_reverse_0001_30: 4091091720905936582
+      motion_0240_mr5_reverse_0001_31: -7563048075980641787
+      motion_0240_mr5_reverse_0001_32: -8961841017737625299
+      motion_0240_mr5_reverse_0001_33: -5143286756740440510
+      motion_0240_mr5_reverse_0001_34: -8567106351535356747
+      motion_0240_mr5_reverse_0001_35: 3242631107888474817
+      motion_0240_mr5_reverse_0001_36: 5806884884346711412
+      motion_0240_mr5_reverse_0001_37: 1219176708033368115
+      motion_0240_mr5_reverse_0001_38: 4235001339610591141
+      motion_0240_mr5_reverse_0001_39: -470056708177984005
+      motion_0240_mr5_reverse_0001_4: -3545492784788658016
+      motion_0240_mr5_reverse_0001_40: -9198099863718519656
+      motion_0240_mr5_reverse_0001_41: 6153565763325028293
+      motion_0240_mr5_reverse_0001_42: 1774598758493738522
+      motion_0240_mr5_reverse_0001_43: 1182968460795962869
+      motion_0240_mr5_reverse_0001_44: 2826500480705761125
+      motion_0240_mr5_reverse_0001_45: -7242653046682022038
+      motion_0240_mr5_reverse_0001_46: -2042850224982742572
+      motion_0240_mr5_reverse_0001_47: -2935988457796227413
+      motion_0240_mr5_reverse_0001_48: 9043427195171040220
+      motion_0240_mr5_reverse_0001_49: 7786783426389282628
+      motion_0240_mr5_reverse_0001_5: 300124856784346954
+      motion_0240_mr5_reverse_0001_50: -6233023496658449582
+      motion_0240_mr5_reverse_0001_6: -5683415568152715401
+      motion_0240_mr5_reverse_0001_7: -2125916163080784825
+      motion_0240_mr5_reverse_0001_8: 977069875852139088
+      motion_0240_mr5_reverse_0001_9: -5775731150158577534
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

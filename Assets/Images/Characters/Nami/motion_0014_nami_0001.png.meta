@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 3857f33558fc1d94b8fb0894c24370b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1787689022983794670
+    second: motion_0014_nami_0001_0
+  - first:
+      213: 3271775329224420685
+    second: motion_0014_nami_0001_1
+  - first:
+      213: 8322022145987459215
+    second: motion_0014_nami_0001_2
+  - first:
+      213: -5710034934432352763
+    second: motion_0014_nami_0001_3
+  - first:
+      213: 1590478894430511597
+    second: motion_0014_nami_0001_4
+  - first:
+      213: 7605163152298557580
+    second: motion_0014_nami_0001_5
+  - first:
+      213: 5404850468605123925
+    second: motion_0014_nami_0001_6
+  - first:
+      213: 6560633092224771914
+    second: motion_0014_nami_0001_7
+  - first:
+      213: -7079810655148590752
+    second: motion_0014_nami_0001_8
+  - first:
+      213: -4835794227583845621
+    second: motion_0014_nami_0001_9
+  - first:
+      213: -3952800864870817267
+    second: motion_0014_nami_0001_10
+  - first:
+      213: 9202876172522586714
+    second: motion_0014_nami_0001_11
+  - first:
+      213: 6057997442407963339
+    second: motion_0014_nami_0001_12
+  - first:
+      213: 6663611386034246272
+    second: motion_0014_nami_0001_13
+  - first:
+      213: -1136089250612012767
+    second: motion_0014_nami_0001_14
+  - first:
+      213: -8672388610710418864
+    second: motion_0014_nami_0001_15
+  - first:
+      213: -7756709059175729896
+    second: motion_0014_nami_0001_16
+  - first:
+      213: 6702957029755436279
+    second: motion_0014_nami_0001_17
+  - first:
+      213: 8702930575592173355
+    second: motion_0014_nami_0001_18
+  - first:
+      213: -7419372374579208144
+    second: motion_0014_nami_0001_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_0014_nami_0001_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 821
+        width: 100
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2109f202e4ad037e0800000000000000
+      internalID: -1787689022983794670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0014_nami_0001_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 821
+        width: 100
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dee4bc35ea76d20800000000000000
+      internalID: 3271775329224420685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0014_nami_0001_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 821
+        width: 100
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f883480cc03cd7370800000000000000
+      internalID: 8322022145987459215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0014_nami_0001_3
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 970
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506b61eea71e1c0b0800000000000000
+      internalID: -5710034934432352763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0014_nami_0001_4
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 853
+        width: 65
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de16945b024821610800000000000000
+      internalID: 1590478894430511597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0014_nami_0001_5
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 724
+        width: 103
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8045a7d797fa8960800000000000000
+      internalID: 7605163152298557580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0014_nami_0001_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 590
+        width: 143
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ddf457dd2e10b40800000000000000
+      internalID: 5404850468605123925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0014_nami_0001_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 597
+        width: 100
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47eab3a90d0c0b50800000000000000
+      internalID: 6560633092224771914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0014_nami_0001_8
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 724
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069b7d638b57fbd90800000000000000
+      internalID: -7079810655148590752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0014_nami_0001_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 533
+        width: 163
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bfaf965cec3ecb0800000000000000
+      internalID: -4835794227583845621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0014_nami_0001_10
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 532
+        width: 137
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02a4856e84d429c0800000000000000
+      internalID: -3952800864870817267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0014_nami_0001_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 335
+        width: 130
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a528d17be1f27bf70800000000000000
+      internalID: 9202876172522586714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0014_nami_0001_12
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 335
+        width: 131
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca93f4c394521450800000000000000
+      internalID: 6057997442407963339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0014_nami_0001_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 339
+        width: 115
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082d1d11047e97c50800000000000000
+      internalID: 6663611386034246272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0014_nami_0001_14
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 310
+        width: 118
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129912888dccb30f0800000000000000
+      internalID: -1136089250612012767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0014_nami_0001_15
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 228
+        width: 184
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a4670c18c75a780800000000000000
+      internalID: -8672388610710418864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0014_nami_0001_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 21
+        width: 125
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815b6cd1532aa5490800000000000000
+      internalID: -7756709059175729896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0014_nami_0001_17
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 31
+        width: 175
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcb74f97efa50d50800000000000000
+      internalID: 6702957029755436279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0014_nami_0001_18
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 35
+        width: 178
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fae079f3507c870800000000000000
+      internalID: 8702930575592173355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0014_nami_0001_19
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 24
+        width: 140
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0302cd48228190990800000000000000
+      internalID: -7419372374579208144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_0014_nami_0001_0: -1787689022983794670
+      motion_0014_nami_0001_1: 3271775329224420685
+      motion_0014_nami_0001_10: -3952800864870817267
+      motion_0014_nami_0001_11: 9202876172522586714
+      motion_0014_nami_0001_12: 6057997442407963339
+      motion_0014_nami_0001_13: 6663611386034246272
+      motion_0014_nami_0001_14: -1136089250612012767
+      motion_0014_nami_0001_15: -8672388610710418864
+      motion_0014_nami_0001_16: -7756709059175729896
+      motion_0014_nami_0001_17: 6702957029755436279
+      motion_0014_nami_0001_18: 8702930575592173355
+      motion_0014_nami_0001_19: -7419372374579208144
+      motion_0014_nami_0001_2: 8322022145987459215
+      motion_0014_nami_0001_3: -5710034934432352763
+      motion_0014_nami_0001_4: 1590478894430511597
+      motion_0014_nami_0001_5: 7605163152298557580
+      motion_0014_nami_0001_6: 5404850468605123925
+      motion_0014_nami_0001_7: 6560633092224771914
+      motion_0014_nami_0001_8: -7079810655148590752
+      motion_0014_nami_0001_9: -4835794227583845621
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

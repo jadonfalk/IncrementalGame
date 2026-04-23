@@ -1,0 +1,3796 @@
+fileFormatVersion: 2
+guid: a01af3211e9d86a478eaa0441bc9898e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8733248121252213811
+    second: motion_13458_kizaru_evolved_0003_0
+  - first:
+      213: 1762175367040298325
+    second: motion_13458_kizaru_evolved_0003_1
+  - first:
+      213: 5766284285805756376
+    second: motion_13458_kizaru_evolved_0003_2
+  - first:
+      213: -6307292952335814157
+    second: motion_13458_kizaru_evolved_0003_3
+  - first:
+      213: -3065841604857652900
+    second: motion_13458_kizaru_evolved_0003_4
+  - first:
+      213: -4660197035290657516
+    second: motion_13458_kizaru_evolved_0003_5
+  - first:
+      213: 2788889212869132030
+    second: motion_13458_kizaru_evolved_0003_6
+  - first:
+      213: -5256466999231909449
+    second: motion_13458_kizaru_evolved_0003_7
+  - first:
+      213: 484935867367603905
+    second: motion_13458_kizaru_evolved_0003_8
+  - first:
+      213: -1152972432830254948
+    second: motion_13458_kizaru_evolved_0003_9
+  - first:
+      213: -8102795705788015264
+    second: motion_13458_kizaru_evolved_0003_10
+  - first:
+      213: -7713650529543088727
+    second: motion_13458_kizaru_evolved_0003_11
+  - first:
+      213: 75061511394591245
+    second: motion_13458_kizaru_evolved_0003_12
+  - first:
+      213: -7624071365346490679
+    second: motion_13458_kizaru_evolved_0003_13
+  - first:
+      213: -2711260290553690112
+    second: motion_13458_kizaru_evolved_0003_14
+  - first:
+      213: 7843376351309195559
+    second: motion_13458_kizaru_evolved_0003_15
+  - first:
+      213: -5208324702212201542
+    second: motion_13458_kizaru_evolved_0003_16
+  - first:
+      213: 5069336861070861829
+    second: motion_13458_kizaru_evolved_0003_17
+  - first:
+      213: -2366585764799100511
+    second: motion_13458_kizaru_evolved_0003_18
+  - first:
+      213: 400631319083423294
+    second: motion_13458_kizaru_evolved_0003_19
+  - first:
+      213: -3849187366098701853
+    second: motion_13458_kizaru_evolved_0003_20
+  - first:
+      213: 1886134808195862550
+    second: motion_13458_kizaru_evolved_0003_21
+  - first:
+      213: 8097998279142123468
+    second: motion_13458_kizaru_evolved_0003_22
+  - first:
+      213: -7587757562183965137
+    second: motion_13458_kizaru_evolved_0003_23
+  - first:
+      213: 3729988324487861078
+    second: motion_13458_kizaru_evolved_0003_24
+  - first:
+      213: -7348235667917392147
+    second: motion_13458_kizaru_evolved_0003_25
+  - first:
+      213: -2558652990755900449
+    second: motion_13458_kizaru_evolved_0003_26
+  - first:
+      213: -3166895037541134723
+    second: motion_13458_kizaru_evolved_0003_27
+  - first:
+      213: -6844679784483509209
+    second: motion_13458_kizaru_evolved_0003_28
+  - first:
+      213: -3294331829611701923
+    second: motion_13458_kizaru_evolved_0003_29
+  - first:
+      213: -2107207000578163197
+    second: motion_13458_kizaru_evolved_0003_30
+  - first:
+      213: -6499746321311455788
+    second: motion_13458_kizaru_evolved_0003_31
+  - first:
+      213: -6003920528299448223
+    second: motion_13458_kizaru_evolved_0003_32
+  - first:
+      213: 7534787306016412395
+    second: motion_13458_kizaru_evolved_0003_33
+  - first:
+      213: -2749660365898597112
+    second: motion_13458_kizaru_evolved_0003_34
+  - first:
+      213: -8217409713830347459
+    second: motion_13458_kizaru_evolved_0003_35
+  - first:
+      213: -1473009147029482437
+    second: motion_13458_kizaru_evolved_0003_36
+  - first:
+      213: -356764884887937797
+    second: motion_13458_kizaru_evolved_0003_37
+  - first:
+      213: 6783244477807673988
+    second: motion_13458_kizaru_evolved_0003_38
+  - first:
+      213: -4344013347101101331
+    second: motion_13458_kizaru_evolved_0003_39
+  - first:
+      213: -1479612244624202509
+    second: motion_13458_kizaru_evolved_0003_40
+  - first:
+      213: 6461309969811683809
+    second: motion_13458_kizaru_evolved_0003_41
+  - first:
+      213: -5128639824209659951
+    second: motion_13458_kizaru_evolved_0003_42
+  - first:
+      213: 4350030800499809813
+    second: motion_13458_kizaru_evolved_0003_43
+  - first:
+      213: 1025912019470488868
+    second: motion_13458_kizaru_evolved_0003_44
+  - first:
+      213: 5967172961330202949
+    second: motion_13458_kizaru_evolved_0003_45
+  - first:
+      213: 6093317030645367967
+    second: motion_13458_kizaru_evolved_0003_46
+  - first:
+      213: -8689283152471274486
+    second: motion_13458_kizaru_evolved_0003_47
+  - first:
+      213: 3302205801470708632
+    second: motion_13458_kizaru_evolved_0003_48
+  - first:
+      213: -4107096140344898970
+    second: motion_13458_kizaru_evolved_0003_49
+  - first:
+      213: 8319685815170449066
+    second: motion_13458_kizaru_evolved_0003_50
+  - first:
+      213: 3950801254540274313
+    second: motion_13458_kizaru_evolved_0003_51
+  - first:
+      213: -1050458496625278616
+    second: motion_13458_kizaru_evolved_0003_52
+  - first:
+      213: -3293531426077640461
+    second: motion_13458_kizaru_evolved_0003_53
+  - first:
+      213: 6113909647597992381
+    second: motion_13458_kizaru_evolved_0003_54
+  - first:
+      213: 7242920399336105534
+    second: motion_13458_kizaru_evolved_0003_55
+  - first:
+      213: -3482514692279675737
+    second: motion_13458_kizaru_evolved_0003_56
+  - first:
+      213: 1578562454924299558
+    second: motion_13458_kizaru_evolved_0003_57
+  - first:
+      213: -8280418633863845926
+    second: motion_13458_kizaru_evolved_0003_58
+  - first:
+      213: 9014335642647745386
+    second: motion_13458_kizaru_evolved_0003_59
+  - first:
+      213: 7632986588168316103
+    second: motion_13458_kizaru_evolved_0003_60
+  - first:
+      213: 5170465096079158294
+    second: motion_13458_kizaru_evolved_0003_61
+  - first:
+      213: -4725849982901687899
+    second: motion_13458_kizaru_evolved_0003_62
+  - first:
+      213: 5431810121351648831
+    second: motion_13458_kizaru_evolved_0003_63
+  - first:
+      213: -7383047420720569606
+    second: motion_13458_kizaru_evolved_0003_64
+  - first:
+      213: -6516070555575809073
+    second: motion_13458_kizaru_evolved_0003_65
+  - first:
+      213: -858825938879927767
+    second: motion_13458_kizaru_evolved_0003_66
+  - first:
+      213: 5871397622686889857
+    second: motion_13458_kizaru_evolved_0003_67
+  - first:
+      213: -1072531405257850641
+    second: motion_13458_kizaru_evolved_0003_68
+  - first:
+      213: -6049941943111584766
+    second: motion_13458_kizaru_evolved_0003_69
+  - first:
+      213: -5290052337408906876
+    second: motion_13458_kizaru_evolved_0003_70
+  - first:
+      213: -3368393559271283847
+    second: motion_13458_kizaru_evolved_0003_71
+  - first:
+      213: -2090267729511489091
+    second: motion_13458_kizaru_evolved_0003_72
+  - first:
+      213: -7158129508086013071
+    second: motion_13458_kizaru_evolved_0003_73
+  - first:
+      213: 7006196078563838254
+    second: motion_13458_kizaru_evolved_0003_74
+  - first:
+      213: 6871987231797736717
+    second: motion_13458_kizaru_evolved_0003_75
+  - first:
+      213: -98740621080349093
+    second: motion_13458_kizaru_evolved_0003_76
+  - first:
+      213: 326853815364406486
+    second: motion_13458_kizaru_evolved_0003_77
+  - first:
+      213: 2453326046090369318
+    second: motion_13458_kizaru_evolved_0003_78
+  - first:
+      213: -6239000471452579623
+    second: motion_13458_kizaru_evolved_0003_79
+  - first:
+      213: -5553316083613807821
+    second: motion_13458_kizaru_evolved_0003_80
+  - first:
+      213: 7877460075749490819
+    second: motion_13458_kizaru_evolved_0003_81
+  - first:
+      213: 5397534035734344608
+    second: motion_13458_kizaru_evolved_0003_82
+  - first:
+      213: 443735780398539178
+    second: motion_13458_kizaru_evolved_0003_83
+  - first:
+      213: 1728738804563544805
+    second: motion_13458_kizaru_evolved_0003_84
+  - first:
+      213: 413608742667732712
+    second: motion_13458_kizaru_evolved_0003_85
+  - first:
+      213: -8586151913797715424
+    second: motion_13458_kizaru_evolved_0003_86
+  - first:
+      213: 1617036867594811751
+    second: motion_13458_kizaru_evolved_0003_87
+  - first:
+      213: -8406342597012837233
+    second: motion_13458_kizaru_evolved_0003_88
+  - first:
+      213: 6358471105320298415
+    second: motion_13458_kizaru_evolved_0003_89
+  - first:
+      213: 5119424577371163642
+    second: motion_13458_kizaru_evolved_0003_90
+  - first:
+      213: -2599579350998251584
+    second: motion_13458_kizaru_evolved_0003_91
+  - first:
+      213: 7337922478589415300
+    second: motion_13458_kizaru_evolved_0003_92
+  - first:
+      213: -3874788997983065500
+    second: motion_13458_kizaru_evolved_0003_93
+  - first:
+      213: 2342344708274948505
+    second: motion_13458_kizaru_evolved_0003_94
+  - first:
+      213: 8107214236540996236
+    second: motion_13458_kizaru_evolved_0003_95
+  - first:
+      213: -1768067093547836160
+    second: motion_13458_kizaru_evolved_0003_96
+  - first:
+      213: -7016700855768472252
+    second: motion_13458_kizaru_evolved_0003_97
+  - first:
+      213: 8949492371462188776
+    second: motion_13458_kizaru_evolved_0003_98
+  - first:
+      213: 3497719075269657201
+    second: motion_13458_kizaru_evolved_0003_99
+  - first:
+      213: 7714544646593936899
+    second: motion_13458_kizaru_evolved_0003_100
+  - first:
+      213: 389556012837523798
+    second: motion_13458_kizaru_evolved_0003_101
+  - first:
+      213: 697747739109693528
+    second: motion_13458_kizaru_evolved_0003_102
+  - first:
+      213: 2279123674593827134
+    second: motion_13458_kizaru_evolved_0003_103
+  - first:
+      213: 818395454396172888
+    second: motion_13458_kizaru_evolved_0003_104
+  - first:
+      213: -324614187436446440
+    second: motion_13458_kizaru_evolved_0003_105
+  - first:
+      213: 5235104201990266663
+    second: motion_13458_kizaru_evolved_0003_106
+  - first:
+      213: 8236529848288650853
+    second: motion_13458_kizaru_evolved_0003_107
+  - first:
+      213: 2581327792967897539
+    second: motion_13458_kizaru_evolved_0003_108
+  - first:
+      213: 7006424237149848945
+    second: motion_13458_kizaru_evolved_0003_109
+  - first:
+      213: 6543293960010381474
+    second: motion_13458_kizaru_evolved_0003_110
+  - first:
+      213: -5335406778278482734
+    second: motion_13458_kizaru_evolved_0003_111
+  - first:
+      213: -8477085911261276302
+    second: motion_13458_kizaru_evolved_0003_112
+  - first:
+      213: 2572072600405355038
+    second: motion_13458_kizaru_evolved_0003_113
+  - first:
+      213: 4561785999925715560
+    second: motion_13458_kizaru_evolved_0003_114
+  - first:
+      213: 5507429206083745693
+    second: motion_13458_kizaru_evolved_0003_115
+  - first:
+      213: 4570534968445068976
+    second: motion_13458_kizaru_evolved_0003_116
+  - first:
+      213: -4765998566724323875
+    second: motion_13458_kizaru_evolved_0003_117
+  - first:
+      213: 3286344184696873202
+    second: motion_13458_kizaru_evolved_0003_118
+  - first:
+      213: 8209226125836224478
+    second: motion_13458_kizaru_evolved_0003_119
+  - first:
+      213: 5400224323923008120
+    second: motion_13458_kizaru_evolved_0003_120
+  - first:
+      213: 3332342524432576111
+    second: motion_13458_kizaru_evolved_0003_121
+  - first:
+      213: 6759219041840977595
+    second: motion_13458_kizaru_evolved_0003_122
+  - first:
+      213: -5185487282971947190
+    second: motion_13458_kizaru_evolved_0003_123
+  - first:
+      213: -3236240250425336557
+    second: motion_13458_kizaru_evolved_0003_124
+  - first:
+      213: -7967338730608619199
+    second: motion_13458_kizaru_evolved_0003_125
+  - first:
+      213: -8273479699217847031
+    second: motion_13458_kizaru_evolved_0003_126
+  - first:
+      213: 8944028287517593189
+    second: motion_13458_kizaru_evolved_0003_127
+  - first:
+      213: -5358805186725802835
+    second: motion_13458_kizaru_evolved_0003_128
+  - first:
+      213: -943462096847428590
+    second: motion_13458_kizaru_evolved_0003_129
+  - first:
+      213: 1065446949913109413
+    second: motion_13458_kizaru_evolved_0003_130
+  - first:
+      213: -5252270285838715652
+    second: motion_13458_kizaru_evolved_0003_131
+  - first:
+      213: -1663948115577030778
+    second: motion_13458_kizaru_evolved_0003_132
+  - first:
+      213: 8047625679546552817
+    second: motion_13458_kizaru_evolved_0003_133
+  - first:
+      213: 887044698991504777
+    second: motion_13458_kizaru_evolved_0003_134
+  - first:
+      213: -3869468553350873379
+    second: motion_13458_kizaru_evolved_0003_135
+  - first:
+      213: -4871064704074336096
+    second: motion_13458_kizaru_evolved_0003_136
+  - first:
+      213: -7602896615627820388
+    second: motion_13458_kizaru_evolved_0003_137
+  - first:
+      213: -1012157670734272374
+    second: motion_13458_kizaru_evolved_0003_138
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1008
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb0a6dba154dc680800000000000000
+      internalID: -8733248121252213811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1011
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d6160f821847810800000000000000
+      internalID: 1762175367040298325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_2
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1001
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df7e51c105f50050800000000000000
+      internalID: 5766284285805756376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_3
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 992
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1f2b13a7ef778a0800000000000000
+      internalID: -6307292952335814157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_4
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 798
+        width: 180
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5998dccd41f375d0800000000000000
+      internalID: -3065841604857652900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 786
+        width: 197
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dfb28bc77a35fb0800000000000000
+      internalID: -4660197035290657516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 962
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efebbf286ff14b620800000000000000
+      internalID: 2788889212869132030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 979
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1f7393d174d07b0800000000000000
+      internalID: -5256466999231909449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 783
+        width: 219
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ceba412a96dab600800000000000000
+      internalID: 484935867367603905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 791
+        width: 209
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90b5595ea1dfffe0800000000000000
+      internalID: -1152972432830254948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_10
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 967
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06dd1fc6c361d8f80800000000000000
+      internalID: -8102795705788015264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_11
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 963
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5941946bb93f490800000000000000
+      internalID: -7713650529543088727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 938
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d028af20c0caa0100800000000000000
+      internalID: 75061511394591245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_13
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 940
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c68b4ebc7bd13690800000000000000
+      internalID: -7624071365346490679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_14
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 948
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008ccef612baf5ad0800000000000000
+      internalID: -2711260290553690112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_15
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 912
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729eb7b4c3549dc60800000000000000
+      internalID: 7843376351309195559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_16
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 908
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3efb9374058b7b0800000000000000
+      internalID: -5208324702212201542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_17
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 924
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5062ce24407e95640800000000000000
+      internalID: 5069336861070861829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_18
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 914
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a947ae19c2382fd0800000000000000
+      internalID: -2366585764799100511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_19
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 903
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e361dd3ef045f8500800000000000000
+      internalID: 400631319083423294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 902
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1f3c10c70f49ac0800000000000000
+      internalID: -3849187366098701853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_21
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 902
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61093096d95ec2a10800000000000000
+      internalID: 1886134808195862550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_22
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 901
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7adf3a78ed16070800000000000000
+      internalID: 8097998279142123468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_23
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 898
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26ad38e2bed2b690800000000000000
+      internalID: -7587757562183965137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_24
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 900
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65314796e9493c330800000000000000
+      internalID: 3729988324487861078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_25
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 888
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6bde7b792d50a90800000000000000
+      internalID: -7348235667917392147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 872
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3f08649a6dd7cd0800000000000000
+      internalID: -2558652990755900449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_27
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 859
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ec9660ebdec04d0800000000000000
+      internalID: -3166895037541134723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_28
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 871
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c209c2000d201a0800000000000000
+      internalID: -6844679784483509209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_29
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 852
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d595bb3b7ae2842d0800000000000000
+      internalID: -3294331829611701923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_30
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 860
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e725eb562b1c2e0800000000000000
+      internalID: -2107207000578163197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_31
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 787
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5241c68234cc5a0800000000000000
+      internalID: -6499746321311455788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_32
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 775
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1682903f61acdaca0800000000000000
+      internalID: -6003920528299448223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_33
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 786
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be21b314221f09860800000000000000
+      internalID: 7534787306016412395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_34
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 773
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80db4ad277e37d9d0800000000000000
+      internalID: -2749660365898597112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_35
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 779
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d3c492765e5fd80800000000000000
+      internalID: -8217409713830347459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_36
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 585
+        width: 184
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3418603cf1de8be0800000000000000
+      internalID: -1473009147029482437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 713
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcdbe73a348c0bf0800000000000000
+      internalID: -356764884887937797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_38
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 760
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4824b54d9ece22e50800000000000000
+      internalID: 6783244477807673988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_39
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 753
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2bb7a50e6f6b3c0800000000000000
+      internalID: -4344013347101101331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_40
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 706
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f42bd9b08c577be0800000000000000
+      internalID: -1479612244624202509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_41
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 727
+        width: 83
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9b05e1f2f2ba950800000000000000
+      internalID: 6461309969811683809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_42
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 755
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7bf09a04963d8b0800000000000000
+      internalID: -5128639824209659951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_43
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 718
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e9cc137f96e5c30800000000000000
+      internalID: 4350030800499809813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_44
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 666
+        width: 18
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4259753db85cc3e00800000000000000
+      internalID: 1025912019470488868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_45
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 689
+        width: 10
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54907616138afc250800000000000000
+      internalID: 5967172961330202949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_46
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 703
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94847b3e8fcf8450800000000000000
+      internalID: 6093317030645367967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_47
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 680
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cc928b207796780800000000000000
+      internalID: -8689283152471274486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_48
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 618
+        width: 230
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b45eb3eaac3dd20800000000000000
+      internalID: 3302205801470708632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_49
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 643
+        width: 142
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a4d5812d9a007c0800000000000000
+      internalID: -4107096140344898970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_50
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 654
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae37185b26757370800000000000000
+      internalID: 8319685815170449066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_51
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 693
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a6a0b0fc014d630800000000000000
+      internalID: 3950801254540274313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_52
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 657
+        width: 86
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8610c5910950c61f0800000000000000
+      internalID: -1050458496625278616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_53
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 604
+        width: 11
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f87e0c2e960b42d0800000000000000
+      internalID: -3293531426077640461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_54
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 623
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db979ed7e68f8d450800000000000000
+      internalID: 6113909647597992381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_55
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 608
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36ebd28ab5048460800000000000000
+      internalID: 7242920399336105534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_56
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 655
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a45799a65f9bafc0800000000000000
+      internalID: -3482514692279675737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_57
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 625
+        width: 82
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d088d603e28e510800000000000000
+      internalID: 1578562454924299558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_58
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 653
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad72501cf1b061d80800000000000000
+      internalID: -8280418633863845926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63592ac18a591d70800000000000000
+      internalID: 9014335642647745386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_60
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 590
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4e7135cd0dde960800000000000000
+      internalID: 7632986588168316103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_61
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 445
+        width: 158
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61caa5f4c9e21c740800000000000000
+      internalID: 5170465096079158294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_62
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 577
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9eb5baa786a6eb0800000000000000
+      internalID: -4725849982901687899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_63
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 611
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f365982c68aa16b40800000000000000
+      internalID: 5431810121351648831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_64
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 456
+        width: 165
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af22618ec752a8990800000000000000
+      internalID: -7383047420720569606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 417
+        width: 158
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb85837a544295a0800000000000000
+      internalID: -6516070555575809073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_66
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 578
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92aab2ddb56d414f0800000000000000
+      internalID: -858825938879927767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_67
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 580
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1873353a7056b7150800000000000000
+      internalID: 5871397622686889857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_68
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 571
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0c7239e5a9d11f0800000000000000
+      internalID: -1072531405257850641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_69
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 571
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204f8115bd94a0ca0800000000000000
+      internalID: -6049941943111584766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_70
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 413
+        width: 158
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48964815d65f596b0800000000000000
+      internalID: -5290052337408906876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_71
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 562
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973ebe387ef0141d0800000000000000
+      internalID: -3368393559271283847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_72
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 539
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db161012390edf2e0800000000000000
+      internalID: -2090267729511489091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_73
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 519
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173aa46432739ac90800000000000000
+      internalID: -7158129508086013071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_74
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 526
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29488986320b3160800000000000000
+      internalID: 7006196078563838254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_75
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 507
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05f25c5af33e5f50800000000000000
+      internalID: 6871987231797736717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_76
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 489
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56ba93ade331aef0800000000000000
+      internalID: -98740621080349093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_77
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 485
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcc64630d7398400800000000000000
+      internalID: 326853815364406486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_78
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 488
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6291e676a07fb0220800000000000000
+      internalID: 2453326046090369318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_79
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 498
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d80399702e9a69a0800000000000000
+      internalID: -6239000471452579623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_80
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 479
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b4cb6d178aee2b0800000000000000
+      internalID: -5553316083613807821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380ce5bc33c525d60800000000000000
+      internalID: 7877460075749490819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_82
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 270
+        width: 154
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3b60fab94e7ea40800000000000000
+      internalID: 5397534035734344608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_83
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 307
+        width: 158
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa129cc5757782600800000000000000
+      internalID: 443735780398539178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_84
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 341
+        width: 27
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea817398c6bdf710800000000000000
+      internalID: 1728738804563544805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_85
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 408
+        width: 10
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6c4b6c5fe6db500800000000000000
+      internalID: 413608742667732712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_86
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 370
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02afb86635cd7d880800000000000000
+      internalID: -8586151913797715424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_87
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 405
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769f2b1b67ed07610800000000000000
+      internalID: 1617036867594811751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_88
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 404
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ca0dc52fba65b80800000000000000
+      internalID: -8406342597012837233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_89
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 387
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7a33b18c3dd3850800000000000000
+      internalID: 6358471105320298415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_90
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 274
+        width: 189
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbcc9c7789db0740800000000000000
+      internalID: 5119424577371163642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_91
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 398
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c70f4a7a507cebd0800000000000000
+      internalID: -2599579350998251584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_92
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 394
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f0da5cd9985d560800000000000000
+      internalID: 7337922478589415300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_93
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 357
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46aa0a39febf93ac0800000000000000
+      internalID: -3874788997983065500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_94
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 373
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9998e361a1ea18020800000000000000
+      internalID: 2342344708274948505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_95
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 352
+        width: 148
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a040fe46c928070800000000000000
+      internalID: 8107214236540996236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_96
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 388
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d160698509677e0800000000000000
+      internalID: -1768067093547836160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445adbc6fbbaf9e90800000000000000
+      internalID: -7016700855768472252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_98
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 353
+        width: 144
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee621935ebf23c70800000000000000
+      internalID: 8949492371462188776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_99
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 326
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1724e8d97f46a8030800000000000000
+      internalID: 3497719075269657201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_100
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 305
+        width: 14
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e7f109b719f0b60800000000000000
+      internalID: 7714544646593936899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_101
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 319
+        width: 23
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6515c45312bf76500800000000000000
+      internalID: 389556012837523798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_102
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 340
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85817743fd5eea900800000000000000
+      internalID: 697747739109693528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_103
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 332
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39195f18e211af10800000000000000
+      internalID: 2279123674593827134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_104
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 300
+        width: 140
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a041964568b5b00800000000000000
+      internalID: 818395454396172888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_105
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 339
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d6ccccd1dbe7bf0800000000000000
+      internalID: -324614187436446440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_106
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 294
+        width: 9
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fd8c1f883d6a840800000000000000
+      internalID: 5235104201990266663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_107
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 306
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566a52d02480e4270800000000000000
+      internalID: 8236529848288650853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_108
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 340
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1d1b483f7b2d320800000000000000
+      internalID: 2581327792967897539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_109
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 302
+        width: 138
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1750109d8b1db3160800000000000000
+      internalID: 7006424237149848945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_110
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 255
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8b06350337eca50800000000000000
+      internalID: 6543293960010381474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_111
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 262
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcef78adc3d4f5b0800000000000000
+      internalID: -5335406778278482734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_112
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 259
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2779dc8f6475b5a80800000000000000
+      internalID: -8477085911261276302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_113
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 258
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a2da31766d1b320800000000000000
+      internalID: 2572072600405355038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_114
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 184
+        width: 97
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8622ce29238be4f30800000000000000
+      internalID: 4561785999925715560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_115
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 173
+        width: 198
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97bb3eeea15e6c40800000000000000
+      internalID: 5507429206083745693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_116
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 169
+        width: 179
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b66bab865dcd6f30800000000000000
+      internalID: 4570534968445068976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_117
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 257
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5306e0e85cbddb0800000000000000
+      internalID: -4765998566724323875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_118
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 250
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0278acf907b9d20800000000000000
+      internalID: 3286344184696873202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_119
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 260
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed70357caa70de170800000000000000
+      internalID: 8209226125836224478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_120
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 265
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87adad6396371fa40800000000000000
+      internalID: 5400224323923008120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_121
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 254
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e6bb6dedbde3e20800000000000000
+      internalID: 3332342524432576111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6dcfb18e19dcd50800000000000000
+      internalID: 6759219041840977595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_123
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 249
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fc62f3ac27908b0800000000000000
+      internalID: -5185487282971947190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_124
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 210
+        width: 153
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d939973a09613d0800000000000000
+      internalID: -3236240250425336557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_125
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 250
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1419cd423a35e6190800000000000000
+      internalID: -7967338730608619199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_126
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 215
+        width: 154
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90de6bf5c02be2d80800000000000000
+      internalID: -8273479699217847031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_127
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 249
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e088a07529f1c70800000000000000
+      internalID: 8944028287517593189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac00b82313b1a5b0800000000000000
+      internalID: -5358805186725802835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_129
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 224
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2142d5ab83628e2f0800000000000000
+      internalID: -943462096847428590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_130
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 221
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a328902b5a39ce00800000000000000
+      internalID: 1065446949913109413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_131
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 203
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf47e34b0003c17b0800000000000000
+      internalID: -5252270285838715652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_132
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 217
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687b95e310878e8e0800000000000000
+      internalID: -1663948115577030778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_133
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 205
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f11faadae8eeaf60800000000000000
+      internalID: 8047625679546552817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d2847347a6f4c00800000000000000
+      internalID: 887044698991504777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_135
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 169
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddef9ff1ad2ec4ac0800000000000000
+      internalID: -3869468553350873379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_136
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 192
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8b4bba570866cb0800000000000000
+      internalID: -4871064704074336096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_137
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 187
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92fb795fc51d7690800000000000000
+      internalID: -7602896615627820388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13458_kizaru_evolved_0003_138
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 170
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88623b06f714f1f0800000000000000
+      internalID: -1012157670734272374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_13458_kizaru_evolved_0003_0: -8733248121252213811
+      motion_13458_kizaru_evolved_0003_1: 1762175367040298325
+      motion_13458_kizaru_evolved_0003_10: -8102795705788015264
+      motion_13458_kizaru_evolved_0003_100: 7714544646593936899
+      motion_13458_kizaru_evolved_0003_101: 389556012837523798
+      motion_13458_kizaru_evolved_0003_102: 697747739109693528
+      motion_13458_kizaru_evolved_0003_103: 2279123674593827134
+      motion_13458_kizaru_evolved_0003_104: 818395454396172888
+      motion_13458_kizaru_evolved_0003_105: -324614187436446440
+      motion_13458_kizaru_evolved_0003_106: 5235104201990266663
+      motion_13458_kizaru_evolved_0003_107: 8236529848288650853
+      motion_13458_kizaru_evolved_0003_108: 2581327792967897539
+      motion_13458_kizaru_evolved_0003_109: 7006424237149848945
+      motion_13458_kizaru_evolved_0003_11: -7713650529543088727
+      motion_13458_kizaru_evolved_0003_110: 6543293960010381474
+      motion_13458_kizaru_evolved_0003_111: -5335406778278482734
+      motion_13458_kizaru_evolved_0003_112: -8477085911261276302
+      motion_13458_kizaru_evolved_0003_113: 2572072600405355038
+      motion_13458_kizaru_evolved_0003_114: 4561785999925715560
+      motion_13458_kizaru_evolved_0003_115: 5507429206083745693
+      motion_13458_kizaru_evolved_0003_116: 4570534968445068976
+      motion_13458_kizaru_evolved_0003_117: -4765998566724323875
+      motion_13458_kizaru_evolved_0003_118: 3286344184696873202
+      motion_13458_kizaru_evolved_0003_119: 8209226125836224478
+      motion_13458_kizaru_evolved_0003_12: 75061511394591245
+      motion_13458_kizaru_evolved_0003_120: 5400224323923008120
+      motion_13458_kizaru_evolved_0003_121: 3332342524432576111
+      motion_13458_kizaru_evolved_0003_122: 6759219041840977595
+      motion_13458_kizaru_evolved_0003_123: -5185487282971947190
+      motion_13458_kizaru_evolved_0003_124: -3236240250425336557
+      motion_13458_kizaru_evolved_0003_125: -7967338730608619199
+      motion_13458_kizaru_evolved_0003_126: -8273479699217847031
+      motion_13458_kizaru_evolved_0003_127: 8944028287517593189
+      motion_13458_kizaru_evolved_0003_128: -5358805186725802835
+      motion_13458_kizaru_evolved_0003_129: -943462096847428590
+      motion_13458_kizaru_evolved_0003_13: -7624071365346490679
+      motion_13458_kizaru_evolved_0003_130: 1065446949913109413
+      motion_13458_kizaru_evolved_0003_131: -5252270285838715652
+      motion_13458_kizaru_evolved_0003_132: -1663948115577030778
+      motion_13458_kizaru_evolved_0003_133: 8047625679546552817
+      motion_13458_kizaru_evolved_0003_134: 887044698991504777
+      motion_13458_kizaru_evolved_0003_135: -3869468553350873379
+      motion_13458_kizaru_evolved_0003_136: -4871064704074336096
+      motion_13458_kizaru_evolved_0003_137: -7602896615627820388
+      motion_13458_kizaru_evolved_0003_138: -1012157670734272374
+      motion_13458_kizaru_evolved_0003_14: -2711260290553690112
+      motion_13458_kizaru_evolved_0003_15: 7843376351309195559
+      motion_13458_kizaru_evolved_0003_16: -5208324702212201542
+      motion_13458_kizaru_evolved_0003_17: 5069336861070861829
+      motion_13458_kizaru_evolved_0003_18: -2366585764799100511
+      motion_13458_kizaru_evolved_0003_19: 400631319083423294
+      motion_13458_kizaru_evolved_0003_2: 5766284285805756376
+      motion_13458_kizaru_evolved_0003_20: -3849187366098701853
+      motion_13458_kizaru_evolved_0003_21: 1886134808195862550
+      motion_13458_kizaru_evolved_0003_22: 8097998279142123468
+      motion_13458_kizaru_evolved_0003_23: -7587757562183965137
+      motion_13458_kizaru_evolved_0003_24: 3729988324487861078
+      motion_13458_kizaru_evolved_0003_25: -7348235667917392147
+      motion_13458_kizaru_evolved_0003_26: -2558652990755900449
+      motion_13458_kizaru_evolved_0003_27: -3166895037541134723
+      motion_13458_kizaru_evolved_0003_28: -6844679784483509209
+      motion_13458_kizaru_evolved_0003_29: -3294331829611701923
+      motion_13458_kizaru_evolved_0003_3: -6307292952335814157
+      motion_13458_kizaru_evolved_0003_30: -2107207000578163197
+      motion_13458_kizaru_evolved_0003_31: -6499746321311455788
+      motion_13458_kizaru_evolved_0003_32: -6003920528299448223
+      motion_13458_kizaru_evolved_0003_33: 7534787306016412395
+      motion_13458_kizaru_evolved_0003_34: -2749660365898597112
+      motion_13458_kizaru_evolved_0003_35: -8217409713830347459
+      motion_13458_kizaru_evolved_0003_36: -1473009147029482437
+      motion_13458_kizaru_evolved_0003_37: -356764884887937797
+      motion_13458_kizaru_evolved_0003_38: 6783244477807673988
+      motion_13458_kizaru_evolved_0003_39: -4344013347101101331
+      motion_13458_kizaru_evolved_0003_4: -3065841604857652900
+      motion_13458_kizaru_evolved_0003_40: -1479612244624202509
+      motion_13458_kizaru_evolved_0003_41: 6461309969811683809
+      motion_13458_kizaru_evolved_0003_42: -5128639824209659951
+      motion_13458_kizaru_evolved_0003_43: 4350030800499809813
+      motion_13458_kizaru_evolved_0003_44: 1025912019470488868
+      motion_13458_kizaru_evolved_0003_45: 5967172961330202949
+      motion_13458_kizaru_evolved_0003_46: 6093317030645367967
+      motion_13458_kizaru_evolved_0003_47: -8689283152471274486
+      motion_13458_kizaru_evolved_0003_48: 3302205801470708632
+      motion_13458_kizaru_evolved_0003_49: -4107096140344898970
+      motion_13458_kizaru_evolved_0003_5: -4660197035290657516
+      motion_13458_kizaru_evolved_0003_50: 8319685815170449066
+      motion_13458_kizaru_evolved_0003_51: 3950801254540274313
+      motion_13458_kizaru_evolved_0003_52: -1050458496625278616
+      motion_13458_kizaru_evolved_0003_53: -3293531426077640461
+      motion_13458_kizaru_evolved_0003_54: 6113909647597992381
+      motion_13458_kizaru_evolved_0003_55: 7242920399336105534
+      motion_13458_kizaru_evolved_0003_56: -3482514692279675737
+      motion_13458_kizaru_evolved_0003_57: 1578562454924299558
+      motion_13458_kizaru_evolved_0003_58: -8280418633863845926
+      motion_13458_kizaru_evolved_0003_59: 9014335642647745386
+      motion_13458_kizaru_evolved_0003_6: 2788889212869132030
+      motion_13458_kizaru_evolved_0003_60: 7632986588168316103
+      motion_13458_kizaru_evolved_0003_61: 5170465096079158294
+      motion_13458_kizaru_evolved_0003_62: -4725849982901687899
+      motion_13458_kizaru_evolved_0003_63: 5431810121351648831
+      motion_13458_kizaru_evolved_0003_64: -7383047420720569606
+      motion_13458_kizaru_evolved_0003_65: -6516070555575809073
+      motion_13458_kizaru_evolved_0003_66: -858825938879927767
+      motion_13458_kizaru_evolved_0003_67: 5871397622686889857
+      motion_13458_kizaru_evolved_0003_68: -1072531405257850641
+      motion_13458_kizaru_evolved_0003_69: -6049941943111584766
+      motion_13458_kizaru_evolved_0003_7: -5256466999231909449
+      motion_13458_kizaru_evolved_0003_70: -5290052337408906876
+      motion_13458_kizaru_evolved_0003_71: -3368393559271283847
+      motion_13458_kizaru_evolved_0003_72: -2090267729511489091
+      motion_13458_kizaru_evolved_0003_73: -7158129508086013071
+      motion_13458_kizaru_evolved_0003_74: 7006196078563838254
+      motion_13458_kizaru_evolved_0003_75: 6871987231797736717
+      motion_13458_kizaru_evolved_0003_76: -98740621080349093
+      motion_13458_kizaru_evolved_0003_77: 326853815364406486
+      motion_13458_kizaru_evolved_0003_78: 2453326046090369318
+      motion_13458_kizaru_evolved_0003_79: -6239000471452579623
+      motion_13458_kizaru_evolved_0003_8: 484935867367603905
+      motion_13458_kizaru_evolved_0003_80: -5553316083613807821
+      motion_13458_kizaru_evolved_0003_81: 7877460075749490819
+      motion_13458_kizaru_evolved_0003_82: 5397534035734344608
+      motion_13458_kizaru_evolved_0003_83: 443735780398539178
+      motion_13458_kizaru_evolved_0003_84: 1728738804563544805
+      motion_13458_kizaru_evolved_0003_85: 413608742667732712
+      motion_13458_kizaru_evolved_0003_86: -8586151913797715424
+      motion_13458_kizaru_evolved_0003_87: 1617036867594811751
+      motion_13458_kizaru_evolved_0003_88: -8406342597012837233
+      motion_13458_kizaru_evolved_0003_89: 6358471105320298415
+      motion_13458_kizaru_evolved_0003_9: -1152972432830254948
+      motion_13458_kizaru_evolved_0003_90: 5119424577371163642
+      motion_13458_kizaru_evolved_0003_91: -2599579350998251584
+      motion_13458_kizaru_evolved_0003_92: 7337922478589415300
+      motion_13458_kizaru_evolved_0003_93: -3874788997983065500
+      motion_13458_kizaru_evolved_0003_94: 2342344708274948505
+      motion_13458_kizaru_evolved_0003_95: 8107214236540996236
+      motion_13458_kizaru_evolved_0003_96: -1768067093547836160
+      motion_13458_kizaru_evolved_0003_97: -7016700855768472252
+      motion_13458_kizaru_evolved_0003_98: 8949492371462188776
+      motion_13458_kizaru_evolved_0003_99: 3497719075269657201
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

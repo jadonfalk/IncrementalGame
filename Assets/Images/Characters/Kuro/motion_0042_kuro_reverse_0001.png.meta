@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 139dce95d677e094a82bcf82bda85774
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7247533005498882511
+    second: motion_0042_kuro_reverse_0001_0
+  - first:
+      213: -3079179880664837323
+    second: motion_0042_kuro_reverse_0001_1
+  - first:
+      213: 6158179552649677134
+    second: motion_0042_kuro_reverse_0001_2
+  - first:
+      213: -2777807089816665049
+    second: motion_0042_kuro_reverse_0001_3
+  - first:
+      213: 6759004679463891177
+    second: motion_0042_kuro_reverse_0001_4
+  - first:
+      213: -1861269190069086498
+    second: motion_0042_kuro_reverse_0001_5
+  - first:
+      213: -4185417799344532308
+    second: motion_0042_kuro_reverse_0001_6
+  - first:
+      213: 4458235021085258152
+    second: motion_0042_kuro_reverse_0001_7
+  - first:
+      213: -8790667082633154970
+    second: motion_0042_kuro_reverse_0001_8
+  - first:
+      213: -1543987492463501708
+    second: motion_0042_kuro_reverse_0001_9
+  - first:
+      213: -4865196154695126214
+    second: motion_0042_kuro_reverse_0001_10
+  - first:
+      213: 725846431199243771
+    second: motion_0042_kuro_reverse_0001_11
+  - first:
+      213: -7155834289056646150
+    second: motion_0042_kuro_reverse_0001_12
+  - first:
+      213: -1161386086698307486
+    second: motion_0042_kuro_reverse_0001_13
+  - first:
+      213: 6736053747349013403
+    second: motion_0042_kuro_reverse_0001_14
+  - first:
+      213: -9182496744254222815
+    second: motion_0042_kuro_reverse_0001_15
+  - first:
+      213: 9135897203668436763
+    second: motion_0042_kuro_reverse_0001_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_0042_kuro_reverse_0001_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 813
+        width: 142
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136e15d61279b6b90800000000000000
+      internalID: -7247533005498882511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0042_kuro_reverse_0001_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 813
+        width: 141
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5335175763e8445d0800000000000000
+      internalID: -3079179880664837323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0042_kuro_reverse_0001_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 813
+        width: 142
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4902cafcaf367550800000000000000
+      internalID: 6158179552649677134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0042_kuro_reverse_0001_3
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 813
+        width: 143
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7248ae45b2f3379d0800000000000000
+      internalID: -2777807089816665049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0042_kuro_reverse_0001_4
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 970
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0f5aaf1fecccd50800000000000000
+      internalID: 6759004679463891177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0042_kuro_reverse_0001_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 593
+        width: 213
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed69d8678817b26e0800000000000000
+      internalID: -1861269190069086498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0042_kuro_reverse_0001_6
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 493
+        width: 50
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4d871dfa86ae5c0800000000000000
+      internalID: -4185417799344532308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0042_kuro_reverse_0001_7
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 495
+        width: 50
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a13ef48125dedd30800000000000000
+      internalID: 4458235021085258152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0042_kuro_reverse_0001_8
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 466
+        width: 50
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e6ee00dd6410680800000000000000
+      internalID: -8790667082633154970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0042_kuro_reverse_0001_9
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 488
+        width: 49
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e11165e87a29ae0800000000000000
+      internalID: -1543987492463501708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0042_kuro_reverse_0001_10
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 644
+        width: 51
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33fccccfd95b7cb0800000000000000
+      internalID: -4865196154695126214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0042_kuro_reverse_0001_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 392
+        width: 177
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdad15cb79b21a00800000000000000
+      internalID: 725846431199243771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0042_kuro_reverse_0001_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 214
+        width: 97
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbf73990ae51bc90800000000000000
+      internalID: -7155834289056646150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0042_kuro_reverse_0001_13
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 214
+        width: 100
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2603447e18de1efe0800000000000000
+      internalID: -1161386086698307486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0042_kuro_reverse_0001_14
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 21
+        width: 117
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b934daea1354b7d50800000000000000
+      internalID: 6736053747349013403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0042_kuro_reverse_0001_15
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 21
+        width: 132
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ecb8facd7319080800000000000000
+      internalID: -9182496744254222815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_0042_kuro_reverse_0001_16
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 19
+        width: 222
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1744294a1a39ce70800000000000000
+      internalID: 9135897203668436763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_0042_kuro_reverse_0001_0: -7247533005498882511
+      motion_0042_kuro_reverse_0001_1: -3079179880664837323
+      motion_0042_kuro_reverse_0001_10: -4865196154695126214
+      motion_0042_kuro_reverse_0001_11: 725846431199243771
+      motion_0042_kuro_reverse_0001_12: -7155834289056646150
+      motion_0042_kuro_reverse_0001_13: -1161386086698307486
+      motion_0042_kuro_reverse_0001_14: 6736053747349013403
+      motion_0042_kuro_reverse_0001_15: -9182496744254222815
+      motion_0042_kuro_reverse_0001_16: 9135897203668436763
+      motion_0042_kuro_reverse_0001_2: 6158179552649677134
+      motion_0042_kuro_reverse_0001_3: -2777807089816665049
+      motion_0042_kuro_reverse_0001_4: 6759004679463891177
+      motion_0042_kuro_reverse_0001_5: -1861269190069086498
+      motion_0042_kuro_reverse_0001_6: -4185417799344532308
+      motion_0042_kuro_reverse_0001_7: 4458235021085258152
+      motion_0042_kuro_reverse_0001_8: -8790667082633154970
+      motion_0042_kuro_reverse_0001_9: -1543987492463501708
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

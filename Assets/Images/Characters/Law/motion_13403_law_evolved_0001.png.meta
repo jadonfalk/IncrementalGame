@@ -1,0 +1,5278 @@
+fileFormatVersion: 2
+guid: eccc3189e3d165a41895012517fa93da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6500940535234328284
+    second: motion_13403_law_evolved_0001_0
+  - first:
+      213: -1695640975193269091
+    second: motion_13403_law_evolved_0001_1
+  - first:
+      213: 6767948502081926034
+    second: motion_13403_law_evolved_0001_2
+  - first:
+      213: 5099869857715095812
+    second: motion_13403_law_evolved_0001_3
+  - first:
+      213: 2620856240462329939
+    second: motion_13403_law_evolved_0001_4
+  - first:
+      213: -5843718195185126183
+    second: motion_13403_law_evolved_0001_5
+  - first:
+      213: -1828995714984960059
+    second: motion_13403_law_evolved_0001_6
+  - first:
+      213: 2384426113631022299
+    second: motion_13403_law_evolved_0001_7
+  - first:
+      213: 6578118737028435828
+    second: motion_13403_law_evolved_0001_8
+  - first:
+      213: -7626393834568097100
+    second: motion_13403_law_evolved_0001_9
+  - first:
+      213: 7047587200534101278
+    second: motion_13403_law_evolved_0001_10
+  - first:
+      213: 8762151807930132987
+    second: motion_13403_law_evolved_0001_11
+  - first:
+      213: 6758963953042706145
+    second: motion_13403_law_evolved_0001_12
+  - first:
+      213: -6506260861644231131
+    second: motion_13403_law_evolved_0001_13
+  - first:
+      213: 9104303690233415846
+    second: motion_13403_law_evolved_0001_14
+  - first:
+      213: 3904237433615405105
+    second: motion_13403_law_evolved_0001_15
+  - first:
+      213: -999347622611620698
+    second: motion_13403_law_evolved_0001_16
+  - first:
+      213: -1154346706942989378
+    second: motion_13403_law_evolved_0001_17
+  - first:
+      213: 8383175293850718041
+    second: motion_13403_law_evolved_0001_18
+  - first:
+      213: -7218076370213181097
+    second: motion_13403_law_evolved_0001_19
+  - first:
+      213: 8727880095605769121
+    second: motion_13403_law_evolved_0001_20
+  - first:
+      213: -5294278052203576559
+    second: motion_13403_law_evolved_0001_21
+  - first:
+      213: -8733758111530033992
+    second: motion_13403_law_evolved_0001_22
+  - first:
+      213: 4885419838334268024
+    second: motion_13403_law_evolved_0001_23
+  - first:
+      213: 3495126991568824805
+    second: motion_13403_law_evolved_0001_24
+  - first:
+      213: -6083867109620592545
+    second: motion_13403_law_evolved_0001_25
+  - first:
+      213: -8726808531838002396
+    second: motion_13403_law_evolved_0001_26
+  - first:
+      213: 2983764254959567210
+    second: motion_13403_law_evolved_0001_27
+  - first:
+      213: -856770933089829170
+    second: motion_13403_law_evolved_0001_28
+  - first:
+      213: -8521343130375023382
+    second: motion_13403_law_evolved_0001_29
+  - first:
+      213: 7083489026926486074
+    second: motion_13403_law_evolved_0001_30
+  - first:
+      213: 3347788831452950677
+    second: motion_13403_law_evolved_0001_31
+  - first:
+      213: -1197777205852769374
+    second: motion_13403_law_evolved_0001_32
+  - first:
+      213: 7429970680745729609
+    second: motion_13403_law_evolved_0001_33
+  - first:
+      213: -23721311446287724
+    second: motion_13403_law_evolved_0001_34
+  - first:
+      213: -1632272000481130702
+    second: motion_13403_law_evolved_0001_35
+  - first:
+      213: 5941870369235576676
+    second: motion_13403_law_evolved_0001_36
+  - first:
+      213: -1154233061968080685
+    second: motion_13403_law_evolved_0001_37
+  - first:
+      213: -2693781848345509824
+    second: motion_13403_law_evolved_0001_38
+  - first:
+      213: 4540676295341930684
+    second: motion_13403_law_evolved_0001_39
+  - first:
+      213: -1237982374979219068
+    second: motion_13403_law_evolved_0001_40
+  - first:
+      213: 5000402177225553879
+    second: motion_13403_law_evolved_0001_41
+  - first:
+      213: -6713562325233652270
+    second: motion_13403_law_evolved_0001_42
+  - first:
+      213: 446137717310398641
+    second: motion_13403_law_evolved_0001_43
+  - first:
+      213: 5040902129759132116
+    second: motion_13403_law_evolved_0001_44
+  - first:
+      213: -7037431569420184277
+    second: motion_13403_law_evolved_0001_45
+  - first:
+      213: -1873773366904021004
+    second: motion_13403_law_evolved_0001_46
+  - first:
+      213: 8177274108104770933
+    second: motion_13403_law_evolved_0001_47
+  - first:
+      213: -6593730528510437019
+    second: motion_13403_law_evolved_0001_48
+  - first:
+      213: -5524031034469245017
+    second: motion_13403_law_evolved_0001_49
+  - first:
+      213: -3315155991156374975
+    second: motion_13403_law_evolved_0001_50
+  - first:
+      213: -5001754607877802692
+    second: motion_13403_law_evolved_0001_51
+  - first:
+      213: -6496449719389343379
+    second: motion_13403_law_evolved_0001_52
+  - first:
+      213: 8196085257326961728
+    second: motion_13403_law_evolved_0001_53
+  - first:
+      213: -727333212121801005
+    second: motion_13403_law_evolved_0001_54
+  - first:
+      213: -6831199275647429548
+    second: motion_13403_law_evolved_0001_55
+  - first:
+      213: -2773009901256464326
+    second: motion_13403_law_evolved_0001_56
+  - first:
+      213: 7965713963491420578
+    second: motion_13403_law_evolved_0001_57
+  - first:
+      213: 6213038026075469912
+    second: motion_13403_law_evolved_0001_58
+  - first:
+      213: 7387480690220156980
+    second: motion_13403_law_evolved_0001_59
+  - first:
+      213: 3996152858833528437
+    second: motion_13403_law_evolved_0001_60
+  - first:
+      213: -6778199941916686555
+    second: motion_13403_law_evolved_0001_61
+  - first:
+      213: 597422214012681406
+    second: motion_13403_law_evolved_0001_62
+  - first:
+      213: -3024228175619864776
+    second: motion_13403_law_evolved_0001_63
+  - first:
+      213: 4047469113810718452
+    second: motion_13403_law_evolved_0001_64
+  - first:
+      213: 6131031612673919340
+    second: motion_13403_law_evolved_0001_65
+  - first:
+      213: -24746904716372306
+    second: motion_13403_law_evolved_0001_66
+  - first:
+      213: 8897939142769553142
+    second: motion_13403_law_evolved_0001_67
+  - first:
+      213: 7467268315626744519
+    second: motion_13403_law_evolved_0001_68
+  - first:
+      213: -4732108235331763552
+    second: motion_13403_law_evolved_0001_69
+  - first:
+      213: -6913149407091445570
+    second: motion_13403_law_evolved_0001_70
+  - first:
+      213: -5409600295244778482
+    second: motion_13403_law_evolved_0001_71
+  - first:
+      213: -92778449964659499
+    second: motion_13403_law_evolved_0001_72
+  - first:
+      213: -7813726117612736687
+    second: motion_13403_law_evolved_0001_73
+  - first:
+      213: -6562998908831701335
+    second: motion_13403_law_evolved_0001_74
+  - first:
+      213: -2528109996638242069
+    second: motion_13403_law_evolved_0001_75
+  - first:
+      213: -4823921070163930165
+    second: motion_13403_law_evolved_0001_76
+  - first:
+      213: 6668498387629126484
+    second: motion_13403_law_evolved_0001_77
+  - first:
+      213: -1523679449519260121
+    second: motion_13403_law_evolved_0001_78
+  - first:
+      213: -2961056906038235746
+    second: motion_13403_law_evolved_0001_79
+  - first:
+      213: -7790501545395135323
+    second: motion_13403_law_evolved_0001_80
+  - first:
+      213: 7997524981032140876
+    second: motion_13403_law_evolved_0001_81
+  - first:
+      213: 7754174498965134960
+    second: motion_13403_law_evolved_0001_82
+  - first:
+      213: 4652387196952116220
+    second: motion_13403_law_evolved_0001_83
+  - first:
+      213: 1669299428464937229
+    second: motion_13403_law_evolved_0001_84
+  - first:
+      213: -8086192432970253256
+    second: motion_13403_law_evolved_0001_85
+  - first:
+      213: -1210496977590462718
+    second: motion_13403_law_evolved_0001_86
+  - first:
+      213: 3749762383518844910
+    second: motion_13403_law_evolved_0001_87
+  - first:
+      213: 314201465245698354
+    second: motion_13403_law_evolved_0001_88
+  - first:
+      213: 2520728788318279038
+    second: motion_13403_law_evolved_0001_89
+  - first:
+      213: 820904232809736686
+    second: motion_13403_law_evolved_0001_90
+  - first:
+      213: -3798544480558444077
+    second: motion_13403_law_evolved_0001_91
+  - first:
+      213: -1196948627117717129
+    second: motion_13403_law_evolved_0001_92
+  - first:
+      213: -4845858043140934093
+    second: motion_13403_law_evolved_0001_93
+  - first:
+      213: -5375606561600326094
+    second: motion_13403_law_evolved_0001_94
+  - first:
+      213: 5401662008235716764
+    second: motion_13403_law_evolved_0001_95
+  - first:
+      213: 5073898299443490052
+    second: motion_13403_law_evolved_0001_96
+  - first:
+      213: 5121644349509916625
+    second: motion_13403_law_evolved_0001_97
+  - first:
+      213: 1418241256195425892
+    second: motion_13403_law_evolved_0001_98
+  - first:
+      213: 4449892936489276716
+    second: motion_13403_law_evolved_0001_99
+  - first:
+      213: -4322375697759872179
+    second: motion_13403_law_evolved_0001_100
+  - first:
+      213: 1456230115269909157
+    second: motion_13403_law_evolved_0001_101
+  - first:
+      213: 4974505902419338985
+    second: motion_13403_law_evolved_0001_102
+  - first:
+      213: -7303570580299571688
+    second: motion_13403_law_evolved_0001_103
+  - first:
+      213: -2644410323651708387
+    second: motion_13403_law_evolved_0001_104
+  - first:
+      213: 211698033152834069
+    second: motion_13403_law_evolved_0001_105
+  - first:
+      213: -679913575625904307
+    second: motion_13403_law_evolved_0001_106
+  - first:
+      213: -2797898161745861764
+    second: motion_13403_law_evolved_0001_107
+  - first:
+      213: 1374125079402753097
+    second: motion_13403_law_evolved_0001_108
+  - first:
+      213: -7267693878221017995
+    second: motion_13403_law_evolved_0001_109
+  - first:
+      213: 8397203052018464357
+    second: motion_13403_law_evolved_0001_110
+  - first:
+      213: 4006004446808182298
+    second: motion_13403_law_evolved_0001_111
+  - first:
+      213: 4009006602709606252
+    second: motion_13403_law_evolved_0001_112
+  - first:
+      213: 8026849395487433724
+    second: motion_13403_law_evolved_0001_113
+  - first:
+      213: 3832757547262915197
+    second: motion_13403_law_evolved_0001_114
+  - first:
+      213: -1050033578708555607
+    second: motion_13403_law_evolved_0001_115
+  - first:
+      213: 3250795696407101051
+    second: motion_13403_law_evolved_0001_116
+  - first:
+      213: 555508247552233746
+    second: motion_13403_law_evolved_0001_117
+  - first:
+      213: 2988701575203251470
+    second: motion_13403_law_evolved_0001_118
+  - first:
+      213: -2512595501614528813
+    second: motion_13403_law_evolved_0001_119
+  - first:
+      213: 1638779020894768117
+    second: motion_13403_law_evolved_0001_120
+  - first:
+      213: -5083526311690296119
+    second: motion_13403_law_evolved_0001_121
+  - first:
+      213: -5611584162817640331
+    second: motion_13403_law_evolved_0001_122
+  - first:
+      213: -2589010353649179409
+    second: motion_13403_law_evolved_0001_123
+  - first:
+      213: -4543127896447910473
+    second: motion_13403_law_evolved_0001_124
+  - first:
+      213: 8707952208397373937
+    second: motion_13403_law_evolved_0001_125
+  - first:
+      213: 8709004381751815040
+    second: motion_13403_law_evolved_0001_126
+  - first:
+      213: 7700838991754077814
+    second: motion_13403_law_evolved_0001_127
+  - first:
+      213: -1961329320552247172
+    second: motion_13403_law_evolved_0001_128
+  - first:
+      213: -5598234169879946592
+    second: motion_13403_law_evolved_0001_129
+  - first:
+      213: 2621031350977308524
+    second: motion_13403_law_evolved_0001_130
+  - first:
+      213: -3044299600508257199
+    second: motion_13403_law_evolved_0001_131
+  - first:
+      213: 2133044982802922921
+    second: motion_13403_law_evolved_0001_132
+  - first:
+      213: 224629209164482254
+    second: motion_13403_law_evolved_0001_133
+  - first:
+      213: 6768186462015696295
+    second: motion_13403_law_evolved_0001_134
+  - first:
+      213: 8723567646378107256
+    second: motion_13403_law_evolved_0001_135
+  - first:
+      213: 5281050942358265623
+    second: motion_13403_law_evolved_0001_136
+  - first:
+      213: -6600927483126215043
+    second: motion_13403_law_evolved_0001_137
+  - first:
+      213: 4808241147593953249
+    second: motion_13403_law_evolved_0001_138
+  - first:
+      213: 4468959077495335259
+    second: motion_13403_law_evolved_0001_139
+  - first:
+      213: 3986751471745748586
+    second: motion_13403_law_evolved_0001_140
+  - first:
+      213: 3459620586475040385
+    second: motion_13403_law_evolved_0001_141
+  - first:
+      213: -1185742581624042323
+    second: motion_13403_law_evolved_0001_142
+  - first:
+      213: -5620063648725929055
+    second: motion_13403_law_evolved_0001_143
+  - first:
+      213: -8399754975971986843
+    second: motion_13403_law_evolved_0001_144
+  - first:
+      213: 973827384235757487
+    second: motion_13403_law_evolved_0001_145
+  - first:
+      213: -6735316909332334115
+    second: motion_13403_law_evolved_0001_146
+  - first:
+      213: -6910384985608669180
+    second: motion_13403_law_evolved_0001_147
+  - first:
+      213: -7748802320896727920
+    second: motion_13403_law_evolved_0001_148
+  - first:
+      213: 2175857876682801408
+    second: motion_13403_law_evolved_0001_149
+  - first:
+      213: 518558956817881463
+    second: motion_13403_law_evolved_0001_150
+  - first:
+      213: -3034598607724712207
+    second: motion_13403_law_evolved_0001_151
+  - first:
+      213: 3052451687760209331
+    second: motion_13403_law_evolved_0001_152
+  - first:
+      213: 3465035429552934809
+    second: motion_13403_law_evolved_0001_153
+  - first:
+      213: -7721099637950337475
+    second: motion_13403_law_evolved_0001_154
+  - first:
+      213: -2286930281193191947
+    second: motion_13403_law_evolved_0001_155
+  - first:
+      213: -1730578751560120091
+    second: motion_13403_law_evolved_0001_156
+  - first:
+      213: -8061493945628898046
+    second: motion_13403_law_evolved_0001_157
+  - first:
+      213: -1643806635053596775
+    second: motion_13403_law_evolved_0001_158
+  - first:
+      213: -621656239239963031
+    second: motion_13403_law_evolved_0001_159
+  - first:
+      213: -3705829737659189284
+    second: motion_13403_law_evolved_0001_160
+  - first:
+      213: 8719247154839018297
+    second: motion_13403_law_evolved_0001_161
+  - first:
+      213: -3138416425486323658
+    second: motion_13403_law_evolved_0001_162
+  - first:
+      213: -567168235605981686
+    second: motion_13403_law_evolved_0001_163
+  - first:
+      213: -4073361480230185295
+    second: motion_13403_law_evolved_0001_164
+  - first:
+      213: -4899548006968251258
+    second: motion_13403_law_evolved_0001_165
+  - first:
+      213: -5818812401564288676
+    second: motion_13403_law_evolved_0001_166
+  - first:
+      213: 2717872942919065109
+    second: motion_13403_law_evolved_0001_167
+  - first:
+      213: -759690682188680904
+    second: motion_13403_law_evolved_0001_168
+  - first:
+      213: -8633420816759137266
+    second: motion_13403_law_evolved_0001_169
+  - first:
+      213: 7405997850912544703
+    second: motion_13403_law_evolved_0001_170
+  - first:
+      213: -7577502653399215180
+    second: motion_13403_law_evolved_0001_171
+  - first:
+      213: 2034212524924298331
+    second: motion_13403_law_evolved_0001_172
+  - first:
+      213: 5290587334350992465
+    second: motion_13403_law_evolved_0001_173
+  - first:
+      213: -821366663642990759
+    second: motion_13403_law_evolved_0001_174
+  - first:
+      213: 8465167841744909185
+    second: motion_13403_law_evolved_0001_175
+  - first:
+      213: 4703945354522003300
+    second: motion_13403_law_evolved_0001_176
+  - first:
+      213: -2597147159540254773
+    second: motion_13403_law_evolved_0001_177
+  - first:
+      213: -177002743824097702
+    second: motion_13403_law_evolved_0001_178
+  - first:
+      213: 5788665152450732198
+    second: motion_13403_law_evolved_0001_179
+  - first:
+      213: 5287805490928308578
+    second: motion_13403_law_evolved_0001_180
+  - first:
+      213: 7483170012599129260
+    second: motion_13403_law_evolved_0001_181
+  - first:
+      213: 2404731709721534463
+    second: motion_13403_law_evolved_0001_182
+  - first:
+      213: 4691548864204048805
+    second: motion_13403_law_evolved_0001_183
+  - first:
+      213: -4918616163669459235
+    second: motion_13403_law_evolved_0001_184
+  - first:
+      213: -9039587328276053346
+    second: motion_13403_law_evolved_0001_185
+  - first:
+      213: -3135590169498388149
+    second: motion_13403_law_evolved_0001_186
+  - first:
+      213: 3046361151432354881
+    second: motion_13403_law_evolved_0001_187
+  - first:
+      213: 1582221076497079949
+    second: motion_13403_law_evolved_0001_188
+  - first:
+      213: -4346279710390969525
+    second: motion_13403_law_evolved_0001_189
+  - first:
+      213: 4374381975411424694
+    second: motion_13403_law_evolved_0001_190
+  - first:
+      213: 3025819994352537055
+    second: motion_13403_law_evolved_0001_191
+  - first:
+      213: 7665316668364398549
+    second: motion_13403_law_evolved_0001_192
+  - first:
+      213: 4374385148103044492
+    second: motion_13403_law_evolved_0001_193
+  - first:
+      213: 856976150344567011
+    second: motion_13403_law_evolved_0001_194
+  - first:
+      213: -7811489478825104999
+    second: motion_13403_law_evolved_0001_195
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 834
+        width: 262
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6749c29faf73a50800000000000000
+      internalID: 6500940535234328284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_1
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 823
+        width: 254
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c1207548fd778e0800000000000000
+      internalID: -1695640975193269091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_2
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 818
+        width: 215
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293fab4fd459ced50800000000000000
+      internalID: 6767948502081926034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_3
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 931
+        width: 153
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40984d58d9066c640800000000000000
+      internalID: 5099869857715095812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_4
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1012
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3587f146dd62f5420800000000000000
+      internalID: 2620856240462329939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_5
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1004
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4f0884341f6eea0800000000000000
+      internalID: -5843718195185126183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_6
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 966
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf1c90761a1e96e0800000000000000
+      internalID: -1828995714984960059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 986
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc6428caee271120800000000000000
+      internalID: 2384426113631022299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 955
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fcbe2932c2a4b50800000000000000
+      internalID: 6578118737028435828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 945
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2e65db63b992690800000000000000
+      internalID: -7626393834568097100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 949
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dbc6b183f0ec160800000000000000
+      internalID: 7047587200534101278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 945
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9e8bb35aa699970800000000000000
+      internalID: 8762151807930132987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 921
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eec7ce97e9accd50800000000000000
+      internalID: 6758963953042706145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_13
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 928
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e2badc73e15b5a0800000000000000
+      internalID: -6506260861644231131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_14
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 925
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a804a738fbf85e70800000000000000
+      internalID: 9104303690233415846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_15
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 930
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130dd65a243ae2630800000000000000
+      internalID: 3904237433615405105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_16
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 919
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac6a1bc1aa9122f0800000000000000
+      internalID: -999347622611620698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 916
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb650939cfeaffe0800000000000000
+      internalID: -1154346706942989378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 909
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f8dc78385075470800000000000000
+      internalID: 8383175293850718041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_19
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 910
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7596dc7c8cd34db90800000000000000
+      internalID: -7218076370213181097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 920
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3c8c464b8af1970800000000000000
+      internalID: 8727880095605769121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_21
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 874
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113424c6922f686b0800000000000000
+      internalID: -5294278052203576559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_22
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 912
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcd01065457bc680800000000000000
+      internalID: -8733758111530033992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 885
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8727f8a757f7cc340800000000000000
+      internalID: 4885419838334268024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 903
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9e6591b7f218030800000000000000
+      internalID: 3495126991568824805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 892
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50d166f813c19ba0800000000000000
+      internalID: -6083867109620592545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 899
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b92fc70e524e680800000000000000
+      internalID: -8726808531838002396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_27
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 892
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a618f5ef7c5786920800000000000000
+      internalID: 2983764254959567210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_28
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 899
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecefc4f20632c14f0800000000000000
+      internalID: -856770933089829170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_29
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 845
+        width: 85
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae418c8229b1eb980800000000000000
+      internalID: -8521343130375023382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_30
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 897
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32a4547dbb9d4260800000000000000
+      internalID: 7083489026926486074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_31
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 883
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590f5c1743cb57e20800000000000000
+      internalID: 3347788831452950677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_32
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 888
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3f5153af3a06fe0800000000000000
+      internalID: -1197777205852769374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_33
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 879
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e9a6de7fe8c1760800000000000000
+      internalID: 7429970680745729609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_34
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 869
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a33a9c799bbaff0800000000000000
+      internalID: -23721311446287724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_35
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 869
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237818283410959e0800000000000000
+      internalID: -1632272000481130702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_36
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 868
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467a4b39e93c57250800000000000000
+      internalID: 5941870369235576676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_37
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 870
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0916145275bffe0800000000000000
+      internalID: -1154233061968080685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_38
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 864
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04088f26ea3cd9ad0800000000000000
+      internalID: -2693781848345509824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 864
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb874e77809b30f30800000000000000
+      internalID: 4540676295341930684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_40
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 872
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4815b2dc69dc1dee0800000000000000
+      internalID: -1237982374979219068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_41
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 845
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d77e93794ff46540800000000000000
+      internalID: 5000402177225553879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_42
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 859
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dda00b92a2a4d2a0800000000000000
+      internalID: -6713562325233652270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_43
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 837
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0a031e3eff03600800000000000000
+      internalID: 446137717310398641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_44
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 833
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d99dc777c1e4f540800000000000000
+      internalID: 5040902129759132116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_45
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 830
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2517950645065e90800000000000000
+      internalID: -7037431569420184277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_46
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 835
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff191cec050ff5e0800000000000000
+      internalID: -1873773366904021004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_47
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 843
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575859ce9738b7170800000000000000
+      internalID: 8177274108104770933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 634
+        width: 249
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5699c77f40d5e74a0800000000000000
+      internalID: -6593730528510437019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_49
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 619
+        width: 211
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af1a3eaa03b653b0800000000000000
+      internalID: -5524031034469245017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_50
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 820
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142cd14c0333ef1d0800000000000000
+      internalID: -3315155991156374975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_51
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 819
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3535cf3fa2369ab0800000000000000
+      internalID: -5001754607877802692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_52
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 676
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61bc9e5669f7d5a0800000000000000
+      internalID: -6496449719389343379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_53
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 669
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0442ac7ed185eb170800000000000000
+      internalID: 8196085257326961728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_54
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 612
+        width: 211
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ded2221c4ef7e5f0800000000000000
+      internalID: -727333212121801005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_55
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 637
+        width: 275
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4541129b374b231a0800000000000000
+      internalID: -6831199275647429548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_56
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 640
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38a7f4df2a4489d0800000000000000
+      internalID: -2773009901256464326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_57
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 641
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9664845a6eb8e60800000000000000
+      internalID: 7965713963491420578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_58
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 633
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858f838aa25293650800000000000000
+      internalID: 6213038026075469912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_59
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 634
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43841a51c8a958660800000000000000
+      internalID: 7387480690220156980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433
+        width: 229
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5762fe24adf257730800000000000000
+      internalID: 3996152858833528437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_61
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 599
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5278b75b01ffee1a0800000000000000
+      internalID: -6778199941916686555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_62
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 529
+        width: 168
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc372f96587a4800800000000000000
+      internalID: 597422214012681406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_63
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 602
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83743705f78c706d0800000000000000
+      internalID: -3024228175619864776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_64
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 434
+        width: 211
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe8d00f6bf7b2830800000000000000
+      internalID: 4047469113810718452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_65
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 570
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c698e14a4ccc51550800000000000000
+      internalID: 6131031612673919340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_66
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 587
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6171f32d418aff0800000000000000
+      internalID: -24746904716372306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_67
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 584
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fea2ddc184db7b70800000000000000
+      internalID: 8897939142769553142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_68
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 542
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca267348f011a760800000000000000
+      internalID: 7467268315626744519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_69
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 588
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2895ab1ac245eb0800000000000000
+      internalID: -4732108235331763552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_70
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 582
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0bc1fdd3f8f00a0800000000000000
+      internalID: -6913149407091445570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_71
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 564
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e043619513d3de4b0800000000000000
+      internalID: -5409600295244778482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_72
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 568
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc8b07cd7266bef0800000000000000
+      internalID: -92778449964659499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 562
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f2083be71109390800000000000000
+      internalID: -7813726117612736687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_74
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 575
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a66fc1c34b8be4a0800000000000000
+      internalID: -6562998908831701335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_75
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 558
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea73414a595aecd0800000000000000
+      internalID: -2528109996638242069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_76
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 523
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc35b5c485dfd0db0800000000000000
+      internalID: -4823921070163930165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_77
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 482
+        width: 212
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45336ebc3f34b8c50800000000000000
+      internalID: 6668498387629126484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 553
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e77db0d9dcadae0800000000000000
+      internalID: -1523679449519260121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_79
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 553
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dafdbae6638e6d0800000000000000
+      internalID: -2961056906038235746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_80
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 549
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac579cce1492e390800000000000000
+      internalID: -7790501545395135323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_81
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 557
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40cbb8f89aecfe60800000000000000
+      internalID: 7997524981032140876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_82
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 509
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e95399f9c5c9b60800000000000000
+      internalID: 7754174498965134960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_83
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 514
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbf7e79189909040800000000000000
+      internalID: 4652387196952116220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_84
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 524
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d094a616cfa8a2710800000000000000
+      internalID: 1669299428464937229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_85
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 530
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c3b5f13d218cf80800000000000000
+      internalID: -8086192432970253256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_86
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 510
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20759019963733fe0800000000000000
+      internalID: -1210496977590462718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_87
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 481
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee743cd4505d90430800000000000000
+      internalID: 3749762383518844910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_88
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 518
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23980e361944c5400800000000000000
+      internalID: 314201465245698354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_89
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 520
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75dfc24a7d6bf220800000000000000
+      internalID: 2520728788318279038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_90
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 517
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee92d37ec00746b00800000000000000
+      internalID: 820904232809736686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_91
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 476
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d11bc4abebd84bc0800000000000000
+      internalID: -3798544480558444077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_92
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 468
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779c14ab095936fe0800000000000000
+      internalID: -1196948627117717129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_93
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 464
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3367d92c8cd00ccb0800000000000000
+      internalID: -4845858043140934093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_94
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 490
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236bd8b30520665b0800000000000000
+      internalID: -5375606561600326094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_95
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 495
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90fc9d2afe86fa40800000000000000
+      internalID: 5401662008235716764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_96
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 491
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40da9c4ee9b1a6640800000000000000
+      internalID: 5073898299443490052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_97
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 470
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7dc66766cb31740800000000000000
+      internalID: 5121644349509916625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_98
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 447
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466055988ea9ea310800000000000000
+      internalID: 1418241256195425892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_99
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 476
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2596f79c0231cd30800000000000000
+      internalID: 4449892936489276716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_100
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 269
+        width: 184
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bdd3d2436d304c0800000000000000
+      internalID: -4322375697759872179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_101
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 457
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa93eb0391953410800000000000000
+      internalID: 1456230115269909157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_102
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 460
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6e9ce13cef80540800000000000000
+      internalID: 4974505902419338985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_103
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 455
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e1041d04184aa90800000000000000
+      internalID: -7303570580299571688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_104
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 456
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a3d5242da2d4bd0800000000000000
+      internalID: -2644410323651708387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_105
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 449
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a39b15d3a10f200800000000000000
+      internalID: 211698033152834069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_106
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 231
+        width: 184
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f2ade84367096f0800000000000000
+      internalID: -679913575625904307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_107
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 299
+        width: 302
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c736b6f127edb29d0800000000000000
+      internalID: -2797898161745861764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_108
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 261
+        width: 223
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ca1c2ba7fd11310800000000000000
+      internalID: 1374125079402753097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_109
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 374
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cea547ce6f32b90800000000000000
+      internalID: -7267693878221017995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_110
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 314
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566f26e7fabd88470800000000000000
+      internalID: 8397203052018464357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_111
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 318
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e03a4d1df289730800000000000000
+      internalID: 4006004446808182298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_112
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 280
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f93b8b34ad2a730800000000000000
+      internalID: 4009006602709606252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_113
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 289
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf366934ff8156f60800000000000000
+      internalID: 8026849395487433724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_114
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 290
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72bdc2bea0b03530800000000000000
+      internalID: 3832757547262915197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_115
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 118
+        width: 217
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a828d206088d61f0800000000000000
+      internalID: -1050033578708555607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7eb6b166752d1d20800000000000000
+      internalID: 3250795696407101051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_117
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 248
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2119625decf85b700800000000000000
+      internalID: 555508247552233746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_118
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 89
+        width: 219
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05e3a17f300a7920800000000000000
+      internalID: 2988701575203251470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_119
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 88
+        width: 216
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6850e14b7712dd0800000000000000
+      internalID: -2512595501614528813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_120
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 96
+        width: 87
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb8bcd36dc1eb610800000000000000
+      internalID: 1638779020894768117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_121
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 249
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c42951d0cfa379b0800000000000000
+      internalID: -5083526311690296119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_122
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 235
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578fb047fe5af12b0800000000000000
+      internalID: -5611584162817640331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_123
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 227
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4aeeeecccf11cd0800000000000000
+      internalID: -2589010353649179409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 82
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdfd0baf3193f0c0800000000000000
+      internalID: -4543127896447910473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_125
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 220
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f19a96956cd8d870800000000000000
+      internalID: 8707952208397373937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_126
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 207
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b23a9c7599cd870800000000000000
+      internalID: 8709004381751815040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_127
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 189
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676aaff1340eeda60800000000000000
+      internalID: 7700838991754077814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_128
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 196
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70dce0ef55f7c4e0800000000000000
+      internalID: -1961329320552247172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_129
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 201
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa1ad6eea31f42b0800000000000000
+      internalID: -5598234169879946592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_130
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 200
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c672a2c7026cf5420800000000000000
+      internalID: 2621031350977308524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_131
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 194
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c77d984a970c5d0800000000000000
+      internalID: -3044299600508257199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_132
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 184
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adb5e94c191a9d10800000000000000
+      internalID: 2133044982802922921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_133
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 179
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec60d6a531b0e1300800000000000000
+      internalID: 224629209164482254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_134
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 183
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adad025abd6ded50800000000000000
+      internalID: 6768186462015696295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_135
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 172
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87125701e86501970800000000000000
+      internalID: 8723567646378107256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_136
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 161
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f91041adf0a4940800000000000000
+      internalID: 5281050942358265623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_137
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 174
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e06246d6bc464a0800000000000000
+      internalID: -6600927483126215043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_138
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 143
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef01cc39dd4ab240800000000000000
+      internalID: 4808241147593953249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_139
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 140
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59edd97a9ee40e30800000000000000
+      internalID: 4468959077495335259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_140
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 144
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ecb214759c35730800000000000000
+      internalID: 3986751471745748586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_141
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 102
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e2972f79a030030800000000000000
+      internalID: 3459620586475040385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_142
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 112
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac8e3387656b8fe0800000000000000
+      internalID: -1185742581624042323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_143
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 117
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3fa9a43e58102b0800000000000000
+      internalID: -5620063648725929055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_144
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 99
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562bed86a531e6b80800000000000000
+      internalID: -8399754975971986843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_145
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 96
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf8beda8dab38d00800000000000000
+      internalID: 973827384235757487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_146
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 93
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd97099c4f85782a0800000000000000
+      internalID: -6735316909332334115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_147
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 100
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4083a97e7716910a0800000000000000
+      internalID: -6910384985608669180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_148
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 86
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0946a341859b67490800000000000000
+      internalID: -7748802320896727920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_149
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 51
+        width: 252
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0010a6de533323e10800000000000000
+      internalID: 2175857876682801408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_150
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 65
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7791a30bf9a423700800000000000000
+      internalID: 518558956817881463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_151
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 69
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe6caee4a0f2e5d0800000000000000
+      internalID: -3034598607724712207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_152
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 87
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b52dfe23ac7c5a20800000000000000
+      internalID: 3052451687760209331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_153
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 78
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f45a85d57461030800000000000000
+      internalID: 3465035429552934809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_154
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 81
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ea29499c429d490800000000000000
+      internalID: -7721099637950337475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_155
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 79
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f54563a6013340e0800000000000000
+      internalID: -2286930281193191947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_156
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e88b616bcfbbf7e0800000000000000
+      internalID: -1730578751560120091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_157
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 42
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dc3d3d7f1df1090800000000000000
+      internalID: -8061493945628898046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_158
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 20
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f333e13960039e0800000000000000
+      internalID: -1643806635053596775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_159
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 81
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e52bfa1fe6f57f0800000000000000
+      internalID: -621656239239963031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_160
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 69
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7beb8ec7f329cc0800000000000000
+      internalID: -3705829737659189284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_161
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 68
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bd30d371df00970800000000000000
+      internalID: 8719247154839018297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_162
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 69
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630f2a993ea1274d0800000000000000
+      internalID: -3138416425486323658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_163
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 65
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0602d4ae730128f0800000000000000
+      internalID: -567168235605981686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_164
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 70
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6de19b0538877c0800000000000000
+      internalID: -4073361480230185295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_165
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 74
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c2faceb0f410cb0800000000000000
+      internalID: -4899548006968251258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_166
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 68
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c597f1e33fc6f3fa0800000000000000
+      internalID: -5818812401564288676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_167
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e165baa03d7b520800000000000000
+      internalID: 2717872942919065109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_168
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 57
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83138fc79590575f0800000000000000
+      internalID: -759690682188680904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_169
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 73
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cdb9c428def2880800000000000000
+      internalID: -8633420816759137266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_170
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 61
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7d2f68ec367c660800000000000000
+      internalID: 7405997850912544703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_171
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 50
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b35f8beb7d47d690800000000000000
+      internalID: -7577502653399215180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_172
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 66
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5463c18389fa3c10800000000000000
+      internalID: 2034212524924298331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_173
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154fb2d5621fb6940800000000000000
+      internalID: 5290587334350992465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_174
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 65
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95736370f5be994f0800000000000000
+      internalID: -821366663642990759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_175
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 50
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183f34b3d415a7570800000000000000
+      internalID: 8465167841744909185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_176
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 57
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467022b9065c74140800000000000000
+      internalID: 4703945354522003300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_177
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 58
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7303e2b6415fbd0800000000000000
+      internalID: -2597147159540254773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_178
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e581a31f82b8df0800000000000000
+      internalID: -177002743824097702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_179
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 50
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a022875948755050800000000000000
+      internalID: 5788665152450732198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_180
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 50
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2615428f31f026940800000000000000
+      internalID: 5287805490928308578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_181
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 51
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca493da9a7f89d760800000000000000
+      internalID: 7483170012599129260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_182
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 48
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffd11acfb25f5120800000000000000
+      internalID: 2404731709721534463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_183
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 42
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a90549c5dabb1140800000000000000
+      internalID: 4691548864204048805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_184
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 38
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddebcf9b8a09dbbb0800000000000000
+      internalID: -4918616163669459235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_185
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 37
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92cbfdf73fec8280800000000000000
+      internalID: -9039587328276053346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_186
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 31
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4977d99a552c74d0800000000000000
+      internalID: -3135590169498388149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_187
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 37
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ceca0b359d64a20800000000000000
+      internalID: 3046361151432354881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_188
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 35
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e9eb4afad25f510800000000000000
+      internalID: 1582221076497079949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_189
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 34
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b98a781a9eea3c0800000000000000
+      internalID: -4346279710390969525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_190
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 37
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdf44cea3de4bc30800000000000000
+      internalID: 4374381975411424694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_191
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 39
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd48add04fddf920800000000000000
+      internalID: 3025819994352537055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_192
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 36
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df9db4b5eca06a60800000000000000
+      internalID: 7665316668364398549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_193
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 18
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d2d6f9d10f4bc30800000000000000
+      internalID: 4374385148103044492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_194
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 16
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8054ea44794eb00800000000000000
+      internalID: 856976150344567011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13403_law_evolved_0001_195
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 11
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999adefb4b3089390800000000000000
+      internalID: -7811489478825104999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_13403_law_evolved_0001_0: 6500940535234328284
+      motion_13403_law_evolved_0001_1: -1695640975193269091
+      motion_13403_law_evolved_0001_10: 7047587200534101278
+      motion_13403_law_evolved_0001_100: -4322375697759872179
+      motion_13403_law_evolved_0001_101: 1456230115269909157
+      motion_13403_law_evolved_0001_102: 4974505902419338985
+      motion_13403_law_evolved_0001_103: -7303570580299571688
+      motion_13403_law_evolved_0001_104: -2644410323651708387
+      motion_13403_law_evolved_0001_105: 211698033152834069
+      motion_13403_law_evolved_0001_106: -679913575625904307
+      motion_13403_law_evolved_0001_107: -2797898161745861764
+      motion_13403_law_evolved_0001_108: 1374125079402753097
+      motion_13403_law_evolved_0001_109: -7267693878221017995
+      motion_13403_law_evolved_0001_11: 8762151807930132987
+      motion_13403_law_evolved_0001_110: 8397203052018464357
+      motion_13403_law_evolved_0001_111: 4006004446808182298
+      motion_13403_law_evolved_0001_112: 4009006602709606252
+      motion_13403_law_evolved_0001_113: 8026849395487433724
+      motion_13403_law_evolved_0001_114: 3832757547262915197
+      motion_13403_law_evolved_0001_115: -1050033578708555607
+      motion_13403_law_evolved_0001_116: 3250795696407101051
+      motion_13403_law_evolved_0001_117: 555508247552233746
+      motion_13403_law_evolved_0001_118: 2988701575203251470
+      motion_13403_law_evolved_0001_119: -2512595501614528813
+      motion_13403_law_evolved_0001_12: 6758963953042706145
+      motion_13403_law_evolved_0001_120: 1638779020894768117
+      motion_13403_law_evolved_0001_121: -5083526311690296119
+      motion_13403_law_evolved_0001_122: -5611584162817640331
+      motion_13403_law_evolved_0001_123: -2589010353649179409
+      motion_13403_law_evolved_0001_124: -4543127896447910473
+      motion_13403_law_evolved_0001_125: 8707952208397373937
+      motion_13403_law_evolved_0001_126: 8709004381751815040
+      motion_13403_law_evolved_0001_127: 7700838991754077814
+      motion_13403_law_evolved_0001_128: -1961329320552247172
+      motion_13403_law_evolved_0001_129: -5598234169879946592
+      motion_13403_law_evolved_0001_13: -6506260861644231131
+      motion_13403_law_evolved_0001_130: 2621031350977308524
+      motion_13403_law_evolved_0001_131: -3044299600508257199
+      motion_13403_law_evolved_0001_132: 2133044982802922921
+      motion_13403_law_evolved_0001_133: 224629209164482254
+      motion_13403_law_evolved_0001_134: 6768186462015696295
+      motion_13403_law_evolved_0001_135: 8723567646378107256
+      motion_13403_law_evolved_0001_136: 5281050942358265623
+      motion_13403_law_evolved_0001_137: -6600927483126215043
+      motion_13403_law_evolved_0001_138: 4808241147593953249
+      motion_13403_law_evolved_0001_139: 4468959077495335259
+      motion_13403_law_evolved_0001_14: 9104303690233415846
+      motion_13403_law_evolved_0001_140: 3986751471745748586
+      motion_13403_law_evolved_0001_141: 3459620586475040385
+      motion_13403_law_evolved_0001_142: -1185742581624042323
+      motion_13403_law_evolved_0001_143: -5620063648725929055
+      motion_13403_law_evolved_0001_144: -8399754975971986843
+      motion_13403_law_evolved_0001_145: 973827384235757487
+      motion_13403_law_evolved_0001_146: -6735316909332334115
+      motion_13403_law_evolved_0001_147: -6910384985608669180
+      motion_13403_law_evolved_0001_148: -7748802320896727920
+      motion_13403_law_evolved_0001_149: 2175857876682801408
+      motion_13403_law_evolved_0001_15: 3904237433615405105
+      motion_13403_law_evolved_0001_150: 518558956817881463
+      motion_13403_law_evolved_0001_151: -3034598607724712207
+      motion_13403_law_evolved_0001_152: 3052451687760209331
+      motion_13403_law_evolved_0001_153: 3465035429552934809
+      motion_13403_law_evolved_0001_154: -7721099637950337475
+      motion_13403_law_evolved_0001_155: -2286930281193191947
+      motion_13403_law_evolved_0001_156: -1730578751560120091
+      motion_13403_law_evolved_0001_157: -8061493945628898046
+      motion_13403_law_evolved_0001_158: -1643806635053596775
+      motion_13403_law_evolved_0001_159: -621656239239963031
+      motion_13403_law_evolved_0001_16: -999347622611620698
+      motion_13403_law_evolved_0001_160: -3705829737659189284
+      motion_13403_law_evolved_0001_161: 8719247154839018297
+      motion_13403_law_evolved_0001_162: -3138416425486323658
+      motion_13403_law_evolved_0001_163: -567168235605981686
+      motion_13403_law_evolved_0001_164: -4073361480230185295
+      motion_13403_law_evolved_0001_165: -4899548006968251258
+      motion_13403_law_evolved_0001_166: -5818812401564288676
+      motion_13403_law_evolved_0001_167: 2717872942919065109
+      motion_13403_law_evolved_0001_168: -759690682188680904
+      motion_13403_law_evolved_0001_169: -8633420816759137266
+      motion_13403_law_evolved_0001_17: -1154346706942989378
+      motion_13403_law_evolved_0001_170: 7405997850912544703
+      motion_13403_law_evolved_0001_171: -7577502653399215180
+      motion_13403_law_evolved_0001_172: 2034212524924298331
+      motion_13403_law_evolved_0001_173: 5290587334350992465
+      motion_13403_law_evolved_0001_174: -821366663642990759
+      motion_13403_law_evolved_0001_175: 8465167841744909185
+      motion_13403_law_evolved_0001_176: 4703945354522003300
+      motion_13403_law_evolved_0001_177: -2597147159540254773
+      motion_13403_law_evolved_0001_178: -177002743824097702
+      motion_13403_law_evolved_0001_179: 5788665152450732198
+      motion_13403_law_evolved_0001_18: 8383175293850718041
+      motion_13403_law_evolved_0001_180: 5287805490928308578
+      motion_13403_law_evolved_0001_181: 7483170012599129260
+      motion_13403_law_evolved_0001_182: 2404731709721534463
+      motion_13403_law_evolved_0001_183: 4691548864204048805
+      motion_13403_law_evolved_0001_184: -4918616163669459235
+      motion_13403_law_evolved_0001_185: -9039587328276053346
+      motion_13403_law_evolved_0001_186: -3135590169498388149
+      motion_13403_law_evolved_0001_187: 3046361151432354881
+      motion_13403_law_evolved_0001_188: 1582221076497079949
+      motion_13403_law_evolved_0001_189: -4346279710390969525
+      motion_13403_law_evolved_0001_19: -7218076370213181097
+      motion_13403_law_evolved_0001_190: 4374381975411424694
+      motion_13403_law_evolved_0001_191: 3025819994352537055
+      motion_13403_law_evolved_0001_192: 7665316668364398549
+      motion_13403_law_evolved_0001_193: 4374385148103044492
+      motion_13403_law_evolved_0001_194: 856976150344567011
+      motion_13403_law_evolved_0001_195: -7811489478825104999
+      motion_13403_law_evolved_0001_2: 6767948502081926034
+      motion_13403_law_evolved_0001_20: 8727880095605769121
+      motion_13403_law_evolved_0001_21: -5294278052203576559
+      motion_13403_law_evolved_0001_22: -8733758111530033992
+      motion_13403_law_evolved_0001_23: 4885419838334268024
+      motion_13403_law_evolved_0001_24: 3495126991568824805
+      motion_13403_law_evolved_0001_25: -6083867109620592545
+      motion_13403_law_evolved_0001_26: -8726808531838002396
+      motion_13403_law_evolved_0001_27: 2983764254959567210
+      motion_13403_law_evolved_0001_28: -856770933089829170
+      motion_13403_law_evolved_0001_29: -8521343130375023382
+      motion_13403_law_evolved_0001_3: 5099869857715095812
+      motion_13403_law_evolved_0001_30: 7083489026926486074
+      motion_13403_law_evolved_0001_31: 3347788831452950677
+      motion_13403_law_evolved_0001_32: -1197777205852769374
+      motion_13403_law_evolved_0001_33: 7429970680745729609
+      motion_13403_law_evolved_0001_34: -23721311446287724
+      motion_13403_law_evolved_0001_35: -1632272000481130702
+      motion_13403_law_evolved_0001_36: 5941870369235576676
+      motion_13403_law_evolved_0001_37: -1154233061968080685
+      motion_13403_law_evolved_0001_38: -2693781848345509824
+      motion_13403_law_evolved_0001_39: 4540676295341930684
+      motion_13403_law_evolved_0001_4: 2620856240462329939
+      motion_13403_law_evolved_0001_40: -1237982374979219068
+      motion_13403_law_evolved_0001_41: 5000402177225553879
+      motion_13403_law_evolved_0001_42: -6713562325233652270
+      motion_13403_law_evolved_0001_43: 446137717310398641
+      motion_13403_law_evolved_0001_44: 5040902129759132116
+      motion_13403_law_evolved_0001_45: -7037431569420184277
+      motion_13403_law_evolved_0001_46: -1873773366904021004
+      motion_13403_law_evolved_0001_47: 8177274108104770933
+      motion_13403_law_evolved_0001_48: -6593730528510437019
+      motion_13403_law_evolved_0001_49: -5524031034469245017
+      motion_13403_law_evolved_0001_5: -5843718195185126183
+      motion_13403_law_evolved_0001_50: -3315155991156374975
+      motion_13403_law_evolved_0001_51: -5001754607877802692
+      motion_13403_law_evolved_0001_52: -6496449719389343379
+      motion_13403_law_evolved_0001_53: 8196085257326961728
+      motion_13403_law_evolved_0001_54: -727333212121801005
+      motion_13403_law_evolved_0001_55: -6831199275647429548
+      motion_13403_law_evolved_0001_56: -2773009901256464326
+      motion_13403_law_evolved_0001_57: 7965713963491420578
+      motion_13403_law_evolved_0001_58: 6213038026075469912
+      motion_13403_law_evolved_0001_59: 7387480690220156980
+      motion_13403_law_evolved_0001_6: -1828995714984960059
+      motion_13403_law_evolved_0001_60: 3996152858833528437
+      motion_13403_law_evolved_0001_61: -6778199941916686555
+      motion_13403_law_evolved_0001_62: 597422214012681406
+      motion_13403_law_evolved_0001_63: -3024228175619864776
+      motion_13403_law_evolved_0001_64: 4047469113810718452
+      motion_13403_law_evolved_0001_65: 6131031612673919340
+      motion_13403_law_evolved_0001_66: -24746904716372306
+      motion_13403_law_evolved_0001_67: 8897939142769553142
+      motion_13403_law_evolved_0001_68: 7467268315626744519
+      motion_13403_law_evolved_0001_69: -4732108235331763552
+      motion_13403_law_evolved_0001_7: 2384426113631022299
+      motion_13403_law_evolved_0001_70: -6913149407091445570
+      motion_13403_law_evolved_0001_71: -5409600295244778482
+      motion_13403_law_evolved_0001_72: -92778449964659499
+      motion_13403_law_evolved_0001_73: -7813726117612736687
+      motion_13403_law_evolved_0001_74: -6562998908831701335
+      motion_13403_law_evolved_0001_75: -2528109996638242069
+      motion_13403_law_evolved_0001_76: -4823921070163930165
+      motion_13403_law_evolved_0001_77: 6668498387629126484
+      motion_13403_law_evolved_0001_78: -1523679449519260121
+      motion_13403_law_evolved_0001_79: -2961056906038235746
+      motion_13403_law_evolved_0001_8: 6578118737028435828
+      motion_13403_law_evolved_0001_80: -7790501545395135323
+      motion_13403_law_evolved_0001_81: 7997524981032140876
+      motion_13403_law_evolved_0001_82: 7754174498965134960
+      motion_13403_law_evolved_0001_83: 4652387196952116220
+      motion_13403_law_evolved_0001_84: 1669299428464937229
+      motion_13403_law_evolved_0001_85: -8086192432970253256
+      motion_13403_law_evolved_0001_86: -1210496977590462718
+      motion_13403_law_evolved_0001_87: 3749762383518844910
+      motion_13403_law_evolved_0001_88: 314201465245698354
+      motion_13403_law_evolved_0001_89: 2520728788318279038
+      motion_13403_law_evolved_0001_9: -7626393834568097100
+      motion_13403_law_evolved_0001_90: 820904232809736686
+      motion_13403_law_evolved_0001_91: -3798544480558444077
+      motion_13403_law_evolved_0001_92: -1196948627117717129
+      motion_13403_law_evolved_0001_93: -4845858043140934093
+      motion_13403_law_evolved_0001_94: -5375606561600326094
+      motion_13403_law_evolved_0001_95: 5401662008235716764
+      motion_13403_law_evolved_0001_96: 5073898299443490052
+      motion_13403_law_evolved_0001_97: 5121644349509916625
+      motion_13403_law_evolved_0001_98: 1418241256195425892
+      motion_13403_law_evolved_0001_99: 4449892936489276716
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

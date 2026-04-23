@@ -1,0 +1,2132 @@
+fileFormatVersion: 2
+guid: 75e758c3a68ea3448b9d623fd4b75ff4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7627327756038915446
+    second: motion_13409_bepo_0001_0
+  - first:
+      213: 1973534111018008916
+    second: motion_13409_bepo_0001_1
+  - first:
+      213: -360752979752306908
+    second: motion_13409_bepo_0001_2
+  - first:
+      213: -3784335052649708342
+    second: motion_13409_bepo_0001_3
+  - first:
+      213: -1712138543839904844
+    second: motion_13409_bepo_0001_4
+  - first:
+      213: -8598825000758450000
+    second: motion_13409_bepo_0001_5
+  - first:
+      213: -4537104876036495993
+    second: motion_13409_bepo_0001_6
+  - first:
+      213: 775527671206809547
+    second: motion_13409_bepo_0001_7
+  - first:
+      213: -1926295985597436860
+    second: motion_13409_bepo_0001_8
+  - first:
+      213: 1458358032295937340
+    second: motion_13409_bepo_0001_9
+  - first:
+      213: -5111080659534897634
+    second: motion_13409_bepo_0001_10
+  - first:
+      213: 7174178669537989640
+    second: motion_13409_bepo_0001_11
+  - first:
+      213: -467717178821168462
+    second: motion_13409_bepo_0001_12
+  - first:
+      213: -2997706825823266074
+    second: motion_13409_bepo_0001_13
+  - first:
+      213: -1837161484411072630
+    second: motion_13409_bepo_0001_14
+  - first:
+      213: 4896219122775926040
+    second: motion_13409_bepo_0001_15
+  - first:
+      213: 8037580190889372754
+    second: motion_13409_bepo_0001_16
+  - first:
+      213: -890284114516869449
+    second: motion_13409_bepo_0001_17
+  - first:
+      213: -312652138517475645
+    second: motion_13409_bepo_0001_18
+  - first:
+      213: -9025924548133406863
+    second: motion_13409_bepo_0001_19
+  - first:
+      213: 2901463894450791538
+    second: motion_13409_bepo_0001_20
+  - first:
+      213: 8306894166460938838
+    second: motion_13409_bepo_0001_21
+  - first:
+      213: -6269694158321539679
+    second: motion_13409_bepo_0001_22
+  - first:
+      213: -4451152129519810373
+    second: motion_13409_bepo_0001_23
+  - first:
+      213: -1800584421792777800
+    second: motion_13409_bepo_0001_24
+  - first:
+      213: 5188273611309495077
+    second: motion_13409_bepo_0001_25
+  - first:
+      213: -1144775861861993147
+    second: motion_13409_bepo_0001_26
+  - first:
+      213: 7258701289076230081
+    second: motion_13409_bepo_0001_27
+  - first:
+      213: -7347390102055793188
+    second: motion_13409_bepo_0001_28
+  - first:
+      213: 2987378198107565274
+    second: motion_13409_bepo_0001_29
+  - first:
+      213: -5024818040444926060
+    second: motion_13409_bepo_0001_30
+  - first:
+      213: 4906406145647667771
+    second: motion_13409_bepo_0001_31
+  - first:
+      213: 4853728103608413839
+    second: motion_13409_bepo_0001_32
+  - first:
+      213: -1733793305931286015
+    second: motion_13409_bepo_0001_33
+  - first:
+      213: -2819730900843915732
+    second: motion_13409_bepo_0001_34
+  - first:
+      213: 3545844385920463886
+    second: motion_13409_bepo_0001_35
+  - first:
+      213: 1057473419075909916
+    second: motion_13409_bepo_0001_36
+  - first:
+      213: -8799165235834449713
+    second: motion_13409_bepo_0001_37
+  - first:
+      213: 7371831747059050909
+    second: motion_13409_bepo_0001_38
+  - first:
+      213: 7825739459068551935
+    second: motion_13409_bepo_0001_39
+  - first:
+      213: 5773506892302364639
+    second: motion_13409_bepo_0001_40
+  - first:
+      213: 5666922684202217798
+    second: motion_13409_bepo_0001_41
+  - first:
+      213: -7984794065763765535
+    second: motion_13409_bepo_0001_42
+  - first:
+      213: 5969096197674624978
+    second: motion_13409_bepo_0001_43
+  - first:
+      213: 962699070330287164
+    second: motion_13409_bepo_0001_44
+  - first:
+      213: -756784209139594781
+    second: motion_13409_bepo_0001_45
+  - first:
+      213: -4487881832095029475
+    second: motion_13409_bepo_0001_46
+  - first:
+      213: -5618154585484737845
+    second: motion_13409_bepo_0001_47
+  - first:
+      213: -4337640627437277972
+    second: motion_13409_bepo_0001_48
+  - first:
+      213: -2156886975426876382
+    second: motion_13409_bepo_0001_49
+  - first:
+      213: -8753881202276128659
+    second: motion_13409_bepo_0001_50
+  - first:
+      213: -4759619008501352832
+    second: motion_13409_bepo_0001_51
+  - first:
+      213: -3379806927119086085
+    second: motion_13409_bepo_0001_52
+  - first:
+      213: -3089988905453824914
+    second: motion_13409_bepo_0001_53
+  - first:
+      213: 3266043307497466002
+    second: motion_13409_bepo_0001_54
+  - first:
+      213: 2470425683556696766
+    second: motion_13409_bepo_0001_55
+  - first:
+      213: -4810926654437291630
+    second: motion_13409_bepo_0001_56
+  - first:
+      213: 4446581021730089010
+    second: motion_13409_bepo_0001_57
+  - first:
+      213: 1231573599132526542
+    second: motion_13409_bepo_0001_58
+  - first:
+      213: 4842102437787582278
+    second: motion_13409_bepo_0001_59
+  - first:
+      213: -1065212986348318411
+    second: motion_13409_bepo_0001_60
+  - first:
+      213: -6912909211748293156
+    second: motion_13409_bepo_0001_61
+  - first:
+      213: -7329679110749107321
+    second: motion_13409_bepo_0001_62
+  - first:
+      213: 8595151665008695732
+    second: motion_13409_bepo_0001_63
+  - first:
+      213: -7819387743831957921
+    second: motion_13409_bepo_0001_64
+  - first:
+      213: -8660760903852346339
+    second: motion_13409_bepo_0001_65
+  - first:
+      213: -643371046674211376
+    second: motion_13409_bepo_0001_66
+  - first:
+      213: -773885211723490714
+    second: motion_13409_bepo_0001_67
+  - first:
+      213: 105862491600917505
+    second: motion_13409_bepo_0001_68
+  - first:
+      213: -5547762879592125351
+    second: motion_13409_bepo_0001_69
+  - first:
+      213: -3835266925214417196
+    second: motion_13409_bepo_0001_70
+  - first:
+      213: 5182925792797612556
+    second: motion_13409_bepo_0001_71
+  - first:
+      213: -452024233463262246
+    second: motion_13409_bepo_0001_72
+  - first:
+      213: 6002243313334701625
+    second: motion_13409_bepo_0001_73
+  - first:
+      213: -1882900011668160127
+    second: motion_13409_bepo_0001_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 868
+        width: 256
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ab2d331d9462690800000000000000
+      internalID: -7627327756038915446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 821
+        width: 167
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451485751d6636b10800000000000000
+      internalID: 1973534111018008916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_2
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 829
+        width: 172
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427333683195efaf0800000000000000
+      internalID: -360752979752306908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_3
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 824
+        width: 169
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac441c3e1575b7bc0800000000000000
+      internalID: -3784335052649708342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_4
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 828
+        width: 171
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbfa20d0134d38e0800000000000000
+      internalID: -1712138543839904844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_5
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 860
+        width: 82
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b86b086836daa880800000000000000
+      internalID: -8598825000758450000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 670
+        width: 168
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785e6236727f801c0800000000000000
+      internalID: -4537104876036495993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 822
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf84cbde4a33ca00800000000000000
+      internalID: 775527671206809547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_8
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 629
+        width: 167
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c243ec10c6445e0800000000000000
+      internalID: -1926295985597436860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_9
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 635
+        width: 163
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35465657e02d3410800000000000000
+      internalID: 1458358032295937340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_10
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 637
+        width: 163
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e9d06483bc119b0800000000000000
+      internalID: -5111080659534897634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_11
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 664
+        width: 87
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8041ff05d7dcf8360800000000000000
+      internalID: 7174178669537989640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 636
+        width: 155
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2340534b55289f0800000000000000
+      internalID: -467717178821168462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_13
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 724
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea5a0246810666d0800000000000000
+      internalID: -2997706825823266074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_14
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 715
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f06a61d571186e0800000000000000
+      internalID: -1837161484411072630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_15
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 687
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815a883d95dd2f340800000000000000
+      internalID: 4896219122775926040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 709
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c6da349983b8f60800000000000000
+      internalID: 8037580190889372754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_17
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 696
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be7c05905315a3f0800000000000000
+      internalID: -890284114516869449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_18
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 677
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce4669598c39abf0800000000000000
+      internalID: -312652138517475645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_19
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 645
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177b703e1797db280800000000000000
+      internalID: -9025924548133406863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_20
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 681
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2746c551a02144820800000000000000
+      internalID: 2901463894450791538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_21
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 682
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a3baa8b34084370800000000000000
+      internalID: 8306894166460938838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_22
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 683
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a527ea91629df8a0800000000000000
+      internalID: -6269694158321539679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 483
+        width: 148
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb88fbea8b45a32c0800000000000000
+      internalID: -4451152129519810373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_24
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 645
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b970fe120a0307e0800000000000000
+      internalID: -1800584421792777800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_25
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 662
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523b2af5c53700840800000000000000
+      internalID: 5188273611309495077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_26
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 471
+        width: 157
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545364e3b60fc10f0800000000000000
+      internalID: -1144775861861993147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_27
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 446
+        width: 134
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c70f0a3d561cb460800000000000000
+      internalID: 7258701289076230081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_28
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 478
+        width: 139
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd4ebc51a3d80a90800000000000000
+      internalID: -7347390102055793188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_29
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 475
+        width: 154
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adca2f3b4ac457920800000000000000
+      internalID: 2987378198107565274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_30
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 450
+        width: 138
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4974e466d92444ab0800000000000000
+      internalID: -5024818040444926060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 452
+        width: 15
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a6f1be46e071440800000000000000
+      internalID: 4906406145647667771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_32
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 440
+        width: 8
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ee8eb7ef7eb5340800000000000000
+      internalID: 4853728103608413839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_33
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 441
+        width: 12
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10af30e9c2450f7e0800000000000000
+      internalID: -1733793305931286015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_34
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 463
+        width: 8
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26910d6fad4ed8d0800000000000000
+      internalID: -2819730900843915732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_35
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 432
+        width: 13
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e043a9baeae553130800000000000000
+      internalID: 3545844385920463886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_36
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 476
+        width: 7
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19ff6fc876ecae00800000000000000
+      internalID: 1057473419075909916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_37
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 512
+        width: 11
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc01f1686d513e580800000000000000
+      internalID: -8799165235834449713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_38
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 519
+        width: 13
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99e6639ae10e4660800000000000000
+      internalID: 7371831747059050909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_39
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 479
+        width: 9
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2e982539c9a9c60800000000000000
+      internalID: 7825739459068551935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_40
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 468
+        width: 12
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfa3ffdded9f1050800000000000000
+      internalID: 5773506892302364639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 332
+        width: 139
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641f9791824f4ae40800000000000000
+      internalID: 5666922684202217798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_42
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 294
+        width: 108
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2f0893a10503190800000000000000
+      internalID: -7984794065763765535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_43
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 256
+        width: 100
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7e78cbd5d76d250800000000000000
+      internalID: 5969096197674624978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_44
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 373
+        width: 85
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34b2a034b13c5d00800000000000000
+      internalID: 962699070330287164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_45
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 327
+        width: 160
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e90c9a75cc5f75f0800000000000000
+      internalID: -756784209139594781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_46
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 321
+        width: 138
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17eb046047d7b1c0800000000000000
+      internalID: -4487881832095029475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_47
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 257
+        width: 101
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc243f6bb2e4802b0800000000000000
+      internalID: -5618154585484737845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_48
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 263
+        width: 108
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec6c46c4da9dc3c0800000000000000
+      internalID: -4337640627437277972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_49
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 372
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ca30939b23112e0800000000000000
+      internalID: -2156886975426876382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 132
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68ac543d67f38680800000000000000
+      internalID: -8753881202276128659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_51
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 274
+        width: 198
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0867414babf62fdb0800000000000000
+      internalID: -4759619008501352832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_52
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 311
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd89abb1838811d0800000000000000
+      internalID: -3379806927119086085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_53
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 314
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64d68246772e15d0800000000000000
+      internalID: -3089988905453824914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_54
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 299
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298ad6c7511535d20800000000000000
+      internalID: 3266043307497466002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_55
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 312
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb206600217b84220800000000000000
+      internalID: 2470425683556696766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_56
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 297
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2998ec972b72c3db0800000000000000
+      internalID: -4810926654437291630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_57
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 290
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238273951ed65bd30800000000000000
+      internalID: 4446581021730089010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_58
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 271
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec72b0bc9ad671110800000000000000
+      internalID: 1231573599132526542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_59
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 254
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fb16a338a923340800000000000000
+      internalID: 4842102437787582278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_60
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 212
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5315392ce6a9731f0800000000000000
+      internalID: -1065212986348318411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_61
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 278
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5a735b2b96010a0800000000000000
+      internalID: -6912909211748293156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_62
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 285
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bc23edeafb74a90800000000000000
+      internalID: -7329679110749107321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_63
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 272
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9537776ec184770800000000000000
+      internalID: 8595151665008695732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_64
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 279
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e5adf9644fb7390800000000000000
+      internalID: -7819387743831957921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_65
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 220
+        width: 198
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d143a4938dbcec780800000000000000
+      internalID: -8660760903852346339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_66
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 259
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd563811794217f0800000000000000
+      internalID: -643371046674211376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_67
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 271
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a1b4a008b9245f0800000000000000
+      internalID: -773885211723490714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_68
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 242
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10419ee0069187100800000000000000
+      internalID: 105862491600917505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_69
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 204
+        width: 198
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c20d7ed036203b0800000000000000
+      internalID: -5547762879592125351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_70
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 258
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de3ac73d0566cac0800000000000000
+      internalID: -3835266925214417196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_71
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 180
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a59e85c837de740800000000000000
+      internalID: 5182925792797612556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_72
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 207
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3dd86ca561ab9f0800000000000000
+      internalID: -452024233463262246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_73
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 203
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e47c20e704c4350800000000000000
+      internalID: 6002243313334701625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13409_bepo_0001_74
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 168
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181c0f85a689ed5e0800000000000000
+      internalID: -1882900011668160127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_13409_bepo_0001_0: -7627327756038915446
+      motion_13409_bepo_0001_1: 1973534111018008916
+      motion_13409_bepo_0001_10: -5111080659534897634
+      motion_13409_bepo_0001_11: 7174178669537989640
+      motion_13409_bepo_0001_12: -467717178821168462
+      motion_13409_bepo_0001_13: -2997706825823266074
+      motion_13409_bepo_0001_14: -1837161484411072630
+      motion_13409_bepo_0001_15: 4896219122775926040
+      motion_13409_bepo_0001_16: 8037580190889372754
+      motion_13409_bepo_0001_17: -890284114516869449
+      motion_13409_bepo_0001_18: -312652138517475645
+      motion_13409_bepo_0001_19: -9025924548133406863
+      motion_13409_bepo_0001_2: -360752979752306908
+      motion_13409_bepo_0001_20: 2901463894450791538
+      motion_13409_bepo_0001_21: 8306894166460938838
+      motion_13409_bepo_0001_22: -6269694158321539679
+      motion_13409_bepo_0001_23: -4451152129519810373
+      motion_13409_bepo_0001_24: -1800584421792777800
+      motion_13409_bepo_0001_25: 5188273611309495077
+      motion_13409_bepo_0001_26: -1144775861861993147
+      motion_13409_bepo_0001_27: 7258701289076230081
+      motion_13409_bepo_0001_28: -7347390102055793188
+      motion_13409_bepo_0001_29: 2987378198107565274
+      motion_13409_bepo_0001_3: -3784335052649708342
+      motion_13409_bepo_0001_30: -5024818040444926060
+      motion_13409_bepo_0001_31: 4906406145647667771
+      motion_13409_bepo_0001_32: 4853728103608413839
+      motion_13409_bepo_0001_33: -1733793305931286015
+      motion_13409_bepo_0001_34: -2819730900843915732
+      motion_13409_bepo_0001_35: 3545844385920463886
+      motion_13409_bepo_0001_36: 1057473419075909916
+      motion_13409_bepo_0001_37: -8799165235834449713
+      motion_13409_bepo_0001_38: 7371831747059050909
+      motion_13409_bepo_0001_39: 7825739459068551935
+      motion_13409_bepo_0001_4: -1712138543839904844
+      motion_13409_bepo_0001_40: 5773506892302364639
+      motion_13409_bepo_0001_41: 5666922684202217798
+      motion_13409_bepo_0001_42: -7984794065763765535
+      motion_13409_bepo_0001_43: 5969096197674624978
+      motion_13409_bepo_0001_44: 962699070330287164
+      motion_13409_bepo_0001_45: -756784209139594781
+      motion_13409_bepo_0001_46: -4487881832095029475
+      motion_13409_bepo_0001_47: -5618154585484737845
+      motion_13409_bepo_0001_48: -4337640627437277972
+      motion_13409_bepo_0001_49: -2156886975426876382
+      motion_13409_bepo_0001_5: -8598825000758450000
+      motion_13409_bepo_0001_50: -8753881202276128659
+      motion_13409_bepo_0001_51: -4759619008501352832
+      motion_13409_bepo_0001_52: -3379806927119086085
+      motion_13409_bepo_0001_53: -3089988905453824914
+      motion_13409_bepo_0001_54: 3266043307497466002
+      motion_13409_bepo_0001_55: 2470425683556696766
+      motion_13409_bepo_0001_56: -4810926654437291630
+      motion_13409_bepo_0001_57: 4446581021730089010
+      motion_13409_bepo_0001_58: 1231573599132526542
+      motion_13409_bepo_0001_59: 4842102437787582278
+      motion_13409_bepo_0001_6: -4537104876036495993
+      motion_13409_bepo_0001_60: -1065212986348318411
+      motion_13409_bepo_0001_61: -6912909211748293156
+      motion_13409_bepo_0001_62: -7329679110749107321
+      motion_13409_bepo_0001_63: 8595151665008695732
+      motion_13409_bepo_0001_64: -7819387743831957921
+      motion_13409_bepo_0001_65: -8660760903852346339
+      motion_13409_bepo_0001_66: -643371046674211376
+      motion_13409_bepo_0001_67: -773885211723490714
+      motion_13409_bepo_0001_68: 105862491600917505
+      motion_13409_bepo_0001_69: -5547762879592125351
+      motion_13409_bepo_0001_7: 775527671206809547
+      motion_13409_bepo_0001_70: -3835266925214417196
+      motion_13409_bepo_0001_71: 5182925792797612556
+      motion_13409_bepo_0001_72: -452024233463262246
+      motion_13409_bepo_0001_73: 6002243313334701625
+      motion_13409_bepo_0001_74: -1882900011668160127
+      motion_13409_bepo_0001_8: -1926295985597436860
+      motion_13409_bepo_0001_9: 1458358032295937340
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

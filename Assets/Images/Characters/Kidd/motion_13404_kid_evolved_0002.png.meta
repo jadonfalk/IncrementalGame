@@ -1,0 +1,1768 @@
+fileFormatVersion: 2
+guid: a0bdbd4e39f05c94fa385597218449b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1524843359927817726
+    second: motion_13404_kid_evolved_0002_0
+  - first:
+      213: 7105886423891729763
+    second: motion_13404_kid_evolved_0002_1
+  - first:
+      213: -7190103538482286896
+    second: motion_13404_kid_evolved_0002_2
+  - first:
+      213: 7760136012756462024
+    second: motion_13404_kid_evolved_0002_3
+  - first:
+      213: -3701462781759643186
+    second: motion_13404_kid_evolved_0002_4
+  - first:
+      213: 8001133286844877240
+    second: motion_13404_kid_evolved_0002_5
+  - first:
+      213: 26914850969594076
+    second: motion_13404_kid_evolved_0002_6
+  - first:
+      213: -8358914478167172992
+    second: motion_13404_kid_evolved_0002_7
+  - first:
+      213: 6740480722390150955
+    second: motion_13404_kid_evolved_0002_8
+  - first:
+      213: -4095667490083200583
+    second: motion_13404_kid_evolved_0002_9
+  - first:
+      213: -8823879770496631007
+    second: motion_13404_kid_evolved_0002_10
+  - first:
+      213: 2187180397709430341
+    second: motion_13404_kid_evolved_0002_11
+  - first:
+      213: 3096217104441917282
+    second: motion_13404_kid_evolved_0002_12
+  - first:
+      213: -7697856271152946686
+    second: motion_13404_kid_evolved_0002_13
+  - first:
+      213: 288726902476454025
+    second: motion_13404_kid_evolved_0002_14
+  - first:
+      213: 7521731697999230734
+    second: motion_13404_kid_evolved_0002_15
+  - first:
+      213: -6629530467555088630
+    second: motion_13404_kid_evolved_0002_16
+  - first:
+      213: -1203879089851150132
+    second: motion_13404_kid_evolved_0002_17
+  - first:
+      213: -3913913065759558060
+    second: motion_13404_kid_evolved_0002_18
+  - first:
+      213: 4424172855870590630
+    second: motion_13404_kid_evolved_0002_19
+  - first:
+      213: 5065840557107508814
+    second: motion_13404_kid_evolved_0002_20
+  - first:
+      213: 355741613915255726
+    second: motion_13404_kid_evolved_0002_21
+  - first:
+      213: 2199366192188656817
+    second: motion_13404_kid_evolved_0002_22
+  - first:
+      213: 3268657572977462595
+    second: motion_13404_kid_evolved_0002_23
+  - first:
+      213: 60441577289493075
+    second: motion_13404_kid_evolved_0002_24
+  - first:
+      213: -4578833231211622115
+    second: motion_13404_kid_evolved_0002_25
+  - first:
+      213: -6021193562668633061
+    second: motion_13404_kid_evolved_0002_26
+  - first:
+      213: 1428626356220326932
+    second: motion_13404_kid_evolved_0002_27
+  - first:
+      213: 7335998950203548799
+    second: motion_13404_kid_evolved_0002_28
+  - first:
+      213: -8123520898829976013
+    second: motion_13404_kid_evolved_0002_29
+  - first:
+      213: 8977275156208986023
+    second: motion_13404_kid_evolved_0002_30
+  - first:
+      213: 6575740711618298869
+    second: motion_13404_kid_evolved_0002_31
+  - first:
+      213: 8214428342716718832
+    second: motion_13404_kid_evolved_0002_32
+  - first:
+      213: -6031168527029810125
+    second: motion_13404_kid_evolved_0002_33
+  - first:
+      213: 5545963081715082587
+    second: motion_13404_kid_evolved_0002_34
+  - first:
+      213: -2865408025246422151
+    second: motion_13404_kid_evolved_0002_35
+  - first:
+      213: -3662858949422572322
+    second: motion_13404_kid_evolved_0002_36
+  - first:
+      213: 6820775006102316667
+    second: motion_13404_kid_evolved_0002_37
+  - first:
+      213: -7022794518692388041
+    second: motion_13404_kid_evolved_0002_38
+  - first:
+      213: -2403062121850046808
+    second: motion_13404_kid_evolved_0002_39
+  - first:
+      213: -4463489027860615628
+    second: motion_13404_kid_evolved_0002_40
+  - first:
+      213: -7543596061790519027
+    second: motion_13404_kid_evolved_0002_41
+  - first:
+      213: -7325161229255595223
+    second: motion_13404_kid_evolved_0002_42
+  - first:
+      213: -7658588292859876450
+    second: motion_13404_kid_evolved_0002_43
+  - first:
+      213: -4038581608687860281
+    second: motion_13404_kid_evolved_0002_44
+  - first:
+      213: 5284185859435589385
+    second: motion_13404_kid_evolved_0002_45
+  - first:
+      213: 587110242550304533
+    second: motion_13404_kid_evolved_0002_46
+  - first:
+      213: 1336354987414818450
+    second: motion_13404_kid_evolved_0002_47
+  - first:
+      213: -9037885651180436608
+    second: motion_13404_kid_evolved_0002_48
+  - first:
+      213: 8806493184207808871
+    second: motion_13404_kid_evolved_0002_49
+  - first:
+      213: -5944485714483466047
+    second: motion_13404_kid_evolved_0002_50
+  - first:
+      213: 5849166471448769284
+    second: motion_13404_kid_evolved_0002_51
+  - first:
+      213: -3667712016160592233
+    second: motion_13404_kid_evolved_0002_52
+  - first:
+      213: -5282560532429800743
+    second: motion_13404_kid_evolved_0002_53
+  - first:
+      213: 6142978372732157571
+    second: motion_13404_kid_evolved_0002_54
+  - first:
+      213: -5660881991112400750
+    second: motion_13404_kid_evolved_0002_55
+  - first:
+      213: -7500411856983513302
+    second: motion_13404_kid_evolved_0002_56
+  - first:
+      213: 6520308819691768508
+    second: motion_13404_kid_evolved_0002_57
+  - first:
+      213: 8307500425239731918
+    second: motion_13404_kid_evolved_0002_58
+  - first:
+      213: -7873434521413033625
+    second: motion_13404_kid_evolved_0002_59
+  - first:
+      213: 1818058668936855161
+    second: motion_13404_kid_evolved_0002_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 819
+        width: 315
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20aa3690b0ba6dae0800000000000000
+      internalID: -1524843359927817726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 831
+        width: 257
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d565ecd0e2d9260800000000000000
+      internalID: 7105886423891729763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_2
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 821
+        width: 229
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0deeb723dee973c90800000000000000
+      internalID: -7190103538482286896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_3
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 832
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9a011b69a81bb60800000000000000
+      internalID: 7760136012756462024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_4
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 826
+        width: 201
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec123ef0633c1acc0800000000000000
+      internalID: -3701462781759643186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 621
+        width: 191
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b941f2255cb90f60800000000000000
+      internalID: 8001133286844877240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 627
+        width: 100
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8a9331aee9f5000800000000000000
+      internalID: 26914850969594076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 775
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088d9fcc19b2ffb80800000000000000
+      internalID: -8358914478167172992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_8
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 628
+        width: 204
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fee61218ffa8d50800000000000000
+      internalID: 6740480722390150955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_9
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 620
+        width: 203
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1a9771e144927c0800000000000000
+      internalID: -4095667490083200583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_10
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 731
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ffac289184b8580800000000000000
+      internalID: -8823879770496631007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_11
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 624
+        width: 205
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e0b29cbfc6a5e10800000000000000
+      internalID: 2187180397709430341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_12
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 631
+        width: 38
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fbfb15d09f7fa20800000000000000
+      internalID: 3096217104441917282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 423
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2026ae1a188bb2590800000000000000
+      internalID: -7697856271152946686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 435
+        width: 194
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988353b8693c10400800000000000000
+      internalID: 288726902476454025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 433
+        width: 184
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e073a03a02f826860800000000000000
+      internalID: 7521731697999230734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_16
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 411
+        width: 143
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07efbd1a2d2ff3a0800000000000000
+      internalID: -6629530467555088630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_17
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 431
+        width: 191
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0d6e0a856fa4fe0800000000000000
+      internalID: -1203879089851150132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_18
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 460
+        width: 87
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45634a1bdccfea9c0800000000000000
+      internalID: -3913913065759558060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 433
+        width: 101
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae871ba5c1d56d30800000000000000
+      internalID: 4424172855870590630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 209
+        width: 109
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46f82f852b7d4640800000000000000
+      internalID: 5065840557107508814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_21
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 364
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea33e31fc19dfe400800000000000000
+      internalID: 355741613915255726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 313
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc886826e7b58e10800000000000000
+      internalID: 2199366192188656817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_23
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 288
+        width: 199
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d46b99eba9c5d20800000000000000
+      internalID: 3268657572977462595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_24
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 292
+        width: 189
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a21085b4bb6d000800000000000000
+      internalID: 60441577289493075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_25
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 169
+        width: 53
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1190e79f67b470c0800000000000000
+      internalID: -4578833231211622115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 351
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14744d3b5c607ca0800000000000000
+      internalID: -6021193562668633061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_27
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 215
+        width: 115
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414f54f0a1083d310800000000000000
+      internalID: 1428626356220326932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_28
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 267
+        width: 149
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74658b6d24bec560800000000000000
+      internalID: 7335998950203548799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 287
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ef6c368c4734f80800000000000000
+      internalID: -8123520898829976013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_30
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 303
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7a6c0e030b59c70800000000000000
+      internalID: 8977275156208986023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_31
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 177
+        width: 210
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f345136659b14b50800000000000000
+      internalID: 6575740711618298869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_32
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 262
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fed7884e038ff170800000000000000
+      internalID: 8214428342716718832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_33
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 139
+        width: 150
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c4fdddd2cfc4ca0800000000000000
+      internalID: -6031168527029810125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_34
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 175
+        width: 22
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55ee0ff90837fc40800000000000000
+      internalID: 5545963081715082587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_35
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 186
+        width: 28
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b22a625960c38d0800000000000000
+      internalID: -2865408025246422151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_36
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 247
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc9e413139ea2dc0800000000000000
+      internalID: -3662858949422572322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_37
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 102
+        width: 82
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b766793eab248ae50800000000000000
+      internalID: 6820775006102316667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 78
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733a7c6f7950a8e90800000000000000
+      internalID: -7022794518692388041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_39
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 116
+        width: 213
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a67eed6bbb96aed0800000000000000
+      internalID: -2403062121850046808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 78
+        width: 213
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ea383b0608e02c0800000000000000
+      internalID: -4463489027860615628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_41
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 55
+        width: 120
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01c0f77953cf4790800000000000000
+      internalID: -7543596061790519027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_42
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 88
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ba1cf1cacc75a90800000000000000
+      internalID: -7325161229255595223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_43
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 91
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b2f1b468a37b590800000000000000
+      internalID: -7658588292859876450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_44
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 125
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c50cb99c6314f7c0800000000000000
+      internalID: -4038581608687860281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_45
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 94
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fecc6da03355940800000000000000
+      internalID: 5284185859435589385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_46
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 66
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f443ba7a5d52800800000000000000
+      internalID: 587110242550304533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_47
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 61
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e8eaed7cfab8210800000000000000
+      internalID: 1336354987414818450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_48
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 56
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0834ac092eaf29280800000000000000
+      internalID: -9037885651180436608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_49
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 78
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769ea9964e2f63a70800000000000000
+      internalID: 8806493184207808871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_50
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 15
+        width: 112
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c034d7ecb1f08da0800000000000000
+      internalID: -5944485714483466047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_51
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 34
+        width: 87
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40334d26ae96c2150800000000000000
+      internalID: 5849166471448769284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_52
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 100
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ee05a8a5ba91dc0800000000000000
+      internalID: -3667712016160592233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_53
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 62
+        width: 140
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9daf5081f2390b6b0800000000000000
+      internalID: -5282560532429800743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 140
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e7b99784e304550800000000000000
+      internalID: 6142978372732157571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_55
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 71
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290e65c52d18071b0800000000000000
+      internalID: -5660881991112400750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_56
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 64
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27ae5ba72f29e790800000000000000
+      internalID: -7500411856983513302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_57
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 30
+        width: 93
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba039f435acc7a50800000000000000
+      internalID: 6520308819691768508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_58
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 29
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece12d92f9b2a4370800000000000000
+      internalID: 8307500425239731918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_59
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 24
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761e0ec9401fbb290800000000000000
+      internalID: -7873434521413033625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13404_kid_evolved_0002_60
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 22
+        width: 140
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97efcc61aba0b3910800000000000000
+      internalID: 1818058668936855161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_13404_kid_evolved_0002_0: -1524843359927817726
+      motion_13404_kid_evolved_0002_1: 7105886423891729763
+      motion_13404_kid_evolved_0002_10: -8823879770496631007
+      motion_13404_kid_evolved_0002_11: 2187180397709430341
+      motion_13404_kid_evolved_0002_12: 3096217104441917282
+      motion_13404_kid_evolved_0002_13: -7697856271152946686
+      motion_13404_kid_evolved_0002_14: 288726902476454025
+      motion_13404_kid_evolved_0002_15: 7521731697999230734
+      motion_13404_kid_evolved_0002_16: -6629530467555088630
+      motion_13404_kid_evolved_0002_17: -1203879089851150132
+      motion_13404_kid_evolved_0002_18: -3913913065759558060
+      motion_13404_kid_evolved_0002_19: 4424172855870590630
+      motion_13404_kid_evolved_0002_2: -7190103538482286896
+      motion_13404_kid_evolved_0002_20: 5065840557107508814
+      motion_13404_kid_evolved_0002_21: 355741613915255726
+      motion_13404_kid_evolved_0002_22: 2199366192188656817
+      motion_13404_kid_evolved_0002_23: 3268657572977462595
+      motion_13404_kid_evolved_0002_24: 60441577289493075
+      motion_13404_kid_evolved_0002_25: -4578833231211622115
+      motion_13404_kid_evolved_0002_26: -6021193562668633061
+      motion_13404_kid_evolved_0002_27: 1428626356220326932
+      motion_13404_kid_evolved_0002_28: 7335998950203548799
+      motion_13404_kid_evolved_0002_29: -8123520898829976013
+      motion_13404_kid_evolved_0002_3: 7760136012756462024
+      motion_13404_kid_evolved_0002_30: 8977275156208986023
+      motion_13404_kid_evolved_0002_31: 6575740711618298869
+      motion_13404_kid_evolved_0002_32: 8214428342716718832
+      motion_13404_kid_evolved_0002_33: -6031168527029810125
+      motion_13404_kid_evolved_0002_34: 5545963081715082587
+      motion_13404_kid_evolved_0002_35: -2865408025246422151
+      motion_13404_kid_evolved_0002_36: -3662858949422572322
+      motion_13404_kid_evolved_0002_37: 6820775006102316667
+      motion_13404_kid_evolved_0002_38: -7022794518692388041
+      motion_13404_kid_evolved_0002_39: -2403062121850046808
+      motion_13404_kid_evolved_0002_4: -3701462781759643186
+      motion_13404_kid_evolved_0002_40: -4463489027860615628
+      motion_13404_kid_evolved_0002_41: -7543596061790519027
+      motion_13404_kid_evolved_0002_42: -7325161229255595223
+      motion_13404_kid_evolved_0002_43: -7658588292859876450
+      motion_13404_kid_evolved_0002_44: -4038581608687860281
+      motion_13404_kid_evolved_0002_45: 5284185859435589385
+      motion_13404_kid_evolved_0002_46: 587110242550304533
+      motion_13404_kid_evolved_0002_47: 1336354987414818450
+      motion_13404_kid_evolved_0002_48: -9037885651180436608
+      motion_13404_kid_evolved_0002_49: 8806493184207808871
+      motion_13404_kid_evolved_0002_5: 8001133286844877240
+      motion_13404_kid_evolved_0002_50: -5944485714483466047
+      motion_13404_kid_evolved_0002_51: 5849166471448769284
+      motion_13404_kid_evolved_0002_52: -3667712016160592233
+      motion_13404_kid_evolved_0002_53: -5282560532429800743
+      motion_13404_kid_evolved_0002_54: 6142978372732157571
+      motion_13404_kid_evolved_0002_55: -5660881991112400750
+      motion_13404_kid_evolved_0002_56: -7500411856983513302
+      motion_13404_kid_evolved_0002_57: 6520308819691768508
+      motion_13404_kid_evolved_0002_58: 8307500425239731918
+      motion_13404_kid_evolved_0002_59: -7873434521413033625
+      motion_13404_kid_evolved_0002_6: 26914850969594076
+      motion_13404_kid_evolved_0002_60: 1818058668936855161
+      motion_13404_kid_evolved_0002_7: -8358914478167172992
+      motion_13404_kid_evolved_0002_8: 6740480722390150955
+      motion_13404_kid_evolved_0002_9: -4095667490083200583
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 96387805b73ed9d45969c07387df3999
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6287548685975581621
+    second: motion_1551_smoker_0001_0
+  - first:
+      213: 3910021789874483973
+    second: motion_1551_smoker_0001_1
+  - first:
+      213: 1378749827262994624
+    second: motion_1551_smoker_0001_2
+  - first:
+      213: -6843949502849924756
+    second: motion_1551_smoker_0001_3
+  - first:
+      213: -2620807001990265032
+    second: motion_1551_smoker_0001_4
+  - first:
+      213: 5783541864133389892
+    second: motion_1551_smoker_0001_5
+  - first:
+      213: 165715763145623187
+    second: motion_1551_smoker_0001_6
+  - first:
+      213: -8053214447586530584
+    second: motion_1551_smoker_0001_7
+  - first:
+      213: 3903477662261487808
+    second: motion_1551_smoker_0001_8
+  - first:
+      213: 39186790963075742
+    second: motion_1551_smoker_0001_9
+  - first:
+      213: -825416285204121060
+    second: motion_1551_smoker_0001_10
+  - first:
+      213: -3157373139616815615
+    second: motion_1551_smoker_0001_11
+  - first:
+      213: -7053559252312737466
+    second: motion_1551_smoker_0001_12
+  - first:
+      213: 2569381444543085637
+    second: motion_1551_smoker_0001_13
+  - first:
+      213: -6668147812655366118
+    second: motion_1551_smoker_0001_14
+  - first:
+      213: -4354419568354381505
+    second: motion_1551_smoker_0001_15
+  - first:
+      213: 7757630769986790544
+    second: motion_1551_smoker_0001_16
+  - first:
+      213: -4886084699355493784
+    second: motion_1551_smoker_0001_17
+  - first:
+      213: 8590517241488347556
+    second: motion_1551_smoker_0001_18
+  - first:
+      213: -7073954490978322325
+    second: motion_1551_smoker_0001_19
+  - first:
+      213: -8330032726889615164
+    second: motion_1551_smoker_0001_20
+  - first:
+      213: -4565830107182816632
+    second: motion_1551_smoker_0001_21
+  - first:
+      213: -9211331068500406511
+    second: motion_1551_smoker_0001_22
+  - first:
+      213: -377364676839063805
+    second: motion_1551_smoker_0001_23
+  - first:
+      213: 3774249694261916167
+    second: motion_1551_smoker_0001_24
+  - first:
+      213: 5552007516050960535
+    second: motion_1551_smoker_0001_25
+  - first:
+      213: -1414689485489933720
+    second: motion_1551_smoker_0001_26
+  - first:
+      213: 4850864845447400030
+    second: motion_1551_smoker_0001_27
+  - first:
+      213: 2621379495378465810
+    second: motion_1551_smoker_0001_28
+  - first:
+      213: 6135235230417441980
+    second: motion_1551_smoker_0001_29
+  - first:
+      213: 8787830748821737193
+    second: motion_1551_smoker_0001_30
+  - first:
+      213: 8404509856183764607
+    second: motion_1551_smoker_0001_31
+  - first:
+      213: -3114531703933439900
+    second: motion_1551_smoker_0001_32
+  - first:
+      213: -7106635226486913087
+    second: motion_1551_smoker_0001_33
+  - first:
+      213: -2912150079818610090
+    second: motion_1551_smoker_0001_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 830
+        width: 114
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b37c8f873cd14750800000000000000
+      internalID: 6287548685975581621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 834
+        width: 113
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50371890a10334630800000000000000
+      internalID: 3910021789874483973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 831
+        width: 127
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c85428b9ad422310800000000000000
+      internalID: 1378749827262994624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 831
+        width: 117
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c614bed10386501a0800000000000000
+      internalID: -6843949502849924756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_4
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 831
+        width: 114
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8378385dae501abd0800000000000000
+      internalID: -2620807001990265032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_5
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 831
+        width: 118
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e6543dea4434050800000000000000
+      internalID: 5783541864133389892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_6
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 822
+        width: 164
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3964afbcb9dbc4200800000000000000
+      internalID: 165715763145623187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 644
+        width: 120
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eaaf8fa02c3d3090800000000000000
+      internalID: -8053214447586530584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 620
+        width: 120
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8a4c79040fb2630800000000000000
+      internalID: 3903477662261487808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 628
+        width: 217
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9add33cd283b8000800000000000000
+      internalID: 39186790963075742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_10
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 746
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1af59803488b84f0800000000000000
+      internalID: -825416285204121060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_11
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 653
+        width: 132
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106a7c5abd1ce24d0800000000000000
+      internalID: -3157373139616815615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_12
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 558
+        width: 219
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649babb3b39bc1e90800000000000000
+      internalID: -7053559252312737466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_13
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 576
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c78768fc648a320800000000000000
+      internalID: 2569381444543085637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 533
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1001ecc4eaf573a0800000000000000
+      internalID: -6668147812655366118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_15
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 528
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f313a39297ef193c0800000000000000
+      internalID: -4354419568354381505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_16
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 531
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094e3b76514a8ab60800000000000000
+      internalID: 7757630769986790544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_17
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 513
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ac1708ad3213cb0800000000000000
+      internalID: -4886084699355493784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_18
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 499
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a118c7aae5a73770800000000000000
+      internalID: 8590517241488347556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 488
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6835ffaed344dd90800000000000000
+      internalID: -7073954490978322325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_20
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 493
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0bd5a8e57c56c80800000000000000
+      internalID: -8330032726889615164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 461
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882a59455b9e2a0c0800000000000000
+      internalID: -4565830107182816632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_22
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 469
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f83896237ca2080800000000000000
+      internalID: -9211331068500406511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_23
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 449
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f3a3663d453caf0800000000000000
+      internalID: -377364676839063805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_24
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 431
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702bb10a914d06430800000000000000
+      internalID: 3774249694261916167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_25
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 403
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79034888b61bc0d40800000000000000
+      internalID: 5552007516050960535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_26
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 225
+        width: 135
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86274e588630e5ce0800000000000000
+      internalID: -1414689485489933720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_27
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 209
+        width: 135
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a825e30ebb15340800000000000000
+      internalID: 4850864845447400030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_28
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 393
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214b68b23c2016420800000000000000
+      internalID: 2621379495378465810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_29
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 223
+        width: 173
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb45e7aafebb42550800000000000000
+      internalID: 6135235230417441980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 13
+        width: 165
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee46c19185a4f970800000000000000
+      internalID: 8787830748821737193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 13
+        width: 167
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f764a196f21d2a470800000000000000
+      internalID: 8404509856183764607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_32
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 164
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460fa51bae5f6c4d0800000000000000
+      internalID: -3114531703933439900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_33
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 0
+        width: 170
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c748f00ae8206d90800000000000000
+      internalID: -7106635226486913087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_1551_smoker_0001_34
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1
+        width: 157
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a49cf7ee6f597d0800000000000000
+      internalID: -2912150079818610090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_1551_smoker_0001_0: 6287548685975581621
+      motion_1551_smoker_0001_1: 3910021789874483973
+      motion_1551_smoker_0001_10: -825416285204121060
+      motion_1551_smoker_0001_11: -3157373139616815615
+      motion_1551_smoker_0001_12: -7053559252312737466
+      motion_1551_smoker_0001_13: 2569381444543085637
+      motion_1551_smoker_0001_14: -6668147812655366118
+      motion_1551_smoker_0001_15: -4354419568354381505
+      motion_1551_smoker_0001_16: 7757630769986790544
+      motion_1551_smoker_0001_17: -4886084699355493784
+      motion_1551_smoker_0001_18: 8590517241488347556
+      motion_1551_smoker_0001_19: -7073954490978322325
+      motion_1551_smoker_0001_2: 1378749827262994624
+      motion_1551_smoker_0001_20: -8330032726889615164
+      motion_1551_smoker_0001_21: -4565830107182816632
+      motion_1551_smoker_0001_22: -9211331068500406511
+      motion_1551_smoker_0001_23: -377364676839063805
+      motion_1551_smoker_0001_24: 3774249694261916167
+      motion_1551_smoker_0001_25: 5552007516050960535
+      motion_1551_smoker_0001_26: -1414689485489933720
+      motion_1551_smoker_0001_27: 4850864845447400030
+      motion_1551_smoker_0001_28: 2621379495378465810
+      motion_1551_smoker_0001_29: 6135235230417441980
+      motion_1551_smoker_0001_3: -6843949502849924756
+      motion_1551_smoker_0001_30: 8787830748821737193
+      motion_1551_smoker_0001_31: 8404509856183764607
+      motion_1551_smoker_0001_32: -3114531703933439900
+      motion_1551_smoker_0001_33: -7106635226486913087
+      motion_1551_smoker_0001_34: -2912150079818610090
+      motion_1551_smoker_0001_4: -2620807001990265032
+      motion_1551_smoker_0001_5: 5783541864133389892
+      motion_1551_smoker_0001_6: 165715763145623187
+      motion_1551_smoker_0001_7: -8053214447586530584
+      motion_1551_smoker_0001_8: 3903477662261487808
+      motion_1551_smoker_0001_9: 39186790963075742
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

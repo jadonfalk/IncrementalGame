@@ -1,0 +1,2964 @@
+fileFormatVersion: 2
+guid: 4ee31bb9ce6596b4b8bff1ae8dec44d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7234306629182501552
+    second: motion_11322_krieg_gin_0003_0
+  - first:
+      213: 770698672060333551
+    second: motion_11322_krieg_gin_0003_1
+  - first:
+      213: -4558253578836754746
+    second: motion_11322_krieg_gin_0003_2
+  - first:
+      213: 3933904215185774073
+    second: motion_11322_krieg_gin_0003_3
+  - first:
+      213: -1146933126331615149
+    second: motion_11322_krieg_gin_0003_4
+  - first:
+      213: -6505935194159078953
+    second: motion_11322_krieg_gin_0003_5
+  - first:
+      213: -232422324201774053
+    second: motion_11322_krieg_gin_0003_6
+  - first:
+      213: -1047904044057195984
+    second: motion_11322_krieg_gin_0003_7
+  - first:
+      213: -8259856013326716524
+    second: motion_11322_krieg_gin_0003_8
+  - first:
+      213: -5914047945123482330
+    second: motion_11322_krieg_gin_0003_9
+  - first:
+      213: 6098302177892512935
+    second: motion_11322_krieg_gin_0003_10
+  - first:
+      213: -6211950490641884220
+    second: motion_11322_krieg_gin_0003_11
+  - first:
+      213: -4525668762681656766
+    second: motion_11322_krieg_gin_0003_12
+  - first:
+      213: 3748325461517264450
+    second: motion_11322_krieg_gin_0003_13
+  - first:
+      213: -8686194258480117656
+    second: motion_11322_krieg_gin_0003_14
+  - first:
+      213: -4425199190860382179
+    second: motion_11322_krieg_gin_0003_15
+  - first:
+      213: -6847696322567192211
+    second: motion_11322_krieg_gin_0003_16
+  - first:
+      213: 2396426114067176033
+    second: motion_11322_krieg_gin_0003_17
+  - first:
+      213: 5196289195169291717
+    second: motion_11322_krieg_gin_0003_18
+  - first:
+      213: -7740756786305242603
+    second: motion_11322_krieg_gin_0003_19
+  - first:
+      213: 5627458736635672700
+    second: motion_11322_krieg_gin_0003_20
+  - first:
+      213: -4269213804510605215
+    second: motion_11322_krieg_gin_0003_21
+  - first:
+      213: 8002188866143059508
+    second: motion_11322_krieg_gin_0003_22
+  - first:
+      213: -337357225285564560
+    second: motion_11322_krieg_gin_0003_23
+  - first:
+      213: 8492991563218414629
+    second: motion_11322_krieg_gin_0003_24
+  - first:
+      213: 2208413576117837789
+    second: motion_11322_krieg_gin_0003_25
+  - first:
+      213: -6295535541592356975
+    second: motion_11322_krieg_gin_0003_26
+  - first:
+      213: 6748386372045766787
+    second: motion_11322_krieg_gin_0003_27
+  - first:
+      213: -6896111639283346774
+    second: motion_11322_krieg_gin_0003_28
+  - first:
+      213: -8279254820944996489
+    second: motion_11322_krieg_gin_0003_29
+  - first:
+      213: 4696325805145078512
+    second: motion_11322_krieg_gin_0003_30
+  - first:
+      213: -4335195811359873561
+    second: motion_11322_krieg_gin_0003_31
+  - first:
+      213: 6204921552948468914
+    second: motion_11322_krieg_gin_0003_32
+  - first:
+      213: -6986613016216328916
+    second: motion_11322_krieg_gin_0003_33
+  - first:
+      213: -6657639945588105662
+    second: motion_11322_krieg_gin_0003_34
+  - first:
+      213: -9039466875388687640
+    second: motion_11322_krieg_gin_0003_35
+  - first:
+      213: -5769853505486687473
+    second: motion_11322_krieg_gin_0003_36
+  - first:
+      213: 6742754282336982594
+    second: motion_11322_krieg_gin_0003_37
+  - first:
+      213: 8556272845084704272
+    second: motion_11322_krieg_gin_0003_38
+  - first:
+      213: 5273885804905420014
+    second: motion_11322_krieg_gin_0003_39
+  - first:
+      213: -1634161098340762091
+    second: motion_11322_krieg_gin_0003_40
+  - first:
+      213: 5490123000047065088
+    second: motion_11322_krieg_gin_0003_41
+  - first:
+      213: 6784601611944010132
+    second: motion_11322_krieg_gin_0003_42
+  - first:
+      213: 6791485188246891316
+    second: motion_11322_krieg_gin_0003_43
+  - first:
+      213: 1403802613827236808
+    second: motion_11322_krieg_gin_0003_44
+  - first:
+      213: -4850340840927132236
+    second: motion_11322_krieg_gin_0003_45
+  - first:
+      213: 2369676811312577535
+    second: motion_11322_krieg_gin_0003_46
+  - first:
+      213: 6793842335016682779
+    second: motion_11322_krieg_gin_0003_47
+  - first:
+      213: -3466136572126958134
+    second: motion_11322_krieg_gin_0003_48
+  - first:
+      213: -3504243154462765697
+    second: motion_11322_krieg_gin_0003_49
+  - first:
+      213: -3742329945597152609
+    second: motion_11322_krieg_gin_0003_50
+  - first:
+      213: -432802518654157120
+    second: motion_11322_krieg_gin_0003_51
+  - first:
+      213: 2541596428717903715
+    second: motion_11322_krieg_gin_0003_52
+  - first:
+      213: 2104881275903110727
+    second: motion_11322_krieg_gin_0003_53
+  - first:
+      213: -7255001422917428535
+    second: motion_11322_krieg_gin_0003_54
+  - first:
+      213: 8977038033543911770
+    second: motion_11322_krieg_gin_0003_55
+  - first:
+      213: -8375625400107007812
+    second: motion_11322_krieg_gin_0003_56
+  - first:
+      213: -3749013069526101625
+    second: motion_11322_krieg_gin_0003_57
+  - first:
+      213: 8088782088158497913
+    second: motion_11322_krieg_gin_0003_58
+  - first:
+      213: -2812831093844759237
+    second: motion_11322_krieg_gin_0003_59
+  - first:
+      213: 342640515461812463
+    second: motion_11322_krieg_gin_0003_60
+  - first:
+      213: -5555648579490252743
+    second: motion_11322_krieg_gin_0003_61
+  - first:
+      213: 917162518681521987
+    second: motion_11322_krieg_gin_0003_62
+  - first:
+      213: -1996565151219448388
+    second: motion_11322_krieg_gin_0003_63
+  - first:
+      213: 365604238836194666
+    second: motion_11322_krieg_gin_0003_64
+  - first:
+      213: -6367872768176606469
+    second: motion_11322_krieg_gin_0003_65
+  - first:
+      213: 8557534984799961840
+    second: motion_11322_krieg_gin_0003_66
+  - first:
+      213: -654887433975336828
+    second: motion_11322_krieg_gin_0003_67
+  - first:
+      213: 1637553340803642849
+    second: motion_11322_krieg_gin_0003_68
+  - first:
+      213: -919141284371114075
+    second: motion_11322_krieg_gin_0003_69
+  - first:
+      213: -5130815858631498558
+    second: motion_11322_krieg_gin_0003_70
+  - first:
+      213: 6323694044128900667
+    second: motion_11322_krieg_gin_0003_71
+  - first:
+      213: 870133091647315710
+    second: motion_11322_krieg_gin_0003_72
+  - first:
+      213: -4231940572413566236
+    second: motion_11322_krieg_gin_0003_73
+  - first:
+      213: 6485028400900268507
+    second: motion_11322_krieg_gin_0003_74
+  - first:
+      213: 5390658695859267458
+    second: motion_11322_krieg_gin_0003_75
+  - first:
+      213: 4009074534981134849
+    second: motion_11322_krieg_gin_0003_76
+  - first:
+      213: 2330182982045816813
+    second: motion_11322_krieg_gin_0003_77
+  - first:
+      213: 5717646624907532013
+    second: motion_11322_krieg_gin_0003_78
+  - first:
+      213: -5421701225595523673
+    second: motion_11322_krieg_gin_0003_79
+  - first:
+      213: 3281303521390246722
+    second: motion_11322_krieg_gin_0003_80
+  - first:
+      213: 2123490659005493074
+    second: motion_11322_krieg_gin_0003_81
+  - first:
+      213: -9091637598107196852
+    second: motion_11322_krieg_gin_0003_82
+  - first:
+      213: 4661704215981042185
+    second: motion_11322_krieg_gin_0003_83
+  - first:
+      213: -6753045631316312709
+    second: motion_11322_krieg_gin_0003_84
+  - first:
+      213: 2879675452042483220
+    second: motion_11322_krieg_gin_0003_85
+  - first:
+      213: -5027157489055045663
+    second: motion_11322_krieg_gin_0003_86
+  - first:
+      213: 8056108120856456702
+    second: motion_11322_krieg_gin_0003_87
+  - first:
+      213: 6490699295569318385
+    second: motion_11322_krieg_gin_0003_88
+  - first:
+      213: 8104394197370286474
+    second: motion_11322_krieg_gin_0003_89
+  - first:
+      213: 6267484968343081963
+    second: motion_11322_krieg_gin_0003_90
+  - first:
+      213: 3436991645061746462
+    second: motion_11322_krieg_gin_0003_91
+  - first:
+      213: -110028083541936049
+    second: motion_11322_krieg_gin_0003_92
+  - first:
+      213: 2290326935358776796
+    second: motion_11322_krieg_gin_0003_93
+  - first:
+      213: -7496758585178929387
+    second: motion_11322_krieg_gin_0003_94
+  - first:
+      213: -4744032880887666256
+    second: motion_11322_krieg_gin_0003_95
+  - first:
+      213: 8431861827626846978
+    second: motion_11322_krieg_gin_0003_96
+  - first:
+      213: 3352911271775738911
+    second: motion_11322_krieg_gin_0003_97
+  - first:
+      213: 3451874019997198593
+    second: motion_11322_krieg_gin_0003_98
+  - first:
+      213: -621829867636508169
+    second: motion_11322_krieg_gin_0003_99
+  - first:
+      213: -4981337105014397525
+    second: motion_11322_krieg_gin_0003_100
+  - first:
+      213: -6345074144601138481
+    second: motion_11322_krieg_gin_0003_101
+  - first:
+      213: -5358220402086105764
+    second: motion_11322_krieg_gin_0003_102
+  - first:
+      213: -715518867638300445
+    second: motion_11322_krieg_gin_0003_103
+  - first:
+      213: -6483759744537194252
+    second: motion_11322_krieg_gin_0003_104
+  - first:
+      213: 6571525102564744310
+    second: motion_11322_krieg_gin_0003_105
+  - first:
+      213: 7622012553503938754
+    second: motion_11322_krieg_gin_0003_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 868
+        width: 192
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dc25323749a9b90800000000000000
+      internalID: -7234306629182501552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 868
+        width: 192
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed7501eb5212ba00800000000000000
+      internalID: 770698672060333551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_2
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 870
+        width: 188
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce384d4584ddb0c0800000000000000
+      internalID: -4558253578836754746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_3
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 869
+        width: 188
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f55f8e7a09089630800000000000000
+      internalID: 3933904215185774073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_4
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 868
+        width: 192
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35830e7f5664510f0800000000000000
+      internalID: -1146933126331615149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 708
+        width: 206
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1af6c296646b5a0800000000000000
+      internalID: -6505935194159078953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 708
+        width: 196
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b142518a02546ccf0800000000000000
+      internalID: -232422324201774053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_7
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 707
+        width: 193
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a864fe2d81571f0800000000000000
+      internalID: -1047904044057195984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_8
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 708
+        width: 202
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49179cde7b81f5d80800000000000000
+      internalID: -8259856013326716524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_9
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 703
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62539465ab41deda0800000000000000
+      internalID: -5914047945123482330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_10
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 706
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a43646458581a450800000000000000
+      internalID: 6098302177892512935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_11
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 706
+        width: 42
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb1afae0f7bac9a0800000000000000
+      internalID: -6211950490641884220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 507
+        width: 188
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a37450d389131c0800000000000000
+      internalID: -4525668762681656766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_13
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 507
+        width: 209
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246e944d52ab40430800000000000000
+      internalID: 3748325461517264450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_14
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 507
+        width: 208
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8684145e750747780800000000000000
+      internalID: -8686194258480117656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_15
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 507
+        width: 210
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10cb6818c88692c0800000000000000
+      internalID: -4425199190860382179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_16
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 620
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6142aba97818f0a0800000000000000
+      internalID: -6847696322567192211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_17
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 567
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a917b9ad0d14120800000000000000
+      internalID: 2396426114067176033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_18
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 598
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd144ced7dec1840800000000000000
+      internalID: 5196289195169291717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_19
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 575
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ae49317be439490800000000000000
+      internalID: -7740756786305242603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_20
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 565
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c787659c7efb81e40800000000000000
+      internalID: 5627458736635672700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_21
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 521
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16093fff9a4b0c4c0800000000000000
+      internalID: -4269213804510605215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 388
+        width: 163
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43efa08506c7d0f60800000000000000
+      internalID: 8002188866143059508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_23
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 445
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07741781467715bf0800000000000000
+      internalID: -337357225285564560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_24
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 461
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ce50634da2dd570800000000000000
+      internalID: 8492991563218414629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_25
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 489
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf57a1627cd5ae10800000000000000
+      internalID: 2208413576117837789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 393
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1978a84b7c3c1a8a0800000000000000
+      internalID: -6295535541592356975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_27
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 449
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38000e0a6a517ad50800000000000000
+      internalID: 6748386372045766787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_28
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 449
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2541150071c40a0800000000000000
+      internalID: -6896111639283346774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_29
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 420
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77712a01b9d2a1d80800000000000000
+      internalID: -8279254820944996489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_30
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 458
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa3c250073bc2140800000000000000
+      internalID: 4696325805145078512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_31
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 460
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e52220e06a46d3c0800000000000000
+      internalID: -4335195811359873561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 444
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc98aef64f4c1650800000000000000
+      internalID: 6204921552948468914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_33
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 413
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c252e497a709a0f90800000000000000
+      internalID: -6986613016216328916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_34
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 421
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e15c04ebf4b93a0800000000000000
+      internalID: -6657639945588105662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_35
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 354
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea0c8d15cc5d8280800000000000000
+      internalID: -9039466875388687640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_36
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 386
+        width: 83
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f037c678ecc5defa0800000000000000
+      internalID: -5769853505486687473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_37
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 404
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246907e8b43139d50800000000000000
+      internalID: 6742754282336982594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_38
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 394
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e389cc1dcfdb670800000000000000
+      internalID: 8556272845084704272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_39
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 404
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4dc53823b903940800000000000000
+      internalID: 5273885804905420014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_40
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 409
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ef2a3a32b4259e0800000000000000
+      internalID: -1634161098340762091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_41
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 391
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008d107d7c5d03c40800000000000000
+      internalID: 5490123000047065088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 371
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491277e383fb72e50800000000000000
+      internalID: 6784601611944010132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 325
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b68cebbc3304e50800000000000000
+      internalID: 6791485188246891316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_44
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 386
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3ffe32a0f4b7310800000000000000
+      internalID: 1403802613827236808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_45
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 394
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b508f014b020bcb0800000000000000
+      internalID: -4850340840927132236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_46
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 366
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb34ca3188c2e020800000000000000
+      internalID: 2369676811312577535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_47
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 365
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b150eaebb93984e50800000000000000
+      internalID: 6793842335016682779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_48
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 394
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acde16be62fc5efc0800000000000000
+      internalID: -3466136572126958134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_49
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 372
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d07a3da6d6e5fc0800000000000000
+      internalID: -3504243154462765697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_50
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 328
+        width: 107
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92ff500eb2901cc0800000000000000
+      internalID: -3742329945597152609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_51
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 321
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce79b107606ef9f0800000000000000
+      internalID: -432802518654157120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_52
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 327
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fc1286c70954320800000000000000
+      internalID: 2541596428717903715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_53
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 381
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e63984e5a063d10800000000000000
+      internalID: 2104881275903110727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_54
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 325
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca9d0ef4ae015b90800000000000000
+      internalID: -7255001422917428535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_55
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 347
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a595e847788d49c70800000000000000
+      internalID: 8977038033543911770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_56
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 336
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb002e6131dc3cb80800000000000000
+      internalID: -8375625400107007812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_57
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 313
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7819994f974d8fbc0800000000000000
+      internalID: -3749013069526101625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_58
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 326
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cca36f370214070800000000000000
+      internalID: 8088782088158497913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_59
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 280
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3da53ee501d6f8d0800000000000000
+      internalID: -2812831093844759237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_60
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 300
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe012c1cbbd41c400800000000000000
+      internalID: 342640515461812463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_61
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 297
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93874925d0f56e2b0800000000000000
+      internalID: -5555648579490252743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_62
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 314
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f805f837a6abc00800000000000000
+      internalID: 917162518681521987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_63
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 325
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb504aeb296ca44e0800000000000000
+      internalID: -1996565151219448388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_64
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 291
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d55304e13e21500800000000000000
+      internalID: 365604238836194666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_65
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 80
+        width: 249
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf233fda475c0a7a0800000000000000
+      internalID: -6367872768176606469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_66
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 277
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2caf99ab872c670800000000000000
+      internalID: 8557534984799961840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_67
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 186
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480780a395f59e6f0800000000000000
+      internalID: -654887433975336828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_68
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 254
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5fa5b5612c9b610800000000000000
+      internalID: 1637553340803642849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 191
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7d9a62fdd8e33f0800000000000000
+      internalID: -919141284371114075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_70
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 168
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4245a292eabc8b0800000000000000
+      internalID: -5130815858631498558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_71
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 191
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b367e809a3642c750800000000000000
+      internalID: 6323694044128900667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_72
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 189
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe53facf65531c00800000000000000
+      internalID: 870133091647315710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_73
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 174
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2e9be98702545c0800000000000000
+      internalID: -4231940572413566236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_74
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 140
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1eaf1b8f27ff950800000000000000
+      internalID: 6485028400900268507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_75
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 141
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287ef00e5877fca40800000000000000
+      internalID: 5390658695859267458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_76
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 156
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a6d9f6c0813a730800000000000000
+      internalID: 4009074534981134849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_77
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 150
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7508a8319765020800000000000000
+      internalID: 2330182982045816813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_78
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 111
+        width: 67
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de613dcdf49295f40800000000000000
+      internalID: 5717646624907532013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_79
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 134
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad2412f57f32c4b0800000000000000
+      internalID: -5421701225595523673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_80
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 128
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b34b8ea28898d20800000000000000
+      internalID: 3281303521390246722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_81
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 123
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fe1ede087287d10800000000000000
+      internalID: 2123490659005493074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_82
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 137
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c422c3a26c304d180800000000000000
+      internalID: -9091637598107196852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_83
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 66
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90aad712943b1b040800000000000000
+      internalID: 4661704215981042185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_84
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 118
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d336907cc5842a0800000000000000
+      internalID: -6753045631316312709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_85
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 122
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41697630199a6f720800000000000000
+      internalID: 2879675452042483220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_86
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 108
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7ede216e2fb3ab0800000000000000
+      internalID: -5027157489055045663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_87
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efde9cf17ab0dcf60800000000000000
+      internalID: 8056108120856456702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_88
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 65
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f19940ce98931a50800000000000000
+      internalID: 6490699295569318385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_89
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 96
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a813ef56597987070800000000000000
+      internalID: 8104394197370286474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_90
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 104
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be390354f549af650800000000000000
+      internalID: 6267484968343081963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_91
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 86
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f04e3f0b5a2bf20800000000000000
+      internalID: 3436991645061746462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_92
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 101
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f487a2d7a0a197ef0800000000000000
+      internalID: -110028083541936049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_93
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 86
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5a1998630e8cf10800000000000000
+      internalID: 2290326935358776796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_94
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 33
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517cc8b49c926f790800000000000000
+      internalID: -7496758585178929387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_95
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9eae3da3fc92eb0800000000000000
+      internalID: -4744032880887666256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_96
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 73
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bcfd688adf30570800000000000000
+      internalID: 8431861827626846978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_97
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c9895890fe78e20800000000000000
+      internalID: 3352911271775738911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_98
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 3
+        width: 20
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1092553e12587ef20800000000000000
+      internalID: 3451874019997198593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_99
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 56
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f93ccca701de57f0800000000000000
+      internalID: -621829867636508169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_100
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 50
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5e4259b4cbedab0800000000000000
+      internalID: -4981337105014397525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_101
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 44
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca9881eea4c1f7a0800000000000000
+      internalID: -6345074144601138481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_102
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 38
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d2861fee6c3a5b0800000000000000
+      internalID: -5358220402086105764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_103
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 29
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e054508167f116f0800000000000000
+      internalID: -715518867638300445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_104
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 18
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f012e16dde0506a0800000000000000
+      internalID: -6483759744537194252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_105
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 17
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c1fea634fb23b50800000000000000
+      internalID: 6571525102564744310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_11322_krieg_gin_0003_106
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 30
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c89b25c804d6c960800000000000000
+      internalID: 7622012553503938754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_11322_krieg_gin_0003_0: -7234306629182501552
+      motion_11322_krieg_gin_0003_1: 770698672060333551
+      motion_11322_krieg_gin_0003_10: 6098302177892512935
+      motion_11322_krieg_gin_0003_100: -4981337105014397525
+      motion_11322_krieg_gin_0003_101: -6345074144601138481
+      motion_11322_krieg_gin_0003_102: -5358220402086105764
+      motion_11322_krieg_gin_0003_103: -715518867638300445
+      motion_11322_krieg_gin_0003_104: -6483759744537194252
+      motion_11322_krieg_gin_0003_105: 6571525102564744310
+      motion_11322_krieg_gin_0003_106: 7622012553503938754
+      motion_11322_krieg_gin_0003_11: -6211950490641884220
+      motion_11322_krieg_gin_0003_12: -4525668762681656766
+      motion_11322_krieg_gin_0003_13: 3748325461517264450
+      motion_11322_krieg_gin_0003_14: -8686194258480117656
+      motion_11322_krieg_gin_0003_15: -4425199190860382179
+      motion_11322_krieg_gin_0003_16: -6847696322567192211
+      motion_11322_krieg_gin_0003_17: 2396426114067176033
+      motion_11322_krieg_gin_0003_18: 5196289195169291717
+      motion_11322_krieg_gin_0003_19: -7740756786305242603
+      motion_11322_krieg_gin_0003_2: -4558253578836754746
+      motion_11322_krieg_gin_0003_20: 5627458736635672700
+      motion_11322_krieg_gin_0003_21: -4269213804510605215
+      motion_11322_krieg_gin_0003_22: 8002188866143059508
+      motion_11322_krieg_gin_0003_23: -337357225285564560
+      motion_11322_krieg_gin_0003_24: 8492991563218414629
+      motion_11322_krieg_gin_0003_25: 2208413576117837789
+      motion_11322_krieg_gin_0003_26: -6295535541592356975
+      motion_11322_krieg_gin_0003_27: 6748386372045766787
+      motion_11322_krieg_gin_0003_28: -6896111639283346774
+      motion_11322_krieg_gin_0003_29: -8279254820944996489
+      motion_11322_krieg_gin_0003_3: 3933904215185774073
+      motion_11322_krieg_gin_0003_30: 4696325805145078512
+      motion_11322_krieg_gin_0003_31: -4335195811359873561
+      motion_11322_krieg_gin_0003_32: 6204921552948468914
+      motion_11322_krieg_gin_0003_33: -6986613016216328916
+      motion_11322_krieg_gin_0003_34: -6657639945588105662
+      motion_11322_krieg_gin_0003_35: -9039466875388687640
+      motion_11322_krieg_gin_0003_36: -5769853505486687473
+      motion_11322_krieg_gin_0003_37: 6742754282336982594
+      motion_11322_krieg_gin_0003_38: 8556272845084704272
+      motion_11322_krieg_gin_0003_39: 5273885804905420014
+      motion_11322_krieg_gin_0003_4: -1146933126331615149
+      motion_11322_krieg_gin_0003_40: -1634161098340762091
+      motion_11322_krieg_gin_0003_41: 5490123000047065088
+      motion_11322_krieg_gin_0003_42: 6784601611944010132
+      motion_11322_krieg_gin_0003_43: 6791485188246891316
+      motion_11322_krieg_gin_0003_44: 1403802613827236808
+      motion_11322_krieg_gin_0003_45: -4850340840927132236
+      motion_11322_krieg_gin_0003_46: 2369676811312577535
+      motion_11322_krieg_gin_0003_47: 6793842335016682779
+      motion_11322_krieg_gin_0003_48: -3466136572126958134
+      motion_11322_krieg_gin_0003_49: -3504243154462765697
+      motion_11322_krieg_gin_0003_5: -6505935194159078953
+      motion_11322_krieg_gin_0003_50: -3742329945597152609
+      motion_11322_krieg_gin_0003_51: -432802518654157120
+      motion_11322_krieg_gin_0003_52: 2541596428717903715
+      motion_11322_krieg_gin_0003_53: 2104881275903110727
+      motion_11322_krieg_gin_0003_54: -7255001422917428535
+      motion_11322_krieg_gin_0003_55: 8977038033543911770
+      motion_11322_krieg_gin_0003_56: -8375625400107007812
+      motion_11322_krieg_gin_0003_57: -3749013069526101625
+      motion_11322_krieg_gin_0003_58: 8088782088158497913
+      motion_11322_krieg_gin_0003_59: -2812831093844759237
+      motion_11322_krieg_gin_0003_6: -232422324201774053
+      motion_11322_krieg_gin_0003_60: 342640515461812463
+      motion_11322_krieg_gin_0003_61: -5555648579490252743
+      motion_11322_krieg_gin_0003_62: 917162518681521987
+      motion_11322_krieg_gin_0003_63: -1996565151219448388
+      motion_11322_krieg_gin_0003_64: 365604238836194666
+      motion_11322_krieg_gin_0003_65: -6367872768176606469
+      motion_11322_krieg_gin_0003_66: 8557534984799961840
+      motion_11322_krieg_gin_0003_67: -654887433975336828
+      motion_11322_krieg_gin_0003_68: 1637553340803642849
+      motion_11322_krieg_gin_0003_69: -919141284371114075
+      motion_11322_krieg_gin_0003_7: -1047904044057195984
+      motion_11322_krieg_gin_0003_70: -5130815858631498558
+      motion_11322_krieg_gin_0003_71: 6323694044128900667
+      motion_11322_krieg_gin_0003_72: 870133091647315710
+      motion_11322_krieg_gin_0003_73: -4231940572413566236
+      motion_11322_krieg_gin_0003_74: 6485028400900268507
+      motion_11322_krieg_gin_0003_75: 5390658695859267458
+      motion_11322_krieg_gin_0003_76: 4009074534981134849
+      motion_11322_krieg_gin_0003_77: 2330182982045816813
+      motion_11322_krieg_gin_0003_78: 5717646624907532013
+      motion_11322_krieg_gin_0003_79: -5421701225595523673
+      motion_11322_krieg_gin_0003_8: -8259856013326716524
+      motion_11322_krieg_gin_0003_80: 3281303521390246722
+      motion_11322_krieg_gin_0003_81: 2123490659005493074
+      motion_11322_krieg_gin_0003_82: -9091637598107196852
+      motion_11322_krieg_gin_0003_83: 4661704215981042185
+      motion_11322_krieg_gin_0003_84: -6753045631316312709
+      motion_11322_krieg_gin_0003_85: 2879675452042483220
+      motion_11322_krieg_gin_0003_86: -5027157489055045663
+      motion_11322_krieg_gin_0003_87: 8056108120856456702
+      motion_11322_krieg_gin_0003_88: 6490699295569318385
+      motion_11322_krieg_gin_0003_89: 8104394197370286474
+      motion_11322_krieg_gin_0003_9: -5914047945123482330
+      motion_11322_krieg_gin_0003_90: 6267484968343081963
+      motion_11322_krieg_gin_0003_91: 3436991645061746462
+      motion_11322_krieg_gin_0003_92: -110028083541936049
+      motion_11322_krieg_gin_0003_93: 2290326935358776796
+      motion_11322_krieg_gin_0003_94: -7496758585178929387
+      motion_11322_krieg_gin_0003_95: -4744032880887666256
+      motion_11322_krieg_gin_0003_96: 8431861827626846978
+      motion_11322_krieg_gin_0003_97: 3352911271775738911
+      motion_11322_krieg_gin_0003_98: 3451874019997198593
+      motion_11322_krieg_gin_0003_99: -621829867636508169
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

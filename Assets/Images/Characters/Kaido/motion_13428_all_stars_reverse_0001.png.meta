@@ -1,0 +1,2028 @@
+fileFormatVersion: 2
+guid: 186fac222f14ac44f9db28b166006c47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6029093397695154977
+    second: motion_13428_all_stars_reverse_0001_0
+  - first:
+      213: -1242881081605403374
+    second: motion_13428_all_stars_reverse_0001_1
+  - first:
+      213: -7028983703019661764
+    second: motion_13428_all_stars_reverse_0001_2
+  - first:
+      213: -1447988578906832863
+    second: motion_13428_all_stars_reverse_0001_3
+  - first:
+      213: 2564767869012583978
+    second: motion_13428_all_stars_reverse_0001_4
+  - first:
+      213: -6475828411671279942
+    second: motion_13428_all_stars_reverse_0001_5
+  - first:
+      213: -1219548571746801708
+    second: motion_13428_all_stars_reverse_0001_6
+  - first:
+      213: 8260558555528063899
+    second: motion_13428_all_stars_reverse_0001_7
+  - first:
+      213: 4875269027518265350
+    second: motion_13428_all_stars_reverse_0001_8
+  - first:
+      213: 1077314628291361979
+    second: motion_13428_all_stars_reverse_0001_9
+  - first:
+      213: 7013448300713196046
+    second: motion_13428_all_stars_reverse_0001_10
+  - first:
+      213: 4140394087529742320
+    second: motion_13428_all_stars_reverse_0001_11
+  - first:
+      213: -5618577102043589936
+    second: motion_13428_all_stars_reverse_0001_12
+  - first:
+      213: -6340751667306767240
+    second: motion_13428_all_stars_reverse_0001_13
+  - first:
+      213: 7010973685747080497
+    second: motion_13428_all_stars_reverse_0001_14
+  - first:
+      213: -994126877999831486
+    second: motion_13428_all_stars_reverse_0001_15
+  - first:
+      213: 2906997706613907883
+    second: motion_13428_all_stars_reverse_0001_16
+  - first:
+      213: 5434168180829168849
+    second: motion_13428_all_stars_reverse_0001_17
+  - first:
+      213: 7305074702795203035
+    second: motion_13428_all_stars_reverse_0001_18
+  - first:
+      213: -6859613654977914397
+    second: motion_13428_all_stars_reverse_0001_19
+  - first:
+      213: -2720173939592677079
+    second: motion_13428_all_stars_reverse_0001_20
+  - first:
+      213: 3339118496268956488
+    second: motion_13428_all_stars_reverse_0001_21
+  - first:
+      213: 229309279647566885
+    second: motion_13428_all_stars_reverse_0001_22
+  - first:
+      213: 3364115363484313140
+    second: motion_13428_all_stars_reverse_0001_23
+  - first:
+      213: -2573559162665773316
+    second: motion_13428_all_stars_reverse_0001_24
+  - first:
+      213: -7419131046172493970
+    second: motion_13428_all_stars_reverse_0001_25
+  - first:
+      213: 8213488261814847457
+    second: motion_13428_all_stars_reverse_0001_26
+  - first:
+      213: 4686228862121123065
+    second: motion_13428_all_stars_reverse_0001_27
+  - first:
+      213: 8902041198320166535
+    second: motion_13428_all_stars_reverse_0001_28
+  - first:
+      213: -7740660501544230278
+    second: motion_13428_all_stars_reverse_0001_29
+  - first:
+      213: 2740075411734693712
+    second: motion_13428_all_stars_reverse_0001_30
+  - first:
+      213: -8766889573782745629
+    second: motion_13428_all_stars_reverse_0001_31
+  - first:
+      213: 7860330111546739006
+    second: motion_13428_all_stars_reverse_0001_32
+  - first:
+      213: 3944027874433384698
+    second: motion_13428_all_stars_reverse_0001_33
+  - first:
+      213: -6378761193096852366
+    second: motion_13428_all_stars_reverse_0001_34
+  - first:
+      213: -8060707443168997928
+    second: motion_13428_all_stars_reverse_0001_35
+  - first:
+      213: 7412100609954355771
+    second: motion_13428_all_stars_reverse_0001_36
+  - first:
+      213: 6351398256257370431
+    second: motion_13428_all_stars_reverse_0001_37
+  - first:
+      213: -2803554809458279283
+    second: motion_13428_all_stars_reverse_0001_38
+  - first:
+      213: -5068114844408754428
+    second: motion_13428_all_stars_reverse_0001_39
+  - first:
+      213: -5509602556544797609
+    second: motion_13428_all_stars_reverse_0001_40
+  - first:
+      213: 7950102071994359424
+    second: motion_13428_all_stars_reverse_0001_41
+  - first:
+      213: -5828406125707188306
+    second: motion_13428_all_stars_reverse_0001_42
+  - first:
+      213: 8304855673885176335
+    second: motion_13428_all_stars_reverse_0001_43
+  - first:
+      213: -4098349799747033441
+    second: motion_13428_all_stars_reverse_0001_44
+  - first:
+      213: -9030837970156132354
+    second: motion_13428_all_stars_reverse_0001_45
+  - first:
+      213: 8419988640519642536
+    second: motion_13428_all_stars_reverse_0001_46
+  - first:
+      213: 5649607005804047938
+    second: motion_13428_all_stars_reverse_0001_47
+  - first:
+      213: -6504466630764367221
+    second: motion_13428_all_stars_reverse_0001_48
+  - first:
+      213: -2905368227413438757
+    second: motion_13428_all_stars_reverse_0001_49
+  - first:
+      213: -2103872154152324706
+    second: motion_13428_all_stars_reverse_0001_50
+  - first:
+      213: 6100219816425099296
+    second: motion_13428_all_stars_reverse_0001_51
+  - first:
+      213: 6531850674300502397
+    second: motion_13428_all_stars_reverse_0001_52
+  - first:
+      213: -8057374811723994688
+    second: motion_13428_all_stars_reverse_0001_53
+  - first:
+      213: -475339316687548398
+    second: motion_13428_all_stars_reverse_0001_54
+  - first:
+      213: -3856815383012720035
+    second: motion_13428_all_stars_reverse_0001_55
+  - first:
+      213: 3471837569797627183
+    second: motion_13428_all_stars_reverse_0001_56
+  - first:
+      213: 6491560649670403976
+    second: motion_13428_all_stars_reverse_0001_57
+  - first:
+      213: 2261008144849166873
+    second: motion_13428_all_stars_reverse_0001_58
+  - first:
+      213: 7408084444573071182
+    second: motion_13428_all_stars_reverse_0001_59
+  - first:
+      213: 6317224332649894543
+    second: motion_13428_all_stars_reverse_0001_60
+  - first:
+      213: -5566595252840737313
+    second: motion_13428_all_stars_reverse_0001_61
+  - first:
+      213: -8267288955155786328
+    second: motion_13428_all_stars_reverse_0001_62
+  - first:
+      213: 7602385425920894727
+    second: motion_13428_all_stars_reverse_0001_63
+  - first:
+      213: 3648767377154681822
+    second: motion_13428_all_stars_reverse_0001_64
+  - first:
+      213: 1065125542963793368
+    second: motion_13428_all_stars_reverse_0001_65
+  - first:
+      213: 1453117599957539340
+    second: motion_13428_all_stars_reverse_0001_66
+  - first:
+      213: 5233651070157845246
+    second: motion_13428_all_stars_reverse_0001_67
+  - first:
+      213: -7262555950738529339
+    second: motion_13428_all_stars_reverse_0001_68
+  - first:
+      213: 134626388067568052
+    second: motion_13428_all_stars_reverse_0001_69
+  - first:
+      213: -2599097445515839144
+    second: motion_13428_all_stars_reverse_0001_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 823
+        width: 278
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd43ab09f7b545ca0800000000000000
+      internalID: -6029093397695154977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1010
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d4bd8cd3660cee0800000000000000
+      internalID: -1242881081605403374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_2
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1000
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36d0813098047e90800000000000000
+      internalID: -7028983703019661764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_3
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 842
+        width: 232
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1208f6b2f06b7ebe0800000000000000
+      internalID: -1447988578906832863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_4
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1001
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26a4d3c9c2e79320800000000000000
+      internalID: 2564767869012583978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_5
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 995
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab683f7be5c3126a0800000000000000
+      internalID: -6475828411671279942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_6
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1002
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d762b2190b431fe0800000000000000
+      internalID: -1219548571746801708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 787
+        width: 251
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b609c6d3663a270800000000000000
+      internalID: 8260558555528063899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_8
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 653
+        width: 220
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608b0b9a95f68a340800000000000000
+      internalID: 4875269027518265350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 820
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc73a252f363fe00800000000000000
+      internalID: 1077314628291361979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_10
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 840
+        width: 232
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ab3961216c45160800000000000000
+      internalID: 7013448300713196046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_11
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 721
+        width: 43
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff76516c72a57930800000000000000
+      internalID: 4140394087529742320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 803
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d25c89e4edc602b0800000000000000
+      internalID: -5618577102043589936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_13
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 648
+        width: 219
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cd63d04ff1108a0800000000000000
+      internalID: -6340751667306767240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_14
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 821
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dd094eb6bfb4160800000000000000
+      internalID: 7010973685747080497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 630
+        width: 207
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246e62f1fd62432f0800000000000000
+      internalID: -994126877999831486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 544
+        width: 199
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1e891230bb75820800000000000000
+      internalID: 2906997706613907883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 755
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4ad044b2b0a6b40800000000000000
+      internalID: 5434168180829168849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_18
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 777
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1eccdfcb6d06560800000000000000
+      internalID: 7305074702795203035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_19
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 770
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e95f9e79b1cdc0a0800000000000000
+      internalID: -6859613654977914397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_20
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 748
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929bd4bc630004ad0800000000000000
+      internalID: -2720173939592677079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_21
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 744
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8433c09b49ee65e20800000000000000
+      internalID: 3339118496268956488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_22
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 758
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c081d239bae2300800000000000000
+      internalID: 229309279647566885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_23
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 739
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436aae7691dbfae20800000000000000
+      internalID: 3364115363484313140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_24
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 724
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6dadca391e84cd0800000000000000
+      internalID: -2573559162665773316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 707
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67f0da2f93f90990800000000000000
+      internalID: -7419131046172493970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_26
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 743
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e78054ae0c2cf170800000000000000
+      internalID: 8213488261814847457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_27
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 718
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc99e64254d80140800000000000000
+      internalID: 4686228862121123065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_28
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 708
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78624c90e476a8b70800000000000000
+      internalID: 8902041198320166535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_29
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 658
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a722f8e1946a39490800000000000000
+      internalID: -7740660501544230278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_30
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 685
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0578a36c114b60620800000000000000
+      internalID: 2740075411734693712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_31
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 657
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed8a91b160c55680800000000000000
+      internalID: -8766889573782745629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_32
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 644
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39cc043790851d60800000000000000
+      internalID: 7860330111546739006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_33
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 635
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af047d794700cb630800000000000000
+      internalID: 3944027874433384698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_34
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 405
+        width: 194
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c4a62bd761a77a0800000000000000
+      internalID: -6378761193096852366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_35
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 617
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd8093b94d922090800000000000000
+      internalID: -8060707443168997928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_36
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 399
+        width: 194
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a19c7db321dd660800000000000000
+      internalID: 7412100609954355771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_37
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 398
+        width: 194
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39814b1013b42850800000000000000
+      internalID: 6351398256257370431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 380
+        width: 194
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cb6e131c5c719d0800000000000000
+      internalID: -2803554809458279283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_39
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 531
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fc12aa6607aa9b0800000000000000
+      internalID: -5068114844408754428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_40
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 295
+        width: 194
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754309b7aa5f983b0800000000000000
+      internalID: -5509602556544797609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_41
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 156
+        width: 193
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e125986bf645e60800000000000000
+      internalID: 7950102071994359424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_42
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 391
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7238642875d1fa0800000000000000
+      internalID: -5828406125707188306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_43
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 391
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0230d00c36c04370800000000000000
+      internalID: 8304855673885176335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 138
+        width: 190
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96e8c4329cbf17c0800000000000000
+      internalID: -4098349799747033441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 213
+        width: 99
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7ebbca6b40ca280800000000000000
+      internalID: -9030837970156132354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_46
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 200
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad5ffabe0fc9d470800000000000000
+      internalID: 8419988640519642536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_47
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 202
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e228d83af676e40800000000000000
+      internalID: 5649607005804047938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_48
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 147
+        width: 193
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8278ebbf0e7bb5a0800000000000000
+      internalID: -6504466630764367221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_49
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 155
+        width: 193
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdec05f8dfe0ea7d0800000000000000
+      internalID: -2905368227413438757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_50
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e913aee2c6b8dc2e0800000000000000
+      internalID: -2103872154152324706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_51
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 192
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02011d94a9558a450800000000000000
+      internalID: 6100219816425099296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_52
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 199
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71c39fb49bc5aa50800000000000000
+      internalID: 6531850674300502397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_53
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 176
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9e20d6c447e2090800000000000000
+      internalID: -8057374811723994688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_54
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 169
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210df01f8614769f0800000000000000
+      internalID: -475339316687548398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_55
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 130
+        width: 86
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52c34be7d6d97ac0800000000000000
+      internalID: -3856815383012720035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_56
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 165
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d94a900e17e2030800000000000000
+      internalID: 3471837569797627183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_57
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 157
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88722816408a61a50800000000000000
+      internalID: 6491560649670403976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_58
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 150
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912effbade6b06f10800000000000000
+      internalID: 2261008144849166873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_59
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 139
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47ffd87d8dcec660800000000000000
+      internalID: 7408084444573071182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_60
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 150
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f821d0a7f0a4ba750800000000000000
+      internalID: 6317224332649894543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_61
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 150
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd55d025c1b7fb2b0800000000000000
+      internalID: -5566595252840737313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_62
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 52
+        width: 64
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5dd6c4f70b44d80800000000000000
+      internalID: -8267288955155786328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_63
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 137
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7072f950449118960800000000000000
+      internalID: 7602385425920894727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_64
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 50
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edba657f89603a230800000000000000
+      internalID: 3648767377154681822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_65
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 39
+        width: 34
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd4d8db90618ce00800000000000000
+      internalID: 1065125542963793368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_66
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 120
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a565a12c28a2410800000000000000
+      internalID: 1453117599957539340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_67
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 136
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2f9135be9a1a840800000000000000
+      internalID: 5233651070157845246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_68
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 45
+        width: 50
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3a4da67d7363b90800000000000000
+      internalID: -7262555950738529339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_69
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 124
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b949269cf94ed100800000000000000
+      internalID: 134626388067568052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_13428_all_stars_reverse_0001_70
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 6
+        width: 34
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8593767d4a62eebd0800000000000000
+      internalID: -2599097445515839144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_13428_all_stars_reverse_0001_0: -6029093397695154977
+      motion_13428_all_stars_reverse_0001_1: -1242881081605403374
+      motion_13428_all_stars_reverse_0001_10: 7013448300713196046
+      motion_13428_all_stars_reverse_0001_11: 4140394087529742320
+      motion_13428_all_stars_reverse_0001_12: -5618577102043589936
+      motion_13428_all_stars_reverse_0001_13: -6340751667306767240
+      motion_13428_all_stars_reverse_0001_14: 7010973685747080497
+      motion_13428_all_stars_reverse_0001_15: -994126877999831486
+      motion_13428_all_stars_reverse_0001_16: 2906997706613907883
+      motion_13428_all_stars_reverse_0001_17: 5434168180829168849
+      motion_13428_all_stars_reverse_0001_18: 7305074702795203035
+      motion_13428_all_stars_reverse_0001_19: -6859613654977914397
+      motion_13428_all_stars_reverse_0001_2: -7028983703019661764
+      motion_13428_all_stars_reverse_0001_20: -2720173939592677079
+      motion_13428_all_stars_reverse_0001_21: 3339118496268956488
+      motion_13428_all_stars_reverse_0001_22: 229309279647566885
+      motion_13428_all_stars_reverse_0001_23: 3364115363484313140
+      motion_13428_all_stars_reverse_0001_24: -2573559162665773316
+      motion_13428_all_stars_reverse_0001_25: -7419131046172493970
+      motion_13428_all_stars_reverse_0001_26: 8213488261814847457
+      motion_13428_all_stars_reverse_0001_27: 4686228862121123065
+      motion_13428_all_stars_reverse_0001_28: 8902041198320166535
+      motion_13428_all_stars_reverse_0001_29: -7740660501544230278
+      motion_13428_all_stars_reverse_0001_3: -1447988578906832863
+      motion_13428_all_stars_reverse_0001_30: 2740075411734693712
+      motion_13428_all_stars_reverse_0001_31: -8766889573782745629
+      motion_13428_all_stars_reverse_0001_32: 7860330111546739006
+      motion_13428_all_stars_reverse_0001_33: 3944027874433384698
+      motion_13428_all_stars_reverse_0001_34: -6378761193096852366
+      motion_13428_all_stars_reverse_0001_35: -8060707443168997928
+      motion_13428_all_stars_reverse_0001_36: 7412100609954355771
+      motion_13428_all_stars_reverse_0001_37: 6351398256257370431
+      motion_13428_all_stars_reverse_0001_38: -2803554809458279283
+      motion_13428_all_stars_reverse_0001_39: -5068114844408754428
+      motion_13428_all_stars_reverse_0001_4: 2564767869012583978
+      motion_13428_all_stars_reverse_0001_40: -5509602556544797609
+      motion_13428_all_stars_reverse_0001_41: 7950102071994359424
+      motion_13428_all_stars_reverse_0001_42: -5828406125707188306
+      motion_13428_all_stars_reverse_0001_43: 8304855673885176335
+      motion_13428_all_stars_reverse_0001_44: -4098349799747033441
+      motion_13428_all_stars_reverse_0001_45: -9030837970156132354
+      motion_13428_all_stars_reverse_0001_46: 8419988640519642536
+      motion_13428_all_stars_reverse_0001_47: 5649607005804047938
+      motion_13428_all_stars_reverse_0001_48: -6504466630764367221
+      motion_13428_all_stars_reverse_0001_49: -2905368227413438757
+      motion_13428_all_stars_reverse_0001_5: -6475828411671279942
+      motion_13428_all_stars_reverse_0001_50: -2103872154152324706
+      motion_13428_all_stars_reverse_0001_51: 6100219816425099296
+      motion_13428_all_stars_reverse_0001_52: 6531850674300502397
+      motion_13428_all_stars_reverse_0001_53: -8057374811723994688
+      motion_13428_all_stars_reverse_0001_54: -475339316687548398
+      motion_13428_all_stars_reverse_0001_55: -3856815383012720035
+      motion_13428_all_stars_reverse_0001_56: 3471837569797627183
+      motion_13428_all_stars_reverse_0001_57: 6491560649670403976
+      motion_13428_all_stars_reverse_0001_58: 2261008144849166873
+      motion_13428_all_stars_reverse_0001_59: 7408084444573071182
+      motion_13428_all_stars_reverse_0001_6: -1219548571746801708
+      motion_13428_all_stars_reverse_0001_60: 6317224332649894543
+      motion_13428_all_stars_reverse_0001_61: -5566595252840737313
+      motion_13428_all_stars_reverse_0001_62: -8267288955155786328
+      motion_13428_all_stars_reverse_0001_63: 7602385425920894727
+      motion_13428_all_stars_reverse_0001_64: 3648767377154681822
+      motion_13428_all_stars_reverse_0001_65: 1065125542963793368
+      motion_13428_all_stars_reverse_0001_66: 1453117599957539340
+      motion_13428_all_stars_reverse_0001_67: 5233651070157845246
+      motion_13428_all_stars_reverse_0001_68: -7262555950738529339
+      motion_13428_all_stars_reverse_0001_69: 134626388067568052
+      motion_13428_all_stars_reverse_0001_7: 8260558555528063899
+      motion_13428_all_stars_reverse_0001_70: -2599097445515839144
+      motion_13428_all_stars_reverse_0001_8: 4875269027518265350
+      motion_13428_all_stars_reverse_0001_9: 1077314628291361979
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

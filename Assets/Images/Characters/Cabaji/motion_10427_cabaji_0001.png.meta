@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 874b3146076489c44b704a623d2f74d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4542191821153045509
+    second: motion_10427_cabaji_0001_0
+  - first:
+      213: 3924718952340933346
+    second: motion_10427_cabaji_0001_1
+  - first:
+      213: -569170435982555819
+    second: motion_10427_cabaji_0001_2
+  - first:
+      213: 7534551746964240475
+    second: motion_10427_cabaji_0001_3
+  - first:
+      213: 4293888911705457835
+    second: motion_10427_cabaji_0001_4
+  - first:
+      213: -4580763854054437050
+    second: motion_10427_cabaji_0001_5
+  - first:
+      213: -8555374677471737391
+    second: motion_10427_cabaji_0001_6
+  - first:
+      213: -5158832618105605399
+    second: motion_10427_cabaji_0001_7
+  - first:
+      213: 7410828288663083609
+    second: motion_10427_cabaji_0001_8
+  - first:
+      213: -3601684587058763465
+    second: motion_10427_cabaji_0001_9
+  - first:
+      213: 5344461164424300212
+    second: motion_10427_cabaji_0001_10
+  - first:
+      213: 5611038514628372008
+    second: motion_10427_cabaji_0001_11
+  - first:
+      213: 1611726314916157245
+    second: motion_10427_cabaji_0001_12
+  - first:
+      213: -658626358458123121
+    second: motion_10427_cabaji_0001_13
+  - first:
+      213: 3085044484168376469
+    second: motion_10427_cabaji_0001_14
+  - first:
+      213: 924608103383754433
+    second: motion_10427_cabaji_0001_15
+  - first:
+      213: 7979226567313272384
+    second: motion_10427_cabaji_0001_16
+  - first:
+      213: -5134417502534020015
+    second: motion_10427_cabaji_0001_17
+  - first:
+      213: -5409369596433007990
+    second: motion_10427_cabaji_0001_18
+  - first:
+      213: -6554954995754832829
+    second: motion_10427_cabaji_0001_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_10427_cabaji_0001_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 778
+        width: 122
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c0381556b190f30800000000000000
+      internalID: 4542191821153045509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10427_cabaji_0001_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 778
+        width: 125
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea4685d717677630800000000000000
+      internalID: 3924718952340933346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10427_cabaji_0001_2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 778
+        width: 123
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5550b9a0186e918f0800000000000000
+      internalID: -569170435982555819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10427_cabaji_0001_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 778
+        width: 122
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b583a93e4ea109860800000000000000
+      internalID: 7534551746964240475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10427_cabaji_0001_4
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 778
+        width: 121
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba441371735f69b30800000000000000
+      internalID: 4293888911705457835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10427_cabaji_0001_5
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 778
+        width: 122
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fc22f6b8bdd60c0800000000000000
+      internalID: -4580763854054437050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10427_cabaji_0001_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 586
+        width: 165
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9cce42f04354980800000000000000
+      internalID: -8555374677471737391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10427_cabaji_0001_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 586
+        width: 165
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2fd1601152868b0800000000000000
+      internalID: -5158832618105605399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10427_cabaji_0001_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 559
+        width: 231
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95add25701d88d660800000000000000
+      internalID: 7410828288663083609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10427_cabaji_0001_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 560
+        width: 239
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739ec5b53fe340ec0800000000000000
+      internalID: -3601684587058763465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10427_cabaji_0001_10
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 713
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b68165ec175b2a40800000000000000
+      internalID: 5344461164424300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10427_cabaji_0001_11
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 292
+        width: 201
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826a57decc96edd40800000000000000
+      internalID: 5611038514628372008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10427_cabaji_0001_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 295
+        width: 184
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d371abb4b800e5610800000000000000
+      internalID: 1611726314916157245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10427_cabaji_0001_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 295
+        width: 223
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cf46801d61cd6f0800000000000000
+      internalID: -658626358458123121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10427_cabaji_0001_14
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 295
+        width: 223
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5906223fc9740da20800000000000000
+      internalID: 3085044484168376469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10427_cabaji_0001_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 195
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6e2a6db2ed4dc00800000000000000
+      internalID: 924608103383754433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10427_cabaji_0001_16
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 3
+        width: 151
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e21178948ebbe60800000000000000
+      internalID: 7979226567313272384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10427_cabaji_0001_17
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 3
+        width: 144
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15459e81c72eeb8b0800000000000000
+      internalID: -5134417502534020015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10427_cabaji_0001_18
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3
+        width: 171
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8affc9130f0ee4b0800000000000000
+      internalID: -5409369596433007990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_10427_cabaji_0001_19
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 3
+        width: 223
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c6c57392f1805a0800000000000000
+      internalID: -6554954995754832829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_10427_cabaji_0001_0: 4542191821153045509
+      motion_10427_cabaji_0001_1: 3924718952340933346
+      motion_10427_cabaji_0001_10: 5344461164424300212
+      motion_10427_cabaji_0001_11: 5611038514628372008
+      motion_10427_cabaji_0001_12: 1611726314916157245
+      motion_10427_cabaji_0001_13: -658626358458123121
+      motion_10427_cabaji_0001_14: 3085044484168376469
+      motion_10427_cabaji_0001_15: 924608103383754433
+      motion_10427_cabaji_0001_16: 7979226567313272384
+      motion_10427_cabaji_0001_17: -5134417502534020015
+      motion_10427_cabaji_0001_18: -5409369596433007990
+      motion_10427_cabaji_0001_19: -6554954995754832829
+      motion_10427_cabaji_0001_2: -569170435982555819
+      motion_10427_cabaji_0001_3: 7534551746964240475
+      motion_10427_cabaji_0001_4: 4293888911705457835
+      motion_10427_cabaji_0001_5: -4580763854054437050
+      motion_10427_cabaji_0001_6: -8555374677471737391
+      motion_10427_cabaji_0001_7: -5158832618105605399
+      motion_10427_cabaji_0001_8: 7410828288663083609
+      motion_10427_cabaji_0001_9: -3601684587058763465
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

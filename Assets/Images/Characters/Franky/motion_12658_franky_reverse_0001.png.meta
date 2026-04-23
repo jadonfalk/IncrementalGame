@@ -1,0 +1,1846 @@
+fileFormatVersion: 2
+guid: cb120b96226129646a53bee368763a5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6356602189546494533
+    second: motion_12658_franky_reverse_0001_0
+  - first:
+      213: -1371855139289635989
+    second: motion_12658_franky_reverse_0001_1
+  - first:
+      213: 332676263522643
+    second: motion_12658_franky_reverse_0001_2
+  - first:
+      213: 1096119215327418280
+    second: motion_12658_franky_reverse_0001_3
+  - first:
+      213: 7980113922809179166
+    second: motion_12658_franky_reverse_0001_4
+  - first:
+      213: 7161687448257380608
+    second: motion_12658_franky_reverse_0001_5
+  - first:
+      213: 2298489460037504111
+    second: motion_12658_franky_reverse_0001_6
+  - first:
+      213: -3785971896908906827
+    second: motion_12658_franky_reverse_0001_7
+  - first:
+      213: 7494079031775103376
+    second: motion_12658_franky_reverse_0001_8
+  - first:
+      213: -7007947427217296333
+    second: motion_12658_franky_reverse_0001_9
+  - first:
+      213: -8103480852248281692
+    second: motion_12658_franky_reverse_0001_10
+  - first:
+      213: -944204948559014096
+    second: motion_12658_franky_reverse_0001_11
+  - first:
+      213: -1601651969038315487
+    second: motion_12658_franky_reverse_0001_12
+  - first:
+      213: 8459704489149102414
+    second: motion_12658_franky_reverse_0001_13
+  - first:
+      213: 5383421458435126054
+    second: motion_12658_franky_reverse_0001_14
+  - first:
+      213: -4842048397472613769
+    second: motion_12658_franky_reverse_0001_15
+  - first:
+      213: -7359771786968650743
+    second: motion_12658_franky_reverse_0001_16
+  - first:
+      213: -1209627568680721376
+    second: motion_12658_franky_reverse_0001_17
+  - first:
+      213: 734043478346371207
+    second: motion_12658_franky_reverse_0001_18
+  - first:
+      213: 5953119393601869017
+    second: motion_12658_franky_reverse_0001_19
+  - first:
+      213: 4417122720432246661
+    second: motion_12658_franky_reverse_0001_20
+  - first:
+      213: -4540267411056643705
+    second: motion_12658_franky_reverse_0001_21
+  - first:
+      213: -3080379119942015747
+    second: motion_12658_franky_reverse_0001_22
+  - first:
+      213: -2716001510280960455
+    second: motion_12658_franky_reverse_0001_23
+  - first:
+      213: 5004264514234335475
+    second: motion_12658_franky_reverse_0001_24
+  - first:
+      213: 1293507063931097600
+    second: motion_12658_franky_reverse_0001_25
+  - first:
+      213: 2887624740188402059
+    second: motion_12658_franky_reverse_0001_26
+  - first:
+      213: -7001326686059161882
+    second: motion_12658_franky_reverse_0001_27
+  - first:
+      213: -2113324306639660318
+    second: motion_12658_franky_reverse_0001_28
+  - first:
+      213: -7197628500797398872
+    second: motion_12658_franky_reverse_0001_29
+  - first:
+      213: 1523397090681826628
+    second: motion_12658_franky_reverse_0001_30
+  - first:
+      213: 6741359793193792293
+    second: motion_12658_franky_reverse_0001_31
+  - first:
+      213: -1497962426159824742
+    second: motion_12658_franky_reverse_0001_32
+  - first:
+      213: 8736521999256045389
+    second: motion_12658_franky_reverse_0001_33
+  - first:
+      213: -5388976832132877317
+    second: motion_12658_franky_reverse_0001_34
+  - first:
+      213: 7925145488707780803
+    second: motion_12658_franky_reverse_0001_35
+  - first:
+      213: 4902898936349669273
+    second: motion_12658_franky_reverse_0001_36
+  - first:
+      213: 3388846919139825863
+    second: motion_12658_franky_reverse_0001_37
+  - first:
+      213: 7977083621295416635
+    second: motion_12658_franky_reverse_0001_38
+  - first:
+      213: -6433269157136203359
+    second: motion_12658_franky_reverse_0001_39
+  - first:
+      213: -1693649818592297090
+    second: motion_12658_franky_reverse_0001_40
+  - first:
+      213: -1426838297873721298
+    second: motion_12658_franky_reverse_0001_41
+  - first:
+      213: 185491844176938733
+    second: motion_12658_franky_reverse_0001_42
+  - first:
+      213: -3976057479763352664
+    second: motion_12658_franky_reverse_0001_43
+  - first:
+      213: -8909556990133709989
+    second: motion_12658_franky_reverse_0001_44
+  - first:
+      213: 7008130896097280794
+    second: motion_12658_franky_reverse_0001_45
+  - first:
+      213: -3958323880401204772
+    second: motion_12658_franky_reverse_0001_46
+  - first:
+      213: 5601568358783003411
+    second: motion_12658_franky_reverse_0001_47
+  - first:
+      213: 8330892621944967751
+    second: motion_12658_franky_reverse_0001_48
+  - first:
+      213: 5170923508311080138
+    second: motion_12658_franky_reverse_0001_49
+  - first:
+      213: 8834363649111287572
+    second: motion_12658_franky_reverse_0001_50
+  - first:
+      213: 1211987076121196601
+    second: motion_12658_franky_reverse_0001_51
+  - first:
+      213: -826116629082732270
+    second: motion_12658_franky_reverse_0001_52
+  - first:
+      213: 5981482619406811884
+    second: motion_12658_franky_reverse_0001_53
+  - first:
+      213: 3859827053327669846
+    second: motion_12658_franky_reverse_0001_54
+  - first:
+      213: 2048318209909573371
+    second: motion_12658_franky_reverse_0001_55
+  - first:
+      213: 8762440593247940372
+    second: motion_12658_franky_reverse_0001_56
+  - first:
+      213: 6945285493302520747
+    second: motion_12658_franky_reverse_0001_57
+  - first:
+      213: -1146454145021115896
+    second: motion_12658_franky_reverse_0001_58
+  - first:
+      213: -7155644906246883957
+    second: motion_12658_franky_reverse_0001_59
+  - first:
+      213: 6627114188717363227
+    second: motion_12658_franky_reverse_0001_60
+  - first:
+      213: -6179548877714864587
+    second: motion_12658_franky_reverse_0001_61
+  - first:
+      213: 6698365317075048023
+    second: motion_12658_franky_reverse_0001_62
+  - first:
+      213: -6103165476074947296
+    second: motion_12658_franky_reverse_0001_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 830
+        width: 280
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb56c91ccffc8c7a0800000000000000
+      internalID: -6356602189546494533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 834
+        width: 280
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63e85be40136fce0800000000000000
+      internalID: -1371855139289635989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_2
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 816
+        width: 251
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351338a319e210000800000000000000
+      internalID: 332676263522643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_3
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 794
+        width: 175
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7121d6e92363f00800000000000000
+      internalID: 1096119215327418280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 648
+        width: 250
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ca034155f0fbe60800000000000000
+      internalID: 7980113922809179166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 639
+        width: 245
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00141c93acc636360800000000000000
+      internalID: 7161687448257380608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_6
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 748
+        width: 93
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cc3896cffd5ef10800000000000000
+      internalID: 2298489460037504111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_7
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 617
+        width: 89
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bef1236e96857bc0800000000000000
+      internalID: -3785971896908906827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_8
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 562
+        width: 175
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09988af8c21500860800000000000000
+      internalID: 7494079031775103376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_9
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 699
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334b914d1f4cebe90800000000000000
+      internalID: -7007947427217296333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 701
+        width: 68
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adbf855917aa8f80800000000000000
+      internalID: -8103480852248281692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_11
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 696
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03759f51a9285e2f0800000000000000
+      internalID: -944204948559014096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 431
+        width: 188
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1209aa3250ac5c9e0800000000000000
+      internalID: -1601651969038315487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 423
+        width: 188
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4972845968e66570800000000000000
+      internalID: 8459704489149102414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_14
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 430
+        width: 215
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623bd3a3b41c5ba40800000000000000
+      internalID: 5383421458435126054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_15
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 567
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a356303a69dccb0800000000000000
+      internalID: -4842048397472613769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_16
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 595
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90caac1bd86dcd990800000000000000
+      internalID: -7359771786968650743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_17
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 606
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024244a922a863fe0800000000000000
+      internalID: -1209627568680721376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 547
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780178887a8df2a00800000000000000
+      internalID: 734043478346371207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_19
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 565
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4d0292c8abd9250800000000000000
+      internalID: 5953119393601869017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_20
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 331
+        width: 176
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fcba816b5cc4d30800000000000000
+      internalID: 4417122720432246661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_21
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 339
+        width: 181
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781bfa258dabdf0c0800000000000000
+      internalID: -4540267411056643705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_22
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 488
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4635ec28b4045d0800000000000000
+      internalID: -3080379119942015747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 214
+        width: 184
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93667423403de4ad0800000000000000
+      internalID: -2716001510280960455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_24
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 228
+        width: 192
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0c70ddf08b27540800000000000000
+      internalID: 5004264514234335475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_25
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 241
+        width: 214
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002521442d573f110800000000000000
+      internalID: 1293507063931097600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_26
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 181
+        width: 150
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b813f83e667e21820800000000000000
+      internalID: 2887624740188402059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_27
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 148
+        width: 192
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e61bf0497a46de90800000000000000
+      internalID: -7001326686059161882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 201
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea5b8f6db6fba2e0800000000000000
+      internalID: -2113324306639660318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_29
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 114
+        width: 118
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a06eb06303ec1c90800000000000000
+      internalID: -7197628500797398872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_30
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 69
+        width: 201
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d24f92591342510800000000000000
+      internalID: 1523397090681826628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_31
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 159
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523ba60c30f1e8d50800000000000000
+      internalID: 6741359793193792293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_32
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 176
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a908cd52c1b263be0800000000000000
+      internalID: -1497962426159824742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_33
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 88
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47ca02687c5e3970800000000000000
+      internalID: 8736521999256045389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_34
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 51
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3f8e98f128635b0800000000000000
+      internalID: -5388976832132877317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_35
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 122
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c087bf25d5cbfd60800000000000000
+      internalID: 7925145488707780803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_36
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 123
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99733ce1b989a0440800000000000000
+      internalID: 4902898936349669273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_37
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 138
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8918d615a970f20800000000000000
+      internalID: 3388846919139825863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_38
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 132
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3566e60a4b44be60800000000000000
+      internalID: 7977083621295416635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_39
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 56
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a18b6859cf68b6a0800000000000000
+      internalID: -6433269157136203359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_40
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 119
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fb6ec9672fe78e0800000000000000
+      internalID: -1693649818592297090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_41
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 116
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e285057b02ad23ce0800000000000000
+      internalID: -1426838297873721298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_42
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 109
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de606e879dff29200800000000000000
+      internalID: 185491844176938733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_43
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 105
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3ab28c9c432d8c0800000000000000
+      internalID: -3976057479763352664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_44
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 119
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b535bf05f15ea5480800000000000000
+      internalID: -8909556990133709989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_45
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 41
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1381595be1e14160800000000000000
+      internalID: 7008130896097280794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_46
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd98db227653119c0800000000000000
+      internalID: -3958323880401204772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_47
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 107
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b24527eb4ccbd40800000000000000
+      internalID: 5601568358783003411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_48
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 99
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742d3f063b64d9370800000000000000
+      internalID: 8330892621944967751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_49
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 102
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc3999b88fc2c740800000000000000
+      internalID: 5170923508311080138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_50
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 103
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417e6e1bee6f99a70800000000000000
+      internalID: 8834363649111287572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_51
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 88
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938719803d7d1d010800000000000000
+      internalID: 1211987076121196601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_52
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 72
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2190b748d4b0984f0800000000000000
+      internalID: -826116629082732270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_53
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 82
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce28ae740ce720350800000000000000
+      internalID: 5981482619406811884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_54
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 77
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ad908314cd09530800000000000000
+      internalID: 3859827053327669846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_55
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 67
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6cf983f861d6c10800000000000000
+      internalID: 2048318209909573371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_56
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 86
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fa10e4b417a9970800000000000000
+      internalID: 8762440593247940372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_57
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 68
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab68f3cb5c926060800000000000000
+      internalID: 6945285493302520747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_58
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 82
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8020ebe770af610f0800000000000000
+      internalID: -1146454145021115896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_59
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 77
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b853258beda02bc90800000000000000
+      internalID: -7155644906246883957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_60
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 51
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1013702e3d38fb50800000000000000
+      internalID: 6627114188717363227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 65
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53644af4905dd3aa0800000000000000
+      internalID: -6179548877714864587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_62
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 62
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7561e0434cf55fc50800000000000000
+      internalID: 6698365317075048023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: motion_12658_franky_reverse_0001_63
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 50
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dff11e5533d4ba0800000000000000
+      internalID: -6103165476074947296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      motion_12658_franky_reverse_0001_0: -6356602189546494533
+      motion_12658_franky_reverse_0001_1: -1371855139289635989
+      motion_12658_franky_reverse_0001_10: -8103480852248281692
+      motion_12658_franky_reverse_0001_11: -944204948559014096
+      motion_12658_franky_reverse_0001_12: -1601651969038315487
+      motion_12658_franky_reverse_0001_13: 8459704489149102414
+      motion_12658_franky_reverse_0001_14: 5383421458435126054
+      motion_12658_franky_reverse_0001_15: -4842048397472613769
+      motion_12658_franky_reverse_0001_16: -7359771786968650743
+      motion_12658_franky_reverse_0001_17: -1209627568680721376
+      motion_12658_franky_reverse_0001_18: 734043478346371207
+      motion_12658_franky_reverse_0001_19: 5953119393601869017
+      motion_12658_franky_reverse_0001_2: 332676263522643
+      motion_12658_franky_reverse_0001_20: 4417122720432246661
+      motion_12658_franky_reverse_0001_21: -4540267411056643705
+      motion_12658_franky_reverse_0001_22: -3080379119942015747
+      motion_12658_franky_reverse_0001_23: -2716001510280960455
+      motion_12658_franky_reverse_0001_24: 5004264514234335475
+      motion_12658_franky_reverse_0001_25: 1293507063931097600
+      motion_12658_franky_reverse_0001_26: 2887624740188402059
+      motion_12658_franky_reverse_0001_27: -7001326686059161882
+      motion_12658_franky_reverse_0001_28: -2113324306639660318
+      motion_12658_franky_reverse_0001_29: -7197628500797398872
+      motion_12658_franky_reverse_0001_3: 1096119215327418280
+      motion_12658_franky_reverse_0001_30: 1523397090681826628
+      motion_12658_franky_reverse_0001_31: 6741359793193792293
+      motion_12658_franky_reverse_0001_32: -1497962426159824742
+      motion_12658_franky_reverse_0001_33: 8736521999256045389
+      motion_12658_franky_reverse_0001_34: -5388976832132877317
+      motion_12658_franky_reverse_0001_35: 7925145488707780803
+      motion_12658_franky_reverse_0001_36: 4902898936349669273
+      motion_12658_franky_reverse_0001_37: 3388846919139825863
+      motion_12658_franky_reverse_0001_38: 7977083621295416635
+      motion_12658_franky_reverse_0001_39: -6433269157136203359
+      motion_12658_franky_reverse_0001_4: 7980113922809179166
+      motion_12658_franky_reverse_0001_40: -1693649818592297090
+      motion_12658_franky_reverse_0001_41: -1426838297873721298
+      motion_12658_franky_reverse_0001_42: 185491844176938733
+      motion_12658_franky_reverse_0001_43: -3976057479763352664
+      motion_12658_franky_reverse_0001_44: -8909556990133709989
+      motion_12658_franky_reverse_0001_45: 7008130896097280794
+      motion_12658_franky_reverse_0001_46: -3958323880401204772
+      motion_12658_franky_reverse_0001_47: 5601568358783003411
+      motion_12658_franky_reverse_0001_48: 8330892621944967751
+      motion_12658_franky_reverse_0001_49: 5170923508311080138
+      motion_12658_franky_reverse_0001_5: 7161687448257380608
+      motion_12658_franky_reverse_0001_50: 8834363649111287572
+      motion_12658_franky_reverse_0001_51: 1211987076121196601
+      motion_12658_franky_reverse_0001_52: -826116629082732270
+      motion_12658_franky_reverse_0001_53: 5981482619406811884
+      motion_12658_franky_reverse_0001_54: 3859827053327669846
+      motion_12658_franky_reverse_0001_55: 2048318209909573371
+      motion_12658_franky_reverse_0001_56: 8762440593247940372
+      motion_12658_franky_reverse_0001_57: 6945285493302520747
+      motion_12658_franky_reverse_0001_58: -1146454145021115896
+      motion_12658_franky_reverse_0001_59: -7155644906246883957
+      motion_12658_franky_reverse_0001_6: 2298489460037504111
+      motion_12658_franky_reverse_0001_60: 6627114188717363227
+      motion_12658_franky_reverse_0001_61: -6179548877714864587
+      motion_12658_franky_reverse_0001_62: 6698365317075048023
+      motion_12658_franky_reverse_0001_63: -6103165476074947296
+      motion_12658_franky_reverse_0001_7: -3785971896908906827
+      motion_12658_franky_reverse_0001_8: 7494079031775103376
+      motion_12658_franky_reverse_0001_9: -7007947427217296333
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
