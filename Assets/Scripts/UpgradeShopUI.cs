@@ -1,5 +1,6 @@
 using UnityEngine;
 using TMPro;
+using System.Collections;
 
 public class UpgradeShopUI : MonoBehaviour
 {
@@ -15,40 +16,56 @@ public class UpgradeShopUI : MonoBehaviour
 
     void Start()
     {
+        StartCoroutine(WaitForManager());
+    }
+
+    // ----------------------------
+    // SAFE INITIALIZATION (SCENE SAFE)
+    // ----------------------------
+    IEnumerator WaitForManager()
+    {
+        while (UpgradeManager.Instance == null || !UpgradeManager.Instance.isInitialized)
+        {
+            yield return null;
+        }
+
+        upgradeManager = UpgradeManager.Instance;
+
         Initialize();
     }
 
+    // ----------------------------
+    // INIT REFERENCES (NO STRINGS AFTER THIS)
+    // ----------------------------
     void Initialize()
     {
         if (upgradeManager == null)
         {
-            Debug.LogError("UpgradeManager not assigned.");
+            Debug.LogError("UpgradeManager missing.");
             return;
         }
 
-        beliUpgrade = FindUpgrade("Beli Multiplier");
-        xpUpgrade = FindUpgrade("XP Gain Boost");
-        bountyUpgrade = FindUpgrade("Bounty Gain Boost");
+        var list = upgradeManager.upgrades;
+
+        beliUpgrade = list.Find(x => x.name == "Beli Multiplier");
+        xpUpgrade = list.Find(x => x.name == "XP Gain Boost");
+        bountyUpgrade = list.Find(x => x.name == "Bounty Gain Boost");
+
+        if (beliUpgrade == null)
+            Debug.LogError("Beli Multiplier upgrade not found");
+
+        if (xpUpgrade == null)
+            Debug.LogError("XP Gain Boost upgrade not found");
+
+        if (bountyUpgrade == null)
+            Debug.LogError("Bounty Gain Boost upgrade not found");
 
         UpdateUI();
     }
 
-    Upgrade FindUpgrade(string name)
-    {
-        Upgrade u = upgradeManager.upgrades.Find(x => x.name == name);
-
-        if (u == null)
-        {
-            Debug.LogError("Upgrade not found: " + name);
-        }
-
-        return u;
-    }
-
     // ----------------------------
-    // BUTTON FUNCTIONS (ONCLICK)
+    // BUTTONS (ONCLICK)
     // ----------------------------
-
     public void BuyBeli()
     {
         BuyUpgrade(beliUpgrade);
@@ -66,7 +83,7 @@ public class UpgradeShopUI : MonoBehaviour
 
     void BuyUpgrade(Upgrade upgrade)
     {
-        if (upgrade == null || upgradeManager == null)
+        if (upgradeManager == null || upgrade == null)
             return;
 
         int index = upgradeManager.upgrades.IndexOf(upgrade);
@@ -77,9 +94,7 @@ public class UpgradeShopUI : MonoBehaviour
         Debug.Log(message);
 
         if (success)
-        {
             UpdateUI();
-        }
     }
 
     // ----------------------------

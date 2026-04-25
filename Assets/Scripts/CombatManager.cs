@@ -2,22 +2,29 @@
 using TMPro;
 using UnityEngine.UI;
 using System;
+using UnityEngine.SceneManagement;
 
 public class CombatManager : MonoBehaviour
 {
     [Header("Core References")]
     public Enemy enemy;
-    public PlayerStats playerStats;
 
-    [Header("Managers (ASSIGN IN INSPECTOR)")]
-    public ResourceManager resourceManager;
-    public UpgradeManager upgradeManager;
+    private PlayerStats playerStats;
+    private PlayerProgression playerProgression;
+
+    [Header("Managers (AUTO BIND)")]
+    private ResourceManager resourceManager;
+    private UpgradeManager upgradeManager;
 
     [Header("UI")]
     public TMP_Text enemyHPText;
     public TMP_Text enemyNameText;
     public TMP_Text turnText;
     public Button attackButton;
+
+    [Header("Player UI")]
+    public Slider hpSlider;
+    public TMP_Text hpText;
 
     [Header("Death UI")]
     public GameObject deathPanel;
@@ -31,29 +38,38 @@ public class CombatManager : MonoBehaviour
     private float baseBeliReward;
     private float baseBountyReward;
 
+    void OnEnable()
+    {
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+
+    void OnDisable()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        BindUI();
+    }
+
+    void Awake()
+    {
+        BindManagers();
+    }
+
     void Start()
     {
-        // ----------------------------
-        // SAFETY CHECKS (NO SINGLETONS)
-        // ----------------------------
-        if (resourceManager == null || upgradeManager == null)
-        {
-            Debug.LogError("Missing ResourceManager or UpgradeManager in Inspector.");
+        if (!ValidateManagers())
             return;
-        }
 
-        if (StoryManager.Instance == null)
-        {
-            Debug.LogError("StoryManager missing.");
-            return;
-        }
-
-        if (StoryManager.Instance.IsComplete())
+        if (StoryManager.Instance == null || StoryManager.Instance.IsComplete())
         {
             combatActive = false;
-            attackButton.interactable = false;
-            turnText.text = "Story Complete";
-            enemyNameText.text = "All Enemies Defeated";
+            if (attackButton != null) attackButton.interactable = false;
+
+            if (turnText != null) turnText.text = "Story Complete";
+            if (enemyNameText != null) enemyNameText.text = "All Enemies Defeated";
             return;
         }
 
@@ -61,11 +77,55 @@ public class CombatManager : MonoBehaviour
     }
 
     // ----------------------------
+    // MANAGER BINDING
+    // ----------------------------
+    void BindManagers()
+    {
+        resourceManager = ResourceManager.Instance;
+        upgradeManager = UpgradeManager.Instance;
+
+        playerStats = FindFirstObjectByType<PlayerStats>();
+        playerProgression = PlayerProgression.Instance;
+
+        if (resourceManager == null)
+            resourceManager = FindFirstObjectByType<ResourceManager>();
+
+        if (upgradeManager == null)
+            upgradeManager = FindFirstObjectByType<UpgradeManager>();
+    }
+
+    bool ValidateManagers()
+    {
+        if (resourceManager == null || upgradeManager == null)
+        {
+            Debug.LogError("Missing ResourceManager or UpgradeManager. Ensure Bootstrap scene exists.");
+            return false;
+        }
+
+        return true;
+    }
+
+    void BindUI()
+    {
+        // Player UI
+        GameObject sliderObj = GameObject.FindGameObjectWithTag("PlayerHPBar");
+        GameObject textObj = GameObject.FindGameObjectWithTag("PlayerHPText");
+
+        if (sliderObj != null)
+            hpSlider = sliderObj.GetComponent<Slider>();
+
+        if (textObj != null)
+            hpText = textObj.GetComponent<TMP_Text>();
+
+        UpdatePlayerUI();
+    }
+
+    // ----------------------------
     // LOAD ENEMY
     // ----------------------------
     void LoadNextEnemy()
     {
-        if (StoryManager.Instance.IsComplete())
+        if (StoryManager.Instance == null || StoryManager.Instance.IsComplete())
         {
             combatActive = false;
             attackButton.interactable = false;
@@ -86,7 +146,6 @@ public class CombatManager : MonoBehaviour
         enemy.InitializeFromData(data);
         enemyNameText.text = enemy.enemyName;
 
-        // snapshot rewards
         baseXPReward = enemy.xpReward;
         baseBeliReward = enemy.beliReward;
         baseBountyReward = enemy.bountyReward;
@@ -96,15 +155,17 @@ public class CombatManager : MonoBehaviour
     }
 
     // ----------------------------
-    // RESET COMBAT
+    // COMBAT RESET
     // ----------------------------
     void ResetCombatState()
     {
         combatActive = true;
 
-        playerStats.HealFull();
+        if (playerStats != null)
+            playerStats.HealFull();
 
-        playerTurn = playerStats.speed >= enemy.speed;
+        UpdatePlayerUI();
+        playerTurn = playerStats != null && playerStats.speed >= enemy.speed;
 
         UpdateTurnUI();
 
@@ -129,6 +190,8 @@ public class CombatManager : MonoBehaviour
             combatActive = false;
 
             HandleEnemyDefeat();
+            playerStats.HealFull();
+            UpdatePlayerUI();
             return;
         }
 
@@ -146,6 +209,7 @@ public class CombatManager : MonoBehaviour
     void EnemyTurn()
     {
         playerStats.TakeDamage(enemy.damage);
+        UpdatePlayerUI();
 
         if (playerStats.IsDead())
         {
@@ -164,9 +228,17 @@ public class CombatManager : MonoBehaviour
     // ----------------------------
     void HandleEnemyDefeat()
     {
-        float beliMult = upgradeManager.GetMultiplier(ResourceType.Beli);
-        float xpMult = upgradeManager.GetMultiplier(ResourceType.XP);
-        float bountyMult = upgradeManager.GetMultiplier(ResourceType.Bounty);
+        float beliMult =
+            upgradeManager.GetMultiplier(ResourceType.Beli) *
+            RebirthManager.Instance.GetBeliMult();
+
+        float xpMult =
+            upgradeManager.GetMultiplier(ResourceType.XP) *
+            RebirthManager.Instance.GetXPMult();
+
+        float bountyMult =
+            upgradeManager.GetMultiplier(ResourceType.Bounty) *
+            RebirthManager.Instance.GetBountyMult();
 
         float totalBeli = baseBeliReward * beliMult;
         float totalXP = baseXPReward * xpMult;
@@ -177,6 +249,13 @@ public class CombatManager : MonoBehaviour
         resourceManager.AddResource(ResourceType.Beli, totalBeli);
         resourceManager.AddResource(ResourceType.XP, totalXP);
         resourceManager.AddResource(ResourceType.Bounty, totalBounty);
+
+        // ALWAYS recalc progression AFTER XP gain
+        if (playerProgression != null)
+            playerProgression.RecalculateLevel();
+
+        if (playerStats != null)
+            playerStats.RecalculateStats();
 
         if (RewardPopupManager.Instance != null)
         {
@@ -197,7 +276,8 @@ public class CombatManager : MonoBehaviour
     {
         combatActive = false;
 
-        turnText.text = "You Died";
+        if (turnText != null)
+            turnText.text = "You Died";
 
         attackButton.interactable = false;
 
@@ -205,9 +285,6 @@ public class CombatManager : MonoBehaviour
             deathPanel.SetActive(true);
     }
 
-    // ----------------------------
-    // RETRY
-    // ----------------------------
     public void RetryFight()
     {
         if (deathPanel != null)
@@ -230,6 +307,24 @@ public class CombatManager : MonoBehaviour
     void UpdateTurnUI()
     {
         turnText.text = playerTurn ? "Turn: Player" : "Turn: Enemy";
+    }
+
+    // Player HP
+    void UpdatePlayerUI()
+    {
+        if (playerStats == null) return;
+
+        if (hpSlider != null)
+        {
+            hpSlider.maxValue = playerStats.maxHP;
+            hpSlider.value = playerStats.currentHP;
+        }
+
+        if (hpText != null)
+        {
+            hpText.text = $"HP: {Mathf.RoundToInt(playerStats.currentHP)} / {Mathf.RoundToInt(playerStats.maxHP)}";
+        }
+    
     }
 
     // ----------------------------

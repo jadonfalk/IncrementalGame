@@ -54,10 +54,23 @@ public class MainMenu : MonoBehaviour
         PlayClick();
         StartCoroutine(LoadSceneWithDelay("Credits"));
     }
+    
     public void ReturnHome()
     {
         PlayClick();
         StartCoroutine(LoadSceneWithDelay("Incremental"));
+    }
+    
+    public void StatsScene()
+    {
+        PlayClick();
+        StartCoroutine(LoadSceneWithDelay("Stats"));
+    }
+    
+    public void Reroll()
+    {
+        PlayClick();
+        StartCoroutine(LoadSceneWithDelay("Reroll"));
     }
 
     public void BacktoMain()

@@ -4,23 +4,51 @@ using TMPro;
 
 public class PlayerStats : MonoBehaviour
 {
-    [Header("Stats")]
-    public float maxHP = 20f;
+    public PlayerProgression progression;
+
+    [Header("Base Stats")]
+    public float baseHP = 20f;
+    public float baseDamage = 2f;
+    public float baseSpeed = 5f;
+
+    [Header("Final Stats (Calculated)")]
+    public float maxHP;
     public float currentHP;
-
-    public float damage = 2f;
-    public float speed = 5f;
-
-    [Header("UI")]
-    public Slider hpSlider;
-    public TMP_Text hpText;
+    public float damage;
+    public float speed;
 
     void Start()
     {
-        currentHP = maxHP;
-        UpdateUI();
+        RecalculateStats();
+        HealFull();
     }
 
+    // ----------------------------
+    // RECALCULATE FROM PROGRESSION
+    // ----------------------------
+    public void RecalculateStats()
+    {
+        if (progression == null)
+        {
+            Debug.LogError("PlayerProgression not assigned!");
+            return;
+        }
+
+        // Final stat calculations
+        damage = baseDamage + progression.damage;
+
+        maxHP = baseHP + (progression.hp * 10f);
+
+        speed = baseSpeed + progression.speed;
+
+        // Clamp current HP if maxHP changed
+        currentHP = Mathf.Clamp(currentHP, 0, maxHP);
+
+    }
+
+    // ----------------------------
+    // DAMAGE
+    // ----------------------------
     public void TakeDamage(float amount)
     {
         currentHP -= amount;
@@ -28,29 +56,19 @@ public class PlayerStats : MonoBehaviour
         if (currentHP < 0)
             currentHP = 0;
 
-        UpdateUI();
     }
 
+    // ----------------------------
+    // HEAL
+    // ----------------------------
     public void HealFull()
     {
         currentHP = maxHP;
-        UpdateUI();
     }
 
-    void UpdateUI()
-    {
-        if (hpSlider != null)
-        {
-            hpSlider.maxValue = maxHP;
-            hpSlider.value = currentHP;
-        }
-
-        if (hpText != null)
-        {
-            hpText.text = $"HP: {currentHP} / {maxHP}";
-        }
-    }
-
+    // ----------------------------
+    // STATE
+    // ----------------------------
     public bool IsDead()
     {
         return currentHP <= 0;

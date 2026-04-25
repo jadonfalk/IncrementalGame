@@ -3,6 +3,9 @@ using UnityEngine;
 
 public class UpgradeManager : MonoBehaviour
 {
+    public static UpgradeManager Instance;
+    public bool isInitialized { get; private set; }
+
     public ResourceManager resourceManager;
 
     public List<Upgrade> upgrades = new List<Upgrade>();
@@ -10,7 +13,36 @@ public class UpgradeManager : MonoBehaviour
     public Dictionary<ResourceType, float> multipliers = new Dictionary<ResourceType, float>();
     public Dictionary<ResourceType, float> flatBonuses = new Dictionary<ResourceType, float>();
 
+    void Awake()
+    {
+        // ----------------------------
+        // SINGLETON + PERSISTENCE
+        // ----------------------------
+        if (Instance != null && Instance != this)
+        {
+            Destroy(gameObject);
+            return;
+        }
+
+        Instance = this;
+        DontDestroyOnLoad(gameObject);
+    }
+
     void Start()
+    {
+        InitializeRuntimeDictionaries();
+        InitializeUpgrades();
+        LoadUpgrades();
+
+        isInitialized = true;
+
+        Debug.Log("UpgradeManager initialized.");
+    }
+
+    // ----------------------------
+    // SAFE INIT
+    // ----------------------------
+    void InitializeRuntimeDictionaries()
     {
         multipliers = new Dictionary<ResourceType, float>();
         flatBonuses = new Dictionary<ResourceType, float>();
@@ -20,11 +52,11 @@ public class UpgradeManager : MonoBehaviour
             multipliers[type] = 1f;
             flatBonuses[type] = 0f;
         }
-
-        InitializeUpgrades();
-        LoadUpgrades();
     }
 
+    // ----------------------------
+    // UPGRADE DEFINITIONS
+    // ----------------------------
     void InitializeUpgrades()
     {
         upgrades.Clear();
@@ -114,8 +146,14 @@ public class UpgradeManager : MonoBehaviour
         });
     }
 
+    // ----------------------------
+    // PURCHASE
+    // ----------------------------
     public bool TryPurchaseUpgrade(int index, out string message)
     {
+        if (resourceManager == null)
+            resourceManager = ResourceManager.Instance;
+
         if (index < 0 || index >= upgrades.Count)
         {
             message = "Invalid upgrade.";
@@ -147,6 +185,9 @@ public class UpgradeManager : MonoBehaviour
         return true;
     }
 
+    // ----------------------------
+    // APPLY EFFECT
+    // ----------------------------
     void ApplyUpgradeEffect(Upgrade upgrade)
     {
         ResourceType target = upgrade.effect.targetResource;
@@ -163,6 +204,9 @@ public class UpgradeManager : MonoBehaviour
             flatBonuses[target] += upgrade.effect.value;
     }
 
+    // ----------------------------
+    // GETTERS
+    // ----------------------------
     public float GetMultiplier(ResourceType type)
     {
         return multipliers.ContainsKey(type) ? multipliers[type] : 1f;
@@ -173,6 +217,9 @@ public class UpgradeManager : MonoBehaviour
         return flatBonuses.ContainsKey(type) ? flatBonuses[type] : 0f;
     }
 
+    // ----------------------------
+    // SAVE / LOAD
+    // ----------------------------
     void SaveUpgrades()
     {
         foreach (Upgrade u in upgrades)
@@ -188,25 +235,19 @@ public class UpgradeManager : MonoBehaviour
             string key = "UPGRADE_" + u.name;
 
             if (PlayerPrefs.HasKey(key))
-            {
                 u.level = PlayerPrefs.GetInt(key);
-            }
         }
 
-        // CRITICAL FIX: rebuild runtime effects
         RecalculateAllUpgrades();
     }
 
+    // ----------------------------
+    // REBUILD SYSTEM
+    // ----------------------------
     void RecalculateAllUpgrades()
     {
-        // reset first
-        foreach (ResourceType type in System.Enum.GetValues(typeof(ResourceType)))
-        {
-            multipliers[type] = 1f;
-            flatBonuses[type] = 0f;
-        }
+        InitializeRuntimeDictionaries();
 
-        // re-apply every upgrade based on saved levels
         foreach (Upgrade u in upgrades)
         {
             for (int i = 0; i < u.level; i++)
@@ -218,4 +259,15 @@ public class UpgradeManager : MonoBehaviour
         Debug.Log("Upgrade multipliers recalculated.");
     }
 
+    // ----------------------------
+    // RESET
+    // ----------------------------
+    public void ResetUpgrades()
+    {
+        foreach (var u in upgrades)
+            u.level = 0;
+
+        SaveUpgrades();
+        RecalculateAllUpgrades();
+    }
 }

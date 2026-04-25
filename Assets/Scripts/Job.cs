@@ -7,8 +7,9 @@ public class Job
     public float xpPerSecond;
     public float beliPerSecond;
 
-    // Requirement: how many base enemies must be killed to unlock this job
-    public int enemiesRequiredToUnlock = 0;
+    // Job Requirements
+    public int requiredLevel;
+    public float requiredBounty;
 
     // Track if job is unlocked
     [HideInInspector]

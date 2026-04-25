@@ -3,6 +3,8 @@ using System.Collections.Generic;
 
 public class ResourceManager : MonoBehaviour
 {
+    public static ResourceManager Instance;
+    public PlayerProgression progression;
 
     public Dictionary<ResourceType, float> resources = new Dictionary<ResourceType, float>();
 
@@ -10,10 +12,32 @@ public class ResourceManager : MonoBehaviour
     private const string XP_KEY = "XP";
     private const string BOUNTY_KEY = "Bounty";
 
-    void Start()
+    void Awake()
+    {
+        // Singleton + persistence
+        if (Instance != null && Instance != this)
+        {
+            Destroy(gameObject);
+            return;
+        }
+
+        Instance = this;
+        DontDestroyOnLoad(gameObject);
+
+        Initialize();
+    }
+
+    void Initialize()
     {
         if (resources == null)
             resources = new Dictionary<ResourceType, float>();
+
+        // Ensure all keys exist BEFORE loading
+        foreach (ResourceType type in System.Enum.GetValues(typeof(ResourceType)))
+        {
+            if (!resources.ContainsKey(type))
+                resources[type] = 0f;
+        }
 
         LoadResources();
     }
@@ -24,11 +48,17 @@ public class ResourceManager : MonoBehaviour
     public void AddResource(ResourceType type, float amount)
     {
         if (!resources.ContainsKey(type))
-            resources[type] = 0;
+            resources[type] = 0f;
 
         resources[type] += amount;
 
         SaveResource(type);
+        
+        // Trigger levelling when XP changes
+        if (type == ResourceType.XP && progression != null)
+        {
+            progression.RecalculateLevel();
+        }
     }
 
     // ----------------------------
@@ -37,13 +67,13 @@ public class ResourceManager : MonoBehaviour
     public float GetResource(ResourceType type)
     {
         if (!resources.ContainsKey(type))
-            return 0;
+            resources[type] = 0f;
 
         return resources[type];
     }
 
     // ----------------------------
-    // SAVE SINGLE RESOURCE
+    // SAVE
     // ----------------------------
     void SaveResource(ResourceType type)
     {
@@ -68,22 +98,22 @@ public class ResourceManager : MonoBehaviour
     }
 
     // ----------------------------
-    // LOAD ALL RESOURCES
+    // LOAD
     // ----------------------------
-    void LoadResources()
+    public void LoadResources()
     {
-        resources[ResourceType.Beli] = PlayerPrefs.GetFloat(BELI_KEY, 0);
-        resources[ResourceType.XP] = PlayerPrefs.GetFloat(XP_KEY, 0);
-        resources[ResourceType.Bounty] = PlayerPrefs.GetFloat(BOUNTY_KEY, 0);
+        resources[ResourceType.Beli] = PlayerPrefs.GetFloat(BELI_KEY, 0f);
+        resources[ResourceType.XP] = PlayerPrefs.GetFloat(XP_KEY, 0f);
+        resources[ResourceType.Bounty] = PlayerPrefs.GetFloat(BOUNTY_KEY, 0f);
     }
-    
-    // ---------------------------
-    // SPEND RESOURCE (UPGRADES)
-    // ---------------------------
+
+    // ----------------------------
+    // SPEND
+    // ----------------------------
     public bool SpendResource(ResourceType type, float amount)
     {
         if (!resources.ContainsKey(type))
-            resources[type] = 0;
+            resources[type] = 0f;
 
         if (resources[type] < amount)
             return false;
@@ -91,20 +121,28 @@ public class ResourceManager : MonoBehaviour
         resources[type] -= amount;
 
         SaveResource(type);
-
         return true;
     }
-    // ----------------------------
-    // OPTIONAL: RESET (DEBUG)
-    // ----------------------------
-    public void ResetResources()
-    {
-        PlayerPrefs.DeleteKey(BELI_KEY);
-        PlayerPrefs.DeleteKey(XP_KEY);
-        PlayerPrefs.DeleteKey(BOUNTY_KEY);
 
-        resources[ResourceType.Beli] = 0;
-        resources[ResourceType.XP] = 0;
-        resources[ResourceType.Bounty] = 0;
+    // ----------------------------
+    // REBIRTH RESET
+    // ----------------------------
+    public void ResetForRebirth()
+    {
+        float bounty = GetResource(ResourceType.Bounty);
+
+        resources[ResourceType.Beli] = 0f;
+        resources[ResourceType.XP] = 0f;
+        resources[ResourceType.Bounty] = bounty;
+
+        SaveResource(ResourceType.Beli);
+        SaveResource(ResourceType.XP);
+        SaveResource(ResourceType.Bounty);
+    }
+
+    // Optional: force reload manually (useful after scene swap)
+    public void Reload()
+    {
+        LoadResources();
     }
 }

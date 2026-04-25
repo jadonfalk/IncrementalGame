@@ -1,133 +1,193 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
-using TMPro;
-using UnityEngine.UI;
 
 public class JobManager : MonoBehaviour
 {
+    public static JobManager Instance;
+
     [Header("Core References")]
-    public ResourceManager resourceManager;
-    public UpgradeManager upgradeManager;
-    //public CombatManager combatManager;
-    public StoryManager storyManager;
+    private ResourceManager resourceManager;
+    private UpgradeManager upgradeManager;
+    private PlayerProgression progression;
 
     [Header("Jobs")]
     public List<Job> jobs = new List<Job>();
     public int activeJobIndex = 0;
 
-    // Generators
     private Generator xpGenerator;
     private Generator beliGenerator;
 
-    [Header("UI")]
-    public TMP_Text activeJobText;
-    public TMP_Text nextJobRequirement;
-    public Button upgradeJobButton;
+    private bool isReady = false;
 
-    public GameObject jobPanel;
+    // ----------------------------
+    // SINGLETON
+    // ----------------------------
+    void Awake()
+    {
+        if (Instance != null && Instance != this)
+        {
+            Destroy(gameObject);
+            return;
+        }
+
+        Instance = this;
+        DontDestroyOnLoad(gameObject);
+    }
 
     void Start()
     {
-        // ----------------------------
-        // JOB DEFINITIONS (STORY BASED)
-        // ----------------------------
-        jobs.Add(new Job { jobName = "Dishwasher", xpPerSecond = 1f, beliPerSecond = 2f, enemiesRequiredToUnlock = 0, isUnlocked = true });
-        jobs.Add(new Job { jobName = "Pirate Hunter", xpPerSecond = 3f, beliPerSecond = 5f, enemiesRequiredToUnlock = 1 });
-        jobs.Add(new Job { jobName = "Treasure Diver", xpPerSecond = 7f, beliPerSecond = 10f, enemiesRequiredToUnlock = 3 });
-
+        InitializeJobs();
         xpGenerator = new XPGenerator();
         beliGenerator = new BeliGenerator();
-
-        if (upgradeJobButton != null)
-        {
-            upgradeJobButton.onClick.AddListener(TryPromoteJob);
-        }
-
-        UpdateActiveJobUI();
     }
 
+    void InitializeJobs()
+    {
+        if (jobs.Count > 0) return;
+
+        jobs.Add(new Job
+        {
+            jobName = "Dishwasher",
+            xpPerSecond = 1f,
+            beliPerSecond = 2f,
+            requiredLevel = 1,
+            requiredBounty = 0,
+            isUnlocked = true
+        });
+
+        jobs.Add(new Job
+        {
+            jobName = "Pirate Hunter",
+            xpPerSecond = 3f,
+            beliPerSecond = 5f,
+            requiredLevel = 5,
+            requiredBounty = 50
+        });
+
+        jobs.Add(new Job
+        {
+            jobName = "Treasure Diver",
+            xpPerSecond = 7f,
+            beliPerSecond = 10f,
+            requiredLevel = 10,
+            requiredBounty = 150
+        });
+    }
+
+    // ----------------------------
+    // SAFE UPDATE (NO NULL CRASHES)
+    // ----------------------------
     void Update()
     {
+        if (!TryBindManagers())
+            return;
+
+        if (xpGenerator == null || beliGenerator == null)
+            return;
+
         if (jobs.Count == 0)
             return;
 
         Job activeJob = jobs[activeJobIndex];
 
-        // ----------------------------
-        // FIXED MULTIPLIER + FLAT BONUS PIPELINE
-        // ----------------------------
+        float rebirthXP = RebirthManager.Instance != null ? RebirthManager.Instance.GetXPMult() : 1f;
+        float rebirthBeli = RebirthManager.Instance != null ? RebirthManager.Instance.GetBeliMult() : 1f;
 
         float xpGain =
             (activeJob.xpPerSecond + upgradeManager.GetFlatBonus(ResourceType.XP)) *
-            upgradeManager.GetMultiplier(ResourceType.XP);
+            upgradeManager.GetMultiplier(ResourceType.XP) *
+            rebirthXP;
 
         float beliGain =
             (activeJob.beliPerSecond + upgradeManager.GetFlatBonus(ResourceType.Beli)) *
-            upgradeManager.GetMultiplier(ResourceType.Beli);
+            upgradeManager.GetMultiplier(ResourceType.Beli) *
+            rebirthBeli;
 
         float xp = 0f;
         float beli = 0f;
 
-        ApplyGeneration(xpGenerator, ref xp, xpGain * Time.deltaTime);
-        ApplyGeneration(beliGenerator, ref beli, beliGain * Time.deltaTime);
+        xpGenerator.Produce(ref xp, xpGain * Time.deltaTime);
+        beliGenerator.Produce(ref beli, beliGain * Time.deltaTime);
 
-        resourceManager.AddResource(ResourceType.XP, xp);
-        resourceManager.AddResource(ResourceType.Beli, beli);
-
-        UpdateActiveJobUI();
+        if (resourceManager != null)
+        {
+            resourceManager.AddResource(ResourceType.XP, xp);
+            resourceManager.AddResource(ResourceType.Beli, beli);
+        }
     }
 
-    void ApplyGeneration(Generator generator, ref float resource, float amount)
+    // ----------------------------
+    // SAFE BINDING (CRITICAL FIX)
+    // ----------------------------
+    bool TryBindManagers()
     {
-        generator.Produce(ref resource, amount);
+        if (isReady)
+            return true;
+
+        resourceManager ??= ResourceManager.Instance;
+        upgradeManager ??= UpgradeManager.Instance;
+        progression ??= PlayerProgression.Instance;
+
+        if (resourceManager == null ||
+            upgradeManager == null ||
+            progression == null ||
+            RebirthManager.Instance == null)
+        {
+            return false;
+        }
+
+        isReady = true;
+        return true;
     }
 
-    public void TryPromoteJob()
+    // ----------------------------
+    // PROMOTION LOGIC
+    // ----------------------------
+    public bool CanPromote()
+    {
+        if (!TryBindManagers())
+            return false;
+
+        Job next = GetNextJob();
+        if (next == null) return false;
+
+        float bounty = resourceManager.GetResource(ResourceType.Bounty);
+        int level = progression.level;
+
+        return level >= next.requiredLevel &&
+               bounty >= next.requiredBounty;
+    }
+
+    public bool TryPromoteJob()
+    {
+        if (!CanPromote())
+            return false;
+
+        activeJobIndex++;
+        Debug.Log($"Promoted to {jobs[activeJobIndex].jobName}");
+        return true;
+    }
+
+    public Job GetActiveJob() => jobs[activeJobIndex];
+
+    public Job GetNextJob()
     {
         if (activeJobIndex + 1 >= jobs.Count)
-            return;
+            return null;
 
-        int currentStoryIndex = storyManager.GetCurrentIndex();
-        Job nextJob = jobs[activeJobIndex + 1];
-
-        if (currentStoryIndex >= nextJob.enemiesRequiredToUnlock)
-        {
-            activeJobIndex++;
-            Debug.Log($"Promoted to {jobs[activeJobIndex].jobName}");
-            UpdateActiveJobUI();
-        }
+        return jobs[activeJobIndex + 1];
     }
 
     // ----------------------------
-    // UI
+    // RESET (REBIRTH)
     // ----------------------------
-    void UpdateActiveJobUI()
+    public void ResetJobs()
     {
-        if (jobs.Count == 0)
-            return;
+        activeJobIndex = 0;
 
-        Job activeJob = jobs[activeJobIndex];
+        foreach (var job in jobs)
+            job.isUnlocked = job.requiredLevel == 1;
 
-        activeJobText.text = $"Active Job: {activeJob.jobName}";
-
-        if (activeJobIndex + 1 < jobs.Count)
-        {
-            Job nextJob = jobs[activeJobIndex + 1];
-
-            int storyIndex = storyManager.GetCurrentIndex();
-            int remaining = nextJob.enemiesRequiredToUnlock - storyIndex;
-
-            remaining = Mathf.Max(0, remaining);
-
-            nextJobRequirement.text =
-                $"Story Progress Needed: {remaining} enemies";
-
-            upgradeJobButton.interactable = remaining <= 0;
-        }
-        else
-        {
-            nextJobRequirement.text = "Max Job Reached";
-            upgradeJobButton.interactable = false;
-        }
+        Debug.Log("Jobs reset for rebirth");
     }
 }
