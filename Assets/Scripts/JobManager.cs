@@ -37,8 +37,12 @@ public class JobManager : MonoBehaviour
     void Start()
     {
         InitializeJobs();
+
+        LoadJobs();
+
         xpGenerator = new XPGenerator();
         beliGenerator = new BeliGenerator();
+
     }
 
     void InitializeJobs()
@@ -71,6 +75,33 @@ public class JobManager : MonoBehaviour
             beliPerSecond = 10f,
             requiredLevel = 10,
             requiredBounty = 150
+        });
+
+        jobs.Add(new Job
+        {
+            jobName = "Supernova",
+            xpPerSecond = 8f,
+            beliPerSecond = 12f,
+            requiredLevel = 12,
+            requiredBounty = 250
+        });
+
+        jobs.Add(new Job
+        {
+            jobName = "Yonko",
+            xpPerSecond = 10f,
+            beliPerSecond = 15f,
+            requiredLevel = 15,
+            requiredBounty = 400
+        });
+
+        jobs.Add(new Job
+        {
+            jobName = "Pirate King",
+            xpPerSecond = 12f,
+            beliPerSecond = 20f,
+            requiredLevel = 25,
+            requiredBounty = 500
         });
     }
 
@@ -164,7 +195,11 @@ public class JobManager : MonoBehaviour
             return false;
 
         activeJobIndex++;
+
+        SaveJobs();
+
         Debug.Log($"Promoted to {jobs[activeJobIndex].jobName}");
+
         return true;
     }
 
@@ -178,12 +213,25 @@ public class JobManager : MonoBehaviour
         return jobs[activeJobIndex + 1];
     }
 
+    void SaveJobs()
+    {
+        PlayerPrefs.SetInt("ACTIVE_JOB_INDEX", activeJobIndex);
+        PlayerPrefs.Save();
+    }
+
+    void LoadJobs()
+    {
+        activeJobIndex = PlayerPrefs.GetInt("ACTIVE_JOB_INDEX", 0);
+    }
+
     // ----------------------------
     // RESET (REBIRTH)
     // ----------------------------
     public void ResetJobs()
     {
         activeJobIndex = 0;
+
+        SaveJobs();
 
         foreach (var job in jobs)
             job.isUnlocked = job.requiredLevel == 1;

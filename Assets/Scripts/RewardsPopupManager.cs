@@ -23,7 +23,7 @@ public class RewardPopupManager : MonoBehaviour
 
     public void ShowRewards(float beli, float xp, float bounty)
     {
-        rewardText.text = $"+{beli} Beli  +{xp} XP  +{bounty} Bounty";
+        rewardText.text = $"+{beli:F2} Beli  +{xp:F2} XP  +{bounty:F2} Bounty";
         rewardPanel.SetActive(true);
         StopAllCoroutines();
         StartCoroutine(HideAfterTime(displayTime));

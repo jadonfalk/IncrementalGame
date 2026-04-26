@@ -25,10 +25,15 @@ public class Enemy : MonoBehaviour
 
     public void InitializeFromData(EnemyData data)
     {
+        float rebirthScale = 1f + (RebirthManager.Instance.rebirthCount * 0.25f);
+        
+        // Slower scaling for speed
+        float speedScale = 1f + (RebirthManager.Instance.rebirthCount * 0.05f);
+
         enemyName = data.enemyName;
-        maxHP = data.maxHP;
-        damage = data.damage;
-        speed = data.speed;
+        maxHP = data.maxHP * rebirthScale;
+        damage = data.damage * rebirthScale;
+        speed = data.speed * speedScale;
 
         beliReward = data.beliReward;
         xpReward = data.xpReward;

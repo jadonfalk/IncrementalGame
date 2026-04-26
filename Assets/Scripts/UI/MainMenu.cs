@@ -29,7 +29,7 @@ public class MainMenu : MonoBehaviour
         }
 
         PlayClick();
-        StartCoroutine(LoadSceneWithDelay("Level1Blockout"));
+        StartCoroutine(LoadSceneWithDelay("Incremental"));
     }
 
     public void Story()

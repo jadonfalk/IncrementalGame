@@ -32,7 +32,7 @@ public class RebirthManager : MonoBehaviour
     // ----------------------------
     public bool CanRebirth(PlayerProgression progression)
     {
-        return progression.level >= requiredLevel &&
+        return progression.level >= GetRequiredLevel() &&
                StoryManager.Instance.IsComplete();
     }
 
@@ -109,5 +109,11 @@ public class RebirthManager : MonoBehaviour
         xpMultiplier = PlayerPrefs.GetFloat("REBIRTH_XP", 1f);
         beliMultiplier = PlayerPrefs.GetFloat("REBIRTH_BELI", 1f);
         bountyMultiplier = PlayerPrefs.GetFloat("REBIRTH_BOUNTY", 1f);
+    }
+
+    public int GetRequiredLevel()
+    {
+        // + 5 levels required each rebirth
+        return Mathf.RoundToInt(10 + (rebirthCount * 5));
     }
 }
